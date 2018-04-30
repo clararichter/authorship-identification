@@ -9,7 +9,11 @@ google_books_api_key = 'AIzaSyDQ-oYsJN2_QOrkh3ebn8IXstfbISozF5s'
 
 def find_book(title=None, author=None):
 	possible_books = google_books_by_publish_date(title=title, author=author)
-	return possible_books[0]
+	try:
+		pubyear = int(possible_books[0]['volumeInfo']['publishedDate'].year)
+		return pubyear
+	except (IndexError, TypeError) as error:
+		return -1
 
 
 def google_books_by_publish_date(title=None, author=None):
@@ -21,12 +25,14 @@ def google_books_by_publish_date(title=None, author=None):
 			google_list = json.loads(json_response)
 
 			results = []
-			for book in google_list['items']:
-				if 'publishedDate' in book['volumeInfo']:
-					book['volumeInfo']['publishedDate'] = dateutil.parser.parse(book['volumeInfo']['publishedDate'])
-					results.append(book)
-
-			return sorted(results, key = lambda x : x['volumeInfo']['publishedDate'])
+			if 'items' in google_list:
+				for book in google_list['items']:
+					if 'publishedDate' in book['volumeInfo']:
+						book['volumeInfo']['publishedDate'] = dateutil.parser.parse(book['volumeInfo']['publishedDate'])
+						results.append(book)
+						return sorted(results, key = lambda x : x['volumeInfo']['publishedDate'])
+			else:
+				return results
 
 
 	except urllib.error.URLError as err:
@@ -39,15 +45,13 @@ def google_books_query_string(title=None, author=None):
 	if author:
 		query_string += ' ' + 'inauthor:' + author
 	query_string = urllib.parse.quote_plus(query_string, safe=":")
-	return 'https://www.googleapis.com/books/v1/volumes?q=' + query_string + '&key=' + google_books_api_key 
+	return 'https://www.googleapis.com/books/v1/volumes?q=' + query_string + '&key=' + google_books_api_key
 
 
 
-#pprint.pprint(find_book(title="flowers_for_algernon", author="keyes"))
+# pprint.pprint(find_book(title="flowers_for_algernon", author="keyes"))
 
 #possible_results = google_books_by_publish_date(title="flowers_for_algernon", author="keyes")
 #for book in possible_result:
 #	print('\n\n\n\n\n\n\n\n\n\n------------------------------------------\n\n\n\n\n\n\n\n\n\n\n')
 #	pprint.pprint(book['volumeInfo']['publishedDate'])
-
-

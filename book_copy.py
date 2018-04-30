@@ -55,26 +55,11 @@ def get_books_array():
 
           if "and" in author:
               index = author.index("and")
-              a1 = " ".join(author[:index]).strip()
-              a2 = " ".join(author[index +1 :]).strip() #TODO: change for multiple authors
+              a1 = " ".join(author[:index])
+              a2 = " ".join(author[index +1 :]) #TODO: change for multiple authors
               author = (a1, a2)
           else:
-              author = " ".join(author).strip()
+              author = " ".join(author)
           #print(i, " title: ",title, " author: ", author, " no: ", no)
           books.append({"title": title, "author": author, "no": no })
   return books
-
-try:
-    filename = 'guttenbooks.csv'
-    with open(filename, 'w', newline='') as csvfile:
-        fieldnames = ['title', 'author', 'number']
-        writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
-
-        writer.writeheader()
-        books = get_books_array()
-        for book in books:
-          writer.writerow({'title': book['title'],'author': book['author'],'number': book['no']})
-          #writer.writerow({'author': book['author']})
-          #writer.writerow({'number': book['no']})
-except csv.Error as e:
-    sys.exit('file {}, {}'.format(filename, e))
