@@ -49,7 +49,7 @@ class Webscraper():
             else:
                 allow_words += [word for word in word_tokenize(w) if word.isalpha()]
 
-        allow_words = [word.lower() for word in allow_words]
+        #allow_words = [word.lower() for word in allow_words]
         return allow_words
 
 
