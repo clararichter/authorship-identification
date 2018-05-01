@@ -1,4 +1,3 @@
-PAGE 1
 {'title': 'A Christmas Carol', 'author': ['Charles Dickens'], 'date': 1843}
 {'title': 'The Mysterious Affair at Styles', 'author': ['Agatha Christie', 'Elizabeth  George'], 'date': 1920}
 {'title': 'Pride and Prejudice', 'author': ['Jane Austen', 'Anna Quindlen', 'Margaret Oliphant', 'George Saintsbury', 'Mark Twain', 'A.C. Bradley', 'Walter A. Raleigh', 'Virginia Woolf'], 'date': 1813}
@@ -49,7 +48,6 @@ PAGE 1
 {'title': 'The Count of Monte Cristo', 'author': ['Alexandre Dumas', 'Robin Buss'], 'date': 1844}
 {'title': 'Moby-Dick or, The Whale', 'author': ['Herman Melville', 'Andrew Delbanco', 'Tom Quirk'], 'date': 1851}
 {'title': 'War and Peace', 'author': ['Leo Tolstoy', 'Henry Gifford', 'Aylmer Maude', 'Louise Maude', 'سامي الدروبي', 'I. Sibaldi', 'صياح الجهيم'], 'date': 1869}
-PAGE 2
 {'title': 'Twenty Thousand Leagues Under the Sea', 'author': ['Jules Verne', 'Anthony Bonner'], 'date': 1869}
 {'title': 'The Invisible Man', 'author': ['H.G. Wells'], 'date': 1897}
 {'title': 'Don Quixote', 'author': ['Miguel de Cervantes Saavedra', 'Roberto González Echevarría', 'John Rutherford', 'Ernani Ssó'], 'date': 1615}
@@ -100,7 +98,6 @@ PAGE 2
 {'title': 'Pygmalion', 'author': ['George Bernard Shaw'], 'date': 1912}
 {'title': 'The Mysteries of Udolpho', 'author': ['Ann Radcliffe'], 'date': 1794}
 {'title': 'Les Misérables', 'author': ['Victor Hugo', 'Lee Fahnestock', 'Norman MacAfee'], 'date': 1862}
-PAGE:  3
 {'title': 'The Complete Essays', 'author': ['Michel de Montaigne', 'M.A. Screech'], 'date': 1572}
 {'title': 'The Velveteen Rabbit', 'author': ['Margery Williams', 'William   Nicholson'], 'date': 1922}
 {'title': 'The Vampyre; A Tale', 'author': ['John William Polidori'], 'date': 1819}
@@ -151,7 +148,6 @@ PAGE:  3
 {'title': 'The Circular Staircase', 'author': ['Mary Roberts Rinehart'], 'date': 1908}
 {'title': 'The Lost World', 'author': ['Arthur Conan Doyle'], 'date': 1912}
 {'title': 'Agnes Grey', 'author': ['Anne Brontë', 'Angeline Goreau'], 'date': 1847}
-PAGE:  4
 {'title': 'A Room with a View', 'author': ['E.M. Forster'], 'date': 1908}
 {'title': "Tess of the D'Urbervilles", 'author': ['Thomas Hardy', 'Margaret R. Higonnet', 'Tim Dolin'], 'date': 1891}
 {'title': 'Moll Flanders', 'author': ['Daniel Defoe'], 'date': 1722}
@@ -202,7 +198,6 @@ PAGE:  4
 {'title': "Lady Windermere's Fan", 'author': ['Oscar Wilde'], 'date': 1893}
 {'title': 'The House of Mirth', 'author': ['Edith Wharton', 'Nina Bawden'], 'date': 1905}
 {'title': 'The Portrait of a Lady', 'author': ['Henry James', 'Patricia Crick'], 'date': 1881}
-PAGE:  5
 {'title': 'The History of Tom Jones, a Foundling', 'author': ['Henry Fielding', 'Thomas Keymer', 'Alice Wakely'], 'date': 1749}
 {'title': 'Fathers and Sons', 'author': ['Ivan Turgenev', 'George Reavy', 'Jane Costlow'], 'date': 1862}
 {'title': 'The Home and the World', 'author': ['Rabindranath Tagore', 'Surendranath Tagore', 'Sourindro Mohun Tagore', 'William Radice', 'Anita Desai'], 'date': 1916}
@@ -253,7 +248,6 @@ PAGE:  5
 {'title': 'An Old-Fashioned Girl', 'author': ['Louisa May Alcott'], 'date': 1869}
 {'title': 'Eight Cousins', 'author': ['Louisa May Alcott'], 'date': 1874}
 {'title': 'Captain Blood', 'author': ['Rafael Sabatini'], 'date': 1922}
-PAGE:  6
 {'title': 'The Last of the Mohicans', 'author': ['James Fenimore Cooper'], 'date': 1826}
 {'title': 'The Histories', 'author': ['Herodotus', 'Aubrey de Sélincourt', 'John M. Marincola'], 'date': 440}
 {'title': 'Paradise Lost', 'author': ['John Milton', 'John      Leonard', 'Αθανασίος Δ. Οικονόμου'], 'date': 1667}
@@ -302,7 +296,6 @@ PAGE:  6
 {'title': 'The Female Quixote', 'author': ['Charlotte Lennox', 'Margaret Dalziel', 'Margaret Anne Doody', 'Duncan Isles'], 'date': 1752}
 {'title': 'The Magic of Oz', 'author': ['L. Frank Baum'], 'date': 1919}
 {'title': 'Tartuffe', 'author': ['Molière', 'Martin Sorrell'], 'date': 1664}
-PAGE:  7
 {'title': "Plutarch's Lives, Vol 1", 'author': ['Plutarch', 'Arthur Hugh Clough', 'John Dryden', 'James Atlas'], 'date': 100}
 {'title': 'Eugénie Grandet', 'author': ['Honoré de Balzac', 'Sylvia Raphael', 'Christopher Prendergast'], 'date': 1833}
 {'title': 'Nana', 'author': ['Émile Zola', 'Gerhard Krüger'], 'date': 1880}
@@ -353,7 +346,6 @@ PAGE:  7
 {'title': 'The Law', 'author': ['Frédéric Bastiat'], 'date': 1849}
 {'title': 'Thelma', 'author': ['Marie Corelli'], 'date': 1887}
 {'title': 'The Sorrows of Satan or The Strange Experience of One Geoffrey Tempest, Millionaire', 'author': ['Marie Corelli'], 'date': 1895}
-PAGE:  8
 {'title': 'The Wheat Princess', 'author': ['Jean Webster'], 'date': 1905}
 {'title': 'Family Happiness', 'author': ['Leo Tolstoy'], 'date': 1859}
 {'title': 'Freckles', 'author': ['Gene Stratton-Porter'], 'date': 1904}
@@ -454,7 +446,6 @@ PAGE:  8
 {'title': 'Ozma of Oz', 'author': ['L. Frank Baum'], 'date': 1907}
 {'title': '2BR02B', 'author': ['Kurt Vonnegut'], 'date': 1962}
 {'title': 'Once on a Time', 'author': ['A.A. Milne'], 'date': 1917}
-PAGE:  9
 {'title': 'Elective Affinities', 'author': ['Johann Wolfgang von Goethe', 'Maria Assunção Pinto Correia', 'João Barrento'], 'date': 1809}
 {'title': 'The White Company', 'author': ['Arthur Conan Doyle'], 'date': 1891}
 {'title': "The Bride of the Tomb & Queenie's Terrible Secret", 'author': ['Mrs. Alex. McVeigh Miller'], 'date': 1883}
@@ -505,7 +496,6 @@ PAGE:  9
 {'title': 'The Marvelous Land of Oz', 'author': ['L. Frank Baum', 'David McKee'], 'date': 1904}
 {'title': 'Alice Adams', 'author': ['Booth Tarkington'], 'date': 1921}
 {'title': 'Deathworld 1', 'author': ['Harry Harrison'], 'date': 1960}
-PAGE:  10
 {'title': 'The Good Soldier', 'author': ['Ford Madox Ford', 'Kenneth Womack', 'William Baker'], 'date': 1915}
 {'title': 'De Profundis', 'author': ['Oscar Wilde', 'Richard Ellmann'], 'date': 1905}
 {'title': 'Beowulf', 'author': ['Unknown', 'Seamus Heaney'], 'date': 975}
@@ -556,7 +546,6 @@ PAGE:  10
 {'title': 'Ozma of Oz', 'author': ['L. Frank Baum'], 'date': 1907}
 {'title': '2BR02B', 'author': ['Kurt Vonnegut'], 'date': 1962}
 {'title': 'Once on a Time', 'author': ['A.A. Milne'], 'date': 1917}
-PAGE:  11
 {'title': 'The Princess and the Goblin', 'author': ['George MacDonald', 'Arthur Hughes'], 'date': 1872}
 {'title': 'At the Back of the North Wind', 'author': ['George MacDonald', 'Arthur Hughes'], 'date': 1871}
 {'title': 'The Castle of Otranto', 'author': ['Horace Walpole'], 'date': 1764}
@@ -607,7 +596,6 @@ PAGE:  11
 {'title': 'Poems - Victor Hugo', 'author': ['Victor Hugo'], 'date': 2017}
 {'title': 'The Notebooks of Leonardo da Vinci, Complete', 'author': ['Leonardo da Vinci'], 'date': 1938}
 {'title': 'The Complete Works of Mary Shelley', 'author': ['Mary Wollstonecraft Shelley', 'Richard Brinsley Peake', 'Florence A. Thomas Marshall', 'Lucy M. Rossetti'], 'date': 1996}
-PAGE:  12
 {'title': 'Ramayana', 'author': ['Vālmīki', 'William Buck', 'B.A. van Nooten', 'Shirley Triest'], 'date': 400}
 {'title': 'Personal Memoirs', 'author': ['Ulysses S. Grant', 'Geoffrey Perrett'], 'date': 1885}
 {'title': 'Maggie: A Girl of the Streets', 'author': ['Stephen Crane'], 'date': 1892}
@@ -658,7 +646,6 @@ PAGE:  12
 {'title': 'The Necklace and Other Stories: Maupassant for Modern Times', 'author': ['Guy de Maupassant', 'Sandra Smith'], 'date': 1884}
 {'title': "Aaron's Rod", 'author': ['D.H. Lawrence'], 'date': 1922}
 {'title': 'Platero y yo', 'author': ['Juan Ramón Jiménez', 'Antonio Frasconi'], 'date': 1914}
-PAGE:  13
 {'title': 'The Fox', 'author': ['D.H. Lawrence'], 'date': 1923}
 {'title': 'The Thirty-Nine Steps / Greenmantle', 'author': ['John Buchan'], 'date': 1915}
 {'title': 'The Fall of the House of Usher and Other Tales', 'author': ['Edgar Allan Poe', 'Stephen Marlowe'], 'date': 1960}
@@ -709,7 +696,6 @@ PAGE:  13
 {'title': 'Quaker Arrivals at Philadelphia, 1682-1750; Being a List of Certificates of Removal Received at Philadelphia Monthly Meeting of Friends', 'author': ['Albert Cook Myers'], 'date': 2009}
 {'title': 'The defence of Warner Mifflin against aspersions cast on him on account of his endeavors to promote righteousness, mercy and peace, among mankind.', 'author': ['Warner Mifflin'], 'date': 1796}
 {'title': 'White Nights', 'author': ['Fyodor Dostoyevsky'], 'date': 1848}
-PAGE:  14
 {'title': 'Seven Commentaries on an Imperfect Land', 'author': ['Ruthanna Emrys'], 'date': 2014}
 {'title': 'Avi Cantor Has Six Months to Live', 'author': ['Sacha Lamb'], 'date': 2017}
 {'title': 'Three Partitions', 'author': ['Bogi Takács'], 'date': 2014}
@@ -760,7 +746,6 @@ PAGE:  14
 {'title': 'Tom Swift Among the Fire Fighters', 'author': ['Victor Appleton'], 'date': 1921}
 {'title': 'Tom Swift And His Undersea Search', 'author': ['Victor Appleton'], 'date': 1920}
 {'title': 'The Clue of the Twisted Candle', 'author': ['Edgar Wallace'], 'date': 1916}
-PAGE:  15
 {'title': "The King's Daughter and Other Stories for Girls", 'author': ['Various'], 'date': 1910}
 {'title': 'Twice-Told Tales', 'author': ['Nathaniel Hawthorne', 'Rosemary Mahoney'], 'date': 1837}
 {'title': "Lord Arthur Savile's Crime and Other Stories", 'author': ['Oscar Wilde'], 'date': 1891}
@@ -811,7 +796,6 @@ PAGE:  15
 {'title': "MR Punch's Animal Land", 'author': ['E.T. Reed'], 'date': 2015}
 {'title': 'Rewards and Fairies', 'author': ['Rudyard Kipling'], 'date': 1910}
 {'title': 'The Golden Key', 'author': ['George MacDonald', 'Maurice Sendak'], 'date': 1867}
-PAGE:  16
 {'title': 'The War of the Roses', 'author': ['John G. Edgar'], 'date': 1863}
 {'title': 'Red Nails', 'author': ['Robert E. Howard'], 'date': 1936}
 {'title': "Lulu's Library", 'author': ['Louisa May Alcott'], 'date': 1886}
@@ -862,7 +846,6 @@ PAGE:  16
 {'title': 'Secrets Of The Woods', 'author': ['William Joseph Long'], 'date': 1899}
 {'title': 'The Children of the New Forest', 'author': ['Frederick Marryat'], 'date': 1847}
 {'title': 'The Heroes, or, Greek Fairy Tales for My Children', 'author': ['Charles Kingsley'], 'date': 1855}
-PAGE:  17
 {'title': 'English Fairy Tales', 'author': ['Joseph Jacobs'], 'date': 1890}
 {'title': 'The Little Duke', 'author': ['Charlotte Mary Yonge'], 'date': 1854}
 {'title': 'The Burgess Bird Book for Children', 'author': ['Thornton W. Burgess', 'Louis Agassiz Fuertes'], 'date': 1919}
@@ -913,7 +896,6 @@ PAGE:  17
 {'title': 'El amor de Erika Ewald', 'author': ['Stefan Zweig'], 'date': 1904}
 {'title': 'The Queen of Hearts', 'author': ['Wilkie Collins'], 'date': 1859}
 {'title': 'Embarrassments', 'author': ['Henry James'], 'date': 1896}
-PAGE:  18
 {'title': 'Orlando Furioso', 'author': ['Ludovico Ariosto', 'Guido Waldman'], 'date': 1516}
 {'title': 'Blind Love', 'author': ['Wilkie Collins', 'Walter Besant', 'Amédée Forestier'], 'date': 1890}
 {'title': 'Basil', 'author': ['Wilkie Collins'], 'date': 1852}
@@ -964,7 +946,6 @@ PAGE:  18
 {'title': 'Clue of the Silken Ladder', 'author': ['Mildred A. Wirt'], 'date': 1941}
 {'title': 'The Flower Princess', 'author': ['Abbie Farwell Brown'], 'date': 1904}
 {'title': 'Candida', 'author': ['George Bernard Shaw', 'Peter Gahan'], 'date': 1934}
-PAGE:  19
 {'title': "The Senator's Bride", 'author': ['Mrs. Alex. McVeigh Miller'], 'date': 1897}
 {'title': 'The Raven', 'author': ['Edgar Allan Poe', 'Gustave Doré'], 'date': 1844}
 {'title': 'Israel Potter', 'author': ['Herman Melville'], 'date': 1855}
@@ -1015,7 +996,6 @@ PAGE:  19
 {'title': 'DÆMONOLOGIE', 'author': ['KING JAMES the FIRST'], 'date': 2013}
 {'title': 'Der verzauberte Garten', 'author': ['E. Nesbit'], 'date': 1911}
 {'title': 'Pierre: or, the Ambiguities', 'author': ['Herman Melville', 'Maurice Sendak', 'Hershel Parker'], 'date': 1852}
-PAGE:  20
 {'title': 'Language of Flowers', 'author': ['Kate Greenaway'], 'date': 1884}
 {'title': 'The Silent Barrier', 'author': ['Louis Tracy'], 'date': 1911}
 {'title': 'Tender Is the Night', 'author': ['F. Scott Fitzgerald'], 'date': 1934}
@@ -1066,7 +1046,6 @@ PAGE:  20
 {'title': 'The Poems Of John Donne (Longman Annotated English Poets)', 'author': ['John Donne', 'Robin Robbins'], 'date': 2010}
 {'title': 'Complete Poems: Charles Baudelaire', 'author': ['Charles Baudelaire', 'Walter Ralston Martin'], 'date': 2007}
 {'title': 'The Poems of Jonathan Swift: Volumes I-III', 'author': ['Jonathan Swift', 'Harold Williams'], 'date': 1958}
-PAGE:  21
 {'title': 'Collected Poems of T.S. Eliot', 'author': ['T.S. Eliot'], 'date': 1936}
 {'title': 'Boswell on the Grand Tour: Italy, Corsica and France 1765-1766', 'author': ['James Boswell'], 'date': 1955}
 {'title': 'The Poetical Works of George Crabbe (1888)', 'author': ['George Crabbe', 'Edward Lamplough', 'William Sharp'], 'date': 1977}
@@ -1117,7 +1096,6 @@ PAGE:  21
 {'title': 'Rambling Notes of an Idle Excursion', 'author': ['Mark Twain'], 'date': 1878}
 {'title': "Fenimore Cooper's Literary Offenses", 'author': ['Mark Twain'], 'date': 1895}
 {'title': 'In Defence of Harriet Shelley', 'author': ['Mark Twain'], 'date': 2000}
-PAGE:  22
 {'title': 'Perils of Certain English Prisoners', 'author': ['Charles Dickens'], 'date': 1857}
 {'title': 'Memoirs of Joseph Grimaldi (Pushkin Collection)', 'author': ['Charles Dickens'], 'date': 1968}
 {'title': 'Sketches of Young Couples', 'author': ['Charles Dickens'], 'date': 1843}
@@ -1168,7 +1146,6 @@ PAGE:  22
 {'title': 'The Great Panjandrum Himself', 'author': ['Samuel Foote', 'Randolph Caldecott'], 'date': 1885}
 {'title': 'The Radetzky March', 'author': ['Joseph Roth', 'Michael Hofmann'], 'date': 1932}
 {'title': 'The Amazing Interlude', 'author': ['Mary Roberts Rinehart'], 'date': 1918}
-PAGE:  23
 {'title': 'Battle of the Monkey & the Crab', 'author': ['Anonymous'], 'date': 2008}
 {'title': 'Russia in 1919', 'author': ['Arthur Ransome'], 'date': 1919}
 {'title': 'Tent Life in Siberia: An Incredible Account of Siberian Adventure, Travel, and Survival', 'author': ['George Kennan', 'Larry McMurtry'], 'date': 1870}
@@ -1219,7 +1196,6 @@ PAGE:  23
 {'title': 'Reveries of the Solitary Walker', 'author': ['Jean-Jacques Rousseau', 'Peter France'], 'date': 1782}
 {'title': 'Le Cid', 'author': ['Pierre Corneille'], 'date': 1637}
 {'title': 'The Quest of the Silver Fleece', 'author': ['W.E.B. Du Bois'], 'date': 1911}
-PAGE:  24
 {'title': 'Raggedy Andy Stories', 'author': ['Johnny Gruelle'], 'date': 1920}
 {'title': 'Raggedy Ann Stories', 'author': ['Johnny Gruelle'], 'date': 1918}
 {'title': 'Modern British Poetry', 'author': ['Louis Untermeyer'], 'date': 1925}
@@ -1269,7 +1245,6 @@ PAGE:  24
 {'title': 'Mrs. Dalloway', 'author': ['Virginia Woolf', 'Maureen Howard'], 'date': 1923}
 {'title': 'Serenade', 'author': ['James M. Cain'], 'date': 1937}
 {'title': 'The Kreutzer Sonata', 'author': ['Leo Tolstoy', 'Isai Kamen', 'Doris Lessing'], 'date': 1889}
-PAGE:  25
 {'title': 'The Public Domain: Enclosing the Commons of the Mind', 'author': ['James Boyle'], 'date': 2008}
 {'title': "Lady Huntworth's Experiment: An Original Comedy in Three Acts (Classic Reprint)", 'author': ['R.C. Carton'], 'date': 2015}
 {'title': 'The Devil in the Flesh', 'author': ['Raymond Radiguet', 'A.M. Sheridan Smith'], 'date': 1923}
