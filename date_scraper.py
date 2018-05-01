@@ -27,7 +27,4 @@ def publish_info(url):
 
     return {"title": title, "author": author, "date": date}
 
-
-
-
 print(publish_info("https://www.goodreads.com/book/show/40395.A_Princess_of_Mars"))
