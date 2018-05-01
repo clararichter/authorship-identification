@@ -16,14 +16,20 @@ def publish_info(url):
     author += a.contents
 
   date_box = soup.find_all("div", class_="row", limit = 2)
-  pub = date_box[1].find("nobr", class_ = "greyText")
+  row = 1
+  if len(date_box) == 1:
+    row = 0
+
+  pub = date_box[row].find("nobr", class_ = "greyText")
   if pub == None:
-    pub = date_box[1].contents[0]
+    pub = date_box[row].contents[0]
   pub = list(map(int, re.findall(r'\d+', pub.string)))
   if len(pub) == 1:
     date =  pub[0]
-  else:
+  elif len(pub) == 2:
     date = pub[1]
+  else:
+    date = -1
 
   return {"title": title, "author": author, "date": date}
 
@@ -39,12 +45,31 @@ response = s.post("https://www.goodreads.com/user/sign_in", data=form)
 print("response: url: ", response.url)
 print("beau in response", ("beau" in response.text))
 
-list_2 = s.get("https://www.goodreads.com/shelf/show/project-gutenberg?page=1")
-# print(list_2.text)
-soup = BeautifulSoup(list_2.text, 'html.parser')
-link_list = soup.find_all("a", class_="bookTitle", href=True)
+for i in range(10,25):
+  print("PAGE: ", i)
+  list_2 = s.get("https://www.goodreads.com/shelf/show/project-gutenberg?page=" + str(i))
+  # print(list_2.text)
+  soup = BeautifulSoup(list_2.text, 'html.parser')
+  link_list = soup.find_all("a", class_="bookTitle", href=True)
 
-base_url = "https://www.goodreads.com"
-url_list = []
-for book in link_list:
-  print(publish_info(base_url + book['href']))
+  base_url = "https://www.goodreads.com"
+  url_list = []
+  for book in link_list:
+    print(publish_info(base_url + book['href']))
+
+
+
+
+
+
+
+#
+# list_2 = s.get("https://www.goodreads.com/shelf/show/project-gutenberg?page=1")
+# # print(list_2.text)
+# soup = BeautifulSoup(list_2.text, 'html.parser')
+# link_list = soup.find_all("a", class_="bookTitle", href=True)
+#
+# base_url = "https://www.goodreads.com"
+# url_list = []
+# for book in link_list:
+#   print(publish_info(base_url + book['href']))
