@@ -304,7 +304,259 @@ PAGE:  6
 {'title': 'The Female Quixote', 'author': ['Charlotte Lennox', 'Margaret Dalziel', 'Margaret Anne Doody', 'Duncan Isles'], 'date': 1752}
 {'title': 'The Magic of Oz', 'author': ['L. Frank Baum'], 'date': 1919}
 {'title': 'Tartuffe', 'author': ['Molière', 'Martin Sorrell'], 'date': 1664}
-
+PAGE:  7
+{'title': "Plutarch's Lives, Vol 1", 'author': ['Plutarch', 'Arthur Hugh Clough', 'John Dryden', 'James Atlas'], 'date': 100}
+{'title': 'Eugénie Grandet', 'author': ['Honoré de Balzac', 'Sylvia Raphael', 'Christopher Prendergast'], 'date': 1833}
+{'title': 'Nana', 'author': ['Émile Zola', 'Gerhard Krüger'], 'date': 1880}
+{'title': 'Thérèse Raquin', 'author': ['Émile Zola', 'Robin Buss'], 'date': 1867}
+{'title': 'Lady Molly of Scotland Yard', 'author': ['Emmuska Orczy'], 'date': 1910}
+{'title': 'Twelfth Night', 'author': ['William Shakespeare'], 'date': 1601}
+{'title': 'The Seagull', 'author': ['Anton Chekhov', 'Michael Frayn'], 'date': 1895}
+{'title': 'Oedipus Rex', 'author': ['Sophocles', 'J.E. Thomas'], 'date': 450}
+{'title': 'The Secret Agent', 'author': ['Joseph Conrad'], 'date': 1907}
+{'title': 'Othello', 'author': ['William Shakespeare'], 'date': 1603}
+{'title': 'Billy Budd, Sailor', 'author': ['Herman Melville', 'احمد میرعلائی'], 'date': 1924}
+{'title': "The Monkey's Paw", 'author': ['W.W. Jacobs'], 'date': 1902}
+{'title': 'Demons', 'author': ['Fyodor Dostoyevsky', 'Richard Pevear', 'Larissa Volokhonsky'], 'date': 1872}
+{'title': "Wilhelm Meister's Apprenticeship", 'author': ['Johann Wolfgang von Goethe', 'Eric A. Blackall'], 'date': 1795}
+{'title': 'A Tramp Abroad', 'author': ['Mark Twain'], 'date': 1880}
+{'title': "L'Assommoir (The Dram Shop)", 'author': ['Émile Zola', 'Robin Buss'], 'date': 1877}
+{'title': 'Germinal', 'author': ['Émile Zola', 'Roger Pearson'], 'date': 1885}
+{'title': 'The Mayor of Casterbridge', 'author': ['Thomas Hardy', 'Keith Wilson'], 'date': 1886}
+{'title': 'Macbeth', 'author': ['William Shakespeare', 'Antoni Cimolino', "Shelagh O'Brien"], 'date': 1606}
+{'title': 'The Playboy of the Western World', 'author': ['J.M. Synge'], 'date': 1907}
+{'title': "Childe Harold's Pilgrimage", 'author': ['George Gordon Byron'], 'date': 1812}
+{'title': 'The Golden Bowl', 'author': ['Henry James', 'Gore Vidal', 'Patricia Crick'], 'date': 1904}
+{'title': 'The Wings of the Dove', 'author': ['Henry James', 'Amy Bloom', 'Pierre A. Walker'], 'date': 1901}
+{'title': 'Democracy in America', 'author': ['Alexis de Tocqueville', 'Isaac Kramnick', 'Gerald Bevan'], 'date': 1840}
+{'title': 'Daniel Deronda', 'author': ['George Eliot', 'Edmund White'], 'date': 1876}
+{'title': 'Mary Barton', 'author': ['Elizabeth Gaskell', 'Shirley Foster'], 'date': 1848}
+{'title': 'Women in Love', 'author': ['D.H. Lawrence'], 'date': 1920}
+{'title': 'She Stoops to Conquer', 'author': ['Oliver Goldsmith'], 'date': 1773}
+{'title': 'Five Little Peppers and How They Grew', 'author': ['Margaret Sidney'], 'date': 1881}
+{'title': "Le Morte d'Arthur: King Arthur and the Legends of the Round Table", 'author': ['Thomas Malory', 'Keith Baines', 'Robert Graves'], 'date': 1485}
+{'title': 'Medea', 'author': ['Euripides', 'Rex Warner'], 'date': 431}
+{'title': 'The Complete Stories and Poems', 'author': ['Edgar Allan Poe'], 'date': 1966}
+{'title': 'Poetics', 'author': ['Aristotle', 'Malcolm Heath'], 'date': 335}
+{'title': 'Faust', 'author': ['Johann Wolfgang von Goethe', 'Walter Kaufmann'], 'date': 1832}
+{'title': 'Hippolytus', 'author': ['Euripides', 'Richard L. Hamilton'], 'date': 428}
+{'title': 'Thus Spoke Zarathustra', 'author': ['Friedrich Nietzsche', 'Walter Kaufmann'], 'date': 1883}
+{'title': 'The Red Lily', 'author': ['Anatole France'], 'date': 1894}
+{'title': 'The Faerie Queene', 'author': ['Edmund Spenser', 'Thomas P. Roche', "C. Patrick O'Donnell"], 'date': 1590}
+{'title': 'Queen Margot, or Marguerite de Valois', 'author': ['Alexandre Dumas'], 'date': 1845}
+{'title': 'The Decameron', 'author': ['Giovanni Boccaccio', 'G.H. McWilliam'], 'date': 1353}
+{'title': 'Journey to the Center of the Earth', 'author': ['Jules Verne'], 'date': 1864}
+{'title': 'Narrative of the Captivity and Restoration of Mrs. Mary Rowlandson', 'author': ['Mary Rowlandson'], 'date': 1682}
+{'title': 'سيكولوجية الجماهير', 'author': ['Gustave Le Bon', 'هاشم صالح', 'غوستاف لوبون'], 'date': 1895}
+{'title': 'The Lady With the Little Dog and Other Stories, 1896-1904', 'author': ['Anton Chekhov', 'Ronald Wilks', 'Paul Debreczney'], 'date': 1904}
+{'title': 'Futility or the Wreck of the Titan', 'author': ['Morgan Robertson'], 'date': 1898}
+{'title': 'The Castle', 'author': ['Franz Kafka', 'Mark Harman', 'Regaip Minareci', 'Şerif Yeşilbucak'], 'date': 1926}
+{'title': 'Round the Moon', 'author': ['Jules Verne'], 'date': 1870}
+{'title': 'The Law', 'author': ['Frédéric Bastiat'], 'date': 1849}
+{'title': 'Thelma', 'author': ['Marie Corelli'], 'date': 1887}
+{'title': 'The Sorrows of Satan or The Strange Experience of One Geoffrey Tempest, Millionaire', 'author': ['Marie Corelli'], 'date': 1895}
+PAGE:  8
+{'title': 'The Wheat Princess', 'author': ['Jean Webster'], 'date': 1905}
+{'title': 'Family Happiness', 'author': ['Leo Tolstoy'], 'date': 1859}
+{'title': 'Freckles', 'author': ['Gene Stratton-Porter'], 'date': 1904}
+{'title': 'Jude the Obscure', 'author': ['Thomas Hardy'], 'date': 1895}
+{'title': 'Crome Yellow', 'author': ['Aldous Huxley'], 'date': 1921}
+{'title': 'Raffles: The Amateur Cracksman', 'author': ['E.W. Hornung', 'Richard Lancelyn Green'], 'date': 1898}
+{'title': 'Sartor Resartus', 'author': ['Thomas Carlyle', 'Kerry McSweeney', 'Peter Sabor'], 'date': 1834}
+{'title': 'Confessions', 'author': ['Jean-Jacques Rousseau', 'Patrick Coleman', 'Angela Scholar'], 'date': 1789}
+{'title': 'The Four Pools Mystery', 'author': ['Jean Webster'], 'date': 1908}
+{'title': 'Goblin Market', 'author': ['Christina Rossetti', 'Dante Gabriel Rossetti', 'William Morris', 'Laurence Housman', 'Joyce Carol Oates'], 'date': 1862}
+{'title': 'Camilla', 'author': ['Fanny Burney', 'Edward A. Bloom', 'Lillian D. Bloom'], 'date': 1796}
+{'title': 'Washington Square', 'author': ['Henry James', 'Michael Cunningham'], 'date': 1880}
+{'title': 'No Name', 'author': ['Wilkie Collins', 'Virginia Blain'], 'date': 1862}
+{'title': 'Sons and Lovers', 'author': ['D.H. Lawrence', 'Geoff Dyer'], 'date': 1913}
+{'title': 'The Return of the Native', 'author': ['Thomas Hardy', 'Alexander Theroux'], 'date': 1878}
+{'title': 'Summer', 'author': ['Edith Wharton'], 'date': 1917}
+{'title': 'An Ideal Husband', 'author': ['Oscar Wilde'], 'date': 1893}
+{'title': 'Typee: A Peep at Polynesian Life', 'author': ['Herman Melville', 'John Bryant'], 'date': 1846}
+{'title': 'Arsène Lupin, Gentleman-Thief', 'author': ['Maurice Leblanc', 'Michael Sims', 'Alexander Teixeira de Mattos'], 'date': 1907}
+{'title': 'Bel-Ami', 'author': ['Guy de Maupassant', 'Douglas Parmée'], 'date': 1885}
+{'title': 'Clarissa, or, the History of a Young Lady', 'author': ['Samuel Richardson', 'Angus Ross'], 'date': 1748}
+{'title': 'A Hero of Our Time', 'author': ['Mikhail Lermontov', 'Paul Foote'], 'date': 1840}
+{'title': 'The Black Moth', 'author': ['Georgette Heyer'], 'date': 1921}
+{'title': 'Of Human Bondage', 'author': ['W. Somerset Maugham', 'Benjamin DeMott', 'Maeve Binchy'], 'date': 1915}
+{'title': 'This Side of Paradise', 'author': ['F. Scott Fitzgerald'], 'date': 1920}
+{'title': 'The Wrong Box', 'author': ['Robert Louis Stevenson', 'Lloyd Osbourne'], 'date': 1889}
+{'title': 'A Sentimental Journey', 'author': ['Laurence Sterne', 'Paul Goring'], 'date': 1768}
+{'title': 'The Phantom of the Opera', 'author': ['Gaston Leroux', 'Alexander Teixeira de Mattos'], 'date': 1910}
+{'title': 'Pamela; or, Virtue Rewarded', 'author': ['Samuel Richardson', 'Thomas Keymer', 'Alice Wakely'], 'date': 1740}
+{'title': 'Just Patty', 'author': ['Jean Webster'], 'date': 1911}
+{'title': 'The Mystery of Dr. Fu-Manchu', 'author': ['Sax Rohmer'], 'date': 1913}
+{'title': 'The Way We Live Now', 'author': ['Anthony Trollope'], 'date': 1875}
+{'title': 'Omoo: A Narrative of Adventures in the South Seas', 'author': ['Herman Melville'], 'date': 1847}
+{'title': 'When Patty Went to College', 'author': ['Jean Webster'], 'date': 1903}
+{'title': 'Romola', 'author': ['George Eliot', 'Dorothea Barrett'], 'date': 1863}
+{'title': 'The Yellow Wallpaper and Other Stories', 'author': ['Charlotte Perkins Gilman'], 'date': 1892}
+{'title': 'Ben-Hur: A Tale of the Christ', 'author': ['Lew Wallace'], 'date': 1880}
+{'title': 'The Return of the Soldier', 'author': ['Rebecca West', 'Verlyn Klinkenborg', 'Norman Price'], 'date': 1918}
+{'title': 'The Nibelungenlied', 'author': ['Unknown', 'A.T. Hatto'], 'date': 1200}
+{'title': 'In a Glass Darkly', 'author': ['J. Sheridan Le Fanu'], 'date': 1872}
+{'title': 'East Lynne', 'author': ['Ellen Price Wood', 'Elisabeth Jay'], 'date': 1861}
+{'title': 'Armadale', 'author': ['Wilkie Collins', 'John Sutherland'], 'date': 1866}
+{'title': 'The Cricket on the Hearth', 'author': ['Charles Dickens'], 'date': 1845}
+{'title': 'Sylvie and Bruno', 'author': ['Lewis Carroll'], 'date': 1889}
+{'title': 'The Beasts of Tarzan', 'author': ['Edgar Rice Burroughs'], 'date': 1914}
+{'title': 'The Night Before Christmas', 'author': ['Clement C. Moore', 'Jan Brett'], 'date': 1823}
+{'title': 'Winesburg, Ohio', 'author': ['Sherwood Anderson'], 'date': 1919}
+{'title': 'Fanny Hill, or Memoirs of a Woman of Pleasure', 'author': ['John Cleland'], 'date': 1748}
+{'title': 'The Man That Corrupted Hadleyburg', 'author': ['Mark Twain'], 'date': 1898}
+{'title': 'The Book of Dragons', 'author': ['E. Nesbit', 'H.R. Millar', 'H. Granville Fell'], 'date': 1899}
+{'title': 'The Good Soldier', 'author': ['Ford Madox Ford', 'Kenneth Womack', 'William Baker'], 'date': 1915}
+{'title': 'De Profundis', 'author': ['Oscar Wilde', 'Richard Ellmann'], 'date': 1905}
+{'title': 'Beowulf', 'author': ['Unknown', 'Seamus Heaney'], 'date': 975}
+{'title': 'American Notes For General Circulation', 'author': ['Charles Dickens', 'Patricia Ingham'], 'date': 1842}
+{'title': 'Set in Silver', 'author': ['C.N. Williamson', 'A.M. Williamson'], 'date': 1909}
+{'title': 'The Coral Island', 'author': ['R.M. Ballantyne'], 'date': 1857}
+{'title': 'Planet of the Damned', 'author': ['Harry Harrison', 'Robbie Rogers', 'John Rose'], 'date': 1962}
+{'title': 'A House to Let', 'author': ['Charles Dickens', 'Wilkie Collins', 'Elizabeth Gaskell', 'Adelaide Anne Procter'], 'date': 1858}
+{'title': 'Poor Miss Finch', 'author': ['Wilkie Collins'], 'date': 1872}
+{'title': 'My Bondage and My Freedom', 'author': ['Frederick Douglass', 'John David Smith'], 'date': 1855}
+{'title': 'The Red Fairy Book', 'author': ['Andrew Lang', 'Leonora Blanche Alleyne Lang'], 'date': 1890}
+{'title': 'The Mystery of the Yellow Room', 'author': ['Gaston Leroux'], 'date': 1908}
+{'title': 'The Red House Mystery', 'author': ['A.A. Milne'], 'date': 1922}
+{'title': 'The Expedition of Humphry Clinker', 'author': ['Tobias Smollett'], 'date': 1771}
+{'title': 'Aurora Floyd', 'author': ['Mary Elizabeth Braddon'], 'date': 1863}
+{'title': 'Can You Forgive Her?', 'author': ['Anthony Trollope', 'Stephen Wall'], 'date': 1865}
+{'title': 'Belinda', 'author': ['Maria Edgeworth', 'Kathryn J. Kirkpatrick'], 'date': 1801}
+{'title': 'Melmoth the Wanderer', 'author': ['Charles Robert Maturin', 'Victor Sage'], 'date': 1820}
+{'title': 'For the School Colours', 'author': ['Angela Brazil', 'Ballilol Salmon'], 'date': 1918}
+{'title': 'At Boarding School With the Tucker Twins', 'author': ['Nell Speed'], 'date': 1915}
+{'title': "Molly Brown's Freshman Days", 'author': ['Nell Speed'], 'date': 1912}
+{'title': 'Betty Wales, Freshman', 'author': ['Margaret Warde', 'Eva M. Nagel'], 'date': 1904}
+{'title': "Patty's Summer Days", 'author': ['Carolyn Wells'], 'date': 1906}
+{'title': 'Patty at Home', 'author': ['Carolyn Wells'], 'date': 1902}
+{'title': "Patty's Friends", 'author': ['Carolyn Wells'], 'date': 1908}
+{'title': 'His Last Bow', 'author': ['Arthur Conan Doyle'], 'date': 1917}
+{'title': 'The Adventure of the Cardboard Box', 'author': ['Arthur Conan Doyle'], 'date': 1892}
+{'title': 'Lord Loveland Discovers America', 'author': ['C.N. Williamson', 'A.M. Williamson'], 'date': 1908}
+{'title': 'Olive', 'author': ['Dinah Maria Mulock Craik'], 'date': 2000}
+{'title': 'Anthem', 'author': ['Ayn Rand'], 'date': 1938}
+{'title': 'Pollyanna', 'author': ['Eleanor H. Porter'], 'date': 1912}
+{'title': 'Looking Backward: 2000-1887', 'author': ['Edward Bellamy', 'Walter James Miller'], 'date': 1888}
+{'title': 'The Warlord of Mars', 'author': ['Edgar Rice Burroughs', 'John Bolen'], 'date': 1914}
+{'title': 'The Strange Case of Dr. Jekyll and Mr. Hyde and Other Tales of Terror', 'author': ['Robert Louis Stevenson', 'Robert Mighall'], 'date': 1886}
+{'title': 'The Law and the Lady', 'author': ['Wilkie Collins'], 'date': 1875}
+{'title': 'The Admirable Crichton', 'author': ['J.M. Barrie'], 'date': 1902}
+{'title': 'The Merry Adventures of Robin Hood', 'author': ['Howard Pyle'], 'date': 1883}
+{'title': 'Erewhon', 'author': ['Samuel Butler'], 'date': 1872}
+{'title': 'Tom Sawyer, Detective', 'author': ['Mark Twain'], 'date': 1896}
+{'title': 'The Tale of Jemima Puddle-Duck', 'author': ['Beatrix Potter'], 'date': 1908}
+{'title': 'The Tale of Johnny Town-Mouse', 'author': ['Beatrix Potter'], 'date': 1918}
+{'title': 'The Tale of Ginger and Pickles', 'author': ['Beatrix Potter'], 'date': 1909}
+{'title': 'The Tale of Benjamin Bunny', 'author': ['Beatrix Potter'], 'date': 1904}
+{'title': 'A House-Boat on the Styx', 'author': ['John Kendrick Bangs'], 'date': 1895}
+{'title': 'The Mysterious Island', 'author': ['Jules Verne', 'Caleb Carr', 'Jordan Stump'], 'date': 1874}
+{'title': '1984', 'author': ['George Orwell', 'Erich Fromm', 'Alenka Puhar', 'Dimitrij Rupel'], 'date': 1949}
+{'title': 'Buddenbrooks: The Decline of a Family', 'author': ['Thomas Mann', 'John E. Woods', 'علی\u200cاصغر حداد', 'T.J. Reed'], 'date': 1901}
+{'title': 'Ozma of Oz', 'author': ['L. Frank Baum'], 'date': 1907}
+{'title': '2BR02B', 'author': ['Kurt Vonnegut'], 'date': 1962}
+{'title': 'Once on a Time', 'author': ['A.A. Milne'], 'date': 1917}
+PAGE:  9
+{'title': 'Elective Affinities', 'author': ['Johann Wolfgang von Goethe', 'Maria Assunção Pinto Correia', 'João Barrento'], 'date': 1809}
+{'title': 'The White Company', 'author': ['Arthur Conan Doyle'], 'date': 1891}
+{'title': "The Bride of the Tomb & Queenie's Terrible Secret", 'author': ['Mrs. Alex. McVeigh Miller'], 'date': 1883}
+{'title': "Little Golden's Daughter", 'author': ['Mrs. Alex. McVeigh Miller'], 'date': 1901}
+{'title': 'Lorna Doone', 'author': ['R.D. Blackmore', 'Michelle Allen'], 'date': 1869}
+{'title': 'Little Dorrit', 'author': ['Charles Dickens', 'Helen Small', 'Stephen Wall'], 'date': 1855}
+{'title': 'Home of the Gentry', 'author': ['Ivan Turgenev', 'Richard Freeborn'], 'date': 1859}
+{'title': 'The Napoleon of Notting Hill', 'author': ['G.K. Chesterton'], 'date': 1904}
+{'title': 'The Door in the Wall and Other Stories', 'author': ['H.G. Wells'], 'date': 1911}
+{'title': 'The Light Princess', 'author': ['George MacDonald', 'Veronica Murphy'], 'date': 1864}
+{'title': 'A Dreadful Temptation', 'author': ['Mrs. Alex. McVeigh Miller'], 'date': 1883}
+{'title': "Kathleen's Diamonds, or, She loved a handsome actor", 'author': ['Mrs. Alex. McVeigh Miller'], 'date': 1891}
+{'title': 'Figures of Earth', 'author': ['James Branch Cabell'], 'date': 2004}
+{'title': 'We', 'author': ['Yevgeny Zamyatin', 'Clarence Brown'], 'date': 1924}
+{'title': 'The Old Peabody Pew: A Christmas Romance of a Country Church', 'author': ['Kate Douglas Wiggin'], 'date': 1907}
+{'title': 'The Little Hunchback Zia', 'author': ['Frances Hodgson Burnett'], 'date': 1916}
+{'title': 'All Things Considered', 'author': ['G.K. Chesterton'], 'date': 1908}
+{'title': 'The Girl Warriors: A Book for Girls', 'author': ['Adene Williams'], 'date': 1901}
+{'title': 'O Pioneers!', 'author': ['Willa Cather'], 'date': 1913}
+{'title': 'The Sea Wolf', 'author': ['Jack London'], 'date': 1904}
+{'title': 'The People of the Mist', 'author': ['H. Rider Haggard'], 'date': 1894}
+{'title': 'The Quest of the Sacred Slipper', 'author': ['Sax Rohmer'], 'date': 1914}
+{'title': 'The Hand of Ethelberta', 'author': ['Thomas Hardy', 'Tim Dolin'], 'date': 1876}
+{'title': 'The Grey Woman, And Other Tales', 'author': ['Elizabeth Gaskell'], 'date': -1}
+{'title': 'Moonfleet', 'author': ['John Meade Falkner'], 'date': 1898}
+{'title': 'The Frozen Deep', 'author': ['Wilkie Collins'], 'date': 1874}
+{'title': 'The Rime of the Ancient Mariner', 'author': ['Samuel Taylor Coleridge', 'Gustave Doré'], 'date': 1798}
+{'title': 'The Shuttle', 'author': ['Frances Hodgson Burnett', 'Anne Sebba'], 'date': 1906}
+{'title': 'The Agony Column', 'author': ['Earl Derr Biggers'], 'date': 1916}
+{'title': 'Blackthorn Farm', 'author': ['Arthur Applin'], 'date': 1915}
+{'title': 'Patricia Brent, Spinster', 'author': ['Herbert Jenkins'], 'date': 1918}
+{'title': 'The Fall of the House of Usher', 'author': ['Edgar Allan Poe'], 'date': 1839}
+{'title': 'Rip Van Winkle', 'author': ['Washington Irving'], 'date': 1819}
+{'title': 'Daisy Miller', 'author': ['Henry James'], 'date': 1878}
+{'title': "The Minister's Black Veil", 'author': ['Nathaniel Hawthorne'], 'date': 1836}
+{'title': 'The Odd Women', 'author': ['George Gissing'], 'date': 1893}
+{'title': 'The Nun', 'author': ['Denis Diderot', 'Russell Goulbourne'], 'date': 1796}
+{'title': 'The Purple Cloud (Frontiers of Imagination)', 'author': ['M.P. Shiel', 'John Clute'], 'date': 1901}
+{'title': 'The Professor', 'author': ['Charlotte Brontë'], 'date': 1857}
+{'title': 'The Tale of Mr. Tod', 'author': ['Beatrix Potter'], 'date': 1912}
+{'title': 'Romeo and Juliet', 'author': ['William Shakespeare', 'Barbara A. Mowat', 'Paul Werstine'], 'date': 1597}
+{'title': 'The Canterbury Tales', 'author': ['Geoffrey Chaucer', 'Nevill Coghill'], 'date': 1390}
+{'title': 'Grimm Tales Made Gay', 'author': ['Guy Wetmore Carryl', 'Albert Levering'], 'date': 1902}
+{'title': 'The Tunnel Under the World', 'author': ['Frederik Pohl'], 'date': 1955}
+{'title': 'Little Fuzzy', 'author': ['H. Beam Piper'], 'date': 1962}
+{'title': 'Père Goriot', 'author': ['Honoré de Balzac'], 'date': 1834}
+{'title': 'Bab: A Sub-Deb', 'author': ['Mary Roberts Rinehart'], 'date': 1916}
+{'title': 'The Marvelous Land of Oz', 'author': ['L. Frank Baum', 'David McKee'], 'date': 1904}
+{'title': 'Alice Adams', 'author': ['Booth Tarkington'], 'date': 1921}
+{'title': 'Deathworld 1', 'author': ['Harry Harrison'], 'date': 1960}
+PAGE:  24
+{'title': 'Raggedy Andy Stories', 'author': ['Johnny Gruelle'], 'date': 1920}
+{'title': 'Raggedy Ann Stories', 'author': ['Johnny Gruelle'], 'date': 1918}
+{'title': 'Modern British Poetry', 'author': ['Louis Untermeyer'], 'date': 1925}
+{'title': 'The Crime of Sylvestre Bonnard', 'author': ['Anatole France'], 'date': 1881}
+{'title': 'The Secret Pact', 'author': ['Mildred A. Wirt'], 'date': 1941}
+{'title': 'Minute Mysteries', 'author': ['Austin Ripley'], 'date': 1949}
+{'title': 'Concerning Belinda', 'author': ['Eleanor Hoyt Brainerd'], 'date': 1905}
+{'title': 'The Epic of Gilgamesh', 'author': ['Anonymous', 'N.K. Sandars'], 'date': 1750}
+{'title': 'Colour In The Flower Garden', 'author': ['Gertrude Jekyll'], 'date': -1}
+{'title': 'What Katy Did at School', 'author': ['Susan Coolidge'], 'date': 1873}
+{'title': 'Too Fat to Fight: The Story of a Fat Man Who Made Good (1919)', 'author': ['Rex Beach', 'T.D. Skidmore'], 'date': 1919}
+{'title': 'Castles in the Air', 'author': ['Emmuska Orczy'], 'date': 1921}
+{'title': 'What Katy Did Next', 'author': ['Susan Coolidge'], 'date': 1886}
+{'title': 'Clover', 'author': ['Susan Coolidge'], 'date': 1888}
+{'title': 'Being a Boy', 'author': ['Charles Dudley Warner'], 'date': 1877}
+{'title': 'My Summer in a Garden', 'author': ['Charles Dudley Warner', 'Michael Pollan', 'Allan Gurganus'], 'date': 1871}
+{'title': 'Amelia', 'author': ['Henry Fielding'], 'date': 1751}
+{'title': 'Man of Many Minds', 'author': ['E. Everett Evans'], 'date': 1953}
+{'title': 'The Golden Ass', 'author': ['Apuleius', 'Jack Lindsay', 'Claudio Annaratone'], 'date': 158}
+{'title': "Walter Crane's Painting Book", 'author': ['Walter Crane'], 'date': 1889}
+{'title': 'The Countess Cathleen', 'author': ['W.B. Yeats'], 'date': 1892}
+{'title': 'North of Boston', 'author': ['Robert Frost'], 'date': 1914}
+{'title': 'The Planet Mappers', 'author': ['E. Everett Evans'], 'date': 1955}
+{'title': "Maldoror = Les Chants de Maldoror, together with a translation of Lautréamont's Poésies", 'author': ['Comte de Lautréamont', 'Guy Wernham'], 'date': 1869}
+{'title': 'Oxford Days: Or, How Ross Got His Degree (Classic Reprint)', 'author': ['Frederic Edward Weatherly'], 'date': 2013}
+{'title': "Wilton School; Or, Harry Campbell's Revenge", 'author': ['Frederic Edward Weatherly'], 'date': 1872}
+{'title': 'Omnilingual', 'author': ['H. Beam Piper'], 'date': 1957}
+{'title': 'Impressions of Africa', 'author': ['Raymond Roussel'], 'date': 1910}
+{'title': 'After London: or, Wild England', 'author': ['Richard Jefferies'], 'date': 1885}
+{'title': 'Tamburlaine', 'author': ['Christopher Marlowe', 'Stephen Marlowe'], 'date': 1590}
+{'title': 'The Book of Tea', 'author': ['Kakuzō Okakura', 'Elise Grilli'], 'date': 1906}
+{'title': 'The Cherry Orchard', 'author': ['Anton Chekhov', 'Tom    Murphy'], 'date': 1904}
+{'title': 'Birds', 'author': ['Aristophanes', 'Nan Dunbar'], 'date': 414}
+{'title': 'الغرفة الحمراء', 'author': ['H.G. Wells', 'أحمد خالد توفيق'], 'date': 1894}
+{'title': 'Absalom and Achitophel', 'author': ['John Dryden'], 'date': 1681}
+{'title': 'Parallel Lives', 'author': ['Plutarch', 'Arthur Hugh Clough', 'John Dryden'], 'date': 100}
+{'title': 'The Ladies Delight', 'author': ['Anonymous'], 'date': 1732}
+{'title': 'Morning Star', 'author': ['H. Rider Haggard'], 'date': 1910}
+{'title': 'The Charterhouse of Parma', 'author': ['Stendhal', 'Richard Howard', 'Robert Andrew Parker'], 'date': 1839}
+{'title': 'Sentimental Education', 'author': ['Gustave Flaubert', 'Robert Baldick', 'Geoffrey Wall'], 'date': 1869}
+{'title': "King Solomon's Goat", 'author': ['Willard Bartlett'], 'date': 2015}
+{'title': 'Wet Magic', 'author': ['E. Nesbit', 'H.R. Millar'], 'date': 1913}
+{'title': 'The Lani People', 'author': ['J.F. Bone'], 'date': 1962}
+{'title': 'The Green Fairy Book', 'author': ['Andrew Lang', 'Leonora Blanche Alleyne Lang'], 'date': 1892}
+{'title': 'Critique of Pure Reason', 'author': ['Immanuel Kant', 'Paul Guyer', 'Allen W. Wood'], 'date': 1781}
+{'title': 'The Girl from Alsace A Romance of the Great War, Originally Published under the Title of Little Comrade', 'author': ['Burton E. Stevenson'], 'date': 2007}
+{'title': 'Mrs. Dalloway', 'author': ['Virginia Woolf', 'Maureen Howard'], 'date': 1923}
+{'title': 'Serenade', 'author': ['James M. Cain'], 'date': 1937}
+{'title': 'The Kreutzer Sonata', 'author': ['Leo Tolstoy', 'Isai Kamen', 'Doris Lessing'], 'date': 1889}
 PAGE:  25
 {'title': 'The Public Domain: Enclosing the Commons of the Mind', 'author': ['James Boyle'], 'date': 2008}
 {'title': "Lady Huntworth's Experiment: An Original Comedy in Three Acts (Classic Reprint)", 'author': ['R.C. Carton'], 'date': 2015}
