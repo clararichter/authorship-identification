@@ -4,7 +4,7 @@ import re
 outfile = open('./gutenberg_catalog.csv','w')
 
 writer = csv.DictWriter(outfile, fieldnames=['title', 'author', 'book_id'])
-writer.writeheader()
+#writer.writeheader()
 
 
 content = open("gutenberg_original_catalog.txt").read()
@@ -38,7 +38,7 @@ for w in works:
     book_id = re.search( r'[0-9]+(?=\n)', w )
     w = w.replace('\n', ' ')
 
-    author = re.search('(?<=, by )[A-Za-z ,.-]+', w)
+    author = re.search('(?<=, by )[A-Za-z .-]+', w)
 
     title = re.search('.+(?=, by)', w)
     #print(title_and_id[0])
