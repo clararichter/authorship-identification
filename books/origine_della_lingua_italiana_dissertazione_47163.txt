@@ -1,0 +1,3149 @@
+﻿The Project Gutenberg EBook of Origine della lingua italiana: dissertazione, by 
+Luigi Morandi
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org/license
+
+
+Title: Origine della lingua italiana: dissertazione
+
+Author: Luigi Morandi
+
+Release Date: October 21, 2014 [EBook #47163]
+
+Language: Italian
+
+Character set encoding: UTF-8
+
+*** START OF THIS PROJECT GUTENBERG EBOOK ORIGINE DELLA LINGUA ITALIANA ***
+
+
+
+
+Produced by Giovanni Fini and the Online Distributed
+Proofreading Team at http://www.pgdp.net (This file was
+produced from images generously made available by The
+Internet Archive)
+
+
+
+
+
+
+
+                        NOTE DEL TRASCRITTORE:
+
+—Corretti gli ovvii errori di stampa e di punteggiatura.
+
+—Il testo soprascritto è stato reso come: parola^[soprascritto].
+
+—Il testo in grassetto è stato indicato come: =testo grassetto=.
+
+—Il sommario nell’opera originale è costituito da un unico paragrafo;
+ è stato mantenuto in questa forma.
+
+—Le note sono state raccolte alla fine del libro; una di queste presenta
+ a sua volta delle postille. Queste sono state indicate con numeri romani
+ e collocati con un rientro subito dopo la nota a cui si riferiscono.
+
+
+
+
+                                ORIGINE
+
+                                 DELLA
+
+                            LINGUA ITALIANA
+
+                             DISSERTAZIONE
+
+                           DI LUIGI MORANDI
+
+                            QUINTA EDIZIONE
+
+[Illustrazione: LOGO]
+
+
+                           CITTÀ DI CASTELLO
+
+                       S. LAPI TIPOGRAFO–EDITORE
+
+                                 1891
+
+
+  Si avranno per contraffatti tutti gli esemplari senza la mia firma.
+
+
+                   PROPRIETÀ LETTERARIA DELL’AUTORE.
+
+
+
+
+                              AL SENATORE
+
+                            GASPARE FINALI
+
+                    CHE IN MEZZO ALLE CURE DI STATO
+
+                      NON DIMENTICA I BUONI STUDI
+
+
+
+
+SOMMARIO
+
+
+I. Si combatte il titolo: _Origine della Lingua italiana_. Perchè
+dunque lo abbiamo adottato. Quale dovrebbe essere il titolo vero.
+Quante siano le lingue romanze. Il ladino e il franco–provenzale.
+II. Breve storia delle principali opinioni sull’origine delle lingue
+romanze. III. Perchè una lingua non può, a rigor di termini, dirsi
+_figlia_ d’un’altra. La parola, piuttosto che un fatto, è un continuo
+farsi. Germi poco avvertiti delle lingue romanze nel latino. IV. Cause
+estrinseche che influirono sull’intimo e naturale svolgimento del
+latino. Gl’idiomi indigeni a cui il latino si sovrappose. Loro origine.
+Caratteri fondamentali comuni delle lingue neolatine. Condizione
+speciale del rumeno. Le lingue barbariche; varie opinioni intorno alla
+loro influenza sul latino (Diez, Ascoli, Max Müller, Littré, Caix,
+ecc.); e a che si riduca realmente codesta influenza. V. Latino scritto
+e latino parlato; opinioni esagerate sulla loro differenza. Che cosa
+veramente intendesse Cicerone per _sermo plebejus_. VI. Con molti
+argomenti si dimostra inesatta l’opinione più comune, che le lingue
+romanze derivino del latino _rustico_. VII. Vocaboli di formazione
+popolare e di formazione non popolare. Perchè i Francesi possono,
+meglio di noi, distinguer bene gli uni dagli altri. Questa distinzione
+però non prova nulla in favore del latino _rustico_. Statistica di
+tutti gli elementi del francese moderno. VIII. Più torniamo indietro,
+e più le lingue romanze si somigliano tra loro, e più somigliano anche
+al latino. Prove di fatto di questa verità (il _Giuramento di Luigi il
+Germanico_, il _Cantico di S. Eulalia_, ecc.). Metodo moderno nelle
+indagini etimologiche: esempi. IX. Svolgimento dei volgari italiani.
+Saggi di voci e locuzioni volgari in documenti di ogni regione
+d’Italia, dal IV al X secolo. Il primo intero periodetto in volgare
+dell’anno 960. Notizie e saggi di altri documenti de’ secoli XI e XII
+(una _Carta sarda_, una _Formula di Confessione_, la _Carta rossanese_
+dell’Ughelli, una _Carta picena_, l’_Iscrizione del Duomo di Ferrara_,
+i _Quattro versi bellunesi_, il _Contrasto bilingue_ e il _Discordo
+poliglotto di Rambaldo di Vaqueiras_, la _Poesia di messer lo Re
+Giovanni_, ecc.). Documenti falsi o sospetti. Perchè in Francia i nuovi
+idiomi si scrissero prima che in Italia. Lotta tra il latino e i nostri
+volgari. Babilonia linguistica in Italia ne’ secoli XII, XIII, e parte
+del XIV. X. Dante. Conclusione.
+
+
+
+
+  ORIGINE
+  DELLA LINGUA ITALIANA
+
+
+I.
+
+
+Non paia strano ch’io cominci il mio ragionamento col combattere il
+titolo, che io stesso gli ho dato.
+
+Le parole: _Origine della Lingua italiana_, presentano la questione nel
+modo come è concepita dai più, e sono anche il titolo più comune, col
+quale viene trattata. Io quindi le ho messe nel frontespizio, per non
+rendermi singolare, ma insieme per aver subito occasione di dimostrare,
+che esse non rispondono bene a una trattazione rigorosa della materia,
+e conducono necessariamente fuori di strada chi le accetta per guida.
+
+Infatti, è o non è lingua italiana quella usata da monsignor Giovanni
+della Casa nel suo famoso _Galateo_? Sicuro, è lingua italiana; e così
+bisogna chiamarla, non foss’altro, perchè non si saprebbe chiamare
+diversamente.
+
+Eppure, io trovo che la prima parola di codesto libro è un
+_conciossiacosachè_, parola che di certo non fu mai usata parlando; e
+trovo che il cavalier Lionardo Salviati, volendo fare il maggiore degli
+elogi al medesimo libro, dice che in «cosa che appena par da credere,
+l’Autore la moderna legatura delle parole, ed il moderno suono, mentre
+continuo l’aveva nell’orecchie, si potette dimenticare.»[1]
+
+Quindi, accanto a quella usata dal Casa, e da essa più o meno diversa
+per vocaboli e per costrutti, c’era un’altra lingua italiana, cioè la
+parlata. Di quale, dunque, di queste due lingue dovrò io raccontare
+l’origine?
+
+Della parlata, soprattutto,—mi par di sentirmi rispondere. E sta bene.
+
+Ma, _parlata_, dove? È chiaro che la lingua parlata, a cui il Salviati
+contrappone la scritta del Casa, è la fiorentina, o tutt’al più la
+toscana. Ma perchè dovrei io restringermi a discorrere della sola
+parlata fiorentina o toscana, se quelle di Torino, di Venezia, di
+Genova, di Bologna, di Roma, di Napoli, di Palermo, e via dicendo,
+hanno tutte in fondo la medesima origine? Non sarebbe questo un piantar
+male la questione, di maniera che tutto il ragionamento ne rimarrebbe
+poi, più o meno, viziato?
+
+Perciò io dico che tratterò dell’_Origine degl’idiomi italiani_.
+
+E non basta. Questi idiomi, per comune consenso oramai, son derivati
+dal latino. Ma dal latino son derivati ugualmente (salvo il basco e
+il neoceltico, che conservano ancora gran parte del loro antico fondo
+originale, e dei quali faremo un cenno più innanzi) tutti i cento o
+mille idiomi parlati in Portogallo, in Spagna, in Francia, in tutto
+il sud–est del Belgio e in più parti della Svizzera e della Penisola
+Balcanica. Dunque, sarò più esatto, se dico che tratterò dell’_Origine
+degl’idiomi neolatini in generale, e particolarmente degl’italiani_,
+giacche è quasi impossibile parlar della _specie_, senza toccare un
+poco anche del _genere_.
+
+Il seguito del mio discorso proverà, spero, che questi preliminari
+erano tutt’altro che oziosi. Qui intanto basterà aggiungere, che
+comunemente però, e per delle buone e anche delle cattive ragioni,
+s’usa dire che le lingue neolatine, o romane, o romanze, son sei:
+italiano,[2]—francese,—provenzale,[3]—spagnolo,—portoghese,—rumeno
+o valacco.
+
+
+II.
+
+Ho già accennato che tutti, cioè i dotti e le persone ragionevoli, si
+trovano ormai d’accordo nel ritenere che gl’idiomi romanzi hanno la
+loro prima e principale origine dal latino. Ma a quante strane opinioni
+si dovette dare lo sfratto, innanzi di poter arrivare a quest’accordo!
+Basti ricordarne qualcuna.
+
+Nel secolo XVI, mentre Gioacchino Périon faceva derivare il francese
+dal greco,[4] il Giambullari (nel _Gello_) sosteneva che la nostra
+lingua derivasse principalmente dall’etrusca, la quale, secondo lui,
+era figlia dell’aramea e sorella della caldea e dell’ebraica. E
+poichè egli aveva avuto la rara fortuna di conoscere un prete armeno,
+«grande, magro, bruno e di lunga capellatura, il quale affermava
+che l’arca di Noè era ancora nei monti loro, non intera già, ma
+conquassata e rovinata in gran parte da alberi grossissimi che vi
+eran nati:» gli pareva evidente che il _Janus_ dei Romani provenisse,
+come aveva già detto il suo amico Gelli, da _jain_, «voce aramea ed
+ebrea, che significa _vino_, e da _no_, che vuol dire famoso, cioè
+famoso e celebre per il vino;» e che perciò fosse tutt’uno con Noè,
+il piantatore della vite, venuto nell’Enotria, la terra del vino,
+a diffondervi l’arameo, e poi «gloriosamente sotterrato nel monte
+_Janicolo_.»
+
+Nel 1606, Stefano Guichart pubblicò a Parigi un libro, intitolato così:
+_Harmonie étymologique des langues, où se démontre que toutes les
+langues sont descendues de l’hébraique_, che per lui, come per tanti
+altri, era la lingua stessa parlata da Adamo nel paradiso terrestre.
+E finalmente, nel secolo passato, il nostro Quadrio scriveva che «ad
+un parto con la Lingua Latina, e sorella di essa, _nacque_ l’Italiana
+odierna Favella dalla Pelasga, dall’Osca, dalla Greca e forse ancor
+dall’Ebraica.... Anzi, siccome le cose imperfette esistono prima,
+che le perfette; così non andrebbe lungi dal vero chi opinasse, che
+l’odierna Lingua Italiana fosse prima, che la cólta Latina.»[5]
+Argomentazione, la quale potrebbe benissimo mutarsi in quest’altra:
+siccome le cose imperfette esistono prima che le perfette, così non
+andrebbe lungi dal vero chi opinasse, che il cervello del Quadrio fosse
+un cervello antidiluviano.
+
+Rallegriamoci dunque, della presente concordia sul punto principale
+della questione; e prima di vedere le varie opinioni sui punti
+secondari, per attenerci a quelle che ci paiono più fondate,
+sbarazziamo il terreno da un altro ingombro, che potrebbe impedirci il
+cammino.
+
+
+III.
+
+Tutti, ordinariamente, quando vogliamo dire che una lingua è derivata
+da un’altra, diciamo che ne è _figlia_. Ma questo è uno di que’ tanti
+traslati traditori, i quali ci fanno spesso perder di vista la realtà
+delle cose.
+
+I concetti, infatti, di _madre_ e di _figlia_ implicano necessariamente
+l’esistenza di due individui separati e distinti; mentre in realtà una
+lingua derivata da un’altra, nel fondo è sempre più o meno la stessa
+lingua.
+
+Il nostro Lanzi, nel secolo passato, disse giustamente che «ogni anno
+si fa un passo verso un nuovo linguaggio.» E Guglielmo Humboldt, dopo
+di lui, disse che «la parola, piuttosto che un fatto, è un continuo
+farsi.»
+
+Augusto Fuchs asserisce, e con ragione, che perfino «quelle parti
+in cui le lingue romanze sembrano essenzialmente diversificarsi dal
+latino, già si contenevano in esso, quantunque soltanto in germe.»[6]
+Per esempio, in Plauto si legge: _unus servus violentissimus_; in
+Cicerone: _cum uno gladiatore nequissimo_; e in Curzio Rufo: _Alexander
+unum animal est_: frasi che contengono il germe dell’articolo
+indeterminato, che è in tutto le nuove lingue, e che il latino, per
+regola generale, non aveva.
+
+Ovidio, per dire che starà forte a cavallo, dice: _insistam forti
+mente_, invece di _insistam fortiter_. E un _obstinata mente perfer_
+s’incontra in Catullo, un _jucunda mente respondit_ in Apuleio. Ecco
+qui dunque il germe de’ mille avverbi neolatini (_fortemente_,
+_ostinatamente_, _giocondamente_, ecc.), nati dall’accoppiamento
+dell’ablativo _mente_ con l’aggettivo, e nell’uso de’ quali non si
+tiene più nessun conto del loro valore etimologico, poichè diciamo
+benissimo _mangiare avida–mente_, quantunque si mangi con la bocca, e
+non con la mente; appunto come Ovidio diceva che sarebbe stato _forti
+mente_ a cavallo, quantunque in realtà ci stesse con le gambe.
+
+In tutti gli scrittori latini s’incontrano spesso le forme accorciate
+_amasti_ per amavisti, _amastis_ per _amavistis_, _amarunt_ per
+_amaverunt_, corrispondenti, come ognun vede, alle forme italiane
+_amasti_, _amaste_, _amarono_, alle francesi _aimas_, _aimâtes_,
+_aimèrent_, alle spagnole _amaste_, _amásteis_, _amaron_, ecc.
+
+Di regola, il verbo _habere_ non era ausiliare. Ma chi non lo sente
+già usato come tale in alcuni passi, per esempio, di Cicerone?—_Ad
+meam fidem, quam habent spectatam jam et cognitam, confugiunt_ (_Div.
+Caec._, § 11);—_Nec scriptum habeo_ (_Verr._, act. II, lib. IV, §
+36);—_Eum autem emptum habebat_ (_Tull._, 16);—D_e Caesare.... satis
+dictum habebo_ (_Phil._, V, § 52).
+
+In Varrone, in Lucrezio e in Virgilio, s’incontra già il pronome _mihi_
+(a me), accorciato in _mi_. E perfino certe particolari maniere di
+dire, che a noi paiono tutte nostre, si trovano già tali e quali in
+latino. In Plauto, per esempio, troviamo: Ossa atque pellis sum (son
+pelle e ossa—_Capt._ I, 2);—_Quod si sciret, esset alia oratio_
+(se lo sapesse, sarebbe un altro discorso—_Merc._, II, 3);—_Non
+is sum, qui sum, nisi_.... (non son chi sono, se non....—_Men._,
+III, 2);—_Oleo tranquilliorem_ (più cheto dell’olio—_Poen._, V,
+4).—E in Cicerone: _Digito caelum attingere_ (toccare il ciel col
+dito—_Ep. ad Att._, II, 1, 7).—E in Petronio: _Lacte gallinaceum, si
+quaesieris, invenies_ (ci troveresti, se lo cercassi, anche il latte di
+gallina—_Satir._, XXXVIII);—_Nondum recepit ultimam manum_ (non ha
+ancora avuto l’ultima mano—_Ibid._, CXVIII).
+
+Noi quindi dobbiamo riguardare le lingue romanze come una continuazione
+del latino parlato; come tanti rami germogliati sullo stesso tronco, e
+non già come tante piante, derivate sì, ma separate da esso.
+
+Il che però non vuoi dire che queste lingue derivassero dal latino
+con quel lento processo di trasformazione, che sarebbe seguito in
+tempi normali. Già, prima di tutto, nella lotta stessa che sostenne
+con gl’idiomi a cui si sovrappose, il latino, benchè vincitore,
+dovette cedere in qualche parte, specialmente in quanto s’attiene alla
+pronunzia.[7] E poi, la sua naturale trasformazione fu, dove più
+dove meno, affrettata e anche in parte alterata dallo sconvolgimento
+politico, religioso e sociale. Se così non fosse, è chiaro che tutta
+l’Europa latina avrebbe finito col parlare una lingua sola. Dunque,
+la sentenza del nostro Lanzi, perchè possa adattarsi alla storia del
+latino e degl’idiomi derivati da esso, va modificata così: «Ogni anno
+si fa un passo, _più o meno lungo, secondo le circostanze_, verso un
+nuovo linguaggio.»
+
+Eccoci quindi condotti a studiare un poco le cause estrinseche,
+accennate qui sopra, che influirono sull’intimo e naturale svolgimento
+del latino.
+
+
+IV.
+
+La lotta, che il latino sostenne con gl’idiomi a cui si sovrappose,
+dovette essere molto lunga per tutto, ma specialmente là dove
+l’influenza di Roma si fece sentir meno, o dove fu meno aiutata
+dall’antica parentela, che legava l’idioma dei vincitori con quasi
+tutti gl’idiomi de’ vinti;[8] giacchè è naturale che la parola
+indigena opponesse minor resistenza, quando somigliava ancora alla
+corrispondente latina, che la veniva opprimendo.
+
+Ma là pure dove la resistenza degl’idiomi indigeni dovette esser
+maggiore, e la lotta più lunga e ostinata, la vittoria finale del
+latino, se si guarda al corpo e all’organismo della lingua, più che
+alle particolarità della pronunzia, non poteva esser più intera;
+giacchè, per esempio, è vero che da un passo di Aulo Gellio possiamo
+ragionevolmente argomentare che nel secondo secolo dell’era nostra,
+nelle Gallie e in Etruria, vivessero ancora più o meno gl’idiomi
+indigeni;[9] ma è vero altresì che questi idiomi furono alla fine
+sopraffatti dal latino in tal modo, che nel francese moderno le parole
+di accertata origine celtica non son più d’una ventina, e negl’idiomi
+toscani è scomparso ogni vestigio perfino di voci etrusche comunissime,
+di quelle cioè che il popolo men facilmente dimentica, come _clan_
+(figlio), _verse_ (fuoco), _gapos_ (carro), _damnos_ (cavallo), ecc.
+E si noti che nel francese moderno non restano ormai altro che un
+secentocinquanta vocaboli d’origine ignota; sicchè, se anche parecchi
+di essi appartennero, come è probabile, al celtico, le tracce lasciate
+da questo nel Vocabolario della nuova lingua sarebbero sempre ben
+povera cosa.[10]
+
+Nè di gran conseguenza possono dirsi anche gli effetti delle altre
+cause estrinseche.
+
+Pietro Bembo sostenne che l’italiano nascesse, durante le invasioni,
+da una specie d’ibrido connubio della lingua latina con gl’idiomi
+de’ barbari.[11] Ma a combattere quest’opinione (seguìta già più o
+meno risolutamente, anche dal Varchi, dal Muratori, dal Tiraboschi,
+dal Perticari e da molti altri), basterebbe un confronto, anche
+superficialissimo, tra le leggi fonetiche del gruppo latino e quelle
+del gruppo teutonico. Basterebbe, cioè, osservare che gl’idiomi
+teutonici abbondano di aspirazioni, accentano la sillaba della radice,
+preferiscono le consonanti forti, e offrono molte combinazioni di
+suoni che mancano affatto alle lingue romanze. Invano si cercherebbe
+in queste lingue qualcuna di quelle alterazioni che la parola latina
+pativa in bocca di genti, le quali pronunziavano _Muntus fuld tezibi_,
+invece di _Mundus vult decipi_. Invano vi si cercherebbe quel miscuglio
+di suoni disformi, che, per esempio, attesta nell’inglese la duplice
+origine anglosassone e normanna; o quella promiscuità di forme, che
+attesta nel persiano la prolungata influenza dell’arabo.[12]
+
+D’altra parte, molti caratteri organici fondamentali delle nuove lingue
+(se si eccettuano alcune anomalie, specialmente del valacco) essendo
+in tutte gli stessi, ne viene di conseguenza che la loro vera ed intima
+sorgente non potè essere che una sola.
+
+Tutte, infatti, conservarono scrupolosamente, salvo poche eccezioni,
+l’accento tonico sulla medesima sillaba che l’aveva in latino, e che è
+come l’anima o il perno della parola.
+
+Tutte, per l’indebolimento fonetico e la conseguente trasformazione
+o caduta delle desinenze, perdettero, prima o poi, i casi della
+declinazione latina; e vi sostituirono un più speciale uso delle
+preposizioni, del quale però, al solito, si trovano tracce anche ne’
+classici (_ad carnificem dabo_, invece di _carnifici dabo_, in Plauto;
+_de duro ferro aetas_, invece di _ex duro ferro aetas_, in Ovidio, e
+molte altre simili).[13]
+
+Tutte abbandonarono quasi interamente il genere neutro, che già non
+differiva dal maschile altro che nel nominativo e nell’accusativo, e
+che anche ne’ classici si comincia a confonder con esso (_commentarium_
+e _commentarius_, _nuntium_ e _nuntius_, _calamistrum_ e _calamister_,
+ecc). Tutte dagli aggettivi e pronomi _unus_ e _ille_ cavarono un
+nuovo elemento, cioè l’articolo indeterminato e determinato, de’
+quali, al solito, si vedono i primi germi anche negli scrittori.[14]
+Tutte si trovarono d’accordo nel far crescere un altro germe, che pure
+abbiamo già visto apparire in qualche scrittore, e che dando al nome
+_mens_ il senso di _modo_, _maniera_, e aggiungendolo all’aggettivo
+(_sana–mente_, _forte–mente_), generò gli avverbi da sostituire
+ai terminanti in _e_ e in ter (_sane_, _fortiter_), poichè queste
+terminazioni, piegandosi alla nuova eufonia, si confondevano con
+quelle de’ nomi e degli aggettivi.[15]
+
+Tutte, per evitare altre confusioni, conseguenza anch’esse dello
+scadimento fonetico, e insieme per distinguer meglio certi momenti
+dell’azione, fecero i medesimi cambiamenti nel verbo: estesero, cioè,
+l’uso di _habere_ per ausiliare; abbandonarono la forma passiva _amor_
+(sono amato), che, caduto l’_r_, si confondeva con l’attivo _amo_,
+e vi sostituirono l’ausiliare _essere_ col participio passato;[16]
+arricchirono la coniugazione col passato prossimo e col trapassato
+remoto, che in latino si confondevano col passato remoto, giacchè
+_amavi_, per esempio, poteva significare tanto _amai_, che _ho
+amato_ ed _ebbi amato_; aggiunsero un nuovo modo, il condizionale,
+che in latino era incluso nel congiuntivo; e poichè le terminazioni
+del futuro, _amabo_, _tacebo_, _dicam_, venivano confondendosi con
+l’imperfetto _amabam_, _tacebam_, e col presente congiuntivo _dicam_,
+le nuove lingue crearono una nova forma, fondendo l’ausiliare _avere_
+con l’infinito. Ma anche questa fusione procedette per gradi: prima
+di tutto, per evitare _amavo_ (derivante da _amabo_, amerò, come
+_fava_ da _faba_, _lavorare_ da _laborare_), che si sarebbe confuso
+con l’imperfetto _amava_ o _amavo_ (da _amabam_), si ricorse a una
+perifrasi, già usata in certi casi, e si disse: _habeo amare_ o _amare
+habeo_, cioè _ho da amare_; e poi da amare habeo si fece _amar hao_,
+_amar ho_, _amarò_,[17] e infine _amerò_;—spagn. _amaré_ = _amar–he_;
+portogh. _amarei_ = _amar–hei_; provenz. _amarai_ = _amar–ai_; franc.
+_aimerai_ = _aimer–ai_.[18]
+
+Tutte, finalmente, perduto che fu dall’orecchio delle popolazioni
+romane il sentimento della _quantità_, ossia delle lunghe e delle
+brevi, crearono una metrica nova, fondata non più sull’estensione, ma
+sullo sforzo (_ictus_) e sull’elevazione della voce, cioè sopra un
+certo numero di accenti, collocati in un dato numero di sillabe. E si
+badi, che anche di questa trasformazione ormai non può più dubitarsi
+che i germi esistessero già nel latino. Infatti, lasciando anche stare
+l’opinione sostenuta tuttora da molti che il verso saturnio, usato
+dai Romani prima che applicassero alla loro poesia la metrica greca,
+non fosse a quantità, ma ad accenti;[19] certo è che racconto ebbe
+poi sempre gran parte ne’ metri specialmente de’ comici; ed è certo
+del pari che l’esistenza di una ritmica popolare romana ben distinta
+dalla metrica classica, ci viene attestata come cosa nota e comune,
+e quindi sicuramente non recente, nientemeno che alla metà circa del
+quarto secolo, da un passo attribuito a Mario Vittorino: «Metro quid
+videtur esse consimile?—Rhythmus.—Rhythmus quid est?—Verborum
+modulata compositio, non metrica ratione, sed numerosa scansione ad
+judicium aurium examinata, ut puta _veluti sunt cantica poetarum
+vulgarium_.»[20] Che poi anche il verso principale delle nuove lingue,
+il nostro endecasillabo,[21] provenga dal latino, è un’altra questione;
+giacchè l’origine di ciascun verso in particolare può esser differente
+da quella de’ dati fondamentali del sistema ritmico a cui è congiunto.
+E gli argomenti addotti dal Rajna[22] contro codesta provenienza
+dell’endecasillabo, presi nel loro complesso, hanno in verità molto
+peso: ma pure, da una parte la ragionevole induzione che tutto ciò che
+v’ha d’importante nelle lingue romanze debba esser latino; dall’altra
+la strettissima somiglianza dell’endecasillabo col saffico minore:
+
+  Saeculum Pyrrhae nova monstra questae;
+
+col trimetro giambico catalettico:
+
+  Ignotus heres regiam occupavi;
+
+col falecio:
+
+  Disertissime Romuli nepotum,
+
+e con qualche altro di tali versi, saranno sempre una gran tentazione
+per chiuder le orecchie a qualunque argomento in contrario, che non
+abbia una piena e assoluta certezza.
+
+Anche la rima s’incontra qualche volta nei classici greci e latini;
+e s’incontra non solo usata per caso, ma intenzionalmente come mezzo
+stilistico, quale è di certo, se non nel primo, nel secondo di questi
+due esempi:
+
+  Non satis est pulcra esse poëmata; dulcia _sunto_,
+  Et quocumque volent animum auditoris _agunto_.
+
+  HOR. _Epist._, II, 3, 99–100.
+
+  Quot caelum _stellas_, tot habet tua Roma _puellas_.
+
+  OVID. _Ars am._ I, 59.
+
+Insomma, il linguaggio, come tutti gli organismi viventi, mutando
+le condizioni di vita, manifesta e svolge energie o facoltà prima
+nascoste o non avvertite. E le lingue romanze, specialmente se si
+considerano nel loro organismo, non sono altro che il latino adulto.
+Il cristianesimo, le invasioni, i commerci non poterono alterare la
+loro intima essenza, o, come vedremo tra poco, l’alterarono solo in
+piccolissima parte; quantunque dessero, per dir così, una spinta al
+loro sviluppo, e ne alterassero alquanto il Vocabolario.
+
+Per esempio, i due nomi latini _domus_ (casa) e _verbum_ (parola),
+quando la nuova religione chiamò _duomo_ la casa di Dio e _verbo_ Dio
+stesso o la sua parola, scomparvero quasi affatto dall’uso comune nel
+loro primo significato.[23]
+
+Per effetto poi delle invasioni e de’ commerci, le lingue nuove si
+arricchirono di voci germaniche, arabe e greche. Ma anche queste voci
+sono, relativamente, un numero assai ristretto.
+
+Il valacco e alcuni dialetti del mezzogiorno d’Italia sono, com’è
+naturale, i più ricchi di voci greche; lo spagnolo e il portoghese di
+voci arabe;[24] e molte di queste ultime divennero poi comuni a tutte
+le altre lingue romanze. Comuni del pari sono, secondo il Diez,[25]
+circa 300 voci germaniche.[26] Il francese, inoltre, ne possiede in
+proprio circa 450, l’italiano 140, lo spagnolo e il portoghese 50,
+e il valacco anche meno. Sicchè, in complesso, tra vive e morte, tra
+certe e incerte, sommano a un 930 le voci germaniche che il Diez trova
+nelle nuove lingue, esclusi i dialetti e senza contarci, già s’intende,
+nè i derivati, nè i nomi propri. E con queste voci divennero pure d’uso
+comune i suffissi _aldo_, _ardo_, _lingo_ (_ingo_, _engo_), che si
+applicarono anche a voci latine (_testardo_, _casalingo_, _Martinengo_,
+ecc.); come, del resto, accadde anche de’ tre suffissi, derivati dal
+greco, _essa_, _ismo_, _ista_ (_leonessa_, _giudaismo_, _umanista_,
+ecc.).
+
+Le cifre del filologo tedesco devono essersi alquanto alterate con gli
+studi posteriori. Ma mettiamo pure che le voci germaniche, introdottesi
+nelle lingue romanze, siano più d’un migliaio: saranno sempre poca
+cosa in confronto di tutto il corpo di codeste lingue; e, nella loro
+pochezza, resteranno come un’eloquentissima testimonianza della
+inferiorità morale de’ conquistatori, i quali si lasciarono imporre la
+lingua dai vinti, anzichè imporre ad essi la propria.
+
+Voci italiane, derivate direttamente, e non per mezzo del latino,
+dal greco, sono, per esempio: _agognare_, _borsa_, _colla_, _falò_,
+_fase_, _golfo_, _magari_, _zio_, ecc. (S’intende che non ci si devono
+comprendere que’ grecismi, spesso inutili, de’ letterati e degli
+scienziati, che vivono solo nell’uso di pochi.)
+
+Portate dagli Arabi, sono le seguenti, e ci si sente, più che
+altro, l’industria e il commercio: _alcool_, _alcova_, _algebra_,
+_ammiraglio_, _ambra_, _arancio_, _arsenale_, _caffè_, _canfora_,
+_carato_, _cremisino_, _catrame_, _carruba_, _cifra_, _cotone_,
+_gelsomino_, _lambicco_, _limone_, _liuto_, _mummia_, _ricamare_,
+_sofà_, _tamarindo_, _talismano_, _tamburo_, _tariffa_, _zafferano_,
+_zero_, ecc.
+
+Germaniche sono: _araldo_, _briglia_, _bosco_, _bruno_, _forbire_,
+_gonfalone_, _guerra_, _guancia_, _schiena_ (da _skina_, romanesco
+_schina_), _stinco_, _sperone_, _strale_, ecc.; e ci si sente, più che
+altro, la guerra.
+
+A proposito degli elementi germanici, il Diez così conclude: «La
+famiglia delle lingue romanze, appropriandosi alcuni di questi
+elementi, non patì nessuna essenziale alterazione nel suo organismo;
+giacchè si sottrasse quasi del tutto all’influenza della grammatica
+tedesca. Certo, nella formazione delle parole, alcune derivazioni e
+composizioni germaniche ci sono; e qualche traccia della stessa origine
+si trova anche nella sintassi; ma siffatti particolari vanno perduti
+all’occhio di chi guardi tutto il corpo di codeste lingue.»[27]
+
+Alcuni però credono necessario di attribuire una parte maggiore
+all’influenza germanica, per ispiegare la diversità che passa tra
+le lingue romanze e il latino, e che, senza dubbio, è più notevole
+di quella che, per esempio, passa tra il greco moderno e il greco
+antico. Ma ad altri pare, e con più ragione, che la causa principale
+di questa maggiore diversità debba piuttosto cercarsi nell’influenza
+degli antichi idiomi a cui il latino si sovrappose. Certo è poi,
+che l’opinione messa fuori molti anni fa da Max Müller,[28] che
+cioè le lingue romanze non ci presentino il latino quale si sarebbe
+naturalmente trasformato in bocca a’ Romani dell’Italia e delle
+provincie, ma quale i popoli germanici poterono apprenderlo e
+appropriarselo, era addirittura esageratissima; e il Littré, per solito
+così temperato, la respingeva «de toutes _ses_ forces.»
+
+Se l’influenza germanica, diceva in sostanza il Littré, avesse avuto
+il sopravvento che le attribuisce il Müller, più i testi sono antichi,
+e più ce ne presenterebbero le tracce. Invece, il vero è, che più i
+testi sono antichi, e più portano impresso il carattere della latinità:
+vale a dire, più è facile calcare una frase latina sulla frase romanza.
+Nè mai vi si scorge il momento, il punto, in cui un altro popolo,
+sostituendosi a quelli delle Gallie, dell’Italia e della Spagna, si
+sia impossessato dell’idioma de’ vinti e l’abbia parlato secondo una
+grammatica sua propria. Il centro delle lingue romanze non può dunque
+spostarsi dal lessico e dalla grammatica latina.[29]
+
+Il Müller poi, dal canto suo, nelle _Nuove Letture sulla Scienza del
+Linguaggio_ (VI), temperava di molto la sua prima opinione, dolendosi
+anzi (ma a torto, ci pare) che, per qualche difetto d’espressione,
+fosse stata esagerata o frantesa dal suo illustre contradittore, col
+quale, in fondo, dichiarava di consentire. Ora, dunque, di questa
+polemica restano in piedi solo alcune giuste osservazioni parziali del
+Müller; ed eccone un piccolo saggio.
+
+Di due o più voci latine, esprimenti sostanzialmente la stessa idea, è
+naturale che gl’invasori preferissero quella, che nel suono ricordava
+meglio la corrispondente germanica; ed è quindi anche naturale che la
+voce preferita da loro finisse spesso col prevalere. Per esempio, i
+Romani, per dir _fuoco_, dicevano ora _focus_, ora _ignis_; ma _focus_
+fu preferito nelle nuove lingue, perche più vicino al tedesco _feuer_
+(fuoco) e _funkeln_ (scintillìo, scintillare).[30] Per dir _grande_, i
+Romani dicevano ora _grandis_, ora _magnus_: _grandis_ fu preferito,
+perchè più affine a _gross_, il quale ci diede inoltre anche la forma
+_grosso_. Per dir _lasciare_, i Romani dicevano _laxare_ o _sinere_;
+ma _laxare_ fu preferito, perchè più simile all’antico alto–tedesco
+_làzan_, gotico _letan_, che è poi il moderno tedesco _lassen_.[31]
+
+Tutti i filologi inoltre si trovano d’accordo col Müller nel
+riconoscere (cosa, del resto, riconosciuta anche prima da altri)
+una certa influenza germanica sull’aggiunta dell’aspirazione in
+alcune parole francesi. _Haut_, per esempio, e _hurler_ (antico
+francese _huller_) vengono dal latino _altus_ e _ululare_, ma devono
+l’aspirazione alle loro corrispondenti germaniche _hoch_ e _heulen_.
+
+Il nostro Caix,[32] pur ammettendo dentro certi limiti l’influenza
+germanica sul lessico latino, come è sostenuta dal Müller, trova però
+ben più evidente e naturale il fatto contrario, cioè l’influenza
+latina sulla fortuna di molte voci germaniche. In questo fatto sta,
+secondo lui, la spiegazione del gran numero di voci germaniche che
+poterono conservarsi nelle lingue romanze, benchè non si riferissero
+nè alla guerra, nè allo Stato, nè ai commerci, ma alle ordinarie
+relazioni della vita o ad oggetti comuni, pei quali parrebbe avesse
+dovuto prevalere l’appellativo romano. In questo fatto, a suo avviso,
+sono da ricercare le prove di quel raccostamento che, pur limitato al
+lessico, dovette compirsi a poco a poco tra la lingua dei vincitori e
+quella dei vinti, e che, alterando la forma di molte voci, spiega la
+difficoltà di ricondurle ora con le ordinarie leggi fonetiche alla loro
+forma originaria. E qui, sempre secondo l’opinione del Caix, sono da
+considerarsi tre casi.
+
+Primo: la forma latina assorbì interamente la teutonica. In questo
+caso, che è di gran lunga il più frequente, le voci gotiche che, come
+_sada_ (sazio), _haban_ (avere), _raihta_ (retto), _arjan_ (arare),
+avevano una ben discernibile affinità con le corrispondenti voci
+latine, si confusero interamente con queste, e così i Goti dissero
+_sazio_ o _satollo_, _avere_, _retto_, _arare_, ecc.
+
+Secondo caso, molto meno frequente, ma non raro: la voce latina si
+modificò, conforme al suono della voce germanica, per esempio: il
+toscano _sdraiarsi_ e l’umbro _strajàsse_ derivano da un ravvicinamento
+del latino _sternere_ al gotico _straujan_; l’italiano _sparagnare_ e
+il lombardo _sparà_ derivano da un ravvicinamento del latino _parcere_
+all’antico alto–tedesco _sparôn_; l’ital. _leccare_ deriva dal latino
+_lingere_ e _ligurire_ e dall’antico alto–tedesco _lecchôn_; _rubare_,
+dal lat. _rapere_ e dall’antico alto–tedesco _roubôn_; _senno_, dal
+latino _sensus_ e dall’antico alto–tedesco _sin_.
+
+Terzo caso, più raro, ma insieme più curioso di tutti: le due forme
+si confusero in una terza, che le riassume entrambe. Per esempio,
+_guiderdone_ è certo derivato dall’antico alto–tedesco _widarlôn_
+(ricompensa); ma la seconda parte _lôn_ (moderno ted. _Lohn_,
+mercede) fu scambiata col lat. _donum_ (basso lat. _widerdonum_); e
+così ne nacque una parola anfibia, mezzo tedesca e mezzo italiana,
+_widar_ (contro), che è il moderno _wider_, e _dono_: _widar–dono_
+(guider–done), controdono, ricompensa.
+
+Possiamo dunque concludere, che l’opinione del Bembo contiene solo una
+piccola parte di vero. E possiamo anche, di passaggio, osservare, che
+chi riguardava le lingue romanze come un imbastardimento del latino,
+è naturale che inclinasse altresì a crederle meno perfette di esso. E
+questa credenza, così funesta alla nostra letteratura e comune tuttora
+a molti, trova facili conferme in superficiali e parziali confronti;
+giacchè, per esempio, è di certo un danno l’aver perduto quasi tutti i
+participi in _rus_, _ra_, _rum_ (_venturo_, _futuro_, ma non _letturo_,
+_amaturo_, ecc.), e quindi non poter dire spicciamente e comunemente,
+senza ricorrere è un latinismo: «Evviva, o Cesare: i _morituri_ ti
+salutano!» Ma, in compenso, quanta maggior precisione e chiarezza non
+hanno aggiunto al discorso l’articolo determinato e indeterminato e
+que’ tempi del verbo, che mancavano al latino? Chi volesse continuare
+il confronto, troverebbe venti di guadagno per ogni dieci di perdita.
+Nè la perfezione d’alcuni autori antichi, dato anche e non concesso
+che non avesse riscontro in autori moderni, proverebbe nulla a
+svantaggio delle lingue di questi: come la perfezione di Raffaello
+non prova che i colori, in sè stessi, fossero migliori al suo tempo,
+che al nostro. «L’ultimo fine della parola,» ha detto egregiamente il
+Lignana, «è di essere organo dello spirito. Ora, dire che le lingue
+moderne sono inferiori alle antiche, equivale a dire che lo spirito
+moderno è inferiore all’antico. Il che non credo abbia bisogno di
+confutazione.»[33]
+
+
+V.
+
+Ma dicendo che le lingue romanze sono, in sostanza, una continuazione
+e un perfezionamento del latino, che cosa s’intende qui per _latino_?
+E chiaro che s’intende il _latino parlato_, giacchè le sole lingue
+parlate possono moversi e trasformarsi.
+
+Siccome però i Romani, che parlavano il latino duemila anni fa, sono,
+per nostra disgrazia, morti tutti, e noi non possiamo conoscere la
+loro lingua se non per quel tanto che ce n’è stato tramandato dai
+libri e dalle iscrizioni; perciò si è cercato di stabilire se il latino
+scritto e il latino parlato fossero una stessa cosa, o se ci corressero
+più o men notevoli differenze.
+
+Leonardo Bruni d’Arezzo (1369–1444) e Celso Cittadini di Roma (non di
+Siena, come comunemente si crede—1553?–1627), il secondo dei quali
+ebbe lampi d’intuizione filologica maravigliosi per il suo tempo,
+sostennero che la lingua della plebe romana fosse quasi del tutto
+diversa da quella delle classi cólte e specialmente degli scrittori.[34]
+
+Trovando nel latino arcaico voci come _aurom_ (oro), _consol_
+(console), ecc., le quali somigliano all’italiano, più che non gli
+somiglino le corrispondenti del latino classico (_aurum_, _consul_),
+il Cittadini capitombola quasi nell’opinione che fu poi, come abbiamo
+visto, sostenuta dal Quadrio, e che il Muratori giustamente chiamò un
+sogno, indegno persino d’essere confutato.[35]
+
+Il Bruni, dal canto suo, arrivò a dire che i Romani non cólti
+intendessero il linguaggio degli oratori, non più di quel che oggi
+la plebe nostra intende la messa;[36] e come se questo fosse poco,
+aggiungeva, che essi andassero al teatro, non già per intendere i
+versi del poeta, ma per godere dello spettacolo scenico; e perciò,
+secondo lui, si chiamavano _spettatori_ e non _uditori_:[37] speciosa
+ragione, a distrugger la quale basterebbe osservare, che _spettatori_
+si chiamavano anche le persone cólte, le quali andavano anch’esse al
+teatro.
+
+Egli inoltre non sapeva capacitarsi come mai le donnicciole di Roma
+sarebbero potute riuscire a imparare le declinazioni de’ nomi e le
+coniugazioni de’ verbi, e specialmente de’ verbi irregolari: cose,
+diceva, che fanno sudar sangue anche noialtri dotti. Come mai volete,
+domandava il brav’uomo, come mai volete che quelle povere ignoranti
+potessero servirsi del verbo _ferre_ (portare), che nel presente fa
+_fero_ (porto), e nel passato fa _tuli_ (portai), e nel supino muta
+ancora, e fa _latum_?—Qui, l’ottimo messer Leonardo somiglia proprio
+a quel tale che, andato in Francia, si maravigliava che là anche i
+bambini sapessero parlare il francese. Dio buono! anche la donnicciola
+fiorentina, senza aver studiato grammatica, tira fuori bravamente
+dall’infinito _essere_ il presente _sono_, l’imperfetto _ero_, il
+passato _fui_, eccetera; nè c’è pericolo che dica io ando invece di _io
+vado_, nè _io dovo_ invece di _io devo_, nè _oma_ invece di _donna_,
+nè _femmino_ invece di _maschio_; quantunque queste anomalie non siano
+punto men difficili di _fero_, _tuli_, _latum_.
+
+Ma segue forse da ciò che la lingua delle orazioni di Cicerone fosse
+precisamente la stessa che parlava la sua lavandaia, o quella che in
+tutto e sempre parlava egli medesimo? No davvero!
+
+In questa questione, gli equivoci a me pare che siano nati e nascano
+ancora da un errore fondamentale, e cioè dal non considerare la lingua
+nel suo complesso, ma in questa o quella parte soltanto, in questo o
+quel libro, in questo o quel parlante. Con tal metodo, per quanto la
+lingua sia potentemente unificata, come era appunto quella di Roma e
+come è ora quella di Parigi, deve per necessità apparire una specie di
+Proteo multiforme.
+
+Chi può negare, per esempio, che la lingua di cui si serviva in
+parlamento il signor Thiers, non fosse la lingua che si parla a Parigi?
+Eppure, chi oserebbe dire che fosse addirittura quella medesima di cui
+si serviva il suo portinaio?
+
+Con l’aiuto de’ miei scolari, io son riuscito a mettere insieme un
+centottanta sinonimi italiani del verbo _morire_, e tutti, si noti
+bene, d’uso comune;[38] mentre, sia detto per incidenza, il Tommasèo
+ne dà solo cinque o sei. Son dunque centottanta modi usati e usabili
+per esprimere una sola idea in italiano, e potrei anche dire, più
+esattamente, in fiorentino, perchè quattro quinti di essi son vivi a
+Firenze, e i rimanenti son creazioni di prosatori e di poeti, fatte
+però tutte con voci vive fiorentine o foggiate alla fiorentina, ed
+entrate poi nell’uso comune letterario.
+
+Eppure, quale italiano o qual fiorentino potrebbe dire, preso così
+all’improvviso, di saperli tutti e centottanta? E chi oserebbe
+affermare che il plebeismo: _andare a rincalzare i cavoli_, o l’altro:
+_crepare_, siano soltanto della lingua plebea? Domani potrete sentirli
+in bocca a una persona civile, che l’userà per ischerzo o in un momento
+di collera; mentre la povera donnicciola, trafitta dal dolore, vi
+dirà poeticamente che il suo bambino _è stato ripreso da Dio_, o che
+_è andato in paradiso_. E persona civile e donnicciola si troveranno
+inconsapevolmente, ma sicurissimamente, d’accordo nel non dirvi mai
+che quell’omaccione grasso e grosso, morto ier l’altro, _sia volato al
+cielo_, perchè sanno che vi farebbero ridere.
+
+Certo, il fatale divorzio della lingua scritta dalla parlata è stato
+possibile in Italia, dove nessuna parlata ha mai definitivamente
+prevalso; ma non era possibile in Roma, con quell’acutissimo senso
+pratico de’ suoi cittadini, con quel bisogno ch’essi avevano
+d’intendersi tra di loro più speditamente che potessero, con quella,
+insomma, potente e compatta unità di linguaggio; quantunque ogni
+romano, in fondo, avesse in testa una lingua, che non era precisamente
+quella di nessun altro romano, e lo stesso scrittore usasse voci e
+maniere diverse, secondo il soggetto e il genere del componimento.
+
+Nè crediate che il fatale divorzio succeduto in Italia abbia
+contribuito e contribuisca ancor poco a far inclinare molti Italiani
+a supporre che altrettanto fosse accaduto anche a Roma. _Mal comune,
+mezzo gaudio_; e certo, quando altri lamenta che tante e tante prose
+italiane, pregevolissime di sostanza, siano però pochissimo lette,
+perche scritte in una lingua mezzo morta, fa molto comodo il poter
+rispondere: cosa volete farci? anche nella letteratura latina è stato
+così.
+
+Questo, dico, può far molto comodo; ma a me non pare che sia la verità.
+E alle ragioni già addotte per dimostrarlo, ne aggiungerò un’altra di
+fatto, e che, credo, dovrebbe bastar da sola a risolver la questione.
+
+Papirio Peto, in una lettera a Cicerone, aveva applicato a sè stesso
+un luogo di Trabea, chiamando pazzia il suo sforzarsi d’imitare
+l’eloquenza dell’amico. E Cicerone gli rispondeva: «Dici davvero? Ti
+pare una pazzia lo imitare quelli che tu chiami fulmini del mio stile?
+Certo, sarebbe pazzia, se la cosa non ti riuscisse; ma poichè ti riesce
+anche meglio che a me, de’ fatti miei devi ridere, e non de’ tuoi; e
+lascia star Trabea, dacchè il _fiasco_ è piuttosto mio. Ma pure, delle
+mie lettere che te ne pare? Non sono esse scritte alla buona?[39] Già
+si sa: non conviene mica usar sempre lo stesso tono. Altro è una
+lettera, altro un’orazione politica, o un’orazione forense. Persino
+davanti ai giudici, si varia tono secondo le cause; perchè le private
+e di poca importanza non richiedono quegli ornamenti, che adoperiamo
+quando siano in gioco la vita o l’onore. Le lettere poi, sogliamo
+scriverle con le parole di tutti i giorni.»[40]
+
+Dunque, le lettere del grande oratore sono scritte, per sua stessa e
+incontrastabile testimonianza, in _plebejo sermone_ e con _quotidianis
+verbis_. Ma, di grazia, chi è che avendo sott’occhio una di quelle
+lettere e un’orazione dello stesso autore, non s’accorga che sono
+scritte nella medesima lingua, salvo, s’intende, le differenze
+derivanti dal diverso genere di componimento? Ciò che nella lettera
+sarà detto con la frase familiare: _andare all’altro mondo_, o con
+altra anche plebea, nell’orazione sarà detto con frase sostenuta:
+_render l’anima a Dio_. Ma queste non sono due lingue: son gradazioni,
+tinte, sfumature diverse d’una stessa, stessissima lingua; e chi
+volesse prendersi il gusto di esaminare le prime cento voci o maniere
+d’una lettera di Cicerone, si può scommettere che ce ne troverebbe
+almeno novanta usate da lui anche nelle orazioni o nelle altre sue
+opere. Insomma, a dir tutto in poco, la diversità che egli accenna a
+Papirio Peto non è di _lingua_, ma di _stile_; e la frase _plebejo
+sermone_, addotta così spesso per provare l’esistenza di quella
+specie di muraglia della Cina tra il latino scritto e il parlato, o
+tra il latino nobile e il popolare, prova invece per l’appunto il
+contrario![41]
+
+
+VI.
+
+Coloro che seguendo il Diez anche in questa parte non buona del suo
+magistrale lavoro, si ostinano ancora a fare del latino due lingue o
+quasi due lingue, una letteraria o nobile, e l’altra popolare, volgare
+o, peggio, rustica, dicono che da quest’ultima son derivate le lingue
+romanze.[42]
+
+Il principe de’ loro argomenti è un fatto che si trova più o meno in
+tutte le lingue: la coesistenza, cioè, delle doppie forme, ossia di
+vocaboli e modi significanti ora sfumature diverse d’una stessa idea
+(SINONIMI, come _uscio_ e _porta_, _bianco_ e _candido_, _salvare_ e
+_preservare_), ora invece la stessa idea, senza nessuna differenza
+di significato, e solo, ma non sempre, con qualche differenza di
+stile, essendo alcuni più o meno particolari alle classi incolte
+e altri alle civili; alcuni mezzo invecchiati e altri vivissimi;
+alcuni più propri della poesia, altri della prosa (DOPPIONI, come
+_scriminatura_, _discriminatura_, _scrima_ e _dirizzatura_, _badessa_ e
+_abbadessa_, _escire_ e _uscire_, _gragnuola_ e _grandine_, _morir di
+sonno_ e _morir dal sonno_, _farsi alla finestra_ e _affacciarsi alla
+finestra_; con un eccetera pur troppo lungo, poichè in italiano, per
+nostra disgrazia, questa quasi sempre falsa ricchezza è addirittura
+strabocchevole).
+
+Naturalmente anche in latino c’erano moltissimi sinonimi (_janua_
+e _porta_, _equus_ e _caballus_, _torus_ e _lectus_, _amare_ e
+_diligere_, ecc.); e anche non pochi doppioni (_volgus_ e _vulgus_,
+_adjutare_ e _adjuvare_, _bucca_ e _os_, _minaciae_ e _minae_, _putus_
+e _puer_, _maledicere aliquem_ e _maledicere alicui_, ecc.); e di
+questi doppioni alcuni saranno stati usati indifferentemente l’uno
+e l’altro da tutte le classi sociali, come oggi a Firenze _ditale_
+e _anello_, _portantina_ e _bussola_, _spartizione_ (de’ capelli)
+e _divisa_; altri invece saranno stati i preferiti, più o meno
+esclusivamente, dalle classi inferiori, al modo stesso che un popolano
+fiorentino dirà forse più volentieri _dota_ e _dolsuto_, che _dote_ e
+_doluto_, e sempre poi _doventare_ invece di _diventare_, mentre un
+fiorentino educato dice sempre _dote_ e _doluto_, e ora _doventare_,
+ora _diventare_, secondo con chi e dove e di che parla. Rispetto poi
+ai sinonimi, come il popolano della moderna Roma chiama sempre _porta_
+anche l’_uscio_, così è probabile che il popolano della Roma antica
+dicesse _porta_ anche quando doveva dir _janua_, e _caballus_ anche
+quando doveva dire _equus_.
+
+Or bene, siccome qualche centinaio di questi sinonimi o doppioni
+latini, che si credono i preferiti dalla plebe, sono i genitori
+legittimi dei corrispondenti vocaboli neolatini, giacchè noi Italiani,
+per esempio, non diciamo _giana_ o _gianva_ o _jana_ da _janua_, ma
+_porta_ _da_ porta, non _eguo_ o _ieguo_ o _ecquo_, ecc. da _equus_,
+ma _cavallo_ da _caballus_; perciò cavando da questo fatto una troppa
+larga conseguenza, si è detto e si dice che le lingue romanze
+derivino dal latino rustico, o volgare o plebeo. Ma, oltrechè alle
+poche centinaia di parole romanze d’origine latina rustica si può
+contrapporne molte migliaia d’origine latina nobile, o nobile e rustica
+insieme; non bisogna mai dimenticare che l’organismo di dette lingue
+poggia quasi interamente sulla comune grammatica latina. Il tronco,
+dunque, da cui son germogliati i rami che si chiamano italiano,
+francese, spagnolo, ecc., è, in sostanza, il latino di Virgilio e
+di Plauto, di Cicerone e di Vitruvio; il latino _togato_ e quello
+_tunicato_; insomma, il latino di tutti, quello che parlava _omnis
+populus_, come dice Varrone.
+
+Una curiosa riprova di questa verità l’abbiamo nel fatto comunissimo,
+che de’ due sinonimi o doppioni latini, il volgare cioè e il civile, se
+uno attecchì in una delle nuove lingue, l’altro attecchì in un’altra.
+_Ebriacus_, per esempio, che forse era la forma popolare usata invece
+di _ebrius_, diede il toscano _ubbriaco_, il romanesco _imbriaco_,
+l’antico spagnolo _embriágo_, il provenzale _ebriac_, ecc.; ma l’_ivre_
+francese deriva direttamente da _ebrius_ (come il nostro _ebbro_,
+del solo uso letterario); sicchè bisognerebbe concluderne che i
+Romani andati nella Francia settentrionale, quando si ubbriacavano o
+parlavano dell’ubbriachezza, fossero tutte persone civili. E così, se
+il volgare _canutus_ diede l’italiano _canuto_, il provenzale _canut_
+e il francese _chenu_; dal civile _canus_ è però derivato lo spagnolo
+_cano_. Se dall’_allaudare_ o _adlaudare_ di Plauto derivarono il
+provenzale _alauzar_, e lo spagnolo e portoghese _alabar_; dal comune
+_laudare_ derivarono l’italiano _lodare_ e il francese _louer_.
+Se il volgare _salisicia_ (_salis insicia_) o _salsitia_ diede il
+toscano _salsiccia_, il siciliano _sosizza_, il francese _saucisse_,
+lo spagnuolo _salchicha_, ecc.; a Milano, a Venezia e altrove dicono
+ancora _lugànega_, dal latino _lucanica_, usato da Marziale e da
+Cicerone.[43] Se noi Italiani e i Francesi non ci contentammo di
+derivare _cavallo_ e _cheval_ da _caballus_ e diciamo anche _cavalla_ e
+_cavale_ (da _caballa_); gli Spagnoli e i Rumeni dicono, sì, _cavallo_
+e _callu_ pel maschio, ma dicono _yegua_ e _épa_ (da _equa_) per la
+femmina; ed _ebba_ dicono i Sardi, _egua_ i Portoghesi; ed _egua_
+s’incontra anche nel provenzale, _iegue_ nell’antico francese.[44] E se
+il latino volgare porta prevalse generalmente su _janua_, questa vive
+ancora nel sardo settentrionale _gianna_ e nel meridionale _ennia_, e
+vive nel napoletano _votajanne_ (_volta–janne_), grimaldello.
+
+Frequentissimo poi è il caso, che le due forme latine ne abbiano
+addirittura generato due (più o meno necessarie) anche nelle nuove
+lingue, come è accaduto in italiano da _caecus_ e _orbus_, _mutare_
+e _cambiare_, _dolor_ e _cordolium_, _caput_ e _testa_, _vulgus_ e
+_volgus_, ecc.
+
+Del resto, chi facesse uno studio diligente sopra ciascuno di que’
+vocaboli, che dal Diez[45] e da tutti coloro che hanno ricopiato il suo
+elenco, vengono relegati nella categoria dei _rustica_, _vulgaria_,
+_sordida_, troverebbe, io credo, da redimerne un bel numero. Perchè
+mai, per esempio, dirci che _mamma_ (per _mater_) era voce volgare, se
+Varrone presso Nonio attesta che apparteneva al linguaggio de’ bambini?
+O che i patrizi non avevan bambini? E Marziale non si servì di questa
+voce, per l’appunto come ce ne serviremmo noi Italiani, in qualunque
+scrittura familiare, ma niente affatto volgare?
+
+  _Mammas_ atque tatas habet Afra; sed ipsa tatarum
+  Dici et _mammarum_ maxima _mamma_ potest.[46]
+
+E, peggio ancora, perchè dirci che _cludere_ era la forma volgare di
+_claudere_, se per quanto si volesse stiracchiare questo o quel testo,
+è certo certissimo che fu adoperata innumerevoli volte, e in tutti gli
+stili, e da scrittori d’ogni tempo?[47] E perchè, finalmente, mettere
+in fascio voci e maniere usate da Plauto e Terenzio, con altre usate da
+autori di cinque, o sei, o sette secoli dopo? Che ci si mettano quelle
+poche, le quali, come _adjutare_ e _cordolium_, s’incontrano tanto nel
+latino arcaico, quanto nel latino della decadenza, sta bene; perchè è
+molto probabile che codeste forme, confinate ne’ bassi strati sociali
+durante il periodo classico, ritornassero poi a galla col prevalere di
+essi; ma quelle che troviamo usate per la prima volta da san Girolamo,
+da sant’Agostino, da Prisciano e da altri autori, vissuti nel quarto,
+quinto o sesto secolo dopo Cristo, con qual diritto volete bollarle
+per _volgari_, quando invece non sono altro che _neologismi_? Tanto
+varrebbe chiamar volgari tutte le parole italiane che non si trovano
+nei Trecentisti, essendo venute in uso dopo il Trecento!
+
+Il Littrè, che combatte alla sfuggita quest’ipotesi della derivazione
+delle lingue romanze da «un certo latino rustico,» fa un’osservazione
+molto giusta. «Se si crede,» egli dice, «che il vernacolo (_patois_)
+latino, che senza dubbio si parlava nelle campagne al tempo d’Augusto
+e dei suoi successori, sia più specialmente l’origine delle lingue
+romanze; vale a dire che le voci del basso latino, come _cupiditare_,
+_hominaticum_, _coraticum_, appartenessero ai vernacoli; io stimo che
+si sbagli. In generale, queste forme del basso latino son lunghe; e
+perciò indicano che le popolazioni da cui erano state create e venivano
+usate, avevano perduto il senso delle forme più corte e più analogiche,
+proprie della latinità. Ora, il vernacolo (basta osservare i nostri)
+non ha punto questo carattere; il vernacolo ritiene più che altro
+dell’arcaismo, mentre invece le forme allungate sono neologiche,
+nascendo esse dalla necessità di assicurare il senso delle parole che
+va oscurandosi.»[48]
+
+Si badi però, che con tutto questo non vogliamo dire che nell’opinione
+di coloro, i quali fan derivare le lingue romanze dal latino rustico,
+non ci sia nulla di vero. Già, dicendo che codeste lingue derivano dal
+latino parlato da tutti (il quale, s’intende, quattro o cinque secoli
+dopo, non poteva esser più quello del tempo d’Augusto; nè mai, in
+Francia o in Spagna, potè essere lo stesso che in Italia), nel _tutti_,
+naturalmente, noi ci comprendiamo anche i _rustici_. E poi, bisogna
+anche aggiungere che l’elemento rustico, allo sfasciarsi dell’Impero,
+al decadere di quella splendida civiltà, ai primi albori della civiltà
+nova e cristiana, fu di certo in prevalenza sull’elemento nobile.
+Questo però, oltrechè non fu mai spento del tutto, andò riprendendo a
+poco a poco il suo posto, col risorgere graduale della coltura. E se,
+per esempio, in Italia, non si potè più sbandire le voci del latino
+rustico _putus_ e _catus_ («putto» e «gatto»), e risostituirvi dal
+latino civile _puer_ e _felis_; si potè bene però conservare dallo
+stesso latino civile le voci _pueritia_, _puerilis_, _puerilitas_
+e _felinus_, le quali, nelle forme corrispondenti italiane, e con
+l’avverbio _puerilmente_ per giunta, vivono ancora nell’uso di tutte le
+persone educate.
+
+Qui, dunque, gli equivoci nacquero principalmente dal riguardare le
+lingue neolatine da un solo lato della loro formazione; dal lato, cioè,
+in cui, per le condizioni sociali, prevalse l’elemento volgare.
+
+
+VII.
+
+Ma, dirà qualcuno, _puerizia_, _puerile_, _puerilità_, _felino_, e
+tanti altri vocaboli di questo genere, poterono esser desunti dal
+latino per opera de’ letterati, quand’esso era già morto, e poi dai
+libri entrare nell’uso delle persone civili; giacchè se, per esempio,
+_pueritia_ fosse passato per il crogiuolo della fonetica popolare,
+molto probabilmente ci avrebbe dato _puerezza_, o _poverezza_, o
+qualcosa di simile.
+
+Ecco: che nelle lingue romanze, e specialmente nella nostra, ci sia
+un gran numero di vocaboli, non derivati dal latino per formazione
+popolare, è un fatto indubitabile; e in francese si hanno anche norme
+generali e sicure per riconoscerli subito.
+
+Il francese (l’abbiamo già accennato) conservò non meno delle lingue
+sorelle, l’accento tonico sulla medesima sillaba che l’aveva in latino;
+quantunque, per una forte contrazione della parola, creasse un sistema
+d’accentuazione assai differente, nel quale l’accento, invece di posare
+come in latino sulla penultima o sull’antipenultima, posa sull’ultima o
+sulla penultima: _amáre_ (_aimér_), _judicáre_ (_jugér_), _rotúndus_
+(_rónd_, ant. franc. _roónd_), _pórticus_ (_pórche_), _témplum_
+(_témple_), ecc. Or bene, tutte le parole francesi che violano la
+regola dell’accento latino, o che, pur non violando questa, non
+hanno subìto certe normali trasformazioni, sono infallantemente di
+origine non popolare. Tale è, per esempio, _fragile_, derivato,
+come il popolare _frêle_ dal lat. _fràgilis_. Tale è _innocent_,
+perchè, secondo la fonetica popolare, il lat. innocentem avrebbe dato
+_ennuisant_, come _infantem_ e _inimicus_ diedero _enfant_ e _ennemi_,
+e _nocentem_ diede _nuisant_.
+
+L’italiano, all’opposto, conserva di regola l’accento latino a suo
+luogo, tanto nei vocaboli di origine popolare, quanto in quelli di
+origine non popolare; e, per di più, non altera molto la loro forma;
+sicchè per distinguere gli uni dagli altri noi non abbiamo norme
+generali così chiare e pronte come le hanno i Francesi. Potremo
+quindi ben dire che siano di formazione civile _flato_ da _flatus_,
+_flebile_ da _flebilis_, _flutto_ da _fluctus_, perchè il nesso
+_fl_, secondo la fonetica popolare, avrebbe dovuto mutarsi in _fi_,
+come appunto accadde in _fiato_, _fievole_, _fiotto_ (che derivano
+ugualmente da _flatus_, _flebilis_, _fluctus_), e in _fiume_ da
+_flumen_, _fiore_ da _florem_, e simili; potremo anche arrischiarci a
+dire che sia un’esumazione letteraria il verbo _procombere_, giacchè,
+a quanto ne sappiamo, il primo a usarlo fu Giacomo Leopardi; ma chi
+oserebbe affermare che siano d’origine non popolare _innocente_ e
+_felino_, come lo sono di certo i loro corrispondenti francesi;
+una volta che in italiano, fonetica popolare e fonetica civile,
+per regola generale, vanno in questo caso pienamente d’accordo? E
+poi, se pure si riuscisse anche noi a distinguere tutte le voci di
+formazione non popolare; con ciò non si sarebbe provato nulla in favor
+dell’assunto che l’italiano e gli altri idiomi romanzi derivino dal
+latino rustico: come non prova nulla l’averle distinte in francese;
+giacchè, per esempio, Dio solo ormai potrebbe fornirci le prove che
+in Francia gli aggettivi latini _innocens_ e _felinus_ siano affatto
+scomparsi per un certo tempo dall’uso, e poi siano risuscitati per
+opera esclusivamente letteraria. L’unica cosa che si può dire con
+sicurezza è che per _innocent_ e _félin_ in francese, come forse per
+_puerizia_ in italiano, le classi civili non si piegarono alla fonetica
+popolare; anzi imposero al popolo la fonetica propria. Ma tutto induce
+a credere che, anche quando il latino era, per dir così, in agonia,
+la maggior parte di simili voci si trovassero, nell’uso vivo delle
+persone civili, allora incomparabilmente più ristretto che ora, ma
+vivo. E se non s’incontrassero mai nelle scritture latine o nelle
+semivolgari di que’ tempi, nè in quelle addirittura volgari di tempi
+posteriori, non sarebbe certo una buona ragione per dichiararle allora
+morte, e risuscitate soltanto più tardi per opera dei letterati. Nè
+a dichiarar tali alcune di esse, basta l’altra ragione del vederle
+oggi usate dai soli scrittori, o anche esclusivamente dai soli poeti;
+giacchè, a questa stregua, chi non giudicherebbe d’origine letteraria
+le voci _cetra_, _alma_, _léce_ (da _licet_), e _rio_ (da _reus_), le
+quali invece son tutte di schiettissima formazione popolare?[49] Se
+poi lo si considera bene, rafforza tutti questi argomenti anche il
+curioso fenomeno de’ vocaboli di origine mista, come per esempio il
+francese _chapitre_, che è di certo civile nella sillaba di mezzo, e
+popolare nelle altre due.[50] È quindi chiaro che alle frasi comuni:
+_formazione_ o _origine letteraria_, e simili, sarebbe da sostituire
+l’altra molto più esatta di _formazione civile_; poichè le vere e
+proprie e accertate esumazioni letterarie, come appunto parrebbe il
+nostro _procombere_, sono in tutte le lingue neolatine un numero
+relativamente assai ristretto.[51]
+
+
+VIII.
+
+I documenti che ci rimangono del francese dell’undecimo secolo (e
+siamo costretti a parlar del francese, perchè, insieme col provenzale,
+ne’ primi secoli è appunto il più ricco di documenti), ci permettono
+di affermare con sicurezza che verso quel tempo il periodo della
+formazione della nuova lingua è terminato, ossia che il latino è morto
+in Francia definitivamente, e il francese ha finito di nascere; purchè
+non si perdano mai di vista quei due canoni filologici:—Ogni anno
+si fa un passo verso un nuovo linguaggio;—La parola, piuttosto che
+un fatto, è un continuo farsi;—e purchè alle metafore di _morte_ e
+di _nascita_ non si dia maggior valore di quello che hanno realmente,
+e s’intenda solo che il linguaggio della Francia settentrionale,
+nell’undecimo secolo, non aveva più tutti que’ principali caratteri che
+lo facevano chiamar latino, e ne aveva invece acquistati altri, che gli
+fecero mutar nome, rimanendo pur sempre latino nel fondo.
+
+Se dall’undecimo secolo torniamo indietro, naturalmente i nuovi
+caratteri vanno scemando, e crescono invece gli antichi. Nel _Cantico
+di Sant’Eulalia_, del nono secolo, s’incontrano ancora certe forme
+derivate dal più che perfetto latino (_auret_ da _habuerat_, _pouret_
+da _potuerat_, _furet_ da _fuerat_, ecc.),[52] e versi come questi:
+
+  E por o fut presentede Maximiien,
+  Chi rex eret à cels dis sovre pagiens.[53]
+
+Il giuramento che nello stesso secolo, e precisamente nell’anno 842,
+Luigi il Germanico prestò, in _romana lingua_, a suo fratello Carlo il
+Calvo, e Carlo poi, in _teudisca_, a lui, dice così: _Pro Deo amur et
+pro christian poblo et nostro commun salvament, d’ist di_ [de isto
+die] _in avant, in quant Deus savir et podir me dunat, si salvarai eo
+cist meon fradre Karlo, et in aiudha et in cadhuna cosa, si cum om per
+dreit son fradra salvar dift, in o [in eo] quid il mi altresi fazet_
+[faciat], _et ab[54] Ludher nul plaid_ [placitum] _nunquam prindrai,
+qui, meon vol, cist meon fradre Karle in damno sit._[55]
+
+Che razza di lingua è questa? Vi si scorgono, sì, alcuni speciali
+caratteri dell’antico francese;[56] ma pare quasi un miscuglio di
+tutte le nuove lingue; pare che non sia ancora risolutamente nessuna di
+esse, quantunque non sia più neppure il latino:
+
+  Come procede innanzi dall’ardore
+  Per lo papiro suso un color bruno,
+  Che non è nero ancora, e ’l bianco muore.[57]
+
+Il fatto però non recherà maraviglia a chi ripensi che più i rami sono
+vicini al tronco, e più si somigliano tra loro, e più somigliano anche
+al tronco stesso. Più invece se ne staccano, e più vanno acquistando
+ognuno caratteri propri. Già il gran Muratori, a proposito di questo
+medesimo documento, notava che la lingua francese era di certo molto
+più somigliante allora che adesso alla nostra italiana;[58] e, bisogna
+aggiungere, tutt’e due somigliavano, assai più che non ora, alle altre
+lingue sorelle, e tutte quante poi somigliavano più anche al latino.
+Perciò il Littré potè tradurre assai poeticamente, benchè quasi alla
+lettera e con lo stesso numero di versi e molto spesso anche con le
+stesse rime, tutto l’_Inferno_ di Dante in francese antico.[59]
+
+Su questo punto, dunque, sarebbe inutile recare altre prove, se non ci
+giovassero a dimostrare anche altre verità.
+
+Pare strano, per esempio, che il moderno francese _autel_ derivi dal
+latino _altare_. Ma chi sappia che nel francese dell’undecimo secolo
+si trova _alter_ e più tardi _altel_; chi sappia che in questa lingua
+l’_al_ latino (_al_tare), quando sia seguito da altra consonante,
+finisce di regola col cambiarsi in _au_ (_au_tel—_al_ba = _au_be,
+_al_ter = _au_tre, m_al_va = m_au_ve, p_al_ma = p_au_me, ecc.); e
+che l’_a_ latino accentato (alt_a_re), quando non è in posizione, vi
+si muta in _e_ (aut_e_l—s_a_l = s_e_l, am_a_rus = am_e_r, n_a_sus =
+n_e_z, cl_a_vis = cl_e_f, ecc.); chi sappia che l’_r_ (alta_r_e) mutato
+in _l_ (aute_l_) vi s’incontra anche in altre parole (pe_r_egrinus
+= pè_l_erin, crib_r_um = crib_l_e, ecc.), e che l’_e_ latina atona,
+quand’è al termine della parola (altar_e_), vi scomparisce sempre
+(autel—mar_e_ = mer, amar_e_ = aimer, ecc.); chi finalmente sappia
+che anche in provenzale s’incontrano le forme _altar_ e _autar_,
+e che altar si dice a Venezia e a Milano, e _altêr_ in Romagna e
+altrove; troverà naturale e logico che in francese si siano avute
+successivamente le tre forme: _alter_, _altel_, _autel_; e insieme
+avrà non solo una prova del fatto che le lingue romanze somigliano
+più tra loro e al latino, quanto più si risale il corso dei secoli;
+ma avrà altresì un’idea del metodo che oggi si segue nelle indagini
+etimologiche, e del posto importantissimo che in tali indagini tengono
+i dialetti.
+
+Prima di questo metodo, non sapendosi spiegare come il francese _âme_
+potesse derivare dal latino _anima_, si diceva derivato dal gotico
+_ahma_ (soffio, anima). Oggi invece, essendosi accertato che nel
+nono secolo i Francesi scrivevano _anima_,[60] nel decimo _anime_,
+nell’undecimo _aneme_, e nel decimoterzo _anme_ e _amme_, si trova
+naturalissimo che poi passassero ad _âme_; nè c’è punto bisogno
+di ricorrere alla parola gotica. Il provenzale _anma_ e _arma_, e
+l’italiano _anima_, che in alcuni scrittori e ne’ dialetti è _anema_,
+_alma_, _arma_, compiono e illustrano la storia di _âme_. E così
+è (per citare un ultimo esempio) dell’italiano _topo_, il quale è
+derivato dal lat. _talpa_: primo, per lo scambio di _al_ in _aul
+au_ (t_al_pa=_tau_pa), come in «_au_tre» per «_al_tro;» secondo,
+di _au_ in _o_ (t_au_pa=t_o_pa), come in «l_o_de» da «l_au_de;»
+terzo, col mutamento di genere (_topa_=_topo_), come in _uccello_ da
+_avicella_=_aucella_.
+
+Con questo metodo, dunque, si scoprono molto spesso etimologie
+inaspettate; ma non è più possibile cadere in quelle aberrazioni, per
+cui, ad esempio, il Menagio (1613–1692), con una serie di mutamenti
+cervellotici, faceva derivare _alfana_ da _equus_: derivazione che gli
+fruttò il grazioso epigramma del cavalier d’Aceilly:
+
+  _Alfana_ vient d’_equus_ sans doute;
+  Mais il faut convenir aussi
+  Qu’à venir de là jusqu’ici,
+  Il a bien changé sur la route.
+
+
+IX.
+
+Mentre però in Francia, dal IX secolo in poi, si hanno documenti sicuri
+e via via più copiosi per seguire passo per passo lo svolgimento di
+quegli idiomi, in Italia, invece, fino alla prima metà del sec. XIII,
+i documenti scarseggiano. Questa differenza proviene soprattutto dal
+fatto, che Provenzali e Francesi, essendo meno di noi affezionati al
+latino, cominciarono prima di noi a usare i loro volgari anche in opere
+letterarie, le quali, com’è naturale, si conservano più facilmente.
+Ma se è certo che le due letterature di Francia sono più antiche della
+nostra, non è men certo che gl’idiomi italiani si svolsero, per dir
+così, parallelamente ai francesi, di guisa che la storia di questi
+è anche, in sostanza, la storia dei nostri, come di tutti gli altri
+neolatini. Del resto, anche gli scarsi documenti che abbiamo, se sono
+insufficienti a risolvere molte questioni filologiche parziali, sono
+però più che sufficienti per la questione storica generale, potendosi
+applicar loro il noto detto: _ex ungue leonem_.
+
+Nelle _Inscriptiones Christianae urbis Romae_, pubblicate dal De Rossi,
+come anche in altre simili, s’incontrano forme volgari o semivolgari
+perfino nel IV secolo. Per esempio, un _mesis_ per _mensibus_,
+s’incontra nell’anno 310 (pag. 31); un _mesis nobe_ (_nove_) nell’anno
+350 (pag. 67); un _Pitzinnina_ (_Pizzinina_, _Piccinina_, nome o
+soprannome d’una giovine) nell’anno 392 (pag. 177); un _septe_ per
+_septem_ nell’anno 394 (pag. 183). Importante e curiosa mi pare poi
+sotto questo rispetto un’iscrizione dell’anno 404 (pag. 226), che dice
+così:
+
+                           LEPUSCLU^[S] LEO
+                   QUI VIXIT ANUM ET ME[N]SIS UNDECI
+                        ET DIES DECE^[ET]]NOVE
+                  PERIT SEPTIMU CALENDAS AGUSTAS etc.
+
+Qui, oltre le forme _undeci_ e _septimu_, tuttora venti in alcuni
+dialetti, e oltre l’_agu_ di _agustas_, vivente anch’esso nell’_Agusto_
+(Augusto) del romanesco e d’altri dialetti e nell’italiano _agosto_;
+abbiamo quelle tre correzioni sovrapposte a _Lepusclu_, _mesis_ e
+_decenove_, le quali mi paiono attestar chiaramente, che lo scolpitore
+dell’epigrafe si era fatto rubar la mano dalla sua parlata, e poi si
+corresse o fu corretto.
+
+Un _visse_ per _vixit_ s’incontra in un’iscrizione dell’anno 564 (pag.
+501); un _con_ per _cum_, in un’altra dell’anno 565 o 550 (pag. 503).
+
+Certo, forme consimili, più vicine cioè ai volgari italiani, che
+al latino classico, spesseggiano anche nel latino arcaico, come
+nelle altre antiche lingue italiche;[61] e appariscono perfino nel
+secolo d’Augusto. Ma nel quinto e sesto secolo dell’era cristiana
+cominciano a diventare un vero diluvio. Scorrendo la citata raccolta
+del De Rossi, si vede chiaramente che in que’ tempi il buon latino è
+già un’eccezione. E se così era nella culla stessa della latinità,
+figuriamoci che cosa dovesse essere altrove. L’arcaismo, prima
+relegato e quasi nascosto negl’infimi strati sociali, rialzava il capo
+arditamente col prevalere di questi; e data la mano al neologismo, che
+nasceva spontaneo dalle mutate condizioni materiali e morali, cospirava
+con esso a precipitare la trasformazione del linguaggio.
+
+De’ successivi progressi di tale trasformazione ci fanno sufficiente
+testimonianza gli atti notarili e cancellereschi, che per usanza e per
+legge dovevano essere scritti in latino, o almeno in una forma che ne
+avesse l’apparenza.
+
+Nella massima parte di codeste scritture, che specialmente dall’VIII
+secolo in poi ci son rimaste in gran copia, il capriccio individuale
+è per solito così sfrenato, e la mancanza d’ogni norma grammaticale
+così assoluta, da non lasciare ombra di dubbio, che i loro autori non
+scrivevano nessuna vera lingua, nè viva nè morta; ma storpiavano alla
+peggio, ognuno a suo modo, la propria parlata, su quello stampo informe
+di latino che ognun d’essi aveva in capo, o meglio che gli veniva
+in capo mentre scriveva. E quindi era possibile che, per esempio,
+un notaro e un prete di Lucca e un altro notaro della vicina Sovana
+usassero nello stesso tempo (a. 736–740) tre formule orribilmente
+sgrammaticate rispetto al latino, ma con spropositi del tutto diversi,
+sicchè ognuna, per di così, costituisce una lingua a sè. Il notaro
+lucchese, infatti, scriveva: _Regnante piissimi dn. nostro Liutprand
+et Hilprand vir excellentissimis regibus_....[62] Il prete, invece:
+_Regnante Domnos noster Liutprand et Helprand, Domino juvante,
+regibus_....[63] E il notaro sovanese: _Regnante Domni nostri Liutprand
+et Hilprand viri excellentissimi rigis_....[64] Basterebbero,
+dunque, questi tre soli esempi tra mille, a provare che nel principio
+del sec. VIII gl’idiomi parlati in Italia non erano più il latino.
+
+Ma i notari e i cancellieri, e in parte anche i cronisti, i biografi e
+simili, ci offrono prove ben più dirette e lampanti; poichè, alle volte
+per maggior chiarezza, ma più spesso per ignoranza, incastrano qua e là
+ne’ loro scritti forme semivolgari o prettamente volgari. Eccone qui
+pochi saggi, desunti da documenti d’ogni regione d’Italia.
+
+A. 539. In un papiro ravennate, contenente un istrumento di vendita:
+_Eundemque comparatorem_ [compratore] _Pelegrino Vaistrini_ [sic],
+_heredesque ejus causa hujus venditionis in ss_ [supra–scriptam] _rem
+inremittere, ingredi, possidereque permiserunt_. (MAFFEI, _Istoria
+Diplomatica_; Mantova, 1727; pag. 151.)—_Nomero centum decem_ ...
+_nomero_. (_Ibid._, pag. 152).—_Vindetrice_ (ripetuto due volte,
+invece del genitivo _venditricis_.—_Ibid._, pag. 153).
+
+A. 557. In un papiro reatino: _Aetatis invicillitatem_. (_Ibid._, pag.
+161 _bis_.) _Invicille_ e _invecille_, per _imbecille_, vivono ancora
+in alcuni de’ nostri vernacoli.
+
+A. 602 o 603. _In valle que nominatur Bobio_. (_Historiae patriae
+Monumenta, edita jussu regis Caroli Alberti._ Chartar. tom. I, pag. 3.)
+
+A. 685. _Orare diveatis_ ... _tam movile quam imovile_ ...
+_scrivendam_ ... _stavilitum_. (_Docum. Lucch._, tom. IV, pag. 63–64.)
+
+A. 713. _Ego Fortunato_.... _Et posi hanc completa cartula,
+rememoravimus particellula nostra de oliveto in Vaccule, ego Fortonato
+et Bunuald parte nostra in integrum offerimus Deo et beati S. Petri,
+quem novis heredem constituemus_. (_Ibid._, tom. V, par. II, pag. 4–5.)
+
+A. 730. _De uno latere corre via publica_. (Carta pisana, nel MURATORI,
+Diss. cit., col. 480–81.)
+
+A. 746. _De uno latum decorre via publica_ ... _nomero quindeci_.
+(_Docum. Lucch._, tom. V, par. II, pag. 23.)
+
+A. 747. _In loco qui dicitur Castellone_. (_Ibid._, pag. 24.)
+
+A. 748. _Una libra cera_ ... _perexolvant_. (_Ibid._, pag. 26.)
+
+A. 759. _Reddere debeamus uno soldo bono expendibile._ (_Ibid._, pag.
+39–40.)
+
+A. 765. Rissolfo prete dona tutti i suoi beni a due Chiese del
+territorio di Lucca, a condizione però, che con una parte delle rendite
+si dia da pranzo per tre giorni d’ogni settimana a ventiquattro poveri;
+e fissa egli stesso il _menu_ del pasto: _Prandium eorum tali sit per
+omnem septimana: scaphilo grano pane cocto, et duo congia vino, et duo
+congia de pulmentario faba et panico mixto, bene spisso, et condito de
+uncto aut oleo_. (_Ibid_., pag. 55.)
+
+A. 776. _Reddere promettimus una anfora vino_ ... _et uno porcello_.
+(_Ibid._, pag. 90.)
+
+A. 777. _Signum_ † _manus Garibaldi, filio quondam Placito da Porta
+Argenta, testis._ (Carta milanese, nel MURATORI, Diss. cit., 479.)
+
+A. 788. _Constat me Arimundi filio bone memorie Desiderio de Civitate
+astense accepisse et accepi ad te Augustino Clericus dinarios argenteos
+nomeri trigenta, fenido_ [finito, intero?] _precio pro pecia una de
+campo, quam avere viso sum inter consortis et germanos meos ex integrum
+mea porcione de ipso campo et cum antecessura de pradello._ (_Hist.
+patr. Mon._, vol. cit., pag. 23.)
+
+A. 792. Un contadino prende a coltivare un podere da Giovanni, vescovo
+di Lacca, e si obbliga a dargli ogni anno, tra l’altre cose, _mediatate
+vino puro_. (_Docum. Lucch._, tom. cit., pag. 138.)
+
+A. 799. _Alia pettia de terra in ipsu locum abentes fine de duas parti
+fine bia._ (Carta salernitana, nel _Codex Diplomatica Cavensis_; tom.
+I, pag. 4.)
+
+Da documenti di questi stessi tempi risulta che a Roma si diceva _Porta
+Majore_ nel nominativo;[65] e nel _Liber Pontificalis_ di Agnello
+Ravennate,[66] scritto nella prima metà del IX secolo, abbiamo un
+curiosissimo fatto. Quando Carlo Magno passò per Ravenna, l’arcivescovo
+Grazioso e altri lo invitarono a pranzo; e i maggiorenti del clero,
+conoscendo il loro arcivescovo per uomo di _gran semplicità_, lo
+ammonirono in buoni termini, perchè alla presenza del sovrano non se ne
+lasciasse scappare qualcuna delle sue.—_Domine, retine simplicitatem
+tuam, et cave ne aliqua loquaris quae apta non sint_.—No, figlioli,
+no; mi turerò la bocca (_Non, filii, non, sed oppilo os_), rispose
+l’arcivescovo. Ma quando furono a tavola, il brav’omo, vedendo forse
+che Carlo mangiava poco, saltò su a dirgli: _Pappa, Domine mi Rex,
+pappa!_ Carlo, com’è naturale, si maravigliò (_admiratus est_) di quel
+_pappa_; e allora gli altri preti (figuriamoci con che premura!) gli
+spiegarono che l’arcivescovo, nella sua _gran semplicità_, con quelle
+parole non aveva punto inteso _nè ingiuriarlo_, _nè beffarlo_, ma
+solamente esortarlo a mangiare, come una madre fa col bambino. _Ecce
+vere Israelita, in quo dolus non est_, esclamò il Re; e divenne così
+benigno verso Grazioso, che gli concesse poi tutto ciò che volle. È
+dunque evidente che il verbo _pappare_ aveva già nell’uso vivo il
+significato ingiurioso o burlesco (_injuriae aut illusionis_) di
+_mangiare ingordamente_, mentre invece in latino pare che si dicesse
+de’ soli bambini, quando chiedono il cibo, o quando mangian la _pappa_.
+
+A. 816. _Avent in longo pertigas quatordice in transverso, de uno capo
+pedes dece, de alio nove in traverso_.... _de uno capo duas pedis,
+cinque de alio capo_. (Carta pisana, nel MURATORI, Diss. cit., 481.)
+
+A. 818. Ghisalperga, badessa di S. Lucia in Lucca, nomina rettore
+della chiesa di S. Pietro di Nocchi un prete Romualdo, il quale dal
+canto suo si obbliga a _bene lavorare_ i terreni di detta chiesa, e a
+dare ogn’anno alla badessa _medietatem vinum purum_.... _et medietatem
+castanie, et medietatem fica sicche_. (_Docum. Lucch._, Suppl. al
+tom. IV, pag. 23.)
+
+A. 846. Finchè Ambrogio vescovo di Lucca conserverà badessa di S.
+Pietro _Ildicunda_, e la lascerà padrona di tutti i beni del monastero,
+un tal Ghisolfo, probabilmente parente di lei, si obbliga a _reddere
+per singulos annos_ al vescovo _uno vestito caprino testo in sirico, et
+uno tappite_. (_Ibid._, pag. 40.)
+
+A. 850. _Per longu passi sidici et gubita trea et pede unu_. (Carta
+nocerina, nel _Cod. Dipl. Cav._, tom. I, pag. 40.)
+
+A. 857. _In locu nominato casamavile_. (_Ibid._, pag. 63.)—_Ut dare in
+cambio_.... _ipsa terra sua, qui dicitur ad casa amabele_. (Pag. 65.)
+
+Frequenti son pure i soprannomi volgari. In una carta modenese
+dell’anno 918, incontriamo un _Lampertus, qui supernominatur
+Cavinsacco_ (capo–in–sacco). In una lucchese, del 941, facciamo
+conoscenza, poco gradita in verità, con _Johannes clericus, qui Rabia
+vocatur_; e, nel 905, re Berengario donava a un monastero i beni di
+un altro Giovanni, _qui alio nomine Bracca curta_, [braca–corta]
+_vocitabatur_. (MURATORI, Diss. cit., 491.)
+
+In un documento lucchese del 980 (Suppl. al tom. IV, pag. 101–2),
+sono espressamente nominate in volgare una quarantina di ville, come
+_Valiano_, _Ferugnano_, _Monte alto_, _Perglone_, _Valle_, _Aliga_,
+_Appiano_, _Casale Lapidi_, _Vivaja_, _Marciano_, _Collecarelli_,
+_Carbona in Cercino_, ecc. Ma quasi non ce n’è più bisogno; perchè
+in una carta originale dell’archivio di Montecassino, scritta nel
+960, troviamo finalmente un intero periodetto quasi tutto volgare.
+Questa preziosissima carta, pubblicata prima dal Gattola e poi anche
+dal Tosti,[67] è un placito di Arechiso, giudice capuano, per una
+lite di confini tra il Monastero cassinese e un tal Rudelgrimo di
+Aquino. Ognuno de’ testimoni, tenendo con una mano l’_abbreviatura_
+delle carte processuali, e toccandola con l’altra mano, dice: _Sao ko_
+[come] _kelle terre per kelle fini, que ki contene,[68] trenta anni
+le passette_ [possedette] _parte Sancti Benedicti_. E queste parole
+son ripetute nel placito ben quattro volte, con lievissime differenze,
+più grafiche, che di sostanza, e dal cui confronto risulta la nostra
+lezione.
+
+Sulla data e autenticità di questo vero cimelio, il quale basterebbe
+da solo a provare che verso il mille il latino doveva già esser morto
+e sepolto da un pezzo, non c’è, nè ci può essere, ombra di dubbio.[69]
+E la sua importanza si accresce grandemente, considerando che esso si
+trova, per dir così, solitario; poichè, dimostrata ormai ad esuberanza
+la falsità delle pretese _Carte d’Arborèa_;[70] dimostrato che non è
+del 1000, ma del 1606, la iscrizione volgare di Monte San Giuliano
+in Sicilia;[71] passa ancora un secolo, prima che si trovi un altro
+documento autentico e di data certa, che sia degno di stargli vicino.
+Le singole forme volgari, che potremmo ancora spigolare qua e là
+abbondantemente, farebbero al suo confronto una ben magra figura; e
+solo nella seconda metà del secolo XI abbiamo una carta sarda, la
+quale, tenuto conto della stretta somiglianza che gl’idiomi di Sardegna
+hanno anche oggi col latino,[72] può quasi considerarsi come del tutto
+volgare. Eccone, per saggio, le prime righe: _In nomine Domini. Amen.
+Ego judice Mariano de Lacon fazo ista carta ad honore de omnes homines
+de Pisas, per xu toloneu ci_ [ki] _mi pecterunt_ [per il dazio che
+mi domandarono], _e ego donolislu_ [donoglielo], _per ca li sso ego_
+[perchè gli sono io] _amica caru, e itsos a mimi_ [ed essi a me].[73]
+
+Secondo il compianto Löwe, appartiene al sec. XI anche una _Formula di
+Confessione_, contenuta in un codice proveniente dall’antico monastero
+benedettino di S. Eutizio presso Norcia, e ora nella Vallicelliana di
+Roma.[74] È una specie di guida o promemoria per la confessione. Il
+supposto penitente, dopo aver detto tre volte: _Domine, mea culpa_,
+dichiara con frasi latine o semilatine di confessarsi, davanti a Dio,
+alla Madonna e a tutti i Santi e le Sante, d’ogni peccato commesso,
+_da lu battismu_ suo, _usque in ista hora_; e quindi prosegue,
+specificandone alcuni più grossi: _Me accuso de lu corpus Dei, k’io
+indignamente lu accepi. Me accuso de li mei adpatrini_ [confessori],
+_et de quelle penitentie k’illi me pusero e nnoll’observai. Me accuso
+de lu genitore meu et de la genitrice mia et de li proximi mei, ke ce
+non abbi quella dilectione ke me senior Dominideu commandao. Me accuso
+de li mei sanctuli_ [padrini, compari] _e de lu sanctu baptismu, ke
+promiseru pro me et noll’obsevai. Me accuso de la decema et de la
+primitia et de offertione, ke nno la dei siccomo far dibbi. Me accuso
+de le sancte quadragessime et de le vigilie de l’apostoli et de le
+jejunia .IIII.^[or] tempora, k’io noll’observai. Me accuso de la sancta
+treva_ [tregua], _k’io noll’observai siccomo promisi_, eccetera,
+eccetera, finchè s’arriva all’assoluzione.
+
+Del principio del sec. XII, e precisamente dell’anno 1104 o 1122,
+abbiamo la nota carta rossanese, di cui sarebbe desiderabile che
+qualcuno ritrovasse l’originale e ce ne desse un’edizione migliore di
+quella dell’Ughelli,[75] la quale, come già avvertiva il Muratori
+(Diss. cit., 512), deve avere parecchie inesattezze di trascrizione.
+Comunque sia, eccone qui uno de’ passi più ricchi di forme prettamente
+volgari:..... _et cala allo vallone de donna Leo, et lo vallone
+Apendino ferit a la via che vene ad Santo Jorio, et volta supra l’ara
+de li maracini_ [_Maracini?_].....
+
+Dell’anno 1193 abbiamo una carta, scritta nel territorio di Fermo,
+e nella quale, tra l’altre, s’incontrano queste locuzioni: _unu
+mese poi_—_non volese redere li denari_—_se questo avere se_ [si]
+_perdesse_—_fose palese per la terra_—_ke la mitade se ne fose ad
+resicu de Johanni de tuctu_.[76]
+
+Ognun vede però, che questi documenti appartengono tutti alla storia
+della lingua, e non alla _letteratura_ propriamente detta. Ma nel sec.
+XII ne abbiamo anche tre altri, che possono considerarsi come letterari.
+
+Il primo è la notissima iscrizione del Duomo di Ferrara, che nella sua
+forma più antica diceva così:
+
+  Li mile cento trenta cenqe nato,
+  Fo questo tempio a S. Gogio donato
+  Da Glelmo ciptadin per so amore,
+  E mea fo l’opra Nicolao Scolptore.
+
+I dubbi sollevati sull’autenticità di questo documento furono
+strenuamente combattuti dall’Affò,[77] e li crede addirittura
+infondati anche il Monaci.[78]
+
+Il secondo son quattro versi, che alludono all’impresa di Casteldardo,
+assalito e distrutto dai Bellunesi nel 1193:
+
+  De Casteldart havi li nostri bona part;
+  I lo zettò tutto intro lo fiume d’Art;
+  E sex cavalier di Tarvis li plui fer
+  Con sè duse i nostri presoner.[79]
+
+Il terzo, letterariamente più importante di tutti, è però opera di
+un trovatore provenzale, Rambaldo di Vaqueiras, che in una canzone
+o contrasto bilingue, scritto senza alcun dubbio pochi anni prima
+della fine del secolo, fa parlare per ben quattro strofe in genovese
+una donna, la quale, per la buona ragione che è già maritata, non
+vuoi corrispondere alle proteste di amore che egli le vien facendo in
+provenzale. Eccone per saggio una strofa, secondo la lezione del conte
+Galvani:
+
+  Jujar,[80] to provenzalesco,
+  Si ben s’engauza de mi,[81]
+  Non lo prezo un genoì,[82]
+  Nè t’entend chiù d’un Toesco
+  O Sardesco o Barbari,[83]
+  Ni non ho cura de ti:
+  Vo’ ti cavillar con mego?
+  Se lo sa lo meo marì,
+  Malo piato avrai con sego.
+  Bel Messer, vero ve di’:
+  Non vollio questo latì;[84]
+  Frare, zo aia una fi;[85]
+  Provenzal, va, mal vestì,
+  Lagame star.[86]
+
+A questi tre documenti potrebbe anche aggiungersi la poesia che va
+sotto il nome di _messer lo Re Giovanni_;[87] perchè, se realmente
+ne fu autore il suocero di Federigo II, Giovanni di Brienne; essendo
+egli nato nel 1158, e codesta poesia avendo un carattere erotico
+molto vivace, deve probabilmente averla scritta prima della fine del
+secolo, quando cioè il sangue gli bolliva ancora. E potrebbe altresì
+aggiungervisi il così detto _Ritmo Cassinese_, essendo probabile che,
+tra quelli che lo vogliono del sec. XI e quelli che lo vogliono del
+XIII, abbiano ragione coloro i quali, come il Monaci, lo ritengono
+del XII.[88] Al qual tempo è forse da assegnare anche il _Ritmo_
+della Laurenziana, pubblicato dal Bandita,[89] e i ventidue _Sermoni
+Gallo–italici_, pubblicati dal Foerster[90] e scritti in un linguaggio
+che ha qua e là forme francesi, ma il cui fondo appartiene all’Italia
+settentrionale.[91]
+
+Potremmo tuttavia non tener conto di questi quattro ultimi documenti,
+e anche del contrasto del trovatore provenzale; poichè basterebbero
+l’iscrizione di Ferrara e i versi bellunesi, per affermare che fin dal
+sec. XII i nostri volgari cominciarono, scarsamente, rozzamente quanto
+si vuole, ma cominciarono, ad essere usati in componimenti letterati.
+
+Intanto però che qui si movevano appena i primissimi passi (e in parte
+si movevano, come abbiamo veduto, per opera di un provenzale e d’un
+francese), la letteratura francese e la provenzale erano già in pieno
+fiore; anzi, la seconda già cominciava a decadere.
+
+Le ragioni di questa differenza tra l’Italia e la Francia possono
+esser parecchie, ma la principale è quella che abbiamo già accennata:
+gl’Italiani, considerando l’impero e la lingua di Roma come cosa e
+gloria propria, si ostinavano a scrivere in latino, o almeno in un
+volgare latinizzato. Latino e volgare furono sempre in lotta tra noi;
+si può anzi dire che questa lotta forma il carattere più spiccato della
+lingua e della letteratura italiana, e non è ancora interamente cessata.
+
+Al cadere del VI secolo, san Gregorio Magno, papa, faceva una solenne
+lavata di capo a Desiderio vescovo di Vienna in Francia, perche
+dava lezioni di grammatica latina. «Ci si riferisce un fatto,» gli
+scriveva, «che non possiamo ripetere, senza arrossirne. Dicono che tu,
+o fratello, dài lezioni di grammatica. Noi ne siamo vivissimamente
+afflitti e sdegnati......., perche le lodi di Giove non possono stare
+in una medesima bocca insieme con quelle di Cristo.»[92]
+
+In quanto a sè, poi, il pontefice, benchè dottissimo, diceva di non
+curarsi a d’evitare la confusione del barbarismo, e di disprezzare
+l’esatta collocazione delle preposizioni, e l’osservanza dei casi
+da esse richiesti; poichè gli pareva «una vera profanazione (_quia
+indignum vehementer existimo_) il restringere la parola del celeste
+oracolo sotto le regole del grammatico Donato.»[93]
+
+Verso la metà del sec. VIII, un prete della diocesi di Magonza, avendo
+forse seguìto alla lettera gli ammonimenti già dati da Gregorio Magno,
+battezzò un bambino con queste parole: _Ego te baptiso in nomine Patria
+et Filia et Spiritus Sancti_; onde nacque il dubbio che il battesimo,
+amministrato così, potesse non esser valido, e la questione fu portata
+davanti a papa Zaccaria.[94] Nello stesso secolo, a Roma, perfino le
+lettere de’ papi non rispettavano più nè le leggi della grammatica, nè
+quelle della logica.[95]
+
+Ma, in generale, il fervore cristiano contro la latinità classica
+produsse i suoi effetti più di là dalle Alpi, che in Italia, dove,
+anche ne’ tempi più tenebrosi, la coltura non fu mai esclusivo
+patrimonio de’ chierici; e dove anzi, specialmente fuori di Roma, i
+chierici stessi coltivavano spesso con ardore e con intenti artistici
+le letterature antiche; sicchè, mentre presso le altre nazioni
+fiorivano, e assai più che tra noi, i soli studi teologici, qui invece
+erano in maggior onore i profani; e mentre sorgeva poi nell’Università
+parigina la più celebre scuola di teologia, nelle Università italiane
+venivano massimamente in fiore la giurisprudenza e la medicina.[96]
+
+Carlo Magno, che aveva avuto per maestro di latino un italiano,
+Pietro da Pisa; e che dalla nostra Parma aveva condotto con sè alla
+sua corte il dotto anglosassone Alcuino; e che aveva potuto vedere
+come in Lombardia, perfino ne’ villaggi, ci fossero scuole pubbliche,
+dove i parrochi insegnavano i primi rudimenti letterali;[97] tentò di
+ridestare di là dalle Alpi il culto de’ buoni studi, raccomandandolo
+ai chierici con l’_Encyclica de Litteris colendis_ dell’anno 787,
+e ordinando loro, col capitolare del 789 (§ 71), d’aprire in tutti
+i monasteri e gli episcòpi scuole di grammatica, di calcolo, di
+musica.[98] Volendo poi dare, egli per primo, il buon esempio, fondò
+nel suo palazzo in Aquisgrana la così detta _Scuola palatina_, cioè
+una specie d’accademia, della quale faceva parte egli stesso, i suoi
+maestri, i suoi favoriti, i suoi figli e perfino le sue figlie. Ma
+il nobile tentativo, rispetto al laicato, attecchì in generale così
+poco, che nell’813 il Concilio di Magonza, convocato per ordine del
+medesimo Carlo Magno, nel canone XLV ordinava, che ognuno dovesse,
+se non poteva in latino, imparare almeno _in sua lingua_ l’orazione
+domenicale.[99] E, venti o trent’anni dopo, Lupo Servato, abate di
+Ferrières, scrivendo al celebre Eginardo, già allievo della _Scuola
+palatina_, e ministro, amico e biografo del grande Imperatore, si
+doleva che, morto questo, gli studi si fossero quasi spenti di nuovo,
+e che fosse veduto di mal occhio chiunque desiderava d’imparar qualche
+cosa.[100] Nè va dimenticato, che la coltura classica in Francia
+trovava anche un formidabile ostacolo nella penuria de’ codici, la
+quale era incomparabilmente maggiore che tra noi; giacchè non pare
+che i nostri vicini avessero allora l’abitudine di portarceli via:
+tutt’al più, ce li chiedevano in prestito. Difatti, lo stesso Lupo
+di Ferrières, verso l’anno 855, si raccomandava a mani giunte a papa
+Benedetto III, perchè gli mandasse da Roma alcuni libri: tra gli altri,
+un _De Oratore_ di Cicerone e un Quintiliano, de’ quali i suoi frati
+possedevano solo qualche pezzo; e lo assicurava che, appena trascritti,
+glieli avrebbe scrupolosamente restituiti.[101]
+
+Avendo dunque i laici in Francia trascurato il latino, e i chierici
+essendosene serviti quasi esclusivamente per le materie religiose,
+è naturale che là si principiasse a scrivere i nuovi idiomi prima
+che qui da noi, dove il latino pesava come una cappa di piombo sui
+disprezzati volgari. I quali poi, dopo il mille, cominciarono a
+trovarsi addosso anche il provenzale e il francese, che a poco a poco
+invasero con due nuove e attraenti letterature l’Italia.
+
+Sicchè la patria nostra, ne’ secoli XII, XIII e parte del XIV,
+presenta un fenomeno letterario, unico, io credo, nella storia. Il
+più de’ dotti scrivono il latino; altri scrivono il provenzale; altri
+il francese; altri, i loro particolari idiomi nativi; altri sono in
+grado di scrivere due, tre, quattro di queste lingue; altri infine ne
+fanno un miscuglio, che non si sa bene cosa sia; e il popolo nostro,
+specialmente quello della media e dell’alta Italia, le capisce tutte,
+salvo in parte il latino; e s’affolla su per le piazze a sentire i
+canti dei trovieri e dei giullari, finchè, come accadde nel 1288
+a Bologna, un decreto del Senato non prescriva che i Cantatores
+_Franciginorum in plateis Communis ad cantandum.... omnino morari non
+possint nec debeant_, sotto pena, nientemeno, della fustigazione in
+pubblico, e altre maggiori per i recidivi.[102]
+
+X.
+
+Per uscire da questa nova Babilonia, ci voleva uno sforzo supremo, una
+specie di miracolo. Ci voleva un uomo, il quale, servendosi di uno
+degl’idiomi centrali della penisola, e perciò meglio accetto agli altri
+Italiani, fondesse insieme, con mirabile armonia, in una grand’opera
+d’arte, tutti gli svariati elementi, che cozzavano, confusi, tra loro:
+la gentilezza cavalieresca de’ Francesi e de’ cortigiani di Sicilia;
+i sospiri d’amore e le invettive anticlericali de’ Provenzali; il
+misticismo di san Francesco e di Iacopone; la naturalezza e la verità
+del sentimento popolare; la speculazione teologica e scientifica.
+
+Quest’uomo venne, nè c’è bisogno ch’io lo nomini; ed a ragione potè
+dire che, col suo poema, avrebbe cacciato di nido i suoi predecessori,
+togliendo loro «la gloria della lingua.»[103] E con la solita fierezza,
+egli si sdegnava contro i «malvagi uomini d’Italia, che commendano lo
+Volgare altrui, e lo propio dispregiano;» e profetizzava che il Volgare
+sarebbe stato «luce nuova, sole nuovo, il quale surgerà ove l’usato,»
+cioè il latino, «tramonterà.»[104]
+
+Ma il latino, anzichè tramontare, non pago di averci, con Guittone,
+col Boccaccio e co’ loro seguaci, snaturato una parte non piccola del
+lessico e della sintassi, risorse, come la fenice della favola, dalle
+sue ceneri, e per tutto il Quattrocento tenne in iscacco la lingua
+gloriosa con cui Dante aveva potuto
+
+  Descriver fondo a tutto l’Universo.
+
+Ciò che san Gregorio Magno, otto secoli innanzi, aveva temuto e voleva
+scongiurare, avvenne di fatto: l’Italia cólta e il Papato stesso
+ridiventaron pagani nella forma e nel pensiero, e il latinismo,
+risuscitato per opera nostra, invase una seconda volta anche la lingua
+e la letteratura francese.
+
+Fu un bene? Fu un male?
+
+C’è di certo chi sarebbe disposto a lapidarmi, se io osassi solamente
+dubitare che il Risorgimento, in tutte le sue cause e in tutti i suoi
+effetti, non fosse addirittura un gran bene. Io quindi sono lietissimo,
+che il mio assunto mi dispensi dall’entrare in così pericolosa
+questione.
+
+Per il mio assunto, basta l’aver notato il fatto in quanto concerne la
+lingua; e basta che inviti il lettore a rifletterci sopra un momento.
+
+Il linguaggio de’ barbari invasori d’Italia lascia appena, come abbiamo
+veduto, meschinissime tracce nella lingua de’ vinti, la quale anzi
+s’impone ai vincitori. Il latino invece, dopo aver sradicato cento
+idiomi, allora già in gran parte così diversi tra loro, che i popoli
+che li parlavano avevano perfino dimenticato la comune origine; dopo
+aver generato nuove lingue e nuove e fiorenti letterature; dopo che
+la sua gloriosa culla era stata messa e rimessa a soqquadro; dopo
+tanti secoli che più non si parlava e solo lo si scriveva scorretto e
+imbarbarito, torna durante il Risorgimento a risonare nelle opere del
+Petrarca, del Poliziano, del Pontano, del Fracastoro e di tanti altri,
+come già aveva risonato sulle labbra di Virgilio e di Orazio; corre di
+nuovo trionfalmente tutto il mondo civile, mettendo persino in forse
+l’esistenza letteraria della sua stessa primogenita.
+
+Da questo fatto, meglio assai che dalle strepitose vittorie, si può
+avere un’idea del miracolo di forza, d’arte e di sapienza, che dovette
+essere il popolo che parlò una tal lingua.
+
+
+=Antologia della nostra Critica letteraria moderna=, compilata per uso
+delle persone cólte e delle scuole da LUIGI MORANDI, già precettore di
+S. A. R. il Principe di Napoli.—Quinta edizione, sulla quarta assai
+migliorata e accresciuta di ventidue scritti.—Lapi editore, 1890.—Un
+bel volume di pag. XII–756.—=Lire 4.=
+
+ «Nous recommandons ce livre a tous égards et à tout le monde, en
+ émettant le vœu qu’il soit, non seulement étudié, mais imité
+ chez–nous. Cette _Anthologie de la Critique moderne en Italie_ réponde,
+ en effet, a un besoin que les gens d’étude, jeunes ou vieux, éprouvent
+ un peu partout, celui de savoir ce que les maîtres pensent des maîtres.
+ En recueillant ainsi des jugemens tout a fait supérieurs, et en les
+ mettant en ordre, avec méthode, comme fait M. Morandi, ON FINIT PAR
+ CONSTITUER UNE HISTOIRE LITTÉRAIRE autrement intéressante que celles
+ où un seul homme exhibe son érudition et sa sagacité.... Le pian de ce
+ livre.... nous paraît fort bien composé.» Marc Monnier, nel _Journal des
+ Débats_ del 31 marzo 1885.
+
+ «Il Morandi, nel compilare questa _Antologia_, non s’è lasciato dirigere
+ da programmi presenti o passati. Ha avuto un concetto suo, e in verità
+ buono: educare a pensare di letteratura la mente dei lettori, o maturi
+ o giovani, alla scuola o fuori di scuola, mostrando loro come sugli
+ scritti di altri o sulla teorica dell’arte hanno pensato scrittori
+ moderni, che a lui son parsi degni e capaci di compiere l’ufficio di
+ risvegliatori del pensiero altrui.... La scelta è fatta, com’egli suole,
+ con diligenza e bene.» Ruggero Bonghi, nella _Cultura_ del 1º aprile
+ 1885.
+
+ «L’idea di questa Antologia è tanto nuova, quanto degna di lode.»
+ _Literarisches Centralblatt_ di Lipsia, del 15 agosto 1885.
+
+ «....Per costoro che rinnegano il mondo moderno, un libro come
+ questo del Morandi, che contiene tante novità e non apre ma spalanca
+ addirittura le porte e le finestre della scuola, deve essere senz’altro
+ messo all’_Indice_, e magari bruciato. Ma noi ... consideriamo
+ quest’_Antologia_ come un utilissimo supplemento e un complemento
+ necessario ai testi in uso. Complemento necessario alla coltura
+ letteraria de’ giovani delle nostre scuole mezzane è la prima parte;
+ tutto il resto supplisce alla brevità de’ quadri storici, e corregge
+ un poco le forme convenzionali delle rettoriche. Le pure notizie
+ biografiche e bibliografiche, che non nutriscono gl’intelletti mentre
+ son pure necessario, acquistano in queste pagine organismo e vita. Le
+ norme intorno ai principali generi di componimento avranno lume e valore
+ dalla loro storia.... E se è vero che i nostri giovani difettano non
+ tanto nello scrivere, quanto nel comporre, con queste letture alquanto
+ difficili si abitueranno appunto a pensare e a riflettere, che è il
+ comporre.» Giuseppe Piergili, nella _Nuova Antologia_ del 1º ottobre
+ 1885.
+
+
+FOOTNOTES:
+
+[1] SALVIATI, _Degli avvertimenti della lingua sopra il Decamerone_;
+Venezia, 1584; vol. I, lib. II, pag. 94.
+
+[2] Dopo gli studi dell’Ascoli (_Archivio Glottologico_, vol. I),
+il ladino è definitivamente considerato, non più come un dialetto
+italiano, ma come un sistema dialettale a sè, con caratteri suoi
+speciali; e comprende tre gruppi distinti: all’est, il friulano,
+parlato da più di quattrocentocinquantamila persone, dalle rive del
+Tagliamento in Italia fino a Gorizia in Austria. Al centro, il ladino,
+parlato da più di novantamila persone, in due punti del Tirolo, a
+qualche distanza dalle due rive dell’Adige. All’ovest, il romancio, che
+si stende trasversalmente sulla maggior parte del Canton de’ Grigioni,
+ed è parlato da circa quarantamila persone.
+
+[3] Molti separano il catalano dai dialetti provenzali, ma i suoi
+caratteri specifici non paiono sufficienti per rendere obbligatoria
+questa separazione. Sufficienti invece sono certamente quelli che
+l’Ascoli ha scoperto in un altro tipo idiomatico, che tramezza tra
+il francese e il provenzale, e che da lui perciò è stato chiamato
+_franco–provenzale_. Ecco le parole con cui l’insigne glottologo
+cominciava il suo saggio: «Chiamo _franco–provenzale_ un tipo
+idiomatico, il quale insieme riunisce, con alcuni suoi caratteri
+specifici, più altri caratteri, che parte son comuni al francese, parte
+lo sono al provenzale, e non proviene già da una tarda confluenza
+di elementi diversi, ma bensì attesta la sua propria indipendenza
+istorica, non guari dissimile da quella per cui fra di loro si
+distinguono gli altri principali tipi neolatini. L’ampia distesa
+di dialetti, in cui è ancora e per ora dato riconoscere il tipo
+_franco–provenzale_, ammette e richiede, come ogni altro complesso
+neo–latino, suddistinzioni parecchie; ma costituisce, anche nell’ordine
+geografico, un tutto continuo. La cura di determinare rigorosamente
+gli estremi confini del complesso franco–provenzale, dev’essere
+riservata a studj ulteriori. Qui intanto si mostrerà, come questa serie
+di vernacoli si stenda, nella Francia, per la sezion settentrionale
+del Delfinato (dipartimento dell’Isera); indi passi il Rodano in
+doppia direzione: verso ponente, per occupare una parte, e forse la
+maggior parte del Lionese; e verso tramontana, per far sua la sezion
+meridionale della Borgogna (dipartimento dell’Ain); onde poi, come in
+colonna longitudinale, appar che s’incunei, non senza patire molti
+danni, tra il francese a ponente ed a levante, tanto da attraversare
+l’intiera Franca–Contea e metter capo ben dentro al territorio lorenese
+(sezioni dei dipartimenti del Jura, del Doubs, dell’Alta Saona—si
+raggiunge anche l’Alsazia con la varietà di _Giromagny_, distretto di
+Belfort—e dei Vogesi). Ma Francia è oggidì anche la Savoja, tutta
+franco–provenzale; e son franco–provenzali, nella Svizzera, i dialetti
+proprj dei cantoni di Ginevra, del Vaud, di Neufchâtel con un piccolo
+tratto di quel di Berna (tra il Jura e il lago di Bienne, ma son
+francesi, all’incontro, i vernacoli del Jura bernese), della maggior
+parte del cantone di Friburgo, e della sezione occidentale del canton
+Vallese. Di qua dall’Alpi, finalmente, spettano a questo sistema i
+dialetti romanzi che sono proprj della Valle d’Aosta, e quello della
+Val Soana.» (_Arch. Glott._, vol III, pag. 61–62.)
+
+[4] _De origine linguae gallicae et ejus cum graeca cognatione
+dialogorum libri IV_ (Parigi, 1555).
+
+[5] _Della Storia e della Ragione d’ogni poesia_; Bologna, 1739; vol.
+I, pag. 42.
+
+[6] _Die romanischen Sprachen in ihrem Verhältnisse zum Lateinischen_
+(Le lingue romanze nel loro rapporto col latino); Halle, 1819; pag. 53.
+
+[7] Fin dal secolo passato, Scipione Maffei avvertiva che «i nostri
+odierni dialetti non altronde si formarono, che dal diverso modo di
+pronunziare negli antichi tempi, e di parlar popolarmente il Latino; la
+qual diversità non altronde nasceva, che dal genio delle varie lingue
+che avanti la Latina correvano.» (_Verona Illustrata_; Milano, 1825–26;
+vol. I, pag. 27.—Cfr. anche vol. II, pag. 540–41.)—«Può dirsi che
+il francese, in fondo, sia un latino pronunziato da Celti.» (LITTRÉ,
+_Histoire de la Langue française_; sixième édition; Paris, 1873; vol.
+I, pag. 263.)—Intorno alle corrispondenze tra l’umbro antico e i
+moderni dialetti umbro—romani, in alcune proprietà del vocalismo,
+e specialmente nella preferenza per e atona, soprattutto finale,
+sull’_i_, si vedano le _Osservazioni_ del Caix _sul Vocalismo italiano_
+(Firenze, 1876).
+
+[8] Ormai è definitivamente dimostrato, che quasi tutti questi idiomi
+erano d’origine ariana: derivavano, cioè, al pari del latino stesso,
+del sanscrito, dell’antico persiano, del greco, del gotico, ecc., da
+una lingua, parlata forse ben più di cinquanta secoli fa dal popolo
+degli Arii, i quali, sia che originariamente dimorassero in Asia, sia
+che dimorassero in Europa, certo è che poi si diffusero, spazzando via
+o assimilandosi le popolazioni indigene, per tutta l’immensa regione
+che corre dall’Himalaia al Capo Nord, dalle foci del Gange a quelle del
+Tago. Di questa antichissima lingua non ci rimangono documenti scritti;
+ma si è già potuto determinarne i caratteri generali, e tentare anche
+in parte di ricostruirla, per mezzo degli elementi comuni delle
+lingue derivate da essa; come appunto, se mancasse ogni documento del
+latino, si potrebbe fino a un certo segno ricostruirne la grammatica
+e il vocabolario, per mezzo degli elementi comuni delle lingue
+romanze. Da tali elementi delle lingue indoeuropee si deduce altresì
+il grado approssimativo di civiltà a cui gli Arii dovevano essere
+pervenuti; poichè, per citare pochi esempi tra mille, il giogo non si
+chiamerebbe _yuga_ in sanscrito, _jugum_ in latino, _juk_ (_jukuzi_)
+in gotico, ecc.; nè l’antico persiano _nâvi_ avrebbe riscontro nel
+latino _navis_, ecc.; nè per indicare la casa si troverebbe _dama_
+in sanscrito, _dohm_ in armeno, _dómos_ in greco, _domus_ in latino,
+_domŭ_ in antico slavo e in russo, ecc.; se prima della separazione
+la stirpe ariana non avesse già avuto nella sua lingua tre vocaboli
+più o meno corrispondenti a questi, e se per conseguenza non avesse
+già conosciuto il giogo_,_ la _barca_, la _casa_: che è poi quanto
+dire, in un senso più o meno largo, l’agricoltura, il navigare, il
+fabbricare. (Cfr. PICTET, _Les Origines indo–européennes_. Deuxième
+édition. Paris, 1877.)—Tornando dunque alle lingue vinte da quella di
+Roma, oggi è dimostrato che d’origine ariana, e formanti uno stesso
+gruppo col latino, erano l’umbro e l’osco coi loro dialetti o idiomi
+affini (volsco, sabino, ecc.). Ariani del pari, secondo l’opinione
+di reputati filologi, erano anche l’etrusco e il messapico. Ariani,
+finalmente, erano tutti gl’idiomi celtici, che si parlavano nell’Italia
+settentrionale, nella Gallia, e, dopo l’invasione de’ Celti, anche
+in una parte della Spagna. Non ariano invece era il linguaggio
+degl’Iberi, una parte dei quali, rimasta indipendente dai Celti,
+cedette poi ai Romani. A giudizio anzi d’alcuni, l’iberico sarebbe
+il progenitore del basco, che nelle sue varietà è ancora parlato
+da circa mezzo milione d’uomini, nel nord–est della Spagna e in un
+piccolo angolo del sud–ovest della Francia, e che forma la disperazione
+de’ filologi, poichè ha più somiglianze organiche con alcune lingue
+indigene d’America, che con le altre europee; ma, naturalmente, tende
+anch’esso a _romanizzarsi_ sempre più, incalzato com’è dallo spagnolo
+e dal francese. (Cfr. WHITNEY, _La vita e lo sviluppo del linguaggio_:
+traduzione di F. D’Ovidio. Milano, 1876.—HOVELAQUE, _La Linguistique_.
+Deuxième édition. Paris, 1877.)
+
+[9] _Noctes Atticae_, lib. XI, cap. 7.
+
+[10] Il celtico però resistette e resiste ancora in tutto il
+dipartimento di Finistère, meno le città; in una metà circa dei
+dipartimenti delle Côtes–du–Nord e del Morbihan, e in un piccolo angolo
+della Loire–Inférieure. Ma bisogna ricordarsi che in questi luoghi
+esso ci è rimasto non tanto per continuata tradizione storica, quanto
+perchè ci ritornò nel quinto secolo co’ Britanni scampati dal ferro
+degli Anglo–Sassoni. Nell’Europa non latina poi, si parlano ancora
+idiomi di fondo celtico, all’estremità nord–ovest della gran Brettagna
+(Scozia occidentale); in alcune parti dell’Irlanda, all’ovest e al sud;
+in certe isole secondarie di que’ paraggi, e finalmente nell’intera
+Contea di Galles. Sicchè, in complesso, le lingue neoceltiche sono oggi
+parlate da circa tre milioni, o tre milioni e mezzo d’Europei. (Cfr.
+H. D’ARBOIS DE JUBAINVILLE, _Introduction à l’étude de la Littérature
+celtique_; Paris, 1883; pag. 17–18.)
+
+[11] Ecco le sue precise parole: «Del come [nascesse la nostra Volgar
+lingua] non si può errare a dire, che essendo la Romana lingua, e
+quelle de’ Barbari tra sè lontanissime; essi a poco a poco della
+nostra ora une ora altre voci, e queste troncamente e imperfettamente
+pigliando; e noi apprendendo similmente delle loro, se ne formasse in
+processo di tempo, e nascessene una nuova, la quale alcuno odore e
+dell’una e dell’altre ritenesse, che questa Volgare è, che ora usiamo.»
+(_Le Prose_, lib. I, pag. 33 dell’ediz. di Napoli, 1714.)
+
+[12] Cfr. CAIX, _Saggio sulla Storia della lingua e dei dialetti
+d’Italia_; Parma, 1872; Introduz., pag. XLIX e L.—«Una sola delle
+lingue uscite dal latino fa alterata nell’intimo suo svolgimento dai
+contatti con altre lingue, la valacca. Ma questa lingua crebbe e si
+formò in condizioni affatto diverse dalle altre. Quel paese fu degli
+ultimi a ricevere la lingua latina, e i coloni mandativi da Traiano
+erano presi non dal solo Lazio e dall’Italia, ma, secondo l’espressione
+di Eutropio, da tutte le parti dell’Impero (_ex toto orbe romano_).
+Un secolo dopo o poco più, cominciavano quelle continue invasioni e
+devastazioni che non ebbero termine che al XV secolo. Fin dal 270
+infatti, Aureliano era stato costretto a trasferire al di là del
+Danubio la sede del governo e le legioni, spaventato dai progressi
+dei barbari; e da quel tempo tace la lista dei governatori romani
+della Dacia, compilata dal Borghesi colle medaglie e colle iscrizioni
+raccolte nella provincia. Qui dunque il latino, benchè costituisca
+sempre il fondo principale della lingua, non potè non soffrire della
+prevalenza degli elementi barbarici. Non solo una metà del lessico
+valacco è di parole albanesi, turche, magiare, tedesche, greche e
+soprattutto slave; che, mentre nelle altre lingue romane.... gli
+elementi stranieri si modificarono secondo le leggi e le analogie
+delle voci latine; qui le parole slave passarono nell’uso non
+assimilate nè modificato, e la grammatica diè luogo a costrutti e forme
+straniere, alterando così profondamente lo svolgimento e il carattere
+dell’idioma.» (ID., _ibid._, pag. LXIV.)
+
+[13] Del resto, e com’è naturale, la stessa declinazione latina
+non era stata sempre quella del secolo d’Augusto e delle comuni
+grammatiche. Per esempio, il dativo e ablativo singolare _populo_ era
+stato nel latino arcaico _populo–i_ e _populo–d_, forme più vicine
+alla declinazione protoariana, che oggi si tenta di ricostruire, e che
+sicuramente aveva un dativo singolare in _ai_ e un ablativo singolare
+in _at_ o in _t_.—Il caso _locativo_ del protoariano, terminante in
+_i_, e conservatosi nell’osco (_moíníkeí tereí_, nella comune terra)
+e in altre lingue sorelle, nel latino andò invece perduto, perchè si
+confuse foneticamente col genitivo o col dativo; e vi fu sostituito
+l’ablativo con la preposizione _in_. Ma pure, un vestigio ne rimase in
+que’ complementi di stato in luogo (_Cypri_, _domi_, _humi_, ecc.),
+che la grammatica classica ci dà senza ragione per genitivi.—Nel
+passaggio poi dal latino alle lingue romanze, i casi non potevano
+andar perduti tutti in un giorno: infatti, il provenzale e l’antico
+francese conservarono fino al cadere del secolo XIV, due desinenze
+diverse, una per il soggetto o nominativo, l’altra per i complementi
+(Cfr. LITTRÉ, Op. cit., _passim_); e alle sorgenti del Reno (ladino di
+Sopraselva) vive anche oggi, con la sua propria funzione, l’antica _s_
+del nominativo latino. (Cfr. ASCOLI, _Arch. Glott._ vol. VII, pag. 407,
+e 426 e seg.) Avanzi di flession nominale, senza dir della differenza
+tra i due numeri, s’hanno pure specialmente nel pronome: _io_, me_,_
+_mi_,—_tu_, _te_, _ti_—_egli_, _eglino_, _loro_, _cui_, ecc. In
+tutti gl’idiomi romanzi occorrono poi esempi di due o più forme d’uno
+stesso nome, le quali dipendono dalla diversità de’ casi latini, ma più
+non serbano alcuna diversità di funzione. Così in italiano: _ladro_ e
+_ladrone_ (latro–latronem), _moglie_ e _mogliera_ (mulier–mulierem),
+_sarto_ e _sartore_ (sartor–sartorem), ecc. (Cfr. DIEZ, _Gramm. delle
+Lingue romanze_, traduz. franc., vol. II, lib. II;—ASCOLI, _Arch.
+Glott._, vol. II, pag. 416–38, ecc.)
+
+[14] Il catalano delle Baleari convertì in articolo determinato _ipse_
+invece di _ille_; e altrettanto fece il sardo, nel quale perciò abbiamo
+_su_ e _sa_ per il singolare, _sos_ e _sas_ per il plurale. Il valacco
+poi incorpora l’articolo determinato dietro il nome, a guisa di
+suffisso: _omul_, l’uomo.
+
+[15] Ma in valacco, secondo il Diez (Op. e vol. cit., pag. 428), c’è un
+solo avverbio in _mente_: _altmintrea_, che però nel vocabolario del
+Laurianu e del Massimu è registrato in forma diversa: _altramente_,
+_altamentre_, ecc. L’esemplare _altra–mente_, o meglio _altre–menti_
+(altriment_i_, cfr. pariment_i_) è forse il più antico della serie, e
+certo uno dei più antichi e anche un po’ _sui generis_. (Cfr. ASCOLI,
+_Arch. Glott._, vol. VII, pag. 585.)
+
+[16] Anche di quest’uso si può vedere un principio ne’ buoni autori,
+quando adoperano col verbo _esse_ il participio in forza d’aggettivo,
+come in Cesare: _Gallia est omnis divisa in partes tres_, invece di
+_dividitur_.—In rumeno, la forma più comune del passivo è questa: _eu
+me laud_, che significa tanto _io mi lodo_, quanto _io sono lodato_.
+Può tuttavia formarsi anche con l’ausiliare _essere_; allora però
+il participio conserva l’idea del passato, è quindi _frate meu este
+leudat_ non vuol dire _mio fratello è lodato_, ma _è stato lodato_,
+come il latino _laudatus est_. (Cfr. DIEZ, Op. e vol. cit., pag.
+243–44.)
+
+[17] _Amarò_, come del resto, anche _amaraggio_, _amarajo_, ecc.,
+s’incontra ne’ nostri antichi scrittori e vive tuttora in alcuni
+dialetti.
+
+[18] I Sardi formano ancora il futuro con la perifrasi allo stato
+sciolto; onde nel Logudoro dicono _happ’a ccantare_, e nel Campidano
+_happ’a ccantai_ (ho a cantare = canter–ò). E in perifrasi sciolte
+s’incontrano il futuro stesso e il condizionale in antichi saggi
+vernacolari d’altre contrade d’Italia. (Cfr. ASCOLI, _Arch. Glott._,
+vol. III, pag. 110.) I Rumeni poi lo formano col verbo _volere_: _voiu
+cuntà_, voglio cantare, canterò.
+
+[19] Cfr. ZAMBALDI, _Metrica greca e latina_; Torino, 1882; pag. 843–44.
+
+[20] Cfr. RAJNA, _Le Origini dell’Epopea francese_; Firenze, 1884, pag.
+513–14.
+
+[21] Poichè nella pronunzia tutte le parole francesi finiscono
+con una sillaba accentata, il verso eroico francese è riuscito un
+endecasillabo tronco (decasillabo), e perciò la sua somiglianza col
+verso corrispondente delle lingue sorelle si avverte meglio, appunto
+quando anche questo è tronco:
+
+  Un sol nouveau remplace le premier. (PARNY.)
+  E com’albero in nave si levò. (DANTE.)
+  Sus rayos lanza moribundo el sol. (DE ESPRONCEDA.)
+  Que todo se desfaz em puro amor. (CAMOENS.)
+
+
+[22] Op. cit., pag. 506–28.
+
+[23] In alcuni luoghi di Sardegna si dice ancora _domu_ e _domo_ per
+_casa_; e in Toscana e altrove si usa nel suo primo significato anche
+_verbo_, ma solo in certe speciali locuzioni (_non disse verbo_, _non
+rispose verbo_, ecc.); le quali però, benchè vivissime anche tra ’l
+volgo, tuttavia è possibile che siano meri latinismi, salvo il caso
+di evidente elaborazione popolare, come nel ladino _vierf_ (verbum),
+_verva_ (verba). (Cfr. ASCOLI, _Arch. Glott._, vol. I, pag. 127 e 172.)
+
+[24] Cfr. DOZY et ENGELMANN, _Glossaire des mots espagnols et Portugais
+dérivés de l’arabe_. Seconde édition. Leyde, 1869.—Tra queste parole
+non ce n’è una, che indichi un sentimento o un legame di parentela o
+d’affezione. È però arabica una formula esclamativa con cui lo spagnolo
+invoca Dio: _ojalá_.
+
+[25] Op. cit., vol. I, pag. 59–60.
+
+[26] Intorno alle quali però si devono tener presenti queste acute
+considerazioni dell’Ascoli: «Se ci fosse ancora bisogno di aggiungere
+argomenti contro le ipotesi delle profonde modificazioni, e variamente
+profonde secondo le diverse regioni romane, che l’organismo latino
+abbia sofferto per l’immissione germanica, se ne potrebbe ricavare
+uno di più, e tutt’altro che lieve, dal fatto che una così cospicua
+porzione degli elementi lessicali germanici, entrati a far parte
+degl’idiomi latini, occorra ugualmente in tutte codeste favelle. Poichè
+il fatto di questa comproprietà generale, che giustamente eccitava
+la meraviglia del Diez (gr. I³ 67), dovrà senz’altro ripetersi,
+nella maggiore e più importante sua parte, dalla molta antichità
+dell’immissione, e l’innesto perciò risalire a un’età in cui tanta
+era ancora la vitalità propriamente romana, da non potervi di certo
+il linguaggio latino andar modificato, e anche variamente secondo le
+varie contrade, per virtù di un’infiltrazione che era esigua per sè,
+ed era poi la stessa dappertutto. La comunanza di codesti elementi
+germanici riesce anzi affatto inconcepibile se non le si trova una
+ragione storica la quale si connetta, o addirittura s’indentifichi,
+con quella dell’estendersi della parola latina al di là dei confini
+dell’Italia, e sia perciò anteriore alle invasioni germaniche. Ora una
+tal ragione storica, bastevole e congrua per ogni lato, io la vedo,
+molto semplicemente, nel legionario di Roma, o sotto le insegne o fatto
+colono; la vedo, in altri termini, nel linguaggio _castrense_, al quale
+l’elemento germanico delle truppe ausiliari e le «guardie» teutoniche
+dovevano aver dato una gran parte delle trecento voci tedesche che si
+trovan comuni alle diverse favelle neolatine. Vegezio, nella seconda
+metà del quarto secolo, adducendoci _burgus_ quasi termine tecnico per
+«castellum parvulum» (quem burgum vocant), ci dà un bell’esempio di
+codesta serie esotica che già a’ suoi tempi dovea parer di patrimonio
+latino, anzichè roba estranea e d’importazione recente. I criterj
+fonologici suffragheranno poi alla lor volta il raziocinio storico;
+e così è bello vedere il _t–_ dello stadio gotico (non lo _z–_ dello
+stadio alto–tedesco) in _tirare_ _toccare_ _torba_ _taccagno_, che son
+tra codeste voci comuni, o i nessi _–rd–_ _–ld–_ dello stesso stadio
+gotico (non _rt_ _lt_ dell’alto–tedesco) in _ardito_ _falda_, ed altri,
+che pur sono della categoria medesima.» (_Arch. Glott._, vol. II, pag.
+413.)
+
+[27] Op. cit., vol. I, pag. 65.
+
+[28] _Ueber deutsche Schattirung romanischer Worte_ (Sopra la tinta
+germanica di alcune parole romanze), nella _Zeitschrift_ del Kuhn, V,
+11.
+
+[29] LITTRÉ, Op. cit, vol. I, pag. 96 e seguenti.
+
+[30] Il fatto che _focus_ fu preferito anche in luoghi dove la
+ragione delle invasioni non può farsi valere (a Venezia, per esempio,
+e in Sicilia: _fogo_, _focu_), indebolisce, sì, ma non distrugge
+l’osservazione del Müller; perchè nessuno è in grado di dimostrare
+che, senza l’aiuto di _feuer_ e _funkeln_, _focus_ sarebbe prevalso
+ugualmente anche altrove, una volta che di queste doppie voci è
+comunissimo il caso che una ne attecchisse in un luogo, una in un altro.
+
+[31] Dovendo ancora citare altre parole de’ vari idiomi germanici, sarà
+bene ch’io metta qui le quattro principali divisioni di questo gran
+ramo della famiglia indoeuropea, come son date dal Whitney (Op. cit,
+pag. 220–22): «1. Il meso–gotico, o dialetto dei Goti della Mesia,
+conservato solo da parti di una traduzione della Bibbia, fatta dal loro
+vescovo Ulfila, nel quarto secolo dell’èra volgare; dialetto estinto
+da lungo tempo in quanto lingua parlata. 2. Gl’idiomi basso–tedeschi,
+ancora parlati nel settentrione della Germania, dall’Holstein alle
+Fiandre, e, dall’altra parte, nella prossima Inghilterra: v’entrano due
+importanti lingue colte, l’olandese e l’inglese. I monumenti letterali
+inglesi rimontano al settimo secolo, gli olandesi al tredicesimo; e vi
+è un poema «sassone–antico,» l’_Heliand_, o «Salvatore,» del secolo
+nono; e la letteratura frisone del decimoquarto. 3. Il corpo dei
+dialetti alto–tedeschi, rappresentato presentemente da un’unica lingua
+letteraria, il così detto tedesco, la cui letteratura comincia con
+la Riforma, nel secolo decimosesto: dietro a questo, che è il nuovo
+alto–tedesco, stanno un periodo medio ed uno antico alto–tedesco, con
+le loro letterature in vari alquanto discordi dialetti, e rimontanti
+all’ottavo secolo. 4. La sezione scandinava, scritta nelle forme del
+danese, dello svedese, del norvego e dell’islandese. I monumenti
+islandesi rimontano al decimosecondo e decimoterzo secolo, e sono, in
+punto a stile e a contenuto, più arcaici (non diciamo più antichi) di
+tutto ciò che v’è di alto e basso tedesco: l’_Edda_ è la fonte più
+pura e copiosa della conoscenza che abbiamo delle primitive condizioni
+linguistiche germaniche. L’islandese è pure, specialmente nel suo stato
+fonetico, il più arcaico dei viventi dialetti germanici. Oltre ai detti
+residui letterali, vi sono brevi iscrizioni runiche, generalmente di
+una o due parole, rimontanti, si crede, perfino al terzo o al secondo
+secolo.»
+
+[32] _Saggio cit._, pag. LVI e seguenti.
+
+[33] _Le trasformazioni delle specie e le tre epoche delle lingue e
+letterature indoeuropee_: Roma, 1871; pag.29
+
+[34] LEONARDI BRUNI ARRETINI _Epistolarum libri VIII_; Florentiae,
+1741; lib. VI, epist. X (_Leonardus Flavio Foroliviensi_).—CELSO
+CITTADINI, _Trattato della vera origine e del processo e nome della
+nostra lingua_; Venezia, Ciotti, 1601.—_Le origini della toscana
+favella_; Siena, Marchetti, 1604.—Furono ripubblicati nelle _Opere_
+edite ed inedite del Cittadini, per cura di Girolamo Gigli, Roma 1721.
+Ma, a detta dello Zeno (_Annotaz._ al Fontanini), per il secondo
+trattato il Gigli seguì l’ediz. Marchetti, invece d’un’altra _riformata
+dall’autore_ e _tanto migliore_, uscita in Siena _per Ercole Gori_ nel
+1628.
+
+[35] «Somnium....... nulla confutazione dignum.» (_Antiq. Ital._ Diss.
+XXXII; tom. VI, col. 455 dell’ediz. d’Arezzo, 1775.)
+
+[36] «Pistores vero, et lanistae, et hujusmodi turba sic intelligebant
+Oratoris verba, ut nunc intelligunt Missarum solemnia.» (Pag. 63 della
+cit. ediz.)
+
+[37] «Tu enim turbam convenisse putas ad carmina poëtae intelligenda,
+ego autem convenisse puto ad ludos scenicos spectandos. Itaque non
+_auditores_ qui aderant, sed _spectatores_ dicebantur.» (Pag. 64.)
+
+[38] I_n quanti modi si possa morire in Italia._ Seconda edizione.
+Torino, Paravia, 1883.
+
+[39] _Plebejo sermone_ dice il testo. Ma è chiaro che, qui, _plebejus_
+non corrisponde punto, come parecchi hanno creduto, al nostro _plebeo_.
+
+[40] «Ain tandem? insanire tibi videris, quod imitare verborum meorum,
+ut scribis, fulmina? Tum insanires, si consequi non posses: quum vero
+etiam vincas, me prius irrideas, quam te, oportet. Quare nihil tibi
+opus est illud a Trabea; sed potius _ᾶπότευγμα_ meum. Verumtamen
+quid tibi ego videor in epistolis? nonne plebejo sermone agere tecum?
+Nec enim semper eodem modo. Quid enim simile habet epistola aut judicio
+aut concioni? Quin ipsa judicia non solemus omnia tractare uno modo.
+Privatas causas, et eas tenues, agimus subtilius; capitis aut famae
+scilicet ornatius: epistolas vero quotidianis verbis texere solemus.»
+(_Ad Familiares_, IX, 21.)
+
+[41] «Così, le parole tante volte citate di Quintiliano: _nam mihi
+aliam quondam videtur habere naturam sermo vulgaris, aliam viri
+eloquentis oratio_ (_Inst. Orator._, XII), non pongono e non esprimono
+una differenza tra una lingua letteraria e una lingua volgare o comune,
+ma tra il parlare d’un uomo eloquente e il parlar d’un idiota. Possono
+avere in bocca la stessa lingua e maneggiarla in modo molto diverso.»
+(ZENDRINI, _Della Lingua italiana_; Palermo, 1877; pag. 65.)
+
+[42] E, s’intende, che alcuni hanno anche esagerato il pensiero del
+maestro, del quale ecco qui le precise parole nella fedelissima
+traduzione francese: «Toutes (les langues romanes) ont dans le latin
+leur première et principale source; mais ce n’est pas du latin
+classique employé par les auteurs qu’elles sont sorties, c’est, comme
+on l’a déjà dit souvent et avec raison, du dialecte populaire des
+Romains, qui était usité a côté du latin classique [aus der römischen
+Volkssprache oder Volksmundart, welche neben dem classischen Latein im
+Gebrauche war].... Seulement il faut se garder d’entendre par langue
+populaire autre chose que ce qu’on entend toujours par là, l’usage dans
+les basses classes de la langue commune, usage dont les caractères sont
+une prononciation plus négligée, la tendance à s’affranchir des règles
+grammaticales, l’emploi de nombreuses expressions évitées par les
+écrivains, et certaines phrases, certaines constructions particulières.
+Voilà les seules conséquences que permettent de tirer les témoignages
+et les exemples qu’on trouve dans les auteurs anciens; on peut tout au
+plus admettre que l’opposition entre la langue populaire et la langue
+écrite se marqua avec une énergie peu commune lors de la complète
+pétrification de cette dernière, peu de temps avant la chute de
+l’empire d’Occident.» (Op. cit., vol. I, pag. 1–2.)
+
+[43] _Rucanica_, in alcune parlate calabresi. Il Caix (_Saggio cit._,
+pag. 62) derivava _lugànega_ dal lat. _longano_ (spagn. _longaniza_);
+ma bisogna dire che non avesse presente il lat. _lucanica_.
+
+[44] Il francese antico (giova ricordarlo) aveva anche tante e tante
+altre parole, oggi cadute in disuso, derivate dal latino civile
+(_clamer_, chiamare, da _clamare_; _pesme_, da _pessimus_ _assentir_ da
+_assentire_, _selve_ da _silva_, ecc.); e molte di esse vivono ancora
+ne’ suoi dialetti (_crémer_, bruciar leggermente, da _cremare_; _nore_
+da _nurus_, _vime_ da _vimen_, ecc.—Cfr. LITTRÉ, Op. cit., vol. II,
+pag. 119).
+
+[45] Op, cit., vol I, pag. 4–23.
+
+[46] _Epigramm._, I, 101.
+
+[47] Si veda il gran Dizionario del Freund, tradotto in francese e
+accresciuto dal Theil, o il _Forcellini_ rifatto dal De–Vit.—Del
+resto, coloro che fanno assegnamento su questa pretesa forma
+volgare, dimenticano, al solito, che se l’italiano _chiudere_ risale
+a _cludere_, il francese _clore_ risale invece diritto diritto a
+_claudere_.
+
+[48] Op. cit., vol. I, pag. 86.
+
+[49] Cfr. CANELLO, _Lingua e Dialetto_ (_Giornale di Filologia
+romanza_, gennaio 1878).
+
+[50] Cfr. un altro scritto dello stesso CANELLO, _Arch. Glott._, vol.
+III, pag. 294–95, nota.
+
+[51] Il Brachet, nel _Dictionnaire étimologique de la Langue
+française_ (Parigi, 13ª ediz.), ha distinto uno per uno i vocaboli
+d’origine popolare da quelli d’origine non popolare, stampandoli
+con due differenti caratteri; e la cosa, in complesso (e salvo
+quel presentarci addirittura come _esumazione letteraria_ tutta la
+_formazione civile_), gli è riuscita assai bene. Nella nostra lingua,
+invece, una tal distinzione riuscirebbe troppo spesso difficilissima, o
+affatto impossibile. Ma, in fondo, per lo scopo pratico del Dizionario
+etimologico, importa poco o nulla. L’importante davvero sarebbe che
+qualcuno dei nostri filologi, ripigliando il disegno che la morte
+interruppe al povero Caix, e compiendo i lavori del Diez, del Caix
+stesso e d’altri, ci desse finalmente questo Dizionario. E il Ministero
+della pubblica istruzione, il quale una volta aprì un concorso con più
+migliaia di lire di premio per il miglior sillabario (che poi non fu
+trovato), dovrebbe, ci pare, fare almeno lo stesso per un lavoro, la
+cui mancanza è sentita e lamentata ogni momento da ogni cólta persona.
+Intanto, poichè può riuscire utile anche a noi, ecco qui la statistica
+approssimativa, che il Brachet, prendendo per fondamento il Dizionario
+dell’Accademia, ci ha dato del francese moderno (_Introduction_, pag.
+LXX):
+
+    I. VOCABOLI D’ORIGINE IGNOTA                            650
+
+   II. VOCABOLI D’ORIGINE POPOLARE (4260):
+       _a_). Elemento _latino_ (vocaboli primitivi)            3800
+       _b_). Elemento _germanico_                               420
+       _c_). Elemento _greco_                                    20
+       _d_). Elemento _celtico_                                  20
+
+  III. VOCABOLI D’ORIGINE STRANIERA (922):
+       _a_). _Italiani_                                         450
+       _b_). _Provenzali_                                        50
+       _c_). _Spagnoli_                                         100
+       _d_). _Tedeschi_                                          60
+       _e_). _Inglesi_                                          100
+       _f_). _Slavi_ (16), _semitici_ (110), _orientali_ (16)
+           _americani_ (20)                                     162
+
+   IV. VOCABOLI D’ORIGINE STORICA (115), ONOMATOPEICI (40).     155
+                                                               ———
+                                                 In tutti:     5987.
+
+Se dal Dizionario dell’Accademia (conclude il Brachet), che contiene
+circa 27000 vocaboli, si sottraggono i 5987 primitivi citati qui sopra,
+ne restano 21000, o creati dal popolo svolgendo con la composizione e
+con la derivazione codesti primitivi, o desunti direttamente dal greco
+e dal latino per opera degli scrittori (_e delle classi civili_, direi
+io).—Altrove poi (pag. XXXVIII), egli avverte, che se ai 420 o 450
+germanismi del francese moderno si aggiungessero quelli dei francese
+antico, si arriverebbe senza fatica a raddoppiare la cifra. La quale,
+dunque, supererebbe di poco quella data dal Diez e qui riportata a pag.
+23–25.
+
+[52] Uno studio di queste forme può vedersi nel Littrè (Op. cit., vol.
+II, pag. 299 e seg.), di cui tuttavia nessuno accoglie più l’opinione
+che il _Cantico_ appartenga al _decimo_ secolo.—Forme analoghe a
+queste dell’antico francese vivono ancora nel franco–provenzale, in
+molti vernacoli italiani, ecc. (Cfr. ASCOLI, _Arch. Glott._, vol. VIII,
+pag. 100.)
+
+[53] E però (_per hoc_) fa presentata a Massimiano, Che re era a que’
+di sopra i pagani.
+
+[54] _Ab=ap_, dal lat. apud, che dal significato di _presso_ passò
+a quello di _con_, e si ritrova anche nel moderno francese _avec_,
+il quale deriva appunto da _apud hoc_ (con ciò), trasformatosi
+successivamente in _abhoc_, _aboc_, _avoc_, _aveuc_, _avec_.
+
+[55] NITHARDI, _Historiarum libri IIII_; Hannoverae, 1870 (edizione
+curata dal Pertz); pag. 38–39.—Tentiamone una traduzione letterale:
+«Per amor di Dio e per comun salvamento del popolo cristiano e nostro»
+(dalla traduzione tedesca si vede che _christian poblo_ rappresenta un
+genitivo), «da questo dì in avanti, in quanto Dio sapere e potere mi
+dona, sì salverò io questo mio fratello Carlo, e in aiuto e in ciascuna
+cosa» (cioè: lo _salverò, gli gioverò, con l’aiuto e in qualunque
+altramaniera_). Ma forse ha ragione il signor Clédat, il quale crede
+che l’_et_ che segue _aiudha_ sia un errore del manoscritto, e che
+originariamente dovesse dire _er_, prima persona singolare del futuro
+di _estre_. Cfr. _Revue des Langues romanes_, octobre–décembre 1885,
+«sì come uomo per dritto suo fratello salvar deve, in ciò che egli a me
+altresì faccia» (_in tutto ciò che egli faccia anche a me_, che è poi
+quanto dire: _a patto che egli mi faccia altrettanto_); «e con Lotario»
+(loro fratello) «nullo accordo mai prenderò, che, per mio volere, a
+questo mio fratello Carlo in danno sia.—Di questo giuramento, come
+dell’altro, prestato del pari in romanzo e in tedesco dalle milizie,
+può vedersi il facsimile nella raccolta intitolata: _Les plus anciens
+monuments de la langue française_ (Didot edit., 1875), dove fu
+riprodotto dal prezioso codice della fine del decimo o del principio
+dell’undecimo secolo, appartenuto già alla Vaticana e poi emigrato a
+Parigi. Col detto facsimile è stata collazionata dal prof. E. Monaci la
+nostra lezione, che è un po’ diversa da quella del Pertz e d’altri.
+
+[56] Per esempio, l’_o_ da _au_ in cosa (lat. _causa_), l’_u_ da _o_
+lungo accentato in _dunat_, il _t_ di terza persona del presente
+conservato nello stesso _dunat_, in _fazet_, ecc.
+
+[57] DANTE, Inf., XXV.
+
+[58] Diss. cit., col. 457.
+
+[59] Eccone un piccolo saggio:
+
+  Per me si va nella città dolente,
+  Per me si va nell’eterno dolore,
+  Per me si va tra la perduta gente.
+
+  Giustizia mosse il mio alto Fattore;
+  Fecemi la divina Potestate,
+  La somma Sapïenza e il primo Amore.
+
+  _Par moi se va dans la cité dolente,
+  Par moi se va dans l’éternel dolor,
+  Par moi se va parmi la gent pullente_ (vile).
+
+  _Justice mut mon souverain Faitor;
+  Et si me firent devine Poestés
+  Raisons hautisme_ (altissima) _et premeraine Amor._
+
+Ed ecco le medesime terzine, tradotte in provenzale dal Raynouard:
+
+  _Per me si va en la ciuta dolent,
+  Per me si va en l’eternal dolor,
+  Per me si va tras la perduta gent._
+
+  _Justizia moguet el mieu alt Fachor;
+  Fez mi la divina Potestat,
+  La summa Sapienza e ’l prim’Amor._
+
+
+[60] È nel secondo verso del _Cantico di Sant’Eulalia_:
+
+  Buona pulcella fut Eulalia,
+  Bel auret corps, bellezour (_più bella_) anima.
+
+Si badi ch’io dico: _scrivevano_. Come poi pronunziassero è un’altra
+questione, la quale s’intreccia con quella della qualità del verso. Il
+Meyer, per esempio, crede che anche in questo luogo si pronunziasse
+_âme_. (Cfr. LITTRÉ, Op. cit., vol. II, pag. 305–07.) Altri invece
+credono che il vocabolo _anima_ sia qui usato come un mero latinismo,
+con la pronunzia e l’accentuazione propria del latino. Comunque sia,
+quest’esempio del nono secolo, trascurato fin qui nella storia di
+_âme_, è utile e legittimo non meno degli esempi successivi.
+
+[61] Per esempio, il _con_, per _com_=_cum_, si trova anche una volta
+nella famosa iscrizione osca di Banzia: CON PREIVATVD VRVST=cum
+_privato–erit_. Cfr. FABRETTI, _Glossarium Italicum_, sotto _Con_ e
+_Com_.
+
+[62] _Memorie e Documenti per servire all’istoria del Ducato di Lucca_;
+tom. V, par. II, pag. 15.
+
+[63] _Ibid._, tom., IV, pag. 76.
+
+[64] _Ibid._, tom. V, par. II, pag. 14.
+
+[65] GREGOROVIUS, _Storia della città di Roma_; lib. IV, cap. V, § 3.
+
+[66] MURATORI, _Rer. Ital. Script._, tom. II, pag. 179–80.
+
+[67] Gattola, _Ad Historiam Abbatiae Cassinensis Accessiones_; pars
+prima; Venetiis, 1734; pag. 68–69.—TOSTI, _Storia della Badia di
+Montecassino_; Napoli, 1842; tom. I, pag. 220–22.
+
+[68] Forse, _che qui_ (cioè _l’abbreviatura_) _contiene_; preso il
+_qui_ per soggetto, come quando diciamo, toccando un libro o una carta:
+_Qui parla chiaro_; _Qui non ammette dubbi_, e simili.
+
+[69] Si badi però, che nelle edizioni del Gattola e del Tosti c’è un
+errore, che renderebbe impossibile accertare la data. Infatti, nell’una
+e nell’altra, il placito comincia così: «In nomine Domini nostri Jesu
+Christi, bigesimo primo anno princip. domni nostri Pandolfi gloriosi
+princ., et septimo decimo Landolfi, et secundo anno princ. domni
+Landolfi, excellentissimis Principibus ejus filiis, mense martio,
+tertia indictione.» E questi dati cronologici fanno a pugni tra loro;
+giacchè, per non dirne altro, il ventesimoprimo anno del principato
+di Pandolfo Capo di Ferro non corrisponde punto al decimosettimo e
+al secondo del principato de’ suoi figlioli. Mettendo invece (come
+ingegnosamente proponeva il mio egregio amico dottor Ignazio Giorgi)
+_Landolfo_ al posto di _Pandolfo_, e _Pandolfo_ al posto del primo
+_Landolfo_, tutte le indicazioni vanno d’accordo benissimo con la
+genealogia di que’ principi e con la cronologia, e se ne ricava la
+data precisa del 960. Pregato da me il dotto padre Piscicelli Taeggi,
+prefetto dell’Archivio Cassinese, di riscontrare l’originale del
+documento, egli m’ha risposto che la cosa sta precisamente come aveva
+congetturato il Giorgi.
+
+[70] Su questa celebre falsificazione può, tra gli altri, vedersi il
+_Bartoli_, _Storia della Letterat. ital._; vol. II (Firenze, 1879),
+pag. 389–416.
+
+[71] V. lo scritto del Salinas nell’_Arch. Stor. Sicil._; nuova serie,
+anno VII, pag. 166–69.
+
+[72] È noto che Dante, con una di quelle sentenze nelle quali
+all’arguzia è sacrificato il buon senso, diceva che i soli Sardi, al
+suo tempo, non avevano volgare proprio [!], e che imitavano il latino,
+come le scimmie imitano gli uomini. (_De Vulgari Eloquentia_, lib. I,
+cap. XI.) Ed è del pari noto, che ne’ vari idiomi dell’isola s’è potuto
+scrivere lunghi componimenti, che sono al tempo stesso anche latini:
+per esempio, nel volgare logudorese, la poesia del Madau (1778), in
+lode dell’arcivescovo Melano:
+
+  Melani nomen celebro
+  Cantet superba Calaris,
+  Et sarda terra applaudat
+  Cum jucunda memoria.
+
+  Ipse venit de nobile
+  Et illustre prosapia,
+  Et veras etiam glorias
+  Occultat pro modestia, etc.
+
+
+[73] L’originale di questa carta, pubblicata nell’_Archivio Storico
+Italiano_ (Ser. III, vol. XIII, pag. 363), è a Firenze nel R. Archivio
+di Stato; e la sua data risulta dall’esservi nominato come vivente il
+vescovo di Pisa Gerardo, che mori nel 1086 o nel 1089.
+
+[74] Fu pubblicata dal Flechia nell’_Archiv. Glottol._ (vol. VII,
+pag. 121–29), e poi dal Monaci nella sua bella raccolta: _Facsimili
+d’antichi manoscritti_, num. 19–29. I passi, che qui se ne riferiscono,
+sono stati collazionati coll’originale dallo stesso Monaci.—«Anche la
+lingua» di questo documento, dice il Flechia, «mostra di appartenere
+al tempo in cui il volgare cominciava ad usarsi nelle scritture
+ancor peritosamente e più o men misto con latino, morto da un pezzo
+come lingua popolare, e per conseguenza ad epoca che non dovrebbe
+discostarsi molto dal 1000. Le peculiarità dialettali del volgare, se
+non accennano risolutamente ad una speciale regione d’Italia, possono
+tuttavia, se non c’illudiamo, tenersi per verisimilissimamente proprie
+dell’Italia centrale, con esclusione delle provincie napolitano e della
+Toscana.»
+
+[75] _Italia Sacra_, tom. IX, pag. 385 dell’ediz. di Roma, 291
+dell’ediz. di Venezia.
+
+[76] GUIDO LEVI, _Una carta volgare picena del sec. XII_ (_Giornale di
+Filologia romanza_, luglio 1878).
+
+[77] _Dizionario precettivo, critico ed istorico della Poesia
+volgare_; Parma, 1777; pag.29–41.—L’iscrizione è in caratteri romani
+intrecciati, e l’Affò legge erroneamente: _Il mile_, invece di _Li
+mile_; _Et ne a fo l’opra_, invece di _E mea fo l’opra_, o fors’anche
+_opera_.
+
+[78] Questo egregio uomo, di cui io non so se si debba più ammirare la
+profonda dottrina o la rara bontà, lavora da molti anni per darci una
+_Crestomazia italiana de’ primi secoli_; e io ho già potuto profittarne
+non poco per il presente lavoro.
+
+[79] Questi versi erano noti finora con la data del 1196, indizione
+XII, come si trovano in una _particola d’una scrittura antica latina_,
+riportata dal Piloni nella sua _Historia_ (Venezia, 1607, pag. 100
+v.–101). E con questa data erano stati ripubblicati dal Cantù,
+dall’Ascoli, e anche nelle due prime edizioni del presente libretto.
+Ora però, essendomi rivolto per qualche maggiore notizia al dotto e
+cortese abate F. Pellegrini di Belluno, ho potuto assegnar loro la
+data molto più probabile del 1193; ed ecco in che modo. Prima che
+dal Piloni, la _particola_ era stata copiata, tra il 1530 e il 1544,
+o poco più o poco meno, da Giovanni Antonio Egregis, e innanzi al
+1558 da Giulio Doglioni, ne’ loro cataloghi dei Vescovi di Belluno:
+e in tutt’e due questi cataloghi, che si conservano manoscritti
+nella biblioteca del Museo Civico di quella città, e che, essendo
+molto diversi, non possono credersi copia l’uno dell’altro, la detta
+_particola_ comincia appunto con la data del 1193 in tutte lettere,
+indizione XI; mentre il 1196 del Piloni è in cifre, e non va d’accordo
+con l’indizione XII. È quindi verisimile che il Piloni, o chi a sua
+insaputa pubblicò la sua storia, abbia confuso un 1196, che è la data
+dell’ultimo fatto raccontato in quel branicello di cronaca, col 1193
+del principio, al quale i quattro versi si riferiscono. In tutto il
+resto però, come può vedersi dal confronto che ne stampo qui sotto, le
+tre trascrizioni vanno pienamente d’accordo, salvo alcune diversità
+facilmente spiegabili: e vanno d’accordo, quantunque sia certo che,
+come il Doglioni non copiò dall’Egregis, così il Piloni non copiò
+nè dall’uno nè dall’altro, perchè, se li avesse conosciuti, avrebbe
+evitato parecchi errori che s’incontrano nella sua storia. Chi poi
+dubitasse che questi versi non siano stati composti nel 1193 o appena
+qualche anno dopo, osservi prima d’ogni altra cosa che essi hanno
+tutti i caratteri d’una _poesia d’occasione_; e osservi altresì che
+la _particola_, raccontando le vittorie dei Bellunesi e de’ loro
+alleati Feltrini in quel tempo, contiene dati di fatto, specialmente
+numerici, cosi minuti, che solo uno scrittore sincrono poteva saperli
+e prendersi la briga di registrarli. Sicchè, se non si dimostra che
+il documento sia stato inventato (e niente davvero fa sospettare che
+ciò possa essere), bisogna proprio crederlo di _quelli tempi_, come
+lo crede il Piloni. Se poi si osserva che l’autore della _particola_
+mette i quattro versi nel punto dove per ordine cronologico avrebbe
+dovuto raccontare l’impresa di Casteldardo, e, senza aggiungerci una
+sola parola di suo, fa fare ad essi le veci del racconto, si deve anche
+credere che fossero allora popolarissimi; e quindi anche di un tempo
+più o meno anteriore a quello in cui egli scriveva. Nè è improbabile
+che facessero parte d’un canto su tutte le imprese guerresche (che
+furono parecchie), compiute dai Bellunesi nel 1193. Ecco ora la lezione
+della particola secondo l’Egregis (pag. 2 v.):
+
+«Anno Domini nostri Jesu Christi millesimo centesimo nonagesimo
+tertio, indictione XI, VIIIJ[i] intrante mense aprilis. Prudentissimi
+milites et pedites Bellunenses et Feltrenses castrum Mirabeli[ii]
+maxima vi occupaverunt, illud vero infra octo dies combuxerunt atque
+in omnibus edificijs ipsum destruxerunt. Item eodem mense clusas Queri
+ceperunt et destruxerunt, et sexaginta sex inter milites et pedites
+atque[iii] arceatores secum in vinclis duxerunt,[iv] et predam valentem
+duo[v] millia librarum habuerunt, alios interfecerunt et alios vero
+graviter vulnerarunt.[vi] Item eo anno castrum Landredi ceperunt, ibi
+vero plures homines interfecerunt, et XXVJ inter milites et pedites
+atque arceatores[vii] secum in vinculis duxerunt, et totum castrum
+combuxerunt et funditus destruxerunt. _De Casteldard_[viii] HAVE[ix] LI
+NOSTRI BONA PART, I LO ZETTA[x] TUTTO INTRO LO FLUMO[xi] D’ARD,[xii] E
+SEX CAVALER[xiii] DE[xiv] TARVIS DI[xv] PLUI FER CON SE DUSE LI[xvi]
+NOSTRI[xvii] CAVALER.[xviii] Preterea domum Bance[xix] vi occupaverunt,
+et eam destruxerunt, et XVIIJ Latrones inde secum duxerunt. Postea anno
+1198 indictione XIIIJ, die VI[xx] exeunte mense junij, dicti milites et
+pedites Bellunenses et Feltrenses ad castrum Giumelarum[xxi] iverunt,
+illud autem magna vi in XVIJ[xxii] die ceperunt et combuxerunt, atque
+cum[xxiii] omnibus edificijs destruxerunt, et cum maxima letitia
+domibus[xxiv] redierunt:[xxv] et hoc totum factum fuit fere sub
+nobilissimo et prudentissimo D. Gerardo Bellunensi Episcopo, anima
+cuius sit locata in paradiso.[xxvi] Amen.»
+
+        [i] Piloni: «1196. Indictione XIJ. die octavo.»
+
+        [ii] Doglioni e Piloni: «Mirabelli»
+
+        [iii] P. «ac pedites et.»
+
+        [iv] P. «in vinculis deduxerunt.»
+
+        [v] P. «IIJ.»
+
+        [vi] P. «interfecerunt, alios vero graviter vulneraverunt.»
+
+        [vii] P. «et quadraginta sex inter milites pedites, ac
+        arceatores.»
+
+        [viii] P. «Casteldart.»
+
+        [ix] D. «havj.»—P.«havì.»
+
+        [x] P. «zetto.»
+
+        [xi] P. «flume.»
+
+        [xii] P. «D’Art.»—D. «dard.»
+
+        [xiii] P. «Cavalier.»
+
+        [xiv] P. «di.»
+
+        [xv] D. e P. «li»
+
+        [xvi] P. «i.»
+
+        [xvii] D. «nostre.»
+
+        [xviii] P. «presoner.»
+
+        [xix] D. «Banche.»
+
+        [xx] P. «Postea die sexto.»
+
+        [xxi] D. «Gumellarum.»—P. «Zumellarum.» Cioè: _di Zumelle_.
+
+        [xxii] D. «vii.»
+
+        [xxiii] P. «in.»
+
+        [xxiv] P. «domum.»
+
+        [xxv] P. Omette il resto.
+
+        [xxvi] Il Vescovo Gerardo, che aveva guidato i Bellunesi in tante
+        imprese guerresche, fu ucciso nel 1197, combattendo di nuovo
+        contro i Trivigiani. Quest’ultimo periodo dunque, se non tutto il
+        branicello di cronaca, fu di certo scritto dopo codesta morto.
+
+[80] Giullare.
+
+[81] Sebben _s’ingaudisca_ di me, ossia parli di me con gaudio, con
+gioia.
+
+[82] Piccola moneta, principio di computo in Genova, come il
+_bolognino_ a Bologna.
+
+[83] Non t’intendo più d’un Tedesco, o Sardo, o nativo di Barberia.
+
+[84] Non voglio questo latino, cioè questo linguaggio.
+
+[85] Fratello, ciò abbia una fine: facciamola unita.
+
+[86] Lasciami stare. (GALVANI, _Un Monumento linguistico genovese
+dell’anno 1191_, nella _Strenna filologica modenese per l’anno 1863_;
+pag. 84–94.)—All’ultimo decennio del sec. XII, o al principio del
+XIII, appartiene anche il _discordo_ poliglotto dello stesso Rambaldo;
+perchè essendo diretto al _Belhs Cavaliers_, cioè alla sua amante
+Beatrice di Monferrato, dovette di certo scriverlo dopo la sua venuta
+in Italia (1186–89), di dove partì per seguire nella quarta crociata il
+marchese Bonifazio, fratello o, più probabilmente, padre di Beatrice,
+col quale morì combattendo in Oriente nel 1207. Ma la seconda strofa
+del _discordo_, e il terzo e quarto verso dell’ultima, che dovrebbero
+essere scritti in alcuno de’ nostri idiomi, ci son pervenuti, come
+tutto il resto del componimento, in tale stato, che, anche dopo
+l’edizione critica del Meyer, non si riesce a determinare qual sia
+codesto idioma. Contengono bensì parecchie forme schiettamente toscane;
+anzi schiettamente toscano è tutto il quarto verso dell’ultima strofa:
+
+  Ieu so quel que ben non aio.
+  Ni encora non l’averò
+  Per abrilo ni per maio.
+  Si per ma dona no l’ho;
+
+  E s’entendo son lengaio,
+  Sa gran beutat dir non so:
+  Plus fresqu’es que flor de glaio [ghiaggiuolo],
+  E ja no m’en partirò.
+
+  ...........
+  ...........
+  Que cada jorno m’esglaio.
+  Oimè! lasso, que farò...?
+
+(Cfr. MEYER, _Recueil d’anciens textes_ etc.; Paris, 1874 pag.
+89–91.—GALVANI, _Osservazioni sulla Poesia de’ Trovatori_; Modena,
+1829; pag. 105–114.—CERRATO, _Il_ «Bel Cavaliere» _di Rambaldo di
+Vaqueiras_, nel _Giorn. Stor. della Lett. ital._; vol. IV; Torino,
+1884; pag. 81–115.)
+
+[87] TRUCCHI, _Poesie italiane inedite di dugento Autori_; Prato, 1846;
+vol. I, pag. 18.—D’ANCONA e COMPARETTI, _Le antiche Rime volgari_;
+Bologna, 1875; vol. I, pag. 61–65.
+
+[88] Non ha però certo ragione il Cantù di farne due componimenti,
+desumendone prima alcuni versi dal Federici, e poi, senza avvedersi che
+si tratta della stessa cosa, un altro brano dal Tosti. (CANTÙ, _Vicende
+dei Parlari d’Italia_; Torino, 1877; pag. 126 e 135.—II facsimile del
+_Ritmo_ può vedersi nella _Rivista di Filologia romanza_, vol. II, pag.
+90–110» pubblicato e illustrato dal Giorgi e dal Navone. Sulle sue
+interpetrazioni è poi da vedere uno studio del Novati, che ne propone
+una nuova, nella _Miscellanea di Filologia e Linguistica_; Firenze,
+1886; pag. 375–91.) Nè hanno, mi pare, maggior ragione coloro che dopo
+i buoni argomenti dell’Affò (Op. cit., pag. 41–50) e di Sebastiano
+Ciampi (Prefaz. ai _Trattati morali di Albergano_; Firenze, 1832; pag.
+13–19), non si risolvono a tenere per falsa la celebre iscrizione degli
+Ubaldini di Firenze, che pretenderebbe appartenere all’anno 1184. Del
+secolo XVI, e non del 1153, è pure quell’atto di permuta in siciliano,
+ripubblicato nella citata operetta (pag. 154) dallo stesso Cantù,
+insieme con tanta altra roba, a cui oramai nessuno presta più fede.
+
+[89] _Catalogus Codicum latinorum Bibliothecae Mediceae Laurentianae_;
+tom. IV (Florentiae, 1777), col. 468–69.
+
+[90] Nei _Romanische Studien_ del Boehmer, vol. IV, fasc. 1 (Bonn,
+1879).
+
+[91] Della fine del secolo XII o del principio del XIII, è certamente
+anche l’iscrizione di un sarcofago del Camposanto di Pisa, pubblicata
+dal Ciampi (Op. cit., pag. 12–13), e che, secondo il confronto fattone
+per me con l’originale dal mio amico Alessandro D’Ancona, dice così:
+† _Hore_ [ora] _vai per via, pregando dell’anima mia: sicome tu se’,
+ego fui; sicus [sicum?] ego sum, tu dei essere_. La data approssimativa
+si rileva da un’altra iscrizione che è sullo stesso sarcofago: †
+_Biduinus maister fecit hanc tumbam m.......nm Giratium_; poichè,
+per altri documenti certi, si sa che questo maestro Biduino nel 1180
+lavorò nella Chiesa di San Cassiano presso Pisa, e pare anche nel 1166
+a Lucca. (CIAMPI, _loc. cit._, e _Notizie inedite della Sagrestia
+pistoiese_ ecc., Firenze, 1810, pag. 52.)—Il frammento invece, di
+ventotto versi, pubblicato nel 1758 dal Panelli, del carme che sarebbe
+stato scritto nel 1187, per l’entrata in Ascoli di Arrigo VI, da quel
+marchigiano, che poi col nome di frate Pacifico seguì san Francesco,
+a me non pare altro che una rozza falsificazione, cominciando dal
+titolo, il quale dice così: «In laude de Augusto Sennor Henrico Sexto
+Rege de Romane, filio de Domene..... Friderico Imperatore, qui sta in
+ista Civitate de Esculo con multo suo piacere, et con multa gloria
+et triunpho de Civitate.» Falso lo giudica anche il prof. Nazzareno
+Angeletti, nella sua tesi di laurea, che si conserva manoscritta
+nell’Archivio dell’Università romana. L’Angeletti tuttavia resta in
+dubbio sull’autenticità d’un altro frammento, che contiene i soli primi
+quattro versi del medesimo carme, e che fu pubblicato dall’abate F. A.
+Marcucci (ABATE ASCOLANO, _Saggio delle cose ascolane_ ecc.; Teramo,
+1766; pag. 229), il quale dice di averlo ricavato dalla cronaca di
+Lino della Rocca. Ma lasciando anche stare che questa cronaca nessuno
+l’ha più veduta, e considerando solamente che il Panelli ebbe dallo
+stesso Marcucci, come tolto da un’opera inedita d’un altro Marcucci
+(Niccolò), il primo frammento; io inclino a creder falso anche il
+secondo, che forse fu inventato per correggere o avvalorare il primo.
+Più che sospette mi paiono anche le parole con cui l’Abate Ascolano
+accompagna questo preteso frammento: «Lino accenna la RECITA, che da’
+nostri Poeti nel dì 22 Luglio fu fatta in Presenza del Monarca, e come
+il nostro Poeta _Guglielmino_ di anni 29 venne grandemente plaudito
+da _Errigo_ per la cantata di un nuovo _Carme italico di cento versi_
+ad onore del Re.... Ecco la prima volta, che nell’Italia incominciò a
+balbettare la _Poesia Italiana_, allor nata dal nostro _Guglielmino_;
+il quale la trapiantò poi in Sicilia, come vedrassi. Di questo _Carme_
+o sia Canzone furono dispensate molte copie, come Lino attesta. Restò
+tuttavia molto variato. La copia che riporta il Marcucci, cioè Niccolò,
+è differente sin ne’ primi versi.... In rimunerazione fu _Guglielmino_
+dichiarato _Nobile Palatino_ dal Re, e suo _Poeta_.» Ecco a buon conto
+que’ quattro versi, nella prima lezione, che è notissima, e nella
+seconda, che è quasi ignota:
+
+  Tu es illo valente Imperatore,
+  Qui porte ad Esculan gloria et triumpho:
+  Renove Tu, Señor, illu splennore,
+  Qui come tanti sole......
+
+  Tu si’ chillo valente Re et Sennure,
+  Qui porte ad Esculan gloria et triumpho:
+  Non Febo alluma tanto el nostro Trunto,
+  Quanto Henrico dave a noi luce et splennure.
+
+
+[92] GREGORII MAGNI _Opera omnia_; Parisiis, 1705; tom. II, col.
+1139–40.
+
+[93] _Ibid._, tom. I, pag. 6.
+
+[94] DEMOGEOT, _Histoire de la Littérature française_; Paris, 1864;
+pag. 54.
+
+[95] GREGOROVIUS, Op. e loc. cit.
+
+[96] Cfr. GIESEBRECHT, _De litterarum studiis apud Italos primis medii
+aevi saeculis_. Berolini, 1845.
+
+[97] _Ibid._, pag. 7–8.
+
+[98] PERTZ, _Monumenta Germaniae historica; Legum tom. I_ (Hannoverae,
+1835); pag. 52–53 e 64–65.
+
+[99] Sacrosancta Concilia etc.; tom. IX (Venetiis, 1729); colonna 338.
+
+[100] _Lupi Ferrariensis_ _Epistolae_, ap. DU CHESNE, _Historiae
+Francorum Scriptores_; tom. II, pag. 727.
+
+[101] _Ibid._, pag. 778–79; e MURATORI, Diss. XLIII, ediz. cit., tom.
+VIII, col. 528–29.
+
+[102] GHIRARDACCI, _Historia di Bologna_; parte prima (Bologna, 1596);
+pag. 279.
+
+[103] _Purgat_., XI, 97–99.
+
+[104] _Convito_, Tratt. I, cap. XI e XIII, ediz. Barbera (1857), curata
+dal Fraticelli.
+
+
+
+
+
+
+End of the Project Gutenberg EBook of Origine della lingua italiana:
+dissertazione, by Luigi Morandi
+
+*** END OF THIS PROJECT GUTENBERG EBOOK ORIGINE DELLA LINGUA ITALIANA ***
+
+***** This file should be named 47163-0.txt or 47163-0.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/4/7/1/6/47163/
+
+Produced by Giovanni Fini and the Online Distributed
+Proofreading Team at http://www.pgdp.net (This file was
+produced from images generously made available by The
+Internet Archive)
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org/license
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
