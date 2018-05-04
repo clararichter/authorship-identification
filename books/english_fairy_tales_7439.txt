@@ -1,63 +1,3 @@
-The Project Gutenberg EBook of English Fairy Tales, by Anonymous
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org
-
-
-Title: English Fairy Tales
-
-Author: Anonymous
-
-Editor: Joseph Jacobs
-
-
-Release Date: February, 2005 [EBook #7439]
-This file was first posted on April 30, 2003
-Last Updated: May 20, 2013
-
-Language: English
-
-Character set encoding: ASCII
-
-*** START OF THIS PROJECT GUTENBERG EBOOK ENGLISH FAIRY TALES ***
-
-
-
-
-Produced by Charles Franks, Delphine Lettau and the people at DP
-
-
-
-
-
-
-
-ENGLISH FAIRY TALES
-
-By Anonymous
-
-
-_COLLECTED BY_ JOSEPH JACOBS
-
-
-
-
-_HOW TO GET INTO THIS BOOK._
-
-    _Knock at the Knocker on the Door,
-    Pull the Bell at the side,_
-
-_Then, if you are very quiet, you will hear a teeny tiny voice say
-through the grating "Take down the Key." This you will find at the back:
-you cannot mistake it, for it has J. J. in the wards. Put the Key in the
-Keyhole, which it fits exactly, unlock the door and WALK IN._
-
-
-
-_TO MY DEAR LITTLE MAY_
-
 
 
 
@@ -185,30 +125,6 @@ the dainty headpieces to "Henny Penny" and "Mr. Fox" are due to my old
 friend, Mr. Henry Ryland.
 
 JOSEPH JACOBS.
-
-
-
-CONTENTS
-
-I. TOM TIT TOT II. THE THREE SILLIES III. THE ROSE-TREE IV. THE OLD
-WOMAN AND HER PIG V. HOW JACK WENT TO SEEK HIS FORTUNE VI. MR. VINEGAR
-VII. NIX NOUGHT NOTHING VIII. JACK HANNAFORD IX. BINNORIE X. MOUSE AND
-MOUSER XI. CAP O' RUSHES XII. TEENY-TINY XIII. JACK AND THE BEANSTALK
-XIV. THE STORY OF THE THREE LITTLE PIGS XV. THE MASTER AND HIS PUPIL
-XVI. TITTY MOUSE AND TATTY MOUSE XVII. JACK AND HIS GOLDEN SNUFF-BOX
-XVIII. THE STORY OF THE THREE BEARS XIX. JACK THE GIANT-KILLER XX.
-HENNY-PENNY XXI. CHILDE ROWLAND XXII. MOLLY WHUPPIE XXIII. THE RED ETTIN
-XXIV. THE GOLDEN ARM XXV. THE HISTORY OF TOM THUMB XXVI. MR. FOX XXVII.
-LAZY JACK XXVIII. JOHNNY-CAKE XXIX. EARL MAR'S DAUGHTER XXX. MR. MIACCA
-XXXI. WHITTINGTON AND HIS CAT XXXII. THE STRANGE VISITOR XXXIII. THE
-LAIDLY WORM OF SPINDLESTON HEUGH XXXIV. THE CAT AND THE MOUSE. XXXV.
-THE FISH AND THE RING. XXXVI. THE MAGPIE'S NEST XXXVII. KATE CRACKERNUTS
-XXXVIII. THE CAULD LAD OF HILTON XXXIX. THE ASS, THE TABLE, AND THE
-STICK XL. FAIRY OINTMENT XLI. THE WELL OF THE WORLD'S END. XLII. MASTER
-OF ALL MASTERS. XLIII. THE THREE HEADS OF THE WELL
-
-NOTES AND REFERENCES
-
 
 
 
@@ -7221,4 +7137,3 @@ This Web site includes information about Project Gutenberg-tm,
 including how to make donations to the Project Gutenberg Literary
 Archive Foundation, how to help produce our new eBooks, and how to
 subscribe to our email newsletter to hear about new eBooks.
-

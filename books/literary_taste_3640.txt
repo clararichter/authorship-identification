@@ -1,439 +1,3 @@
-The Project Gutenberg Etext of Literary Taste, by Arnold Bennett
-#3 in our series by Arnold Bennett
-
-Copyright laws are changing all over the world, be sure to check
-the laws for your country before redistributing these files!!!
-
-Please take a look at the important information in this header.
-We encourage you to keep this file on your own disk, keeping an
-electronic path open for the next readers.
-
-Please do not remove this.
-
-This should be the first thing seen when anyone opens the book.
-Do not change or edit it without written permission.  The words
-are carefully chosen to provide users with the information they
-need about what they can legally do with the texts.
-
-
-**Welcome To The World of Free Plain Vanilla Electronic Texts**
-
-**Etexts Readable By Both Humans and By Computers, Since 1971**
-
-*These Etexts Prepared By Hundreds of Volunteers and Donations*
-
-Information on contacting Project Gutenberg to get Etexts, and
-further information is included below.  We need your donations.
-The Project Gutenberg Literary Archive Foundation is a 501(c)(3)
-organization with EIN [Employee Identification Number] 64-6221541
-
-As of 12/12/00 contributions are only being solicited from people in:
-Colorado, Connecticut, Idaho, Indiana, Iowa,
-Kentucky, Louisiana, Massachusetts, Montana,
-Nevada, Oklahoma, South Carolina, South Dakota,
-Texas, Vermont, and Wyoming.
-
-International donations are accepted,
-but we don't know ANYTHING about how
-to make them tax-deductible, or
-even if they CAN be made deductible,
-and don't have the staff to handle it
-even if there are ways.
-
-As the requirements for other states are met,
-additions to this list will be made and fund raising
-will begin in the additional states.  Please feel
-free to ask to check the status of your state.
-
-International donations are accepted,
-but we don't know ANYTHING about how
-to make them tax-deductible, or
-even if they CAN be made deductible,
-and don't have the staff to handle it
-even if there are ways.
-
-These donations should be made to:
-
-Project Gutenberg Literary Archive Foundation
-PMB 113
-1739 University Ave.
-Oxford, MS 38655-4109
-
-
-Title: LITERARY TASTE
-
-Author: ARNOLD BENNETT
-
-Release Date: January, 2003  [Etext #3640]
-[Yes, we are about one year ahead of schedule]
-[The actual date this file first posted = 07/01/01]
-
-Edition: 10
-
-Language: English
-
-The Project Gutenberg Etext of Literary Taste, by Arnold Bennett
-*******This file should be named 3640.txt or 3640.zip*****
-
-This etext was produced by Peter Hayes.
-
-Project Gutenberg Etexts are usually created from multiple editions,
-all of which are in the Public Domain in the United States, unless a
-copyright notice is included.  Therefore, we usually do NOT keep any
-of these books in compliance with any particular paper edition.
-
-We are now trying to release all our books one year in advance
-of the official release dates, leaving time for better editing.
-Please be encouraged to send us error messages even years after
-the official publication date.
-
-Please note:  neither this list nor its contents are final till
-midnight of the last day of the month of any such announcement.
-The official release date of all Project Gutenberg Etexts is at
-Midnight, Central Time, of the last day of the stated month.  A
-preliminary version may often be posted for suggestion, comment
-and editing by those who wish to do so.
-
-Most people start at our sites at:
-http://gutenberg.net
-http://promo.net/pg
-
-
-Those of you who want to download any Etext before announcement
-can surf to them as follows, and just download by date; this is
-also a good way to get them instantly upon announcement, as the
-indexes our cataloguers produce obviously take a while after an
-announcement goes out in the Project Gutenberg Newsletter.
-
-http://www.ibiblio.org/gutenberg/etext02
-or
-ftp://ftp.ibiblio.org/pub/docs/books/gutenberg/etext02
-
-Or /etext01, 00, 99, 98, 97, 96, 95, 94, 93, 92, 92, 91 or 90
-
-Just search by the first five letters of the filename you want,
-as it appears in our Newsletters.
-
-
-Information about Project Gutenberg (one page)
-
-We produce about two million dollars for each hour we work.  The
-time it takes us, a rather conservative estimate, is fifty hours
-to get any etext selected, entered, proofread, edited, copyright
-searched and analyzed, the copyright letters written, etc.  This
-projected audience is one hundred million readers.  If our value
-per text is nominally estimated at one dollar then we produce $2
-million dollars per hour this year as we release fifty new Etext
-files per month, or 500 more Etexts in 2000 for a total of 3000+
-If they reach just 1-2% of the world's population then the total
-should reach over 300 billion Etexts given away by year's end.
-
-The Goal of Project Gutenberg is to Give Away One Trillion Etext
-Files by December 31, 2001.  [10,000 x 100,000,000 = 1 Trillion]
-This is ten thousand titles each to one hundred million readers,
-which is only about 4% of the present number of computer users.
-
-At our revised rates of production, we will reach only one-third
-of that goal by the end of 2001, or about 3,333 Etexts unless we
-manage to get some real funding.
-
-The Project Gutenberg Literary Archive Foundation has been created
-to secure a future for Project Gutenberg into the next millennium.
-
-We need your donations more than ever!
-
-Presently, contributions are only being solicited from people in:
-Colorado, Connecticut, Idaho, Indiana, Iowa,
-Kentucky, Louisiana, Massachusetts, Nevada,
-Montana, Nevada, Oklahoma, South Carolina,
-South Dakota, Texas, Vermont, and Wyoming.
-
-As the requirements for other states are met,
-additions to this list will be made and fund raising
-will begin in the additional states.
-
-These donations should be made to:
-
-Project Gutenberg Literary Archive Foundation
-PMB 113
-1739 University Ave.
-Oxford, MS 38655-4109
-
-
-Project Gutenberg Literary Archive Foundation,
-EIN [Employee Identification Number] 64-6221541,
-has been approved as a 501(c)(3) organization by the US Internal
-Revenue Service (IRS).  Donations are tax-deductible to the extent
-permitted by law.  As the requirements for other states are met,
-additions to this list will be made and fund raising will begin in the
-additional states.
-
-All donations should be made to the Project Gutenberg Literary
-Archive Foundation.  Mail to:
-
-Project Gutenberg Literary Archive Foundation
-PMB 113
-1739 University Avenue
-Oxford, MS 38655-4109  [USA]
-
-
-We need your donations more than ever!
-
-You can get up to date donation information at:
-
-http://www.gutenberg.net/donation.html
-
-
-***
-
-If you can't reach Project Gutenberg,
-you can always email directly to:
-
-Michael S. Hart <hart@pobox.com>
-
-hart@pobox.com forwards to hart@prairienet.org and archive.org
-if your mail bounces from archive.org, I will still see it, if
-it bounces from prairienet.org, better resend later on. . . .
-
-Prof. Hart will answer or forward your message.
-
-We would prefer to send you information by email.
-
-
-***
-
-
-Example command-line FTP session:
-
-ftp ftp.ibiblio.org
-login: anonymous
-password: your@login
-cd pub/docs/books/gutenberg
-cd etext90 through etext99 or etext00 through etext02, etc.
-dir [to see files]
-get or mget [to get files. . .set bin for zip files]
-GET GUTINDEX.??  [to get a year's listing of books, e.g., GUTINDEX.99]
-GET GUTINDEX.ALL [to get a listing of ALL books]
-
-
-**The Legal Small Print**
-
-
-(Three Pages)
-
-***START**THE SMALL PRINT!**FOR PUBLIC DOMAIN ETEXTS**START***
-Why is this "Small Print!" statement here?  You know: lawyers.
-They tell us you might sue us if there is something wrong with
-your copy of this etext, even if you got it for free from
-someone other than us, and even if what's wrong is not our
-fault.  So, among other things, this "Small Print!" statement
-disclaims most of our liability to you.  It also tells you how
-you may distribute copies of this etext if you want to.
-
-*BEFORE!* YOU USE OR READ THIS ETEXT
-By using or reading any part of this PROJECT GUTENBERG-tm
-etext, you indicate that you understand, agree to and accept
-this "Small Print!" statement.  If you do not, you can receive
-a refund of the money (if any) you paid for this etext by
-sending a request within 30 days of receiving it to the person
-you got it from.  If you received this etext on a physical
-medium (such as a disk), you must return it with your request.
-
-ABOUT PROJECT GUTENBERG-TM ETEXTS
-This PROJECT GUTENBERG-tm etext, like most PROJECT GUTENBERG-tm etexts,
-is a "public domain" work distributed by Professor Michael S. Hart
-through the Project Gutenberg Association (the "Project").
-Among other things, this means that no one owns a United States copyright
-on or for this work, so the Project (and you!) can copy and
-distribute it in the United States without permission and
-without paying copyright royalties.  Special rules, set forth
-below, apply if you wish to copy and distribute this etext
-under the "PROJECT GUTENBERG" trademark.
-
-Please do not use the "PROJECT GUTENBERG" trademark to market
-any commercial products without permission.
-
-To create these etexts, the Project expends considerable
-efforts to identify, transcribe and proofread public domain
-works.  Despite these efforts, the Project's etexts and any
-medium they may be on may contain "Defects".  Among other
-things, Defects may take the form of incomplete, inaccurate or
-corrupt data, transcription errors, a copyright or other
-intellectual property infringement, a defective or damaged
-disk or other etext medium, a computer virus, or computer
-codes that damage or cannot be read by your equipment.
-
-LIMITED WARRANTY; DISCLAIMER OF DAMAGES
-But for the "Right of Replacement or Refund" described below,
-[1] Michael Hart and the Foundation (and any other party you may
-receive this etext from as a PROJECT GUTENBERG-tm etext) disclaims
-all liability to you for damages, costs and expenses, including
-legal fees, and [2] YOU HAVE NO REMEDIES FOR NEGLIGENCE OR
-UNDER STRICT LIABILITY, OR FOR BREACH OF WARRANTY OR CONTRACT,
-INCLUDING BUT NOT LIMITED TO INDIRECT, CONSEQUENTIAL, PUNITIVE
-OR INCIDENTAL DAMAGES, EVEN IF YOU GIVE NOTICE OF THE
-POSSIBILITY OF SUCH DAMAGES.
-
-If you discover a Defect in this etext within 90 days of
-receiving it, you can receive a refund of the money (if any)
-you paid for it by sending an explanatory note within that
-time to the person you received it from.  If you received it
-on a physical medium, you must return it with your note, and
-such person may choose to alternatively give you a replacement
-copy.  If you received it electronically, such person may
-choose to alternatively give you a second opportunity to
-receive it electronically.
-
-THIS ETEXT IS OTHERWISE PROVIDED TO YOU "AS-IS".  NO OTHER
-WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, ARE MADE TO YOU AS
-TO THE ETEXT OR ANY MEDIUM IT MAY BE ON, INCLUDING BUT NOT
-LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A
-PARTICULAR PURPOSE.
-
-Some states do not allow disclaimers of implied warranties or
-the exclusion or limitation of consequential damages, so the
-above disclaimers and exclusions may not apply to you, and you
-may have other legal rights.
-
-INDEMNITY
-You will indemnify and hold Michael Hart, the Foundation,
-and its trustees and agents, and any volunteers associated
-with the production and distribution of Project Gutenberg-tm
-texts harmless, from all liability, cost and expense, including
-legal fees, that arise directly or indirectly from any of the
-following that you do or cause:  [1] distribution of this etext,
-[2] alteration, modification, or addition to the etext,
-or [3] any Defect.
-
-DISTRIBUTION UNDER "PROJECT GUTENBERG-tm"
-You may distribute copies of this etext electronically, or by
-disk, book or any other medium if you either delete this
-"Small Print!" and all other references to Project Gutenberg,
-or:
-
-[1]  Only give exact copies of it.  Among other things, this
-     requires that you do not remove, alter or modify the
-     etext or this "small print!" statement.  You may however,
-     if you wish, distribute this etext in machine readable
-     binary, compressed, mark-up, or proprietary form,
-     including any form resulting from conversion by word
-     processing or hypertext software, but only so long as
-     *EITHER*:
-
-     [*]  The etext, when displayed, is clearly readable, and
-          does *not* contain characters other than those
-          intended by the author of the work, although tilde
-          (~), asterisk (*) and underline (_) characters may
-          be used to convey punctuation intended by the
-          author, and additional characters may be used to
-          indicate hypertext links; OR
-
-     [*]  The etext may be readily converted by the reader at
-          no expense into plain ASCII, EBCDIC or equivalent
-          form by the program that displays the etext (as is
-          the case, for instance, with most word processors);
-          OR
-
-     [*]  You provide, or agree to also provide on request at
-          no additional cost, fee or expense, a copy of the
-          etext in its original plain ASCII form (or in EBCDIC
-          or other equivalent proprietary form).
-
-[2]  Honor the etext refund and replacement provisions of this
-     "Small Print!" statement.
-
-[3]  Pay a trademark license fee to the Foundation of 20% of the
-     gross profits you derive calculated using the method you
-     already use to calculate your applicable taxes.  If you
-     don't derive profits, no royalty is due.  Royalties are
-     payable to "Project Gutenberg Literary Archive Foundation"
-     the 60 days following each date you prepare (or were
-     legally required to prepare) your annual (or equivalent
-     periodic) tax return.  Please contact us beforehand to
-     let us know your plans and to work out the details.
-
-WHAT IF YOU *WANT* TO SEND MONEY EVEN IF YOU DON'T HAVE TO?
-Project Gutenberg is dedicated to increasing the number of
-public domain and licensed works that can be freely distributed
-in machine readable form.
-
-The Project gratefully accepts contributions of money, time,
-public domain materials, or royalty free copyright licenses.
-Money should be paid to the:
-"Project Gutenberg Literary Archive Foundation."
-
-If you are interested in contributing scanning equipment or
-software or other items, please contact Michael Hart at:
-hart@pobox.com
-
-*END THE SMALL PRINT! FOR PUBLIC DOMAIN ETEXTS*Ver.12.12.00*END*
-
-
-
-
-
-This etext was produced by Peter Hayes (p.hayes@pgrad.unimelb.edu.au).
-
-Notes on the text.
-
-Literary Taste was first published in August 1909. I have worked from
-a copy of the "seventh edition" of February 1914. The text was
-keyed in manually and then scanned; the two versions so produced were then
-compared using ms word's "track changes" tool and brought into agreement.
-
-Ambiguity arises concerning the intended hyphenation of six words
-in the original printed text--hill-side, super-eminently, re-birth,
-school-master, red-gauntlet, hood-winking--which in it are made to run
-over two lines. I have attempted to hyphenate these words (or not to do so)
-as I think Bennett would have done, guided in these judgments in part
-by "A New English Dictionary" (1928), the most authoritative
-English dictionary published up until Bennett's death in 1931.
-
-Of the three occurrences of the name "Newnes's Thin-Paper Classics",
-Bennett hyphenates only one; I have hyphenated all three.
-
-In the list for poets of "Period I", the entry for Beaumont and Fletcher
-contains an apparent typo, which I have corrected (or altered, at least).
-For those interested, the original entry for these authors
-contained no colon before the edition name (Canterbury Poets),
-and italicised the word 'Plays' only, leaving the words 'a Selection'
-in plain type.
-
-The book's only footnote has been placed in brackets immediately after
-the chapter title to which Bennett appended it.
-
-
-
-
-
-LITERARY TASTE
-
-HOW TO FORM IT
-
-WITH DETAILED INSTRUCTIONS FOR COLLECTING A COMPLETE LIBRARY
-OF ENGLISH LITERATURE
-
-BY ARNOLD BENNETT
-
-
-
-CONTENTS
-
-CHAPTER I	THE AIM
-CHAPTER II	YOUR PARTICULAR CASE
-CHAPTER III	WHY A CLASSIC IS A CLASSIC
-CHAPTER IV	WHERE TO BEGIN
-CHAPTER V	HOW TO READ A CLASSIC
-CHAPTER VI	THE QUESTION OF STYLE
-CHAPTER VII	WRESTLING WITH AN AUTHOR
-CHAPTER VIII	SYSTEM IN READING
-CHAPTER IX	VERSE
-CHAPTER X	BROAD COUNSELS
-CHAPTER XI	AN ENGLISH LIBRARY: PERIOD I
-CHAPTER XII	AN ENGLISH LIBRARY: PERIOD II
-CHAPTER XIII	AN ENGLISH LIBRARY: PERIOD III
-CHAPTER XIV	MENTAL STOCKTAKING
-
 
 
 Chapter I
@@ -649,7 +213,7 @@ Thus proving that you regard a classic as a pill, the swallowing of which
 merits jam!  And the more modern a classic is, the more it resembles
 the stuff of the year and the less it resembles the classics
 of the centuries, the more easy and enticing do you find that classic.
-Hence you are glad that George Eliot, the Brontës, Thackeray,
+Hence you are glad that George Eliot, the Brontï¿½s, Thackeray,
 are considered as classics, because you really *do* enjoy them.
 Your sentiments concerning them approach your sentiments concerning
 a "rattling good story" in a magazine.
@@ -725,7 +289,7 @@ with volumes, as handsome as you can afford.  And for reading,
 all that I will now particularly enjoin is a general and inclusive tasting,
 in order to attain a sort of familiarity with the look
 of "literature in all its branches."  A turning over of the pages
-of a volume of Chambers's *Cyclopædia of English Literature*,
+of a volume of Chambers's *Cyclopï¿½dia of English Literature*,
 the third for preference, may be suggested as an admirable and
 a diverting exercise.  You might mark the authors that flash
 an appeal to you.
@@ -1051,8 +615,8 @@ We must so exercise our imagination as to feel the man behind the book.
 
 Some biographical information about Lamb should be acquired.
 There are excellent short biographies of him by Canon Ainger
-in the *Dictionary of National Biography*, in Chambers's *Encyclopædia*,
-and in Chambers's *Cyclopædia of English Literature*.
+in the *Dictionary of National Biography*, in Chambers's *Encyclopï¿½dia*,
+and in Chambers's *Cyclopï¿½dia of English Literature*.
 If you have none of these (but you ought to have the last),
 there are Mr. E. V. Lucas's exhaustive *Life* (Methuen, 7s. 6d.),
 and, cheaper, Mr. Walter Jerrold's *Lamb* (Bell and Sons, 1s.);
@@ -1631,7 +1195,7 @@ which will yield neither pleasure nor advantage.  In the choice of reading
 the individual must count; caprice must count, for caprice is often
 the truest index to the individuality.  Stand defiantly on your own feet,
 and do not excuse yourself to yourself.  You do not exist in order
-to honour literature by becoming an encyclopædia of literature.
+to honour literature by becoming an encyclopï¿½dia of literature.
 Literature exists for your service.  Wherever you happen to be,
 that, for you, is the centre of literature.
 
@@ -1900,7 +1464,7 @@ Mr. Nowell C. Smith.  It is essential that the student of poetry
 should become possessed, honestly or dishonestly, either of this volume
 or of the matter which it contains.  There is, by the way, a volume of
 Wordsworth's prose in the Scott Library (1s.).  Those who have not read
-Wordsworth on poetry can have no idea of the naïve charm
+Wordsworth on poetry can have no idea of the naï¿½ve charm
 and the helpful radiance of his expounding.  I feel that I cannot
 too strongly press Wordsworth's criticism upon you.
 
@@ -1933,7 +1497,7 @@ outside your vocabulary and range of thought, then you had better
 take yourself in hand.  You have to decide whether you will be on the side
 of the angels or on the side of the nincompoops.  There is no surer
 sign of imperfect development than the impulse to snigger
-at what is unusual, naïve, or exuberant.  And if you choose to do so,
+at what is unusual, naï¿½ve, or exuberant.  And if you choose to do so,
 you can detect the cat walking across the stage in the sublimest
 passages of literature.  But more advanced souls will grieve for you.
 
@@ -1959,7 +1523,7 @@ that exist: tragic, humorous, ironic, elegiac, lyric--everything.
 You will have a comprehensive acquaintance with a poet's mind.
 I guarantee that you will come safely through if you treat the work
 as a novel.  For a novel it effectively is, and a better one than any
-written by Charlotte Brontë or George Eliot.  In reading, it would be well
+written by Charlotte Brontï¿½ or George Eliot.  In reading, it would be well
 to mark, or take note of, the passages which give you the most pleasure,
 and then to compare these passages with the passages selected for praise
 by some authoritative critic.  *Aurora Leigh* can be got
@@ -2074,7 +1638,7 @@ in order to be sure that the effort shall be an adequate effort.
 The same with reading.  Your paramount aim in poring over literature
 is to enjoy, but you will not fully achieve that aim unless
 you have also a subsidiary aim which necessitates the measurement
-of your energy.  Your subsidiary aim may be æsthetic, moral,
+of your energy.  Your subsidiary aim may be ï¿½sthetic, moral,
 political, religious, scientific, erudite; you may devote yourself
 to a man, a topic, an epoch, a nation, a branch of literature,
 an idea--you have the widest latitude in the choice of an objective;
@@ -2188,7 +1752,7 @@ iii. Translations from foreign literature into English.
 Here, then, are the lists for the first period:
 
 PROSE WRITERS
-									£	s.	d.
+									ï¿½	s.	d.
 Bede, *Ecclesiastical History:* Temple Classics				0	1	6
 Sir Thomas Malory, *Morte d'Arthur:* Everyman's Library (4 vols.)	0	4	0
 Sir Thomas More, *Utopia:* Scott Library				0	1	0
@@ -2213,7 +1777,7 @@ Sir William Temple, *Essay on Gardens of Epicurus:* King's Classics	0	1
 	6
 John Evelyn, *Diary:* Everyman's Library (2 vols.)			0	2	0
 Samuel Pepys, *Diary:* Everyman's Library (2 vols.)			0	2	0
-									£2	1	6
+									ï¿½2	1	6
 
 
 The principal omission from the above list is *The Paston Letters*,
@@ -2228,7 +1792,7 @@ and in the second I assume that you already possess a copy.
 
 
 POETS.
-									£	s.	d.
+									ï¿½	s.	d.
 *Beowulf*, Routledge's London Library					0	2	6
 GEOFFREY CHAUCER, *Works:* Globe Edition				0	3	6
 Nicolas Udall, *Ralph Roister-Doister:* Temple Dramatists		0	1	0
@@ -2265,7 +1829,7 @@ Arber's *"Spenser" Anthology:* Oxford University Press			0	2
 	0
 Arber's *"Jonson" Anthology:* Oxford University Press			0	2	0
 Arber's *"Shakspere" Anthology:* Oxford University Press		0	2	0
-									£3	7	6
+									ï¿½3	7	6
 
 
 There were a number of brilliant minor writers in the seventeenth century
@@ -2294,10 +1858,10 @@ who in a less fertile period would have counted as at least second-class.
 
 SUMMARY OF THE FIRST PERIOD.
 
-							 £	s.	d.
+							 ï¿½	s.	d.
 19 prose authors in	36	volumes costing		 2	1	6
 29 poets in 		36	   "	   "		 3	7	6
-48			72				£5	9	0
+48			72				ï¿½5	9	0
 In addition, scores of authors of genuine interest are represented
 in the anthologies.
 
@@ -2328,7 +1892,7 @@ of the century.
 
 
 PROSE WRITERS.
-									£	s.	d.
+									ï¿½	s.	d.
 JOHN LOCKE, *Philosophical Works:* Bohn's Edition (2 vols.)		0	7	0
 SIR ISAAC NEWTON, *Principia* (sections 1, 2, and 3): Macmillan's	0	12	0
 Gilbert Burnet, *History of His Own Time:* Everyman's Library		0	1
@@ -2390,7 +1954,7 @@ Maria Edgeworth, *Helen:* Macmillan's Illustrated Edition		0	2	6
 JANE AUSTEN, *Novels:* Nelson's New Century Library (2 vols.)		0	4
 	0
 James Morier, *Hadji Baba:* Macmillan's Illustrated Novels		0	2	6
-									£5	1	0
+									ï¿½5	1	0
 
 
 The principal omissions here are Jeremy Collier, whose outcry against
@@ -2402,7 +1966,7 @@ a contemporaneous Sherlock Holmes to ferret out his identity.
 
 
 POETS.
-									£	s.	d.
+									ï¿½	s.	d.
 Thomas Otway, *Venice Preserved:* Temple Dramatists			0	1	0
 Matthew Prior, *Poems on Several Occasions:*
 	Cambridge English Classics					0	4	6
@@ -2422,15 +1986,15 @@ WILLIAM BLAKE, *Poems:* Muses' Library					0	1	0
 William Lisle Bowles, Hartley Coleridge, *Poems:*
 	Canterbury Poets						0	1	0
 ROBERT BURNS, *Works:* Globe Edition					0	3	6
-									£1	7	0
+									ï¿½1	7	0
 
 
 SUMMARY OF THE PERIOD.
 
-							 £	s.	d.
+							 ï¿½	s.	d.
 39 prose-writers	in	60 volumes, costing	 5	1	0
 18 poets		 " 	18    "		"	 1	7	0
-57				78			£6	8	0
+57				78			ï¿½6	8	0
 
 
 
@@ -2458,7 +2022,7 @@ is meant.
 
 
 PROSE WRITERS: IMAGINATIVE.
-									£	s.	d.
+									ï¿½	s.	d.
 SIR WALTER SCOTT, *Waverley, Heart of Midlothian, Quentin Durward,
 	Redgauntlet, Ivanhoe:* Everyman's Library (5 vols.)		0	5	0
 SIR WALTER SCOTT, *Marmion*, etc.: Canterbury Poets			0	1	0
@@ -2500,11 +2064,11 @@ Anthony Trollope, *Barchester Towers, Framley Parsonage:*
 	Lane's New Pocket Library (2 vols.)				0	2	0
 Charles Kingsley, *Westward Ho!:* Everyman's Library			0	1	0
 Henry Kingsley, *Ravenshoe:* Everyman's Library				0	1	0
-Charlotte Brontë, *Jane Eyre, Shirley, Villette, Professor,
+Charlotte Brontï¿½, *Jane Eyre, Shirley, Villette, Professor,
 	and Poems:* World's Classics (4 vols.)				0	4	0
-Emily Brontë, *Wuthering Heights:* World's Classics			0	1	0
+Emily Brontï¿½, *Wuthering Heights:* World's Classics			0	1	0
 Elizabeth Gaskell, *Cranford:* World's Classics				0	1	0
-Elizabeth Gaskell, *Life of Charlotte Brontë*				0	2	6
+Elizabeth Gaskell, *Life of Charlotte Brontï¿½*				0	2	6
 George Eliot, *Adam Bede, Silas Marner, The Mill on the Floss:*
 	Everyman's Library (3 vols.)					0	3	0
 G. J. Whyte-Melville, *The Gladiators:* New Universal Library		0	1
@@ -2525,7 +2089,7 @@ John Henry Shorthouse, *John Inglesant:* Macmillan's Pocket Classics	0	2
 R. L. Stevenson, *Master of Ballantrae, Virginibus Puerisque:*
 	Pocket Edition (2 vols.)					0	4	0
 George Gissing, *The Odd Women:* Popular Edition (bound)		0	0	7
-									£5	0	1
+									ï¿½5	0	1
 
 
 Names such as those of Charlotte Yonge and Dinah Craik
@@ -2533,7 +2097,7 @@ are omitted intentionally.
 
 
 PROSE WRITERS: NON-IMAGINATIVE.
-									£	s.	d.
+									ï¿½	s.	d.
 William Hazlitt, *Spirit of the Age:* World's Classics			0	1
 	0
 William Hazlitt, *English Poets and Comic Writers:* Bohn's Library	0	3
@@ -2564,7 +2128,7 @@ CHARLES DARWIN, *Voyage of the Beagle:* Everyman's Library		0	1	0
 A. W. Kinglake, *Eothen:* New Universal Library				0	1	0
 John Stuart Mill, *Auguste Comte and Positivism:*
 	New Universal Library						0	1	0
-John Brown, *Horæ Subsecivæ:* World's Classics				0	1	0
+John Brown, *Horï¿½ Subsecivï¿½:* World's Classics				0	1	0
 John Brown, *Rab and His Friends:* Everyman's Library			0	1	0
 Sir Arthur Helps, *Friends in Council:* New Universal Library		0	1
 	0
@@ -2603,7 +2167,7 @@ Sir Leslie Stephen, *Pope:* English Men of Letters Series		0	1	0
 Lord Acton, *On the Study of History*					0	2	6
 Mandell Creighton, *The Age of Elizabeth*				0	2	6
 F. W. H. Myers, *Wordsworth:* English Men of Letters Series		0	1	0
-									£4	10	6
+									ï¿½4	10	6
 
 
 The following authors are omitted, I think justifiably:--Hallam,
@@ -2618,7 +2182,7 @@ Where I do not specify the edition of a book, the original
 copyright edition is meant:
 
 POETS.
-									£	s.	d.
+									ï¿½	s.	d.
 WILLIAM WORDSWORTH, *Poetical Works:* Oxford Edition			0	3	6
 WILLIAM WORDSWORTH, *Literary Criticism:* Nowell Smith's Edition	0	2	6
 Robert Southey, *Poems:* Canterbury Poets				0	1	0
@@ -2644,7 +2208,7 @@ James Clarence Mangan, *Poems:* D. J. O'Donoghue's Edition		0	3	6
 W. Mackworth Praed, *Poems:* Canterbury Poets				0	1	0
 R. S. Hawker, *Cornish Ballads:* C. E. Byles's Edition			0	5
 	0
-Edward FitzGerald, *Omar Khaayyám:* Golden Treasury Series		0	2	6
+Edward FitzGerald, *Omar Khaayyï¿½m:* Golden Treasury Series		0	2	6
 P. J. Bailey, *Festus:* Routledge's Edition				0	3	6
 Arthur Hugh Clough, *Poems:* Muses' Library				0	1	0
 LORD TENNYSON, *Poetical Works:* Globe Edition				0	3	6
@@ -2673,7 +2237,7 @@ William Morris, *Early Romances:* Everyman's Library			0	1	0
 Augusta Webster, *Selected Poems*					0	4	6
 W. E. Henley, *Poetical Works*						0	6	0
 Francis Thompson, *Selected Poems*					0	5	0
-									£5	7	0
+									ï¿½5	7	0
 
 Poets whom I have omitted after hesitation are: Ebenezer Elliott,
 Thomas Woolner, William Barnes, Gerald Massey, and Charles Jeremiah Wells.
@@ -2685,23 +2249,23 @@ somewhat unfamiliar to many readers.  James Clarence Mangan is the author
 of *My Dark Rosaleen*, an acknowledged masterpiece,
 which every library must contain.  T. E. Brown is a great poet,
 recognised as such by a few hundred people, and assuredly destined
-to a far wider fame.  I have included FitzGerald because *Omar Khayyám*
+to a far wider fame.  I have included FitzGerald because *Omar Khayyï¿½m*
 is much less a translation than an original work.
 
 SUMMARY OF THE NINETEENTH CENTURY.
 
-83 prose-writers,	in	141 volumes, costing	£ 9	10	7
+83 prose-writers,	in	141 volumes, costing	ï¿½ 9	10	7
 38 poets		 " 	 46	"	"	  5	 7	0
-121				187			£14	17	7
+121				187			ï¿½14	17	7
 
 GRAND SUMMARY OF COMPLETE LIBRARY.
 
 				Authors.	Volumes.	Price.
-1. To Dryden			48		72		£ 5	 9	0
+1. To Dryden			48		72		ï¿½ 5	 9	0
 2. Eighteenth Century		57		78		  6	 8	0
-3. Nineteenth Century		121		187		£14	17	7
+3. Nineteenth Century		121		187		ï¿½14	17	7
 
-				226		337		£26	14	7
+				226		337		ï¿½26	14	7
 
 I think it will be agreed that the total cost of this library
 is surprisingly small.  By laying out the sum of sixpence a day
@@ -2712,7 +2276,7 @@ and more expensive.
 
 I have mentioned the question of discount.  The discount
 which you will obtain (even from a bookseller in a small town)
-will be more than sufficient to pay for Chambers's *Cyclopædia
+will be more than sufficient to pay for Chambers's *Cyclopï¿½dia
 of English Literature*, three volumes, price 30s. net.
 This work is indispensable to a bookman.  Personally, I owe it much.
 
@@ -2877,7 +2441,7 @@ selects a tunnel for its repose!
 
 
 And the A. V. of the Bible, which you now read, not as your forefathers
-read it, but with an æsthetic delight, especially in the Apocrypha!
+read it, but with an ï¿½sthetic delight, especially in the Apocrypha!
 You remember:
 
 	Whatsoever is brought upon thee, take cheerfully, and be patient
@@ -2957,7 +2521,7 @@ Yet he is no cleverer than he used to be.  Only something has happened
 to him.  Let a gold watch be discovered by a supposititious man
 who has never heard of watches.  He has a sense of beauty.
 He admires the watch, and takes pleasure in it.  He says:
-"This is a beautiful piece of bric-à-brac; I fully appreciate
+"This is a beautiful piece of bric-ï¿½-brac; I fully appreciate
 this delightful trinket."  Then imagine his feelings when someone
 comes along with the key; imagine the light flooding his brain.
 Similar incidents occur in the eventful life of the constant reader.
@@ -2980,7 +2544,7 @@ is that he is content with the names of things instead of
 occupying himself with the causes of things.  He seeks answers
 to the question What? instead of to the question Why?  He studies history,
 and never guesses that all history is caused by the facts of geography.
-He is a botanical expert, and can take you to where the *Sibthorpia europæa*
+He is a botanical expert, and can take you to where the *Sibthorpia europï¿½a*
 grows, and never troubles to wonder what the earth would be
 without its cloak of plants.  He wanders forth of starlit evenings
 and will name you with unction all the constellations from Andromeda
@@ -3048,10 +2612,3 @@ he will have a tendency to smile and you will have a tendency to blush.
 I know this.  I feel it myself.  (I cannot offer any explanation.)
 But it does not shake my conviction that the absence of meditation
 is the main origin of disappointing stocktakings.
-
-
-
-
-
-End of The Project Gutenberg Etext of Literary Taste, by Arnold Bennett
-
