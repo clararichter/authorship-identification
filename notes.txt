@@ -1,0 +1,20 @@
+
+
+TEXTS
+
+[1] https://web.stanford.edu/class/cs224n/reports/2760185.pdf <br/>
+[2] https://brage.bibsys.no/xmlui/bitstream/handle/11250/2353615/12344_FULLTEXT.pdf?sequence=1
+[3] https://onlinelibrary.wiley.com/doi/epdf/10.1002/asi.20316 
+
+
+TODO LIST
+
+1) Finalise book-lists; <b> training set </b> v. <b> testing set </b>
+
+2) Strip texts of header and footer
+
+3) Decide on textual analysis, feature extraction
+
+4) Learn NLTK API 
+
+5) Decide on how to incorporate Google n-grams 
