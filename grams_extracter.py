@@ -1,13 +1,12 @@
 import nltk
 from nltk.util import ngrams
-from nltk import word_tokenize
+from nltk.tokenize import TweetTokenizer
 import operator
 
 
 def get_vector(text):
     text = text.lower()
-    tokens = nltk.word_tokenize(text)
-
+    tokens = TweetTokenizer().tokenize(text)
     map =  {}
     for n in range(1, 7):
         map.update( get_ngram_vector(tokens, n) )
