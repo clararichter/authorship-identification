@@ -1,52 +1,57 @@
 import nltk
 from nltk.util import ngrams
-from nltk.tokenize import TweetTokenizer
-import operator
+from nltk import word_tokenize
 
 
-def get_vector(text):
-    text = text.lower()
-    tokens = TweetTokenizer().tokenize(text)
-    map =  {}
-    for n in range(1, 7):
-        map.update( get_ngram_vector(tokens, n) )
-    return map
+class Text():
 
-def get_toks():
-    pos_tags = [ pos for ( word, pos ) nltk.pos_tag(tokens) ]
-    print pos_tags
+    def __init__(self, text):
+        self.text = text.lower()
+        self.tokens = nltk.word_tokenize(self.text)
+        self.pos_tags = nltk.pos_tag(self.tokens)
+        self.total_number_of_tokens = len(self.tokens)
+        self.row = {}
+        self.build_row()
 
-def get_ngram_vector(tokens, n):
-    grams = ngrams(tokens, n)
-    (gram_map, total_number_of_grams) = get_gram_map(grams)
-    for ( gram, count ) in gram_map.items():
-        gram_map[gram] = ( count, count / total_number_of_grams )
-    return gram_map
-
-def get_n_tok_vector(pos_tags, n):
-
-    for l in range(len(pos_tags)):
-        for i in range(1, len(pos_tags)-l):
-            post_tags[i:i+l]
+    def build_row(self):
+        self.retrieve_gram_data()
+        self.retrieve_pos_data()
+        # self.retrieve_word_diversity_data()
+        # self.retrieve_word_length_data()
+        # self.retrieve_sentence_length_data()
 
 
-def get_gram_map(grams):
-    gram_map = {}
-    counter = 0
-    for gram in grams:
-        counter+=1
-        if gram in gram_map:
-            gram_map[gram] += 1
-        else:
-            gram_map[gram] = 1
-    return gram_map, counter
+    def retrieve_gram_data(self):
+        for n in range(2, 3):
+            n_grams = ngrams(self.tokens, n)
+            number_of_n_grams = self.total_number_of_tokens - n + 1
+            self.row.update( { n_gram : (lambda count: count / number_of_n_grams)(count) for ( n_gram, count ) in self.get_count_map(n_grams).items() } )
+
+    def get_count_map(self, items):
+        count_map = {}
+        for item in items:
+            if item in count_map:
+                count_map[item] += 1
+            else:
+                count_map[item] = 1
+        return count_map
+
+
+    def retrieve_pos_data(self):
+        for n in range(4, 5):
+            pos_n_grams = []
+            for i in range(0, len(self.pos_tags)+1-n):
+                pos_n_grams.append( tuple([ tag for (word, tag) in  self.pos_tags[i:i+n]]) )
+            self.row.update( { pos_n_gram : (lambda count: count / len(pos_n_grams))(count) for ( pos_n_gram, count ) in self.get_count_map(pos_n_grams).items() } )
 
 
 def main():
-    file = open("books/oliver_twist_730.txt",'r')
-    text = file.read()
-    vector = get_vector(text)
-    print(vector)
+    #file = open("books/oliver_twist_730.txt",'r')
+    #text = Text(file.read())
+    text = Text(" the beautiful cat sits. the beautiful cat sits ")
+    text.build_row()
+    print(text.row)
+
 
 if __name__ == '__main__':
     main()
