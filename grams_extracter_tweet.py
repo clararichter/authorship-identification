@@ -74,10 +74,6 @@ class Text():
         print (float("%.2f" % avg_sent_length), float("%.2f" % avg_word_length))
 
 
-
-
-
-
 def main():
     matrix = pd.DataFrame()
 
