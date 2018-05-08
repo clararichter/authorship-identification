@@ -46,11 +46,6 @@ content = re.sub(p4, '', content)
 content = re.sub(p5, '', content)
 content = re.sub(p6, '', content)
 
-
-#
-# print(content)
-# quit()
-
 pattern1 = r'\n[A-Za-z0-9 ,.\'\"()-:?&$]+, by [A-Za-zë .,]+ [0-9]+'
 pattern2 = r'\n[A-Za-z0-9 ,.\'\"()-:?&$]+ [0-9]+\n[A-Za-z0-9 ,.\'\"()-:&$]+, by [A-Za-zë .,]+'
 
