@@ -42,6 +42,13 @@ class Text():
                 count_map[item] = 1
         return count_map
 
+    def percentage_map(self, count_map, total):
+        return( { key : (lambda count: count / total)(count) for ( key, count ) in counter_map.items() } )
+
+
+    def get_word_length_distr(self):
+        return self.percentage_map( self.count_map( [ len(word) for word in self.tokens ] ), self.total_number_of_tokens )
+
 
     def retrieve_pos_data(self):
         for n in range(1, 3):
@@ -49,6 +56,7 @@ class Text():
             for i in range(0, len(self.pos_tags)+1-n):
                 pos_n_grams.append( tuple([ tag for (word, tag) in  self.pos_tags[i:i+n]]) )
             self.row.update( {  " ".join(pos_n_gram) : (lambda count: count / len(pos_n_grams))(count) for ( pos_n_gram, count ) in self.count_map(pos_n_grams).items() } )
+
 
 
     def retrieve_avg_sentence_word(self):
