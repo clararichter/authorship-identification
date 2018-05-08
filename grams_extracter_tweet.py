@@ -42,12 +42,12 @@ class Text():
                 count_map[item] = 1
         return count_map
 
-    def percentage_map(self, count_map, total):
-        return( { key : (lambda count: count / total)(count) for ( key, count ) in counter_map.items() } )
+    # def percentage_map(self, count_map, total):
+    #     return( { key : (lambda count: count / total)(count) for ( key, count ) in counter_map.items() } )
 
 
-    def get_word_length_distr(self):
-        return self.percentage_map( self.count_map( [ len(word) for word in self.tokens ] ), self.total_number_of_tokens )
+    # def get_word_length_distr(self):
+    #     return self.percentage_map( self.count_map( [ len(word) for word in self.tokens ] ), self.total_number_of_tokens )
 
 
     def retrieve_pos_data(self):
