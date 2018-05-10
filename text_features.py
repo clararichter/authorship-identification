@@ -10,12 +10,11 @@ class Text():
         self.tokens = TweetTokenizer().tokenize(self.text)
         self.sentences = sent_tokenize(self.text)
         self.total_number_of_tokens = len(self.tokens)
-        self.author = author
         self.row = {}
+        self.row.update( {'textbook_author*': author } )
         self.build_row()
 
     def build_row(self):
-        self.text_author()
         self.word_richness()
         self.word_length_data()
         self.sentence_length_data()
@@ -34,9 +33,6 @@ class Text():
 
     def percentage_map(self, count_map, total):
         return( { key : (lambda count: count / total)(count) for ( key, count ) in count_map.items() } )
-
-    def text_author(self):
-        self.row.update( {'author': self.author } )
 
     def gram_data(self):
         n = 1
