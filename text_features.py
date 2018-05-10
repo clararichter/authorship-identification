@@ -1,5 +1,4 @@
 from nltk.util import ngrams
-#from nltk import word_tokenize
 from nltk.tokenize import TweetTokenizer, sent_tokenize
 import pandas as pd
 import numpy as np
@@ -15,18 +14,12 @@ class Text():
         #self.build_row()
 
     def build_row(self):
-        self.gram_data()
-        self.pos_data()
         self.word_richness()
         self.word_length_data()
         self.sentence_length_data()
-
-
-    def gram_data(self):
-        for n in range(1, 3):
-            n_grams = ngrams(self.tokens, n)
-            number_of_n_grams = self.total_number_of_tokens - n + 1
-            self.row.update( { " ".join(n_gram) : (lambda count: count / number_of_n_grams)(count) for ( n_gram, count ) in self.count_map(n_grams).items() } )
+        self.num_sentences()
+        self.gram_data()
+        self.pos_data()
 
     def count_map(self, items):
         count_map = {}
@@ -40,15 +33,21 @@ class Text():
     def percentage_map(self, count_map, total):
         return( { key : (lambda count: count / total)(count) for ( key, count ) in count_map.items() } )
 
+    def gram_data(self):
+        n = 3
+        for n in range(1, n):
+            n_grams = ngrams(self.tokens, n)
+            number_of_n_grams = self.total_number_of_tokens - n + 1
+            self.row.update( { " ".join(n_gram) : (lambda count: count / number_of_n_grams)(count) for ( n_gram, count ) in self.count_map(n_grams).items() } )
 
     def pos_data(self):
+        n = 3
         pos_tags = nltk.pos_tag(self.tokens)
-        for n in range(1, 3):
+        for n in range(1, n):
             pos_n_grams = []
             for i in range(0, len(pos_tags)+1-n):
                 pos_n_grams.append( tuple([ tag for (word, tag) in  pos_tags[i:i+n]]) )
             self.row.update( {  " ".join(pos_n_gram) : (lambda count: count / len(pos_n_grams))(count) for ( pos_n_gram, count ) in self.count_map(pos_n_grams).items() } )
-
 
     def word_lengths(self):
         word_lengths = []
@@ -70,7 +69,7 @@ class Text():
 
     def sentence_lengths_distr(self):
         sentence_lengths = self.sentence_lengths()
-        return percentage_map( count_map(sentence_lengths), len(sentence_lengths) )
+        return self.percentage_map( count_map(sentence_lengths), len(sentence_lengths) )
 
     def word_length_data(self):
         word_lengths = self.word_lengths()
@@ -82,3 +81,6 @@ class Text():
 
     def word_richness(self):
         self.row.update( {'word_richness': len(self.tokens) / len(set(self.tokens)) } )
+
+    def num_sentences(self):
+        self.row.update( {'number_sentences': len(self.sentences)} )
