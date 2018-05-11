@@ -5,13 +5,15 @@ import nltk
 
 class Text():
 
-    def __init__(self, text, author):
+    def __init__(self, text, author, ngrams):
         self.text = text.lower()
         self.tokens = TweetTokenizer().tokenize(self.text)
         self.sentences = sent_tokenize(self.text)
         self.total_number_of_tokens = len(self.tokens)
         self.row = {}
         self.row.update( {'textbook_author*': author } )
+        self.ngrams = ngrams
+
         self.build_row()
 
     def build_row(self):
@@ -19,8 +21,8 @@ class Text():
         self.word_length_data()
         self.sentence_length_data()
         self.num_sentences()
-        self.gram_data()
-        self.pos_data()
+        #self.word_gram_data()
+        self.pos_gram_data()
 
     def count_map(self, items):
         count_map = {}
@@ -34,17 +36,17 @@ class Text():
     def percentage_map(self, count_map, total):
         return( { key : (lambda count: count / total)(count) for ( key, count ) in count_map.items() } )
 
-    def gram_data(self):
-        n = 2
-        for n in range(1, n + 1):
+    def word_gram_data(self):
+        ngrams = self.ngrams
+        for n in range(1, ngrams + 1):
             n_grams = ngrams(self.tokens, n)
             number_of_n_grams = self.total_number_of_tokens - n + 1
             self.row.update( { " ".join(n_gram) : (lambda count: count / number_of_n_grams)(count) for ( n_gram, count ) in self.count_map(n_grams).items() } )
 
-    def pos_data(self):
-        n = 2
+    def pos_gram_data(self):
+        ngrams = self.ngrams
         pos_tags = nltk.pos_tag(self.tokens)
-        for n in range(1, n + 1):
+        for n in range(1, ngrams + 1):
             pos_n_grams = []
             for i in range(0, len(pos_tags)+1-n):
                 pos_n_grams.append( tuple([ tag for (word, tag) in  pos_tags[i:i+n]]) )

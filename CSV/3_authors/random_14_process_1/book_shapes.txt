@@ -1,0 +1,49 @@
+mark_twain
+(1, 19360) :  those_extraordinary_twins.txt
+(2, 74975) :  the_$30,000_bequest_and_other_stories.txt
+(3, 163444) :  the_innocents_abroad.txt
+(4, 188904) :  personal_recollections_of_joan_of_arc.txt
+(5, 198171) :  is_shakespeare_dead?.txt
+(6, 222151) :  the_adventures_of_tom_sawyer.txt
+(7, 222180) :  eve's_diary.txt
+(8, 244155) :  christian_science.txt
+(9, 290596) :  life_on_the_mississippi.txt
+(10, 312843) :  the_prince_and_the_pauper.txt
+(11, 338020) :  adventures_of_huckleberry_finn.txt
+(12, 338742) :  on_the_decay_of_the_art_of_lying.txt
+(13, 386034) :  a_tramp_abroad.txt
+(14, 387192) :  how_tell_a_story_and_others.txt
+mildred_a._wirt
+(1, 29754) :  behind_the_green_door.txt
+(2, 46657) :  dan_carter_cub_scout.txt
+(3, 61434) :  the_brownie_scouts_in_the_cherry_festival.txt
+(4, 76286) :  dan_carter_and_the_river_camp.txt
+(5, 86742) :  the_brownie_scouts_and_their_tree_house.txt
+(6, 100134) :  clue_of_the_silken_ladder.txt
+(7, 110876) :  dan_carter_and_the_great_carved_face.txt
+(8, 124394) :  hoofbeats_on_the_turnpike.txt
+(9, 136608) :  guilt_of_the_brass_thieves.txt
+(10, 145624) :  the_brownie_scouts_at_windmill_farm.txt
+(11, 156709) :  whispering_walls.txt
+(12, 165975) :  signal_in_the_dark.txt
+(13, 174895) :  dan_carter_and_the_cub_honor.txt
+(14, 182464) :  the_brownie_scouts_at_silver_beach.txt
+oscar_wilde
+(1, 15502) :  vera.txt
+(2, 25105) :  the_soul_of_man_under_socialism.txt
+(3, 35543) :  de_profundis.txt
+(4, 41168) :  oscar_wilde_miscellaneous.txt
+(5, 72978) :  intentions.txt
+(6, 74764) :  children_in_prison_and_other_cruelties_of_prison_life.txt
+(7, 81803) :  a_woman_of_no_importance.txt
+(8, 98878) :  lord_arthur_savile's_crime.txt
+(9, 106963) :  charmides_and_other_poems.txt
+(10, 112344) :  lady_windermere's_fan.txt
+(11, 121011) :  the_duchess_of_padua.txt
+(12, 141172) :  essays_and_lectures.txt
+(13, 145635) :  the_happy_prince_and_other_tales.txt
+(14, 145977) :  the_canterville_ghost.txt
+(42, 578040) <- combined
+lower:  1.380494121728594e-06
+upper:  5.768441001639552e-06
+(42, 274815)<- process
