@@ -35,14 +35,14 @@ class Text():
         return( { key : (lambda count: count / total)(count) for ( key, count ) in count_map.items() } )
 
     def gram_data(self):
-        n = 1
+        n = 2
         for n in range(1, n + 1):
             n_grams = ngrams(self.tokens, n)
             number_of_n_grams = self.total_number_of_tokens - n + 1
             self.row.update( { " ".join(n_gram) : (lambda count: count / number_of_n_grams)(count) for ( n_gram, count ) in self.count_map(n_grams).items() } )
 
     def pos_data(self):
-        n = 1
+        n = 2
         pos_tags = nltk.pos_tag(self.tokens)
         for n in range(1, n + 1):
             pos_n_grams = []

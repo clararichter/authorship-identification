@@ -7,22 +7,22 @@ in which he was arranging and indexing some of his recent material.
 But the landlady had the pertinacity and also the cunning of her sex.
 She held her ground firmly.
 
-"You arranged an affair for a lodger of mine last year," she said--"Mr.
+"You arranged an affair for a lodger of mine last year," she said "Mr.
 Fairdale Hobbs."
 
-"Ah, yes--a simple matter."
+"Ah, yes a simple matter."
 
-"But he would never cease talking of it--your kindness, sir, and the
+"But he would never cease talking of it your kindness, sir, and the
 way in which you brought light into the darkness.  I remembered his
 words when I was in doubt and darkness myself.  I know you could if you
 only would."
 
 Holmes was accessible upon the side of flattery, and also, to do him
 justice, upon the side of kindliness.  The two forces made him lay down
-his gum-brush with a sigh of resignation and push back his chair.
+his gum brush with a sigh of resignation and push back his chair.
 
 "Well, well, Mrs. Warren, let us hear about it, then.  You don't object
-to tobacco, I take it?  Thank you, Watson--the matches! You are uneasy,
+to tobacco, I take it?  Thank you, Watson the matches! You are uneasy,
 as I understand, because your new lodger remains in his rooms and you
 cannot see him.  Why, bless you, Mrs. Warren, if I were your lodger you
 often would not see me for weeks on end."
@@ -30,7 +30,7 @@ often would not see me for weeks on end."
 "No doubt, sir; but this is different.  It frightens me, Mr. Holmes.  I
 can't sleep for fright.  To hear his quick step moving here and moving
 there from early morning to late at night, and yet never to catch so
-much as a glimpse of him--it's more than I can stand.  My husband is as
+much as a glimpse of him it's more than I can stand.  My husband is as
 nervous over it as I am, but he is out at his work all day, while I get
 no rest from it.  What is he hiding for?  What has he done?  Except for
 the girl, I am all alone in the house with him, and it's more than my
@@ -48,14 +48,14 @@ that the man came ten days ago and paid you for a fortnight's board and
 lodging?"
 
 "He asked my terms, sir.  I said fifty shillings a week.  There is a
-small sitting-room and bedroom, and all complete, at the top of the
+small sitting room and bedroom, and all complete, at the top of the
 house."
 
 "Well?"
 
 "He said, 'I'll pay you five pounds a week if I can have it on my own
 terms.'  I'm a poor woman, sir, and Mr. Warren earns little, and the
-money meant much to me.  He took out a ten-pound note, and he held it
+money meant much to me.  He took out a ten pound note, and he held it
 out to me then and there.  'You can have the same every fortnight for a
 long time to come if you keep the terms,' he said.  'If not, I'll have
 no more to do with you.'
@@ -76,7 +76,7 @@ he had never once gone out of the house."
 
 "Oh, he went out the first night, did he?"
 
-"Yes, sir, and returned very late--after we were all in bed.  He told
+"Yes, sir, and returned very late after we were all in bed.  He told
 me after he had taken the rooms that he would do so and asked me not to
 bar the door.  I heard him come up the stair after midnight."
 
@@ -90,8 +90,8 @@ wants anything else he prints it on a slip of paper and leaves it."
 "Prints it?"
 
 "Yes, sir; prints it in pencil.  Just the word, nothing more. Here's
-the one I brought to show you--soap.  Here's another--match. This is
-one he left the first morning--daily gazette.  I leave that paper with
+the one I brought to show you soap.  Here's another match. This is
+one he left the first morning daily gazette.  I leave that paper with
 his breakfast every morning."
 
 "Dear me, Watson," said Homes, staring with great curiosity at the
@@ -109,7 +109,7 @@ such laconic messages?"
 "I cannot imagine."
 
 "It opens a pleasing field for intelligent speculation.  The words are
-written with a broad-pointed, violet-tinted pencil of a not unusual
+written with a broad pointed, violet tinted pencil of a not unusual
 pattern.  You will observe that the paper is torn away at the side here
 after the printing was done, so that the 's' of 'soap' is partly gone.
 Suggestive, Watson, is it not?"
@@ -121,7 +121,7 @@ which might give a clue to the person's identity.  Now. Mrs. Warren,
 you say that the man was of middle size, dark, and bearded.  What age
 would he be?"
 
-"Youngish, sir--not over thirty."
+"Youngish, sir not over thirty."
 
 "Well, can you give me no further indications?"
 
@@ -130,7 +130,7 @@ his accent."
 
 "And he was well dressed?"
 
-"Very smartly dressed, sir--quite the gentleman.  Dark clothes--nothing
+"Very smartly dressed, sir quite the gentleman.  Dark clothes nothing
 you would note."
 
 "He gave no name?"
@@ -147,13 +147,13 @@ you would note."
 
 "Dear me! that is certainly remarkable.  What about his luggage?"
 
-"He had one big brown bag with him--nothing else."
+"He had one big brown bag with him nothing else."
 
 "Well, we don't seem to have much material to help us.  Do you say
-nothing has come out of that room--absolutely nothing?"
+nothing has come out of that room absolutely nothing?"
 
 The landlady drew an envelope from her bag; from it she shook out two
-burnt matches and a cigarette-end upon the table.
+burnt matches and a cigarette end upon the table.
 
 "They were on his tray this morning.  I brought them because I had
 heard that you can read great things out of small ones."
@@ -168,7 +168,7 @@ gentleman was bearded and moustached, you say?"
 
 "Yes, sir."
 
-"I don't understand that.  I should say that only a clean-shaven man
+"I don't understand that.  I should say that only a clean shaven man
 could have smoked this.  Why, Watson, even your modest moustache would
 have been singed."
 
@@ -192,16 +192,16 @@ be needed.
 
 "There are certainly some points of interest in this case, Watson," he
 remarked when the landlady had left us.  "It may, of course, be
-trivial--individual eccentricity; or it may be very much deeper than
+trivial individual eccentricity; or it may be very much deeper than
 appears on the surface.  The first thing that strikes one is the obvious
 possibility that the person now in the rooms may be entirely different
 from the one who engaged them."
 
 "Why should you think so?"
 
-"Well, apart from this cigarette-end, was it not suggestive that the
+"Well, apart from this cigarette end, was it not suggestive that the
 only time the lodger went out was immediately after his taking the
-rooms?  He came back--or someone came back--when all witnesses were out
+rooms?  He came back or someone came back when all witnesses were out
 of the way.  We have no proof that the person who came back was the
 person who went out.  Then, again, the man who took the rooms spoke
 English well.  This other, however, prints 'match' when it should have
@@ -217,29 +217,29 @@ substitution of lodgers."
 investigation."  He took down the great book in which, day by day, he
 filed the agony columns of the various London journals. "Dear me!" said
 he, turning over the pages, "what a chorus of groans, cries, and
-bleatings!  What a rag-bag of singular happenings!  But surely the most
-valuable hunting-ground that ever was given to a student of the
+bleatings!  What a rag bag of singular happenings!  But surely the most
+valuable hunting ground that ever was given to a student of the
 unusual!  This person is alone and cannot be approached by letter
 without a breach of that absolute secrecy which is desired.  How is any
 news or any message to reach him from without?  Obviously by
 advertisement through a newspaper.  There seems no other way, and
 fortunately we need concern ourselves with the one paper only.  Here
 are the Daily Gazette extracts of the last fortnight.  'Lady with a
-black boa at Prince's Skating Club'--that we may pass.  'Surely Jimmy
-will not break his mother's heart'--that appears to be irrelevant.  'If
-the lady who fainted on Brixton bus'--she does not interest me.  'Every
-day my heart longs--' Bleat, Watson--unmitigated bleat!  Ah, this is a
+black boa at Prince's Skating Club' that we may pass.  'Surely Jimmy
+will not break his mother's heart' that appears to be irrelevant.  'If
+the lady who fainted on Brixton bus' she does not interest me.  'Every
+day my heart longs ' Bleat, Watson unmitigated bleat!  Ah, this is a
 little more possible.  Listen to this:  'Be patient.  Will find some
 sure means of communications.  Meanwhile, this column.  G.'  That is
 two days after Mrs. Warren's lodger arrived.  It sounds plausible, does
 it not?  The mysterious one could understand English, even if he could
 not print it.  Let us see if we can pick up the trace again.  Yes, here
-we are--three days later.  'Am making successful arrangements.
+we are three days later.  'Am making successful arrangements.
 Patience and prudence.  The clouds will pass.  G.'  Nothing for a week
 after that.  Then comes something much more definite:  'The path is
-clearing.  If I find chance signal message remember code agreed--One A,
+clearing.  If I find chance signal message remember code agreed One A,
 two B, and so on. You will hear soon.  G.'  That was in yesterday's
-paper, and there is nothing in to-day's. It's all very appropriate to
+paper, and there is nothing in to day's. It's all very appropriate to
 Mrs. Warren's lodger.  If we wait a little, Watson, I don't doubt that
 the affair will grow more intelligible."
 
@@ -261,7 +261,7 @@ which told of some new and momentous development.
 it!  He shall pack out of there with his baggage.  I would have gone
 straight up and told him so, only I thought it was but fair to you to
 take your opinion first.  But I'm at the end of my patience, and when
-it comes to knocking my old man about--"
+it comes to knocking my old man about "
 
 "Knocking Mr. Warren about?"
 
@@ -281,7 +281,7 @@ was on Hampstead Heath; so he took a bus home, and there he lies now on
 his sofa, while I came straight round to tell you what had happened."
 
 "Most interesting," said Holmes.  "Did he observe the appearance of
-these men--did he hear them talk?"
+these men did he hear them talk?"
 
 "No; he is clean dazed.  He just knows that he was lifted up as if by
 magic and dropped as if by magic. Two at least were in it, and maybe
@@ -314,18 +314,18 @@ him do it."
 
 The landlady thought for a moment.
 
-"Well, sir, there's the box-room opposite.  I could arrange a
-looking-glass, maybe, and if you were behind the door--"
+"Well, sir, there's the box room opposite.  I could arrange a
+looking glass, maybe, and if you were behind the door "
 
 "Excellent!" said Holmes.  "When does he lunch?"
 
 "About one, sir."
 
 "Then Dr. Watson and I will come round in time.  For the present, Mrs.
-Warren, good-bye."
+Warren, good bye."
 
-At half-past twelve we found ourselves upon the steps of Mrs. Warren's
-house--a high, thin, yellow-brick edifice in Great Orme Street, a
+At half past twelve we found ourselves upon the steps of Mrs. Warren's
+house a high, thin, yellow brick edifice in Great Orme Street, a
 narrow thoroughfare at the northeast side of the British Museum.
 Standing as it does near the corner of the street,  it commands a view
 down Howe Street, with its more pretentious houses.  Holmes pointed with
@@ -341,7 +341,7 @@ access.  Well, Mrs. Warren, what now?"
 "I have it all ready for you.  If you will both come up and leave your
 boots below on the landing, I'll put you there now."
 
-It was an excellent hiding-place which she had arranged.  The mirror
+It was an excellent hiding place which she had arranged.  The mirror
 was so placed that, seated in the dark, we could very plainly see the
 door opposite.  We had hardly settled down in it, and Mrs. Warren left
 us, when a distant tinkle announced that our mysterious neighbour had
@@ -352,7 +352,7 @@ upon the mirror. Suddenly, as the landlady's footsteps died away, there
 was the creak of a turning key, the handle revolved, and two thin hands
 darted out and lifted the tray from the chair.  An instant later it was
 hurriedly replaced, and I caught a glimpse of a dark, beautiful,
-horrified face glaring at the narrow opening of the box-room.  Then the
+horrified face glaring at the narrow opening of the box room.  Then the
 door crashed to, the key turned once more, and all was silence. Holmes
 twitched my sleeve, and together we stole down the stair.
 
@@ -361,7 +361,7 @@ twitched my sleeve, and together we stole down the stair.
 quarters."
 
 "My surmise, as you saw, proved to be correct," said he, speaking from
-the depths of his easy-chair.  "There has been a substitution of
+the depths of his easy chair.  "There has been a substitution of
 lodgers.  What I did not foresee is that we should find a woman, and no
 ordinary woman, Watson."
 
@@ -382,7 +382,7 @@ agony column of a paper.  So far all is clear."
 
 "But what is at the root of it?"
 
-"Ah, yes, Watson--severely practical, as usual!  What is at the root of
+"Ah, yes, Watson severely practical, as usual!  What is at the root of
 it all?  Mrs. Warren's whimsical problem enlarges somewhat and assumes
 a more sinister aspect as we proceed.  This much we can say:  that it
 is no ordinary love escapade.  You saw the woman's face at the sign of
@@ -409,23 +409,23 @@ investigation."
 When we returned to Mrs. Warren's rooms, the gloom of a London winter
 evening had thickened into one gray curtain, a dead monotone of colour,
 broken only by the sharp yellow squares of the windows and the blurred
-haloes of the gas-lamps.  As we peered from the darkened sitting-room
-of the lodging-house, one more dim light glimmered high up through the
+haloes of the gas lamps.  As we peered from the darkened sitting room
+of the lodging house, one more dim light glimmered high up through the
 obscurity.
 
 "Someone is moving in that room," said Holmes in a whisper, his gaunt
-and eager face thrust forward to the window-pane.  "Yes, I can see his
+and eager face thrust forward to the window pane.  "Yes, I can see his
 shadow.  There he is again!  He has a candle in his hand.  Now he is
 peering across.  He wants to be sure that she is on the lookout.  Now
 he begins to flash.  Take the message also, Watson, that we may check
-each other.  A single flash--that is A, surely.  Now, then.  How many
-did you make it?  Twenty.  So did I.  That should mean T.  AT--that's
+each other.  A single flash that is A, surely.  Now, then.  How many
+did you make it?  Twenty.  So did I.  That should mean T.  AT that's
 intelligible enough. Another T.  Surely this is the beginning of a
-second word.  Now, then--TENTA. Dead stop.  That can't be all, Watson?
+second word.  Now, then TENTA. Dead stop.  That can't be all, Watson?
 ATTENTA gives no sense.  Nor is it any better as three words AT, TEN,
 TA, unless T. A. are a person's initials.  There it goes again! What's
-that?  ATTE--why, it is the same message over again. Curious, Watson,
-very curious.  Now he is off once more!  AT--why he is repeating it for
+that?  ATTE why, it is the same message over again. Curious, Watson,
+very curious.  Now he is off once more!  AT why he is repeating it for
 the third time.  ATTENTA three times!  How often will he repeat it?
 No, that seems to be the finish.  He has withdrawn from the window.
 What do you make of it, Watson?"
@@ -445,11 +445,11 @@ window once more."
 
 Again we saw the dim silhouette of a crouching man and the whisk of the
 small flame across the window as the signals were renewed. They came
-more rapidly than before--so rapid that it was hard to follow them.
+more rapidly than before so rapid that it was hard to follow them.
 
-"PERICOLO--pericolo--eh, what's that, Watson?  'Danger,' isn't it?
+"PERICOLO pericolo eh, what's that, Watson?  'Danger,' isn't it?
 Yes, by Jove, it's a danger signal.  There he goes again! PERI.
-Halloa, what on earth--"
+Halloa, what on earth "
 
 The light had suddenly gone out, the glimmering square of window had
 disappeared, and the third floor formed a dark band round the lofty
@@ -460,7 +460,7 @@ crouched by the window.
 
 "This is serious, Watson," he cried.  "There is some devilry going
 forward!  Why should such a message stop in such a way?  I should put
-Scotland Yard in touch with this business--and yet, it is too pressing
+Scotland Yard in touch with this business and yet, it is too pressing
 for us to leave."
 
 "Shall I go for the police?"
@@ -482,7 +482,7 @@ see the shadow of a head, a woman's head, gazing tensely, rigidly, out
 into the night, waiting with breathless suspense for the renewal of
 that interrupted message.  At the doorway of the Howe Street flats a
 man, muffled in a cravat and greatcoat, was leaning against the
-railing.  He started as the hall-light fell upon our faces.
+railing.  He started as the hall light fell upon our faces.
 
 "Holmes!" he cried.
 
@@ -511,7 +511,7 @@ have him safe."
 
 "Well, well, we score over you for once, Mr. Holmes.  You must give us
 best this time."  He struck his stick sharply upon the ground, on which
-a cabman, his whip in his hand, sauntered over from a four-wheeler
+a cabman, his whip in his hand, sauntered over from a four wheeler
 which stood on the far side of the street. "May I introduce you to Mr.
 Sherlock Holmes?" he said to the cabman.  "This is Mr. Leverton, of
 Pinkerton's American Agency."
@@ -519,9 +519,9 @@ Pinkerton's American Agency."
 "The hero of the Long Island cave mystery?" said Holmes.  "Sir, I am
 pleased to meet you."
 
-The American, a quiet, businesslike young man, with a clean-shaven,
+The American, a quiet, businesslike young man, with a clean shaven,
 hatchet face, flushed up at the words of commendation. "I am on the
-trail of my life now, Mr. Holmes," said he.  "If I can get Gorgiano--"
+trail of my life now, Mr. Holmes," said he.  "If I can get Gorgiano "
 
 "What!  Gorgiano of the Red Circle?"
 
@@ -545,7 +545,7 @@ to us.  The American struck his hands together with vexation.
 "Why do you think so?"
 
 "Well, it figures out that way, does it not?  Here he is, sending out
-messages to an accomplice--there are several of his gang in London.
+messages to an accomplice there are several of his gang in London.
 Then suddenly, just as by your own account he was telling them that
 there was danger, he broke short off.  What could it mean except that
 from the window he had suddenly either caught sight of us in the
@@ -570,7 +570,7 @@ Scotland Yard.  The Pinkerton man had tried to push past him, but
 Gregson had firmly elbowed him back. London dangers were the privilege
 of the London force.
 
-The door of the left-hand flat upon the third landing was standing
+The door of the left hand flat upon the third landing was standing
 ajar.  Gregson pushed it open.  Within all was absolute silence and
 darkness.  I struck a match and lit the detective's lantern.  As I did
 so, and as the flicker steadied into a flame, we all gave a gasp of
@@ -581,14 +581,14 @@ flung it open and held his light full blaze in front of him, while we
 all peered eagerly over his shoulders.
 
 In the middle of the floor of the empty room was huddled the figure of
-an enormous man, his clean-shaven, swarthy face grotesquely horrible in
+an enormous man, his clean shaven, swarthy face grotesquely horrible in
 its contortion and his head encircled by a ghastly crimson halo of
 blood, lying in a broad wet circle upon the white woodwork.  His knees
 were drawn up, his hands thrown out in agony, and from the centre of
 his broad, brown, upturned throat there projected the white haft of a
-knife driven blade-deep into his body.  Giant as he was, the man must
-have gone down like a pole-axed ox before that terrific blow.  Beside
-his right hand a most formidable horn-handled, two-edged dagger lay
+knife driven blade deep into his body.  Giant as he was, the man must
+have gone down like a pole axed ox before that terrific blow.  Beside
+his right hand a most formidable horn handled, two edged dagger lay
 upon the floor, and near it a black kid glove.
 
 "By George! it's Black Gorgiano himself!" cried the American detective.
@@ -598,7 +598,7 @@ upon the floor, and near it a black kid glove.
 whatever are you doing?"
 
 Holmes had stepped across, had lit the candle, and was passing it
-backward and forward across the window-panes.  Then he peered into the
+backward and forward across the window panes.  Then he peered into the
 darkness, blew the candle out, and threw it on the floor.
 
 "I rather think that will be helpful," said he.  He came over and stood
@@ -608,7 +608,7 @@ waiting downstairs," said he at last.  "Did you observe them closely?"
 
 "Yes, I did."
 
-"Was there a fellow about thirty, black-bearded, dark, of middle size?"
+"Was there a fellow about thirty, black bearded, dark, of middle size?"
 
 "Yes; he was the last to pass me."
 
@@ -622,7 +622,7 @@ for you."
 aid."
 
 We all turned round at the words.  There, framed in the doorway, was a
-tall and beautiful woman--the mysterious lodger of Bloomsbury.  Slowly
+tall and beautiful woman the mysterious lodger of Bloomsbury.  Slowly
 she advanced, her face pale and drawn with a frightful apprehension,
 her eyes fixed and staring, her terrified gaze riveted upon the dark
 figure on the floor.
@@ -659,7 +659,7 @@ come."
 The beautiful Italian looked with awe at my companion.
 
 "I do not understand how you know these things," she said. "Giuseppe
-Gorgiano--how did he--"  She paused, and then suddenly her face lit up
+Gorgiano how did he "  She paused, and then suddenly her face lit up
 with pride and delight.  "Now I see it!  My Gennaro!  My splendid,
 beautiful Gennaro, who has guarded me safe from all harm, he did it,
 with his own strong hand he killed the monster!  Oh, Gennaro, how
@@ -687,7 +687,7 @@ punish my husband for having killed him."
 leave things as we found them, go with this lady to her room, and form
 our opinion after we have heard what it is that she has to say to us."
 
-Half an hour later we were seated, all four, in the small sitting-room
+Half an hour later we were seated, all four, in the small sitting room
 of Signora Lucca, listening to her remarkable narrative of those
 sinister events, the ending of which we had chanced to witness.  She
 spoke in rapid and fluent but very unconventional English, which, for
@@ -696,21 +696,21 @@ the sake of clearness, I will make grammatical.
 "I was born in Posilippo, near Naples," said she, "and was the daughter
 of Augusto Barelli, who was the chief lawyer and once the deputy of
 that part.  Gennaro was in my father's employment, and I came to love
-him, as any woman must.  He had neither money nor position--nothing but
-his beauty and strength and energy--so my father forbade the match.  We
+him, as any woman must.  He had neither money nor position nothing but
+his beauty and strength and energy so my father forbade the match.  We
 fled together, were married at Bari, and sold my jewels to gain the
 money which would take us to America.  This was four years ago, and we
 have been in New York ever since.
 
 "Fortune was very good to us at first.  Gennaro was able to do a
-service to an Italian gentleman--he saved him from some ruffians in the
+service to an Italian gentleman he saved him from some ruffians in the
 place called the Bowery, and so made a powerful friend. His name was
 Tito Castalotte, and he was the senior partner of the great firm of
 Castalotte and Zamba, who are the chief fruit importers of New York.
 Signor Zamba is an invalid, and our new friend Castalotte has all power
 within the firm, which employs more than three hundred men.  He took my
 husband into his employment, made him head of a department, and showed
-his good-will towards him in every way.  Signor Castalotte was a
+his good will towards him in every way.  Signor Castalotte was a
 bachelor, and I believe that he felt as if Gennaro was his son, and
 both my husband and I loved him as if he were our father.  We had taken
 and furnished a little house in Brooklyn, and our whole future seemed
@@ -718,7 +718,7 @@ assured when that black cloud appeared which was soon to overspread our
 sky.
 
 "One night, when Gennaro returned from his work, he brought a
-fellow-countryman back with him.  His name was Gorgiano, and he had
+fellow countryman back with him.  His name was Gorgiano, and he had
 come also from Posilippo.  He was a huge man, as you can testify, for
 you have looked upon his corpse.  Not only was his body that of a giant
 but everything about him was grotesque, gigantic, and terrifying.  His
@@ -737,8 +737,8 @@ questions which made up our visitor's conversation.  Gennaro said
 nothing, but I, who knew him so well, could read in his face some
 emotion which I had never seen there before.  At first I thought that
 it was dislike.  And then, gradually, I understood that it was more
-than dislike.  It was fear--a deep, secret, shrinking fear.  That
-night--the night that I read his terror--I put my arms round him and I
+than dislike.  It was fear a deep, secret, shrinking fear.  That
+night the night that I read his terror I put my arms round him and I
 implored him by his love for me and by all that he held dear to hold
 nothing from me, and to tell me why this huge man overshadowed him so.
 
@@ -762,9 +762,9 @@ his presence at it was required and ordered.
 "That was bad enough, but worse was to come.  I had noticed for some
 time that when Gorgiano came to us, as he constantly did, in the
 evening, he spoke much to me; and even when his words were to my
-husband those terrible, glaring, wild-beast eyes of his were always
+husband those terrible, glaring, wild beast eyes of his were always
 turned upon me.  One night his secret came out.  I had awakened what he
-called 'love' within him--the love of a brute--a savage.  Gennaro had
+called 'love' within him the love of a brute a savage.  Gennaro had
 not yet returned when he came.  He pushed his way in, seized me in his
 mighty arms, hugged me in his bear's embrace, covered me with kisses,
 and implored me to come away with him.  I was struggling and screaming

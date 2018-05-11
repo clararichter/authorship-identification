@@ -4,7 +4,7 @@ CHAPTER I
 Yes indeed, I say to myself, pen in hand, I can keep hold of the thread
 and let it lead me back to the first impression.  The little story is all
 there, I can touch it from point to point; for the thread, as I call it,
-is a row of coloured beads on a string.  None of the beads are missing--at
+is a row of coloured beads on a string.  None of the beads are missing at
 least I think they're not: that's exactly what I shall amuse myself with
 finding out.
 
@@ -18,7 +18,7 @@ were at that season full of people, people who had nothing to do but to
 stare at one another on the great flat down.  There were thousands of
 little chairs and almost as many little Jews; and there was music in an
 open rotunda, over which the little Jews wagged their big noses.  We all
-strolled to and fro and took pennyworths of rest; the long, level cliff-
+strolled to and fro and took pennyworths of rest; the long, level cliff 
 top, edged in places with its iron rail, might have been the deck of a
 huge crowded ship.  There were old folks in Bath chairs, and there was
 one dear chair, creeping to its last full stop, by the side of which I
@@ -34,12 +34,12 @@ apologetic, the least morbid in her misfortune.  She carried it high
 aloft with loud sounds and free gestures, made it flutter in the breeze
 as if it had been the flag of her country.  It consisted mainly of a big
 red face, indescribably out of drawing, from which she glared at you
-through gold-rimmed aids to vision, optic circles of such diameter and so
+through gold rimmed aids to vision, optic circles of such diameter and so
 frequently displaced that some one had vividly spoken of her as
 flattering her nose against the glass of her spectacles.  She was
-extraordinarily near-sighted, and whatever they did to other objects they
+extraordinarily near sighted, and whatever they did to other objects they
 magnified immensely the kind eyes behind them.  Blest conveniences they
-were, in their hideous, honest strength--they showed the good lady
+were, in their hideous, honest strength they showed the good lady
 everything in the world but her own queerness.  This element was enhanced
 by wild braveries of dress, reckless charges of colour and stubborn
 resistances of cut, wondrous encounters in which the art of the toilet
@@ -51,7 +51,7 @@ grabbing her arm with sudden and undue familiarity.  I had been struck by
 the beauty of a face that approached us and I was still more affected
 when I saw the face, at the sight of my companion, open like a window
 thrown wide.  A smile fluttered out of it an brightly as a drapery
-dropped from a sill--a drapery shaken there in the sun by a young lady
+dropped from a sill a drapery shaken there in the sun by a young lady
 flanked by two young men, a wonderful young lady who, as we drew nearer,
 rushed up to Mrs. Meldrum with arms flourished for an embrace.  My
 immediate impression of her had been that she was dressed in mourning,
@@ -61,27 +61,27 @@ insignificant, but the desire to please towered high, as well as the air
 of infallibly knowing how and of never, never missing it.  This was a
 little person whom I would have made a high bid for a good chance to
 paint.  The head, the features, the colour, the whole facial oval and
-radiance had a wonderful purity; the deep grey eyes--the most agreeable,
-I thought, that I had ever seen--brushed with a kind of winglike grace
+radiance had a wonderful purity; the deep grey eyes the most agreeable,
+I thought, that I had ever seen brushed with a kind of winglike grace
 every object they encountered.  Their possessor was just back from
-Boulogne, where she had spent a week with dear Mrs. Floyd-Taylor: this
+Boulogne, where she had spent a week with dear Mrs. Floyd Taylor: this
 accounted for the effusiveness of her reunion with dear Mrs. Meldrum.  Her
-black garments were of the freshest and daintiest; she suggested a pink-
-and-white wreath at a showy funeral.  She confounded us for three minutes
+black garments were of the freshest and daintiest; she suggested a pink 
+and white wreath at a showy funeral.  She confounded us for three minutes
 with her presence; she was a beauty of the great conscious public
 responsible order.  The young men, her companions, gazed at her and
 grinned: I could see there were very few moments of the day at which
 young men, these or others, would not be so occupied.  The people who
 approached took leave of their manners; every one seemed to linger and
-gape.  When she brought her face close to Mrs. Meldrum's--and she
-appeared to be always bringing it close to somebody's--it was a marvel
+gape.  When she brought her face close to Mrs. Meldrum's and she
+appeared to be always bringing it close to somebody's it was a marvel
 that objects so dissimilar should express the same general identity, the
 unmistakable character of the English gentlewoman.  Mrs. Meldrum
 sustained the comparison with her usual courage, but I wondered why she
 didn't introduce me: I should have had no objection to the bringing of
 such a face close to mine.  However, by the time the young lady moved on
 with her escort she herself bequeathed me a sense that some such
- rapprochement  might still occur.  Was this by reason of the general
+_rapprochement_ might still occur.  Was this by reason of the general
 frequency of encounters at Folkestone, or by reason of a subtle
 acknowledgment that she contrived to make of the rights, on the part of
 others, that such beauty as hers created?  I was in a position to answer
@@ -97,11 +97,11 @@ Flora Saunt, the only daughter of an old soldier, had lost both her
 parents, her mother within a few months.  Mrs. Meldrum had known them,
 disapproved of them, considerably avoided them: she had watched the girl,
 off and on, from her early childhood.  Flora, just twenty, was
-extraordinarily alone in the world--so alone that she had no natural
+extraordinarily alone in the world so alone that she had no natural
 chaperon, no one to stay with but a mercenary stranger, Mrs. Hammond
-Synge, the sister-in-law of one of the young men I had just seen.  She
+Synge, the sister in law of one of the young men I had just seen.  She
 had lots of friends, but none of them nice: she kept picking up
-impossible people.  The Floyd-Taylors, with whom she had been at
+impossible people.  The Floyd Taylors, with whom she had been at
 Boulogne, were simply horrid.  The Hammond Synges were perhaps not so
 vulgar, but they had no conscience in their dealings with her.
 
@@ -117,7 +117,7 @@ I think of Flora Saunt."
 
 "And what may your opinion be?"
 
-"Why, that she's not worth troubling about--an idiot too abysmal."
+"Why, that she's not worth troubling about an idiot too abysmal."
 
 "Doesn't she care for that?"
 
@@ -132,7 +132,7 @@ you the chance.  However, that doesn't signify either, for her vanity is
 beyond all making or mending.  She believes in herself, and she's
 welcome, after all, poor dear, having only herself to look to.  I've
 seldom met a young woman more completely free to be silly.  She has a
-clear course--she'll make a showy finish."
+clear course she'll make a showy finish."
 
 "Well," I replied, "as she probably will reduce many persons to the same
 degraded state, her partaking of it won't stand out so much."
@@ -150,8 +150,8 @@ had at first of course been jocular; but strange to say it was quite the
 ground I found myself taking with regard to our young lady after I had
 begun to know her.  I couldn't have said what I felt about her except
 that she was undefended; from the first of my sitting with her there
-after dinner, under the stars--that was a week at Folkestone of balmy
-nights and muffled tides and crowded chairs--I became aware both that
+after dinner, under the stars that was a week at Folkestone of balmy
+nights and muffled tides and crowded chairs I became aware both that
 protection was wholly absent from her life and that she was wholly
 indifferent to its absence.  The odd thing was that she was not
 appealing: she was abjectly, divinely conceited, absurdly fantastically
@@ -165,7 +165,7 @@ of these things that from the very first, with every one listening, I
 could mention that my main business with her would be just to have a go
 at her head and to arrange in that view for an early sitting.  It would
 have been as impossible, I think, to be impertinent to her as it would
-have been to throw a stone at a plate-glass window; so any talk that went
+have been to throw a stone at a plate glass window; so any talk that went
 forward on the basis of her loveliness was the most natural thing in the
 world and immediately became the most general and sociable.  It was when
 I saw all this that I judged how, though it was the last thing she asked
@@ -174,13 +174,13 @@ compassion.  That sentiment was coloured by the vision of the dire
 exposure of a being whom vanity had put so off her guard.  Hers was the
 only vanity I have ever known that made its possessor superlatively soft.
 Mrs. Meldrum's further information contributed moreover to these
-indulgences--her account of the girl's neglected childhood and queer
-continental relegations, with straying squabbling Monte-Carlo-haunting
+indulgences her account of the girl's neglected childhood and queer
+continental relegations, with straying squabbling Monte Carlo haunting
 parents; the more invidious picture, above all, of her pecuniary
 arrangement, still in force, with the Hammond Synges, who really, though
-they never took her out--practically she went out alone--had their hands
+they never took her out practically she went out alone had their hands
 half the time in her pocket.  She had to pay for everything, down to her
-share of the wine-bills and the horses' fodder, down to Bertie Hammond
+share of the wine bills and the horses' fodder, down to Bertie Hammond
 Synge's fare in the "underground" when he went to the City for her.  She
 had been left with just money enough to turn her head; and it hadn't even
 been put in trust, nothing prudent or proper had been done with it.  She
@@ -188,22 +188,22 @@ could spend her capital, and at the rate she was going, expensive,
 extravagant and with a swarm of parasites to help, it certainly wouldn't
 last very long.
 
-"Couldn't  you  perhaps take her, independent, unencumbered as you are?"
+"Couldn't _you_ perhaps take her, independent, unencumbered as you are?"
 I asked of Mrs. Meldrum.  "You're probably, with one exception, the
 sanest person she knows, and you at least wouldn't scandalously fleece
 her."
 
 "How do you know what I wouldn't do?" my humorous friend demanded.  "Of
-course I've thought how I can help her--it has kept me awake at night.
+course I've thought how I can help her it has kept me awake at night.
 But doing it's impossible; she'll take nothing from me.  You know what
-she does--she hugs me and runs away.  She has an instinct about me and
+she does she hugs me and runs away.  She has an instinct about me and
 feels that I've one about her.  And then she dislikes me for another
 reason that I'm not quite clear about, but that I'm well aware of and
 that I shall find out some day.  So far as her settling with me goes it
 would be impossible moreover here; she wants naturally enough a much
-wider field.  She must live in London--her game is there.  So she takes
+wider field.  She must live in London her game is there.  So she takes
 the line of adoring me, of saying she can never forget that I was devoted
-to her mother--which I wouldn't for the world have been--and of giving me
+to her mother which I wouldn't for the world have been and of giving me
 a wide berth.  I think she positively dislikes to look at me.  It's all
 right; there's no obligation; though people in general can't take their
 eyes off me."
@@ -228,8 +228,8 @@ everything will have to count."
 "When she's older she'll count as a princess, so it won't matter."
 
 "She has other drawbacks," my companion went on.  "Those wonderful eyes
-are good for nothing but to roll about like sugar-balls--which they
-greatly resemble--in a child's mouth.  She can't use them."
+are good for nothing but to roll about like sugar balls which they
+greatly resemble in a child's mouth.  She can't use them."
 
 "Use them?  Why, she does nothing else."
 
@@ -252,7 +252,7 @@ though she hated them and had been in a fury of disgust, she would always
 have to be extremely careful.  I'm sure I hope she is!"
 
 I echoed the hope, but I remember well the impression this made upon
-me--my immediate pang of resentment, a disgust almost equal to Flora's
+me my immediate pang of resentment, a disgust almost equal to Flora's
 own.  I felt as if a great rare sapphire had split in my hand.
 
 
@@ -273,13 +273,13 @@ however, was turned to this attraction; it rested with the aid of her
 elbows, thrust slightly behind her so that her scanty little shoulders
 were raised toward her ears, on the high rail that inclosed the down.  Two
 gentlemen stood before her whose faces we couldn't see but who even as
-observed from the rear were visibly absorbed in the charming figure-piece
+observed from the rear were visibly absorbed in the charming figure piece
 submitted to them.  I was freshly struck with the fact that this meagre
 and defective little person, with the cock of her hat and the flutter of
 her crape, with her eternal idleness, her eternal happiness, her absence
 of moods and mysteries and the pretty presentation of her feet, which
 especially now in the supported slope of her posture occupied with their
-imperceptibility so much of the foreground--I was reminded anew, I say,
+imperceptibility so much of the foreground I was reminded anew, I say,
 how our young lady dazzled by some art that the enumeration of her merits
 didn't explain and that the mention of her lapses didn't affect.  Where
 she was amiss nothing counted, and where she was right everything did.  I
@@ -312,7 +312,7 @@ if it were something for her to hold on by, that she was soon to sit to
 me for a "likeness," and these words gave me a chance to enquire if it
 would be the fate of the picture, should I finish it, to be presented to
 the young man in the knickerbockers.  Her lips, at this, parted in a
-stare; her eyes darkened to the purple of one of the shadow-patches on
+stare; her eyes darkened to the purple of one of the shadow patches on
 the sea.  She showed for the passing instant the face of some splendid
 tragic mask, and I remembered for the inconsequence of it what Mrs.
 Meldrum had said about her sight.  I had derived from this lady a
@@ -325,7 +325,7 @@ moment she added: "Lord Iffield."
 
 I had never heard of Lord Iffield, but her mention of his having been at
 Boulogne helped me to give him a niche.  Mrs. Meldrum had incidentally
-thrown a certain light on the manners of Mrs. Floyd-Taylor, Flora's
+thrown a certain light on the manners of Mrs. Floyd Taylor, Flora's
 recent hostess in that charming town, a lady who, it appeared, had a
 special vocation for helping rich young men to find a use for their
 leisure.  She had always one or other in hand and had apparently on this
@@ -368,7 +368,7 @@ the cliff.  Our incident had produced a certain awkwardness, and while I
 was thinking of what next to say she exclaimed irrelevantly: "Don't you
 know?  He'll be Lord Considine."  At that moment the youth marked for
 this high destiny turned round, and she spoke to my mother.  "I'll
-introduce him to you--he's awfully nice."  She beckoned and invited him
+introduce him to you he's awfully nice."  She beckoned and invited him
 with her parasol; the movement struck me as taking everything for
 granted.  I had heard of Lord Considine and if I had not been able to
 place Lord Iffield it was because I didn't know the name of his eldest
@@ -377,7 +377,7 @@ a moment and then on her repeating it quietly turned his back.  She was
 an odd creature: she didn't blush at this; she only said to my mother
 apologetically, but with the frankest sweetest amusement, "You don't
 mind, do you?  He's a monster of shyness!"  It was as if she were sorry
-for every one--for Lord Iffield, the victim of a complaint so painful,
+for every one for Lord Iffield, the victim of a complaint so painful,
 and for my mother, the subject of a certain slight.  "I'm sure I don't
 want him!" said my mother, but Flora added some promise of how she would
 handle him for his rudeness.  She would clearly never explain anything by
@@ -408,7 +408,7 @@ some preliminary sketch, some study for the picture.  I had replied that
 I had indeed painted Miss Saunt more than once and that if he were
 interested in my work I should be happy to show him what I had done.  Mr.
 Geoffrey Dawling, the person thus introduced to me, stumbled into my room
-with awkward movements and equivocal sounds--a long, lean, confused,
+with awkward movements and equivocal sounds a long, lean, confused,
 confusing young man, with a bad complexion and large protrusive teeth.  He
 bore in its most indelible pressure the postmark, as it were, of Oxford,
 and as soon as he opened his mouth I perceived, in addition to a
@@ -416,7 +416,7 @@ remarkable revelation of gums, that the text of the queer communication
 matched the registered envelope.  He was full of refinements and angles,
 of dreary and distinguished knowledge.  Of his unconscious drollery his
 dress freely partook; it seemed, from the gold ring into which his red
-necktie was passed to the square toe-caps of his boots, to conform with a
+necktie was passed to the square toe caps of his boots, to conform with a
 high sense of modernness to the fashion before the last.  There were
 moments when his overdone urbanity, all suggestive stammers and
 interrogative quavers, made him scarcely intelligible; but I felt him to
@@ -435,12 +435,12 @@ to purchase, and I remember being so amused at his attitude, which I had
 never seen equally marked in a person of education, that I asked him why,
 for the sort of enjoyment he desired, it wouldn't be more to the point to
 deal directly with the lady.  He stared and blushed at this; the idea
-clearly alarmed him.  He was an extraordinary case--personally so modest
+clearly alarmed him.  He was an extraordinary case personally so modest
 that I could see it had never occurred to him.  He had fallen in love
 with a painted sign and seemed content just to dream of what it stood
 for.  He was the young prince in the legend or the comedy who loses his
 heart to the miniature of the princess beyond seas.  Until I knew him
-better this puzzled me much--the link was so missing between his
+better this puzzled me much the link was so missing between his
 sensibility and his type.  He was of course bewildered by my sketches,
 which implied in the beholder some sense of intention and quality; but
 for one of them, a comparative failure, he ended by conceiving a
@@ -451,7 +451,7 @@ and he went off without having asked me a direct question about Miss
 Saunt, yet with his acquisition under his arm.  His delicacy was such
 that he evidently considered his rights to be limited; he had acquired
 none at all in regard to the original of the picture.  There were
-others--for I was curious about him--that I wanted him to feel I
+others for I was curious about him that I wanted him to feel I
 conceded: I should have been glad of his carrying away a sense of ground
 acquired for coming back.  To ensure this I had probably only to invite
 him, and I perfectly recall the impulse that made me forbear.  It
@@ -498,7 +498,7 @@ told some one that she would rather he should be swallowed by a tiger
 than marry a girl not absolutely one of themselves.  He had given his
 young friend unmistakable signs, but was lying low, gaining time: it was
 in his father's power to be, both in personal and in pecuniary ways,
-excessively nasty to him.  His father wouldn't last for ever--quite the
+excessively nasty to him.  His father wouldn't last for ever quite the
 contrary; and he knew how thoroughly, in spite of her youth, her beauty
 and the swarm of her admirers, some of them positively threatening in
 their passion, he could trust her to hold out.  There were richer,
@@ -506,8 +506,8 @@ cleverer men, there were greater personages too, but she liked her
 "little viscount" just as he was, and liked to think that, bullied and
 persecuted, he had her there so gratefully to rest upon.  She came back
 to me with tale upon tale, and it all might be or mightn't.  I never met
-my pretty model in the world--she moved, it appeared, in exalted
-circles--and could only admire, in her wealth of illustration, the
+my pretty model in the world she moved, it appeared, in exalted
+circles and could only admire, in her wealth of illustration, the
 grandeur of her life and the freedom of her hand.
 
 I had on the first opportunity spoken to her of Geoffrey Dawling, and she
@@ -519,13 +519,13 @@ followed her into railway carriages; guards and porters even who had
 literally stuck there; others who had spoken to her in shops and hung
 about her house door; cabmen, upon her honour, in London, who, to gaze
 their fill at her, had found excuses to thrust their petrifaction through
-the very glasses of four-wheelers.  She lost herself in these
+the very glasses of four wheelers.  She lost herself in these
 reminiscences, the moral of which was that poor Mr. Dawling was only one
 of a million.  When therefore the next autumn she flourished into my
 studio with her odd companion at her heels her first care was to make
 clear to me that if he was now in servitude it wasn't because she had run
 after him.  Dawling explained with a hundred grins that when one wished
-very much to get anything one usually ended by doing so--a proposition
+very much to get anything one usually ended by doing so a proposition
 which led me wholly to dissent and our young lady to asseverate that she
 hadn't in the least wished to get Mr. Dawling.  She mightn't have wished
 to get him, but she wished to show him, and I seemed to read that if she
@@ -549,7 +549,7 @@ on the straw: she had cut from her capital such fine fat slices that
 there was almost nothing more left to swallow.  Perched on her breezy
 cliff the good lady dazzled me as usual by her universal light: she knew
 so much more about everything and everybody than I could ever squeeze out
-of my colour-tubes.  She knew that Flora was acting on system and
+of my colour tubes.  She knew that Flora was acting on system and
 absolutely declined to be interfered with: her precious reasoning was
 that her money would last as long as she should need it, that a
 magnificent marriage would crown her charms before she should be really
@@ -568,11 +568,11 @@ to the Hammond Synge group.  My informant was in a position to be
 definite about this dangler; she knew about his people; she had heard of
 him before.  Hadn't he been a friend of one of her nephews at Oxford?
 Hadn't he spent the Christmas holidays precisely three years before at
-her brother-in-law's in Yorkshire, taking that occasion to get himself
+her brother in law's in Yorkshire, taking that occasion to get himself
 refused with derision by wilful Betty, the second daughter of the house?
 Her sister, who liked the floundering youth, had written to her to
 complain of Betty, and that the young man should now turn up as an
-appendage of Flora's was one of those oft-cited proofs that the world is
+appendage of Flora's was one of those oft cited proofs that the world is
 small and that there are not enough people to go round.  His father had
 been something or other in the Treasury; his grandfather on the mother's
 side had been something or other in the Church.  He had come into the
@@ -593,12 +593,12 @@ desirable that Flora should learn the lesson of Betty's fate.
 I was not struck, I confess, with all this in my mind, by any symptom on
 our young lady's part of that sort of meditation.  The one moral she saw
 in anything was that of her incomparable aspect, which Mr. Dawling,
-smitten even like the railway porters and the cabmen by the doom-dealing
+smitten even like the railway porters and the cabmen by the doom dealing
 gods, had followed from London to Venice and from Venice back to London
 again.  I afterwards learned that her version of this episode was
 profusely inexact: his personal acquaintance with her had been determined
 by an accident remarkable enough, I admit, in connexion with what had
-gone before--a coincidence at all events superficially striking.  At
+gone before a coincidence at all events superficially striking.  At
 Munich, returning from a tour in the Tyrol with two of his sisters, he
 had found himself at the table d'hote of his inn opposite to the full
 presentment of that face of which the mere clumsy copy had made him dream
@@ -608,7 +608,7 @@ resounding thud at the very feet of his apparition.  On the following,
 with an equal incoherence, a sacrifice even of his bewildered sisters,
 whom he left behind, he made an heroic effort to escape by flight from a
 fate of which he had already felt the cold breath.  That fate, in London,
-very little later, drove him straight before it--drove him one Sunday
+very little later, drove him straight before it drove him one Sunday
 afternoon, in the rain, to the door of the Hammond Synges.  He marched in
 other words close up to the cannon that was to blow him to pieces.  But
 three weeks, when he reappeared to me, had elapsed since then, yet (to
@@ -617,7 +617,7 @@ firmly lashed to his back.  I don't mean by this that Flora had been
 persuaded to contract her scope; I mean that he had been treated to the
 unconditional snub which, as the event was to show, couldn't have been
 bettered as a means of securing him.  She hadn't calculated, but she had
-said "Never!" and that word had made a bed big enough for his long-legged
+said "Never!" and that word had made a bed big enough for his long legged
 patience.  He became from this moment to my mind the interesting figure
 in the piece.
 
@@ -646,7 +646,7 @@ of my friendship.  He doubtless told me his simple story, but the matter
 comes back in a kind of sense of my being rather the mouthpiece, of my
 having had to put it together for him.  He took it from me in this form
 without a groan, and I gave it him quite as it came; he took it again and
-again, spending his odd half-hours with me as if for the very purpose of
+again, spending his odd half hours with me as if for the very purpose of
 learning how idiotically he was in love.  He told me I made him see
 things: to begin with, hadn't I first made him see Flora Saunt?  I wanted
 him to give her up and lucidly informed him why; on which he never
@@ -693,7 +693,7 @@ just about to appeal to Flora to avert that stage of my errand when I saw
 that she was accompanied by a gentleman whose identity, though more than
 a year had elapsed, came back to me from the Folkestone cliff.  It had
 been associated on that scene with showy knickerbockers; at present it
-overflowed more splendidly into a fur-trimmed overcoat.  Lord Iffield's
+overflowed more splendidly into a fur trimmed overcoat.  Lord Iffield's
 presence made me waver an instant before crossing over, and during that
 instant Flora, blank and undistinguishing, as if she too were after all
 weary of alternatives, looked straight across at me.  I was on the point
@@ -702,7 +702,7 @@ was exactly in the line of her vision, but she either didn't see me or
 didn't recognise me, or else had a reason to pretend she didn't.  Was her
 reason that I had displeased her and that she wished to punish me?  I had
 always thought it one of her merits that she wasn't vindictive.  She at
-any rate simply looked away; and at this moment one of the shop-girls,
+any rate simply looked away; and at this moment one of the shop girls,
 who had apparently gone off in search of it, bustled up to her with a
 small mechanical toy.  It so happened that I followed closely what then
 took place, afterwards recognising that I had been led to do so, led even
@@ -711,7 +711,7 @@ which in the act I was not fully conscious.
 
 Flora with the toy in her hand looked round at her companion; then seeing
 his attention had been solicited in another quarter she moved away with
-the shop-girl, who had evidently offered to conduct her into the presence
+the shop girl, who had evidently offered to conduct her into the presence
 of more objects of the same sort.  When she reached the indicated spot I
 was in a position still to observe her.  She had asked some question
 about the working of the toy, and the girl, taking it herself, began to
@@ -742,8 +742,8 @@ steamboat she had been holding escaped from them and rattled down to the
 floor with a sharpness that I hear at this hour.  Lord Iffield had
 already seized her arm; with a violent jerk he brought her round toward
 him.  Then it was that there met my eyes a quite distressing sight: this
-exquisite creature, blushing, glaring, exposed, with a pair of big black-
-rimmed eye-glasses, defacing her by their position, crookedly astride of
+exquisite creature, blushing, glaring, exposed, with a pair of big black 
+rimmed eye glasses, defacing her by their position, crookedly astride of
 her beautiful nose.  She made a grab at them with her free hand while I
 turned confusedly away.
 
@@ -777,7 +777,7 @@ assurance he was entitled to act as if the door were not really closed or
 were at any rate not cruelly locked.  He was naturally much struck with
 my anecdote and still more with my interpretation of it.
 
-"There  is  something, there  is  something--possibly something very
+"There _is_ something, there _is_ something possibly something very
 grave, certainly something that requires she should make use of
 artificial aids.  She won't admit it publicly, because with her idolatry
 of her beauty, the feeling she is all made up of, she sees in such aids
@@ -788,9 +788,9 @@ looked straight at me in the shop, which was violently lighted, without
 seeing it was I.  At the same distance, at Folkestone, where as you know
 I first met her, where I heard this mystery hinted at and where she
 indignantly denied the thing, she appeared easily enough to recognise
-people.  At present she couldn't really make out anything the shop-girl
+people.  At present she couldn't really make out anything the shop girl
 showed her.  She has successfully concealed from the man I saw her with
-that she resorts in private to a pince-nez and that she does so not only
+that she resorts in private to a pince nez and that she does so not only
 under the strictest orders from her oculist, but because literally the
 poor thing can't accomplish without such help half the business of life.
 Iffield however has suspected something, and his suspicions, whether
@@ -809,7 +809,7 @@ My companion stared.  "Do you mean to say her eyesight's going?"
 
 "Heaven forbid!  In that case how could she take life as she does?"
 
-"How  does  she take life?  That's the question!"  He sat there
+"How _does_ she take life?  That's the question!"  He sat there
 bewilderedly brooding; the tears rose to his lids; they reminded me of
 those I had seen in Flora's the day I risked my enquiry.  The question he
 had asked was one that to my own satisfaction I was ready to answer, but
@@ -828,13 +828,13 @@ very bad?"
 would be that she has only to observe a few ordinary rules, to exercise a
 little common sense."
 
-Dawling jumped at this.  "I see--to stick to the pince-nez."
+Dawling jumped at this.  "I see to stick to the pince nez."
 
 "To follow to the letter her oculist's prescription, whatever it is and
 at whatever cost to her prettiness.  It's not a thing to be trifled
 with."
 
-"Upon my honour it  shan't  be!" he roundly declared; and he adjusted
+"Upon my honour it _shan't_ be!" he roundly declared; and he adjusted
 himself to his position again as if we had quite settled the business.
 After a considerable interval, while I botched away, he suddenly said:
 "Did they make a great difference?"
@@ -843,27 +843,27 @@ After a considerable interval, while I botched away, he suddenly said:
 
 "Those things she had put on."
 
-"Oh the glasses--in her beauty?  She looked queer of course, but it was
+"Oh the glasses in her beauty?  She looked queer of course, but it was
 partly because one was unaccustomed.  There are women who look charming
 in nippers.  What, at any rate, if she does look queer?  She must be mad
 not to accept that alternative."
 
-"She  is  mad," said Geoffrey Dawling.
+"She _is_ mad," said Geoffrey Dawling.
 
-"Mad to refuse you, I grant.  Besides," I went on, "the pince-nez, which
+"Mad to refuse you, I grant.  Besides," I went on, "the pince nez, which
 was a large and peculiar one, was all awry: she had half pulled it off,
 but it continued to stick, and she was crimson, she was angry."
 
 "It must have been horrible!" my companion groaned.
 
-"It  was  horrible.  But it's still more horrible to defy all warnings;
-it's still more horrible to be landed in--"  Without saying in what I
+"It _was_ horrible.  But it's still more horrible to defy all warnings;
+it's still more horrible to be landed in "  Without saying in what I
 disgustedly shrugged my shoulders.
 
 After a glance at me Dawling jerked round.  "Then you do believe that she
 may be?"
 
-I hesitated.  "The thing would be to make  her  believe it.  She only
+I hesitated.  "The thing would be to make _her_ believe it.  She only
 needs a good scare."
 
 "But if that fellow is shocked at the precautions she does take?"
@@ -902,19 +902,19 @@ CHAPTER VIII
 A few days later I again heard Dawling on my stairs, and even before he
 passed my threshold I knew he had something to tell.
 
-"I've been down to Folkestone--it was necessary I should see her!"  I
+"I've been down to Folkestone it was necessary I should see her!"  I
 forget whether he had come straight from the station; he was at any rate
 out of breath with his news, which it took me however a minute to apply.
 
 "You mean that you've been with Mrs. Meldrum?"
 
 "Yes, to ask her what she knows and how she comes to know it.  It worked
-upon me awfully--I mean what you told me."  He made a visible effort to
+upon me awfully I mean what you told me."  He made a visible effort to
 seem quieter than he was, and it showed me sufficiently that he had not
 been reassured.  I laid, to comfort him and smiling at a venture, a
 friendly hand on his arm, and he dropped into my eyes, fixing them an
 instant, a strange distended look which might have expressed the cold
-clearness of all that was to come.  "I  know-- now!" he said with an
+clearness of all that was to come.  "I _know -_now!" he said with an
 emphasis he rarely used.
 
 "What then did Mrs. Meldrum tell you?"
@@ -940,7 +940,7 @@ I seemed to catch the tail of his idea.  "Mrs. Meldrum's?"
 This remark began to flash a light, and when he quickly added "She sees
 herself, she sees her own fate!" my response was so immediate that I had
 almost taken the words out of his mouth.  While I tried to fix this
-sudden image of Flora's face glazed in and cross-barred even as Mrs.
+sudden image of Flora's face glazed in and cross barred even as Mrs.
 Meldrum's was glazed and barred, he went on to assert that only the
 horror of that image, looming out at herself, could be the reason of her
 avoiding the person who so forced it home.  The fact he had encountered
@@ -948,11 +948,11 @@ made everything hideously vivid, and more vivid than anything else that
 just such another pair of goggles was what would have been prescribed to
 Flora.
 
-"I see--I see," I presently returned.  "What would become of Lord Iffield
+"I see I see," I presently returned.  "What would become of Lord Iffield
 if she were suddenly to come out in them?  What indeed would become of
 every one, what would become of everything?"  This was an enquiry that
 Dawling was evidently unprepared to meet, and I completed it by saying at
-last: "My dear fellow, for that matter, what would become of  you ?"
+last: "My dear fellow, for that matter, what would become of _you_?"
 
 Once more he turned on me his good green eyes.  "Oh I shouldn't mind!"
 
@@ -991,24 +991,24 @@ been condemned?"
 "Condemned to what?  Condemned to perpetual nippers?  Of course she has
 consulted some of the big specialists, but she has done it, you may be
 sure, in the most clandestine manner; and even if it were supposable that
-they would tell you anything--which I altogether doubt--you would have
+they would tell you anything which I altogether doubt you would have
 great difficulty in finding out which men they are.  Therefore leave it
 alone; never show her what you suspect."
 
 I even before he quitted me asked him to promise me this.  "All right, I
-promise"--but he was gloomy enough.  He was a lover facing the fact that
+promise" but he was gloomy enough.  He was a lover facing the fact that
 there was no limit to the deceit his loved one was ready to practise: it
 made so remarkably little difference.  I could see by what a stretch his
 passionate pity would from this moment overlook the girl's fatuity and
-folly.  She was always accessible to him--that I knew; for if she had
+folly.  She was always accessible to him that I knew; for if she had
 told him he was an idiot to dream she could dream of him, she would have
 rebuked the imputation of having failed to make it clear that she would
 always be glad to regard him as a friend.  What were most of her
-friends--what were all of them--but repudiated idiots?  I was perfectly
+friends what were all of them but repudiated idiots?  I was perfectly
 aware that in her conversations and confidences I myself for instance had
 a niche in the gallery.  As regards poor Dawling I knew how often he
 still called on the Hammond Synges.  It was not there but under the wing
-of the Floyd-Taylors that her intimacy with Lord Iffield most flourished.
+of the Floyd Taylors that her intimacy with Lord Iffield most flourished.
 At all events, when a week after the visit I have just summarised Flora's
 name was one morning brought up to me, I jumped at the conclusion that
 Dawling had been with her, and even I fear briefly entertained the
@@ -1029,7 +1029,7 @@ saddest scene with her, and if it did me no other good it at least made
 me at last completely understand why insidiously, from the first, she had
 struck me as a creature of tragedy.  In showing me the whole of her folly
 it lifted the curtain of her misery.  I don't know how much she meant to
-tell me when she came--I think she had had plans of elaborate
+tell me when she came I think she had had plans of elaborate
 misrepresentation; at any rate she found it at the end of ten minutes the
 simplest way to break down and sob, to be wretched and true.  When she
 had once begun to let herself go the movement took her off her feet; the
@@ -1042,7 +1042,7 @@ to see Geoffrey Dawling, who had in those days rooms in Welbeck Street,
 where I presented myself at an hour late enough to warrant the
 supposition that he might have come in.  He had not come in, but he was
 expected, and I was invited to enter and wait for him: a lady, I was
-informed, was already in his sitting-room.  I hesitated, a little at a
+informed, was already in his sitting room.  I hesitated, a little at a
 loss: it had wildly coursed through my brain that the lady was perhaps
 Flora Saunt.  But when I asked if she were young and remarkably pretty I
 received so significant a "No sir!" that I risked an advance and after a
@@ -1052,13 +1052,13 @@ Mrs. Meldrum.
 "Oh you dear thing," she exclaimed, "I'm delighted to see you: you spare
 me another compromising demarche!  But for this I should have called on
 you also.  Know the worst at once: if you see me here it's at least
-deliberate--it's planned, plotted, shameless.  I came up on purpose to
+deliberate it's planned, plotted, shameless.  I came up on purpose to
 see him, upon my word I'm in love with him.  Why, if you valued my peace
 of mind, did you let him the other day at Folkestone dawn upon my
 delighted eyes?  I found myself there in half an hour simply infatuated
 with him.  With a perfect sense of everything that can be urged against
 him I hold him none the less the very pearl of men.  However, I haven't
-come up to declare my passion--I've come to bring him news that will
+come up to declare my passion I've come to bring him news that will
 interest him much more.  Above all I've come to urge upon him to be
 careful."
 
@@ -1087,7 +1087,7 @@ him.  I had added somehow to that certitude.  He told me what you had
 told him you had seen in your shop."
 
 Mrs. Meldrum, I perceived, had come to Welbeck Street on an errand
-identical with my own--a circumstance indicating her rare sagacity,
+identical with my own a circumstance indicating her rare sagacity,
 inasmuch as her ground for undertaking it was a very different thing from
 what Flora's wonderful visit had made of mine.  I remarked to her that
 what I had seen in the shop was sufficiently striking, but that I had
@@ -1098,7 +1098,7 @@ She was mystified.  "Everything?"
 
 "The poor creature is under the darkest of clouds.  Oh she came to
 triumph, but she remained to talk something in the nature of sense!  She
-put herself completely in my hands--she does me the honour to intimate
+put herself completely in my hands she does me the honour to intimate
 that of all her friends I'm the most disinterested.  After she had
 announced to me that Lord Iffield was utterly committed to her and that
 for the present I was absolutely the only person in the secret, she
@@ -1113,12 +1113,12 @@ everything that can be known about eyes," said Mrs. Meldrum.
 done in time, done years ago, what was imperatively ordered her; if she
 hadn't in fine been cursed with the loveliness that was to make her
 behaviour a thing of fable.  She may still keep her sight, or what
-remains of it, if she'll sacrifice--and after all so little--that purely
+remains of it, if she'll sacrifice and after all so little that purely
 superficial charm.  She must do as you've done; she must wear, dear lady,
 what you wear!"
 
-What my companion wore glittered for the moment like a melon-frame in
-August.  "Heaven forgive her--now I understand!"  She flushed for dismay.
+What my companion wore glittered for the moment like a melon frame in
+August.  "Heaven forgive her now I understand!"  She flushed for dismay.
 
 But I wasn't afraid of the effect on her good nature of her thus seeing,
 through her great goggles, why it had always been that Flora held her at
@@ -1126,25 +1126,25 @@ such a distance.  "I can't tell you," I said, "from what special
 affection, what state of the eye, her danger proceeds: that's the one
 thing she succeeded this morning in keeping from me.  She knows it
 herself perfectly; she has had the best advice in Europe.  'It's a thing
-that's awful, simply awful'--that was the only account she would give me.
+that's awful, simply awful' that was the only account she would give me.
 Year before last, while she was at Boulogne, she went for three days with
-Mrs. Floyd-Taylor to Paris.  She there surreptitiously consulted the
-greatest man--even Mrs. Floyd-Taylor doesn't know.  Last autumn in
+Mrs. Floyd Taylor to Paris.  She there surreptitiously consulted the
+greatest man even Mrs. Floyd Taylor doesn't know.  Last autumn in
 Germany she did the same.  'First put on certain special spectacles with
-a straight bar in the middle: then we'll talk'--that's practically what
-they say.  What  she  says is that she'll put on anything in nature when
+a straight bar in the middle: then we'll talk' that's practically what
+they say.  What _she_ says is that she'll put on anything in nature when
 she's married, but that she must get married first.  She has always meant
 to do everything as soon as she's married.  Then and then only she'll be
 safe.  How will any one ever look at her if she makes herself a fright?
 How could she ever have got engaged if she had made herself a fright from
-the first?  It's no use to insist that with her beauty she can never  be 
+the first?  It's no use to insist that with her beauty she can never _be_
 a fright.  She said to me this morning, poor girl, the most
-characteristic, the most harrowing things.  'My face is all I have--and
- such  a face!  I knew from the first I could do anything with it.  But I
-needed it all--I need it still, every exquisite inch of it.  It isn't as
+characteristic, the most harrowing things.  'My face is all I have and
+_such_ a face!  I knew from the first I could do anything with it.  But I
+needed it all I need it still, every exquisite inch of it.  It isn't as
 if I had a figure or anything else.  Oh if God had only given me a figure
 too, I don't say!  Yes, with a figure, a really good one, like Fanny
-Floyd-Taylor's, who's hideous, I'd have risked plain glasses.  Que voulez-
+Floyd Taylor's, who's hideous, I'd have risked plain glasses.  Que voulez 
 vous?  No one is perfect.'  She says she still has money left, but I
 don't believe a word of it.  She has been speculating on her impunity, on
 the idea that her danger would hold off: she has literally been running a
@@ -1156,14 +1156,14 @@ swindled worst: she has put herself off, so insanely that even her
 conceit but half accounts for it, with little inadequate concessions,
 little false measures and preposterous evasions and childish hopes.  Her
 great terror is now that Iffield, who already has suspicions, who has
-found out her pince-nez but whom she has beguiled with some unblushing
-hocus-pocus, may discover the dreadful facts; and the essence of what she
+found out her pince nez but whom she has beguiled with some unblushing
+hocus pocus, may discover the dreadful facts; and the essence of what she
 wanted this morning was in that interest to square me, to get me to deny
 indignantly and authoritatively (for isn't she my 'favourite sitter?')
 that she has anything in life the matter with any part of her.  She
 sobbed, she 'went on,' she entreated; after we got talking her
 extraordinary nerve left her and she showed me what she has been
-through--showed me also all her terror of the harm I could do her.  'Wait
+through showed me also all her terror of the harm I could do her.  'Wait
 till I'm married! wait till I'm married!'  She took hold of me, she
 almost sank on her knees.  It seems to me highly immoral, one's
 participation in her fraud; but there's no doubt that she must be
@@ -1181,7 +1181,7 @@ there to announce or avert.
 Mrs. Meldrum was on the spot all gaiety.  "I've come to return your sweet
 visit.  Ah," she laughed, "I mean to keep up the acquaintance!"
 
-"Do--do," he murmured mechanically and absently, continuing to look at
+"Do do," he murmured mechanically and absently, continuing to look at
 us.  Then he broke out: "He's going to marry her."
 
 I was surprised.  "You already know?"
@@ -1189,12 +1189,12 @@ I was surprised.  "You already know?"
 He produced an evening paper, which he tossed down on the table.  "It's
 in that."
 
-"Published--already?" I was still more surprised.
+"Published already?" I was still more surprised.
 
-"Oh Flora can't keep a secret!"--Mrs. Meldrum made it light.  She went up
+"Oh Flora can't keep a secret!" Mrs. Meldrum made it light.  She went up
 to poor Dawling and laid a motherly hand upon him.
 
-"It's all right--it's just as it ought to be: don't think about her ever
+"It's all right it's just as it ought to be: don't think about her ever
 any more."  Then as he met this adjuration with a stare from which
 thought, and of the most defiant and dismal, fairly protruded, the
 excellent woman put up her funny face and tenderly kissed him on the
@@ -1208,16 +1208,16 @@ CHAPTER X
 
 I have spoken of these reminiscences as of a row of coloured beads, and I
 confess that as I continue to straighten out my chaplet I am rather proud
-of the comparison.  The beads are all there, as I said--they slip along
+of the comparison.  The beads are all there, as I said they slip along
 the string in their small smooth roundness.  Geoffrey Dawling accepted as
 a gentleman the event his evening paper had proclaimed; in view of which
 I snatched a moment to nudge him a hint that he might offer Mrs. Meldrum
-his hand.  He returned me a heavy head-shake, and I judged that marriage
+his hand.  He returned me a heavy head shake, and I judged that marriage
 would henceforth strike him very much as the traffic of the street may
 strike some poor incurable at the window of an hospital.  Circumstances
 arising at this time led to my making an absence from England, and
 circumstances already existing offered him a firm basis for similar
-action.  He had after all the usual resource of a Briton--he could take
+action.  He had after all the usual resource of a Briton he could take
 to his boats, always drawn up in our background.  He started on a journey
 round the globe, and I was left with nothing but my inference as to what
 might have happened.  Later observation however only confirmed my belief
@@ -1299,27 +1299,27 @@ and as if I were talking to some different and strange person.  Flora
 plain and obscure and dumb was no Flora at all.  At Mrs. Meldrum's door
 she turned off with the observation that as there was certainly a great
 deal I should have to say to our friend she had better not go in with me.
-I looked at her again--I had been keeping my eyes away from her--but only
+I looked at her again I had been keeping my eyes away from her but only
 to meet her magnified stare.  I greatly desired in truth to see Mrs.
 Meldrum alone, but there was something so grim in the girl's trouble that
 I hesitated to fall in with this idea of dropping her.  Yet one couldn't
 express a compassion without seeming to take for granted more trouble
 than there actually might have been.  I reflected that I must really
 figure to her as a fool, which was an entertainment I had never expected
-to give her.  It rolled over me there for the first time--it has come
-back to me since--that there is, wondrously, in very deep and even in
+to give her.  It rolled over me there for the first time it has come
+back to me since that there is, wondrously, in very deep and even in
 very foolish misfortune a dignity still finer than in the most inveterate
 habit of being all right.  I couldn't have to her the manner of treating
 it as a mere detail that I was face to face with a part of what, at our
 last meeting, we had had such a scene about; but while I was trying to
-think of some manner that I  could  have she said quite colourlessly,
-though somehow as if she might never see me again: "Good-bye.  I'm going
+think of some manner that I _could_ have she said quite colourlessly,
+though somehow as if she might never see me again: "Good bye.  I'm going
 to take my walk."
 
 "All alone?"
 
-She looked round the great bleak cliff-top.  "With whom should I go?
-Besides I like to be alone--for the present."
+She looked round the great bleak cliff top.  "With whom should I go?
+Besides I like to be alone for the present."
 
 This gave me the glimmer of a vision that she regarded her disfigurement
 as temporary, and the confidence came to me that she would never, for her
@@ -1327,7 +1327,7 @@ happiness, cease to be a creature of illusions.  It enabled me to
 exclaim, smiling brightly and feeling indeed idiotic: "Oh I shall see you
 again!  But I hope you'll have a very pleasant walk."
 
-"All my walks are pleasant, thank you--they do me such a lot of good."
+"All my walks are pleasant, thank you they do me such a lot of good."
 She was as quiet as a mouse, and her words seemed to me stupendous in
 their wisdom.  "I take several a day," she continued.  She might have
 been an ancient woman responding with humility at the church door to the
@@ -1335,8 +1335,8 @@ patronage of the parson.  "The more I take the better I feel.  I'm
 ordered by the doctors to keep all the while in the air and go in for
 plenty of exercise.  It keeps up my general health, you know, and if that
 goes on improving as it has lately done everything will soon be all
-right.  All that was the matter with me before--and always; it was too
-reckless!--was that I neglected my general health.  It acts directly on
+right.  All that was the matter with me before and always; it was too
+reckless! was that I neglected my general health.  It acts directly on
 the state of the particular organ.  So I'm going three miles."
 
 I grinned at her from the doorstep while Mrs. Meldrum's maid stood there
@@ -1354,11 +1354,11 @@ CHAPTER XI
 
 
 As soon as I saw Mrs. Meldrum I of course broke out.  "Is there anything
-in it?   Is  her general health--?"
+in it?  _Is_ her general health ?"
 
 Mrs. Meldrum checked me with her great amused blare.  "You've already
 seen her and she has told you her wondrous tale?  What's 'in it' is what
-has been in everything she has ever done--the most comical, tragical
+has been in everything she has ever done the most comical, tragical
 belief in herself.  She thinks she's doing a 'cure.'"
 
 "And what does her husband think?"
@@ -1367,12 +1367,12 @@ belief in herself.  She thinks she's doing a 'cure.'"
 
 "Hasn't she then married Lord Iffield?"
 
-"Vous-en-etes la?" cried my hostess.  "Why he behaved like a regular
+"Vous en etes la?" cried my hostess.  "Why he behaved like a regular
 beast."
 
 "How should I know?  You never wrote me."  Mrs. Meldrum hesitated,
 covering me with what poor Flora called the particular organ.  "No, I
-didn't write you--I abstained on purpose.  If I kept quiet I thought you
+didn't write you I abstained on purpose.  If I kept quiet I thought you
 mightn't hear over there what had happened.  If you should hear I was
 afraid you would stir up Mr. Dawling."
 
@@ -1394,7 +1394,7 @@ afraid of it!" she very honestly answered.
 
 "But doesn't he know?  Has he given no sign?"
 
-"Every sign in life--he came straight back to her.  He did everything to
+"Every sign in life he came straight back to her.  He did everything to
 get her to listen to him, but she hasn't the smallest idea of it."
 
 "Has he seen her as she is now?" I presently and just a trifle awkwardly
@@ -1423,13 +1423,13 @@ a year."
 last induced her to submit to him?"
 
 "Her general collapse after that brute of an Iffield's rupture.  She
-cried her eyes out--she passed through a horror of black darkness.  Then
+cried her eyes out she passed through a horror of black darkness.  Then
 came a gleam of light, and the light appears to have broadened.  She went
 into goggles as repentant Magdalens go into the Catholic church."
 
 "In spite of which you don't think she'll be saved?"
 
-" She  thinks she will--that's all I can tell you.  There's no doubt that
+"_She_ thinks she will that's all I can tell you.  There's no doubt that
 when once she brought herself to accept her real remedy, as she calls it,
 she began to enjoy a relief that she had never known.  That feeling, very
 new and in spite of what she pays for it most refreshing, has given her
@@ -1455,7 +1455,7 @@ but she finds him impossibly ridiculous.  He's quite the last person she
 would ever dream of."  I was almost disposed on hearing this to protest
 that if the girl had so little proper feeling her noble suitor had
 perhaps served her right; but after a while my curiosity as to just how
-her noble suitor  had  served her got the better of that emotion, and I
+her noble suitor _had_ served her got the better of that emotion, and I
 asked a question or two which led my companion again to apply to him the
 invidious term I have already quoted.  What had happened was simply that
 Flora had at the eleventh hour broken down in the attempt to put him off
@@ -1466,7 +1466,7 @@ been infernally deep.  The future in short assumed a new complexion for
 him when looked at through the grim glasses of a bride who, as he had
 said to some one, couldn't really, when you came to find out, see her
 hand before her face.  He had conducted himself like any other jockeyed
-customer--he had returned the animal as unsound.  He had backed out in
+customer he had returned the animal as unsound.  He had backed out in
 his own way, giving the business, by some sharp shuffle, such a turn as
 to make the rupture ostensibly Flora's, but he had none the less
 remorselessly and basely backed out.  He had cared for her lovely face,
@@ -1474,7 +1474,7 @@ cared for it in the amused and haunted way it had been her poor little
 delusive gift to make men care; and her lovely face, damn it, with the
 monstrous gear she had begun to rig upon it, was just what had let him
 in.  He had in the judgment of his family done everything that could be
-expected of him; he had made--Mrs. Meldrum had herself seen the letter--a
+expected of him; he had made Mrs. Meldrum had herself seen the letter a
 "handsome" offer of pecuniary compensation.  Oh if Flora, with her
 incredible buoyancy, was in a manner on her feet again now it was not
 that she had not for weeks and weeks been prone in the dust.  Strange
@@ -1484,7 +1484,7 @@ reserved for some final mercy.  "But she has been in the abysses at any
 rate," said Mrs. Meldrum, "and I really don't think I can tell you what
 pulled her through."
 
-"I think I can tell  you ," I returned.  "What in the world but Mrs.
+"I think I can tell _you_," I returned.  "What in the world but Mrs.
 Meldrum?"
 
 At the end of an hour Flora had not come in, and I was obliged to
@@ -1518,7 +1518,7 @@ and to my interrupted work, which had opened out on such a scale that,
 with a deep plunge into a great chance, I was three good years in rising
 again to the surface.  There are nymphs and naiads moreover in the
 American depths: they may have had something to do with the duration of
-my dive.  I mention them to account for a grave misdemeanor--the fact
+my dive.  I mention them to account for a grave misdemeanor the fact
 that after the first year I rudely neglected Mrs. Meldrum.  She had
 written to me from Florence after my mother's death and had mentioned in
 a postscript that in our young lady's calculations the lowest figures
@@ -1540,7 +1540,7 @@ delighted to receive it and had no doubt that if he should go into
 figures they would, as they are said to be able to prove anything, prove
 at least that my advice was sound and that he had wasted time enough.
 This quickened on my part another hope, a hope suggested by some
-roundabout rumour--I forget how it reached me--that he was engaged to a
+roundabout rumour I forget how it reached me that he was engaged to a
 girl down in Hampshire.  He turned out not to be, but I felt sure that if
 only he went into figures deep enough he would become, among the girls
 down in Hampshire or elsewhere, one of those numerous prizes of battle
@@ -1597,7 +1597,7 @@ movement she made for some time was to finger with an ungloved hand and
 as if with the habit of fondness the row of pearls on her neck, which my
 glass showed me to be large and splendid.  Her diamonds and pearls, in
 her solitude, mystified me, making me, as she had had no such brave
-jewels in the days of the Hammond Synges, wonder what undreamt-of
+jewels in the days of the Hammond Synges, wonder what undreamt of
 improvement had taken place in her fortunes.  The ghost of a question
 hovered there a moment: could anything so prodigious have happened as
 that on her tested and proved amendment Lord Iffield had taken her back?
@@ -1606,21 +1606,21 @@ become a person of such fashion where was the little court one would
 naturally see at her elbow?  Her isolation was puzzling, though it could
 easily suggest that she was but momentarily alone.  If she had come with
 Mrs. Meldrum that lady would have taken advantage of the interval to pay
-a visit to some other box--doubtless the box at which Flora had just been
+a visit to some other box doubtless the box at which Flora had just been
 looking.  Mrs. Meldrum didn't account for the jewels, but the revival of
 Flora's beauty accounted for anything.  She presently moved her eyes over
 the house, and I felt them brush me again like the wings of a dove.  I
 don't know what quick pleasure flickered into the hope that she would at
 last see me.  She did see me: she suddenly bent forward to take up the
-little double-barrelled ivory glass that rested on the edge of the box
+little double barrelled ivory glass that rested on the edge of the box
 and to all appearance fix me with it.  I smiled from my place straight up
 at the searching lenses, and after an instant she dropped them and smiled
-as straight back at me.  Oh her smile--it was her old smile, her young
+as straight back at me.  Oh her smile it was her old smile, her young
 smile, her very own smile made perfect!  I instantly left my stall and
 hurried off for a nearer view of it; quite flushed, I remember, as I went
 with the annoyance of having happened to think of the idiotic way I had
 tried to paint her.  Poor Iffield with his sample of that error, and
-still poorer Dawling in particular with  his !  I hadn't touched her, I
+still poorer Dawling in particular with _his_!  I hadn't touched her, I
 was professionally humiliated, and as the attendant in the lobby opened
 her box for me I felt that the very first thing I should have to say to
 her would be that she must absolutely sit to me again.
@@ -1636,7 +1636,7 @@ turned her face to me.  "Here you are again!" she exclaimed with her
 disgloved hand put up a little backward for me to take.  I dropped into a
 chair just behind her and, having taken it and noted that one of the
 curtains of the box would make the demonstration sufficiently private,
-bent my lips over it and impressed them on its finger-tips.  It was given
+bent my lips over it and impressed them on its finger tips.  It was given
 me however, to my astonishment, to feel next that all the privacy in the
 world couldn't have sufficed to mitigate the start with which she greeted
 this free application of my moustache: the blood had jumped to her face,
@@ -1658,12 +1658,12 @@ right word to express or to disguise my dismay.  What was the right word
 to commemorate one's sudden discovery, at the very moment too at which
 one had been most encouraged to count on better things, that one's dear
 old friend had gone blind?  Before the answer to this question dropped
-upon me--and the moving moments, though few, seemed many--I heard, with
+upon me and the moving moments, though few, seemed many I heard, with
 the sound of voices, the click of the attendant's key on the other side
 of the door.  Poor Flora heard also and on hearing, still with her hand
 on my arm, brightened again as I had a minute since seen her brighten
 across the house: she had the sense of the return of the person she had
-taken me for--the person with the right pair of lips, as to whom I was
+taken me for the person with the right pair of lips, as to whom I was
 for that matter much more in the dark than she.  I gasped, but my word
 had come: if she had lost her sight it was in this very loss that she had
 found again her beauty.  I managed to speak while we were still alone,
@@ -1674,7 +1674,7 @@ up, recognising me, always holding me, and gleefully cried to a gentleman
 who was arrested in the doorway by the sight of me: "He has come back, he
 has come back, and you should have heard what he says of me!"  The
 gentleman was Geoffrey Dawling, and I thought it best to let him hear on
-the spot.  "How beautiful she is, my dear man--but how extraordinarily
+the spot.  "How beautiful she is, my dear man but how extraordinarily
 beautiful!  More beautiful at this hour than ever, ever before!"
 
 It gave them almost equal pleasure and made Dawling blush to his eyes;
@@ -1684,14 +1684,14 @@ both, and while the opening bars of another scene rose from the orchestra
 I almost did embrace Dawling, whose first emotion on beholding me had
 visibly and ever so oddly been a consciousness of guilt.  I had caught
 him somehow in the act, though that was as yet all I knew; but by the
-time we sank noiselessly into our chairs again--for the music was
-supreme, Wagner passed first--my demonstration ought pretty well to have
+time we sank noiselessly into our chairs again for the music was
+supreme, Wagner passed first my demonstration ought pretty well to have
 given him the limit of the criticism he had to fear.  I myself indeed,
 while the opera blazed, was only too afraid he might divine in our silent
 closeness the very moral of my optimism, which was simply the comfort I
 had gathered from seeing that if our companion's beauty lived again her
-vanity partook of its life.  I had hit on the right note--that was what
-eased me off: it drew all pain for the next half-hour from the sense of
+vanity partook of its life.  I had hit on the right note that was what
+eased me off: it drew all pain for the next half hour from the sense of
 the deep darkness in which the stricken woman sat.  If the music, in that
 darkness, happily soared and swelled for her, it beat its wings in unison
 with those of a gratified passion.  A great deal came and went between us
@@ -1728,8 +1728,8 @@ she turned her face to me with the parody of a look I lost none of the
 signs of its strange new glory.  The expression of the eyes was a rub of
 pastel from a master's thumb; the whole head, stamped with a sort of
 showy suffering, had gained a fineness from what she had passed through.
-Yes, Flora was settled for life--nothing could hurt her further.  I
-foresaw the particular praise she would mostly incur--she would be
+Yes, Flora was settled for life nothing could hurt her further.  I
+foresaw the particular praise she would mostly incur she would be
 invariably "interesting."  She would charm with her pathos more even than
 she had charmed with her pleasure.  For herself above all she was fixed
 for ever, rescued from all change and ransomed from all doubt.  Her old
@@ -1745,14 +1745,14 @@ simplified somehow into service as she had been simplified into success.
 He was such a picture of inspired intervention as I had never yet
 conceived: he would exist henceforth for the sole purpose of rendering
 unnecessary, or rather impossible, any reference even on her own part to
-his wife's infirmity.  Oh yes, how little desire he would ever give  me 
-to refer to it!  He principally after a while made me feel--and this was
-my second lesson--that, good-natured as he was, my being there to see it
+his wife's infirmity.  Oh yes, how little desire he would ever give _me_
+to refer to it!  He principally after a while made me feel and this was
+my second lesson that, good natured as he was, my being there to see it
 all oppressed him; so that by the time the act ended I recognised that I
 too had filled out my hour.  Dawling remembered things; I think he caught
 in my very face the irony of old judgments: they made him thresh about in
 his chair.  I said to Flora as I took leave of her that I would come to
-see her, but I may mention that I never went.  I'd go to-morrow if I hear
+see her, but I may mention that I never went.  I'd go to morrow if I hear
 she wants me; but what in the world can she ever want?  As I quitted them
 I laid my hand on Dawling's arm, and drew him for a moment into the
 lobby.
@@ -1760,7 +1760,7 @@ lobby.
 "Why did you never write to me of your marriage?"
 
 He smiled uncomfortably, showing his long yellow teeth and something
-more.  "I don't know--the whole thing gave me such a tremendous lot to
+more.  "I don't know the whole thing gave me such a tremendous lot to
 do."
 
 This was the first dishonest speech I had heard him make: he really
@@ -1779,7 +1779,7 @@ that practically she has ceased to see us."
 
 "You haven't quarrelled with her?"
 
-"How  could  we?  Think of all we owe her.  At the time of our marriage,
+"How _could_ we?  Think of all we owe her.  At the time of our marriage,
 and for months before, she did everything for us: I don't know how we
 should have managed without her.  But since then she has never been near
 us and has given us rather markedly little encouragement to keep up

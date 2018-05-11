@@ -4,7 +4,7 @@ discourse; backward in sentiment; lean, long, dusty, dreary, and
 yet somehow lovable. At friendly meetings, and when the wine was to
 his taste, something eminently human beaconed from his eye;
 something indeed which never found its way into his talk, but which
-spoke not only in these silent symbols of the after-dinner face, but
+spoke not only in these silent symbols of the after dinner face, but
 more often and loudly in the acts of his life. He was austere with
 himself; drank gin when he was alone, to mortify a taste for
 vintages; and though he enjoyed the theatre, had not crossed the
@@ -18,19 +18,19 @@ to help rather than to reprove.
 "I incline to Cain's heresy," he used to say quaintly: "I let my
 brother go to the devil in his own way." In this character, it was
 frequently his fortune to be the last reputable acquaintance and the
-last good influence in the lives of down-going men. And to such as
+last good influence in the lives of down going men. And to such as
 these, so long as they came about his chambers, he never marked a
 shade of change in his demeanour.
 
 No doubt the feat was easy to Mr. Utterson; for he was
 undemonstrative at the best, and even his friendship seemed to be
-founded in a similar catholicity of good-nature. It is the mark of a
-modest man to accept his friendly circle ready-made from the hands
+founded in a similar catholicity of good nature. It is the mark of a
+modest man to accept his friendly circle ready made from the hands
 of opportunity; and that was the lawyer's way. His friends were
 those of his own blood or those whom he had known the longest; his
 affections, like ivy, were the growth of time, they implied no
 aptness in the object. Hence, no doubt, the bond that united him to
-Mr. Richard Enfield, his distant kinsman, the well-known man about
+Mr. Richard Enfield, his distant kinsman, the well known man about
 town. It was a nut to crack for many, what these two could see in
 each other, or what subject they could find in common. It was
 reported by those who encountered them in their Sunday walks, that
@@ -45,16 +45,16 @@ but even resisted the calls
 of business, that they might enjoy them uninterrupted.
 
 It chanced on one of these rambles that their way led them down a
-by-street in a busy quarter of London. The street was small and
+by street in a busy quarter of London. The street was small and
 what is called quiet, but it drove a thriving trade on the
-week-days. The inhabitants were all doing well, it seemed, and all
+week days. The inhabitants were all doing well, it seemed, and all
 emulously hoping to do better still, and laying out the surplus of
 their gains in coquetry; so that the shop fronts stood along that
 thoroughfare with an air of invitation, like rows of smiling
 saleswomen. Even on Sunday, when it veiled its more florid charms
 and lay comparatively empty of passage, the street shone out in
 contrast to its dingy neighbourhood, like a fire in a forest; and
-with its freshly painted shutters, well-polished brasses, and
+with its freshly painted shutters, well polished brasses, and
 general cleanliness and gaiety of note, instantly caught and pleased
 the eye of the passenger.
 
@@ -75,7 +75,7 @@ tried his knife on the mouldings; and for close on a generation, no
 one had appeared to drive away these random visitors or to repair
 their ravages.
 
-Mr. Enfield and the lawyer were on the other side of the by-street;
+Mr. Enfield and the lawyer were on the other side of the by street;
 but when they came abreast of the entry, the former lifted up his
 cane and pointed.
 
@@ -90,8 +90,8 @@ what was that?"
 from some place at the end of the world, about three o'clock of a
 black winter morning, and my way lay through a part of town where
 there was literally nothing to be seen but lamps. Street after
-street, and all the folks asleep--street after street, all lighted
-up as if for a procession and all as empty as a church--till at
+street, and all the folks asleep street after street, all lighted
+up as if for a procession and all as empty as a church till at
 last I got into that state of mind when a man listens and listens
 and begins to long for the sight of a policeman. All at once, I saw
 two figures: one a little man who was stumping along eastward at a
@@ -105,7 +105,7 @@ corner; and then came the horrible part of the thing; for the man
 trampled calmly over the child's body and left her screaming on
 the ground. It sounds nothing to hear, but it was hellish to see.
 It wasn't like a man; it was like some damned Juggernaut. I gave a
-view-halloa, took to my heels, collared my gentleman, and brought
+view halloa, took to my heels, collared my gentleman, and brought
 him back to where there was already quite a group about the
 screaming child. He was perfectly cool and made no resistance, but
 gave me one look, so ugly that it brought out the sweat on me like
@@ -116,7 +116,7 @@ according to the Sawbones; and there you might have supposed would
 be an end to it. But there was one curious circumstance. I had taken
 a loathing to my gentleman at first sight. So had the child's
 family, which was only natural. But the doctor's case was what
-struck me. He was the usual cut-and-dry apothecary, of no particular
+struck me. He was the usual cut and dry apothecary, of no particular
 age and colour, with a strong Edinburgh accent, and about as
 emotional as a bagpipe. Well, sir, he was like the rest of us; every
 time he looked at my prisoner, I saw that Sawbones turn sick and
@@ -132,15 +132,15 @@ any credit, we undertook that he should lose them. And all the time,
 as we were pitching it in red hot, we were keeping the women off him
 as best we could, for they were as wild as harpies. I never saw a
 circle of such hateful faces; and there was the man in the middle,
-with a kind of black, sneering coolness--frightened too, I could
-see that--but carrying it off, sir, really like Satan. 'If you
+with a kind of black, sneering coolness frightened too, I could
+see that but carrying it off, sir, really like Satan. 'If you
 choose to make capital out of this accident,' said he, 'I am
 naturally helpless. No gentleman but wishes to avoid a scene,' says
 he. 'Name your figure.' Well, we screwed him up to a hundred pounds
 for the child's family; he would have clearly liked to stick out;
 but there was something about the lot of us that meant mischief, and
 at last he struck. The next thing was to get the money; and where
-do you think he carried us but to that place with the door?--
+do you think he carried us but to that place with the door? -
 whipped out a key, went in, and presently came back with the matter
 of ten pounds in gold and a cheque for the balance on Coutts's,
 drawn payable to bearer and signed with a name that I can't mention,
@@ -162,15 +162,15 @@ and next day, when we had breakfasted, went in a body to the bank. I
 gave in the check myself, and said I had every reason to believe it
 was a forgery. Not a bit of it. The cheque was genuine."
 
-"Tut-tut," said Mr. Utterson.
+"Tut tut," said Mr. Utterson.
 
 "I see you feel as I do," said Mr. Enfield. "Yes, it's a bad story.
 For my man was a fellow that nobody could have to do with, a really
 damnable man; and the person that drew the cheque is the very pink
 of the proprieties, celebrated too, and (what makes it worse) one of
-your fellows who do what they call good. Black-mail, I suppose; an
+your fellows who do what they call good. Black mail, I suppose; an
 honest man paying through the nose for some of the capers of his
-youth. Black-Mail House is what I call that place with the door, in
+youth. Black Mail House is what I call that place with the door, in
 consequence. Though even that, you know, is far from explaining
 all," he added, and with the words fell into a vein of musing.
 
@@ -182,7 +182,7 @@ From this he was recalled by Mr. Utterson asking rather suddenly:
 "A likely place, isn't it?" returned Mr. Enfield. "But I happen to
 have noticed his address; he lives in some square or other."
 
-"And you never asked about the--place with the door?" said Mr.
+"And you never asked about the place with the door?" said Mr.
 Utterson.
 
 "No, sir: I had a delicacy," was the reply. "I feel very strongly
@@ -191,7 +191,7 @@ day of judgment. You start a question, and it's like starting a
 stone. You sit quietly on the top of a hill; and away the stone
 goes, starting others; and presently some bland old bird (the last
 you would have thought of) is knocked on the head in his own
-back-garden and the family have to change their name. No, sir, I
+back garden and the family have to change their name. No, sir, I
 make it a rule of mine: the more it looks like Queer Street, the
 less I ask."
 
@@ -227,7 +227,7 @@ was a man of the name of Hyde."
 appearance; something displeasing, something downright detestable. I
 never saw a man I so disliked, and yet I scarce know why. He must be
 deformed somewhere; he gives a strong feeling of deformity, although
-I couldn't specify the point. He's an extraordinary-looking man, and
+I couldn't specify the point. He's an extraordinary looking man, and
 yet I really can name nothing out of the way. No, sir; I can make no
 hand of it; I can't describe him. And it's not want of memory; for I
 declare I can see him this moment."
@@ -268,11 +268,11 @@ Richard."
 THAT evening Mr. Utterson came home to his bachelor house in sombre
 spirits and sat down to dinner without relish. It was his custom of
 a Sunday, when this meal was over, to sit close by the fire, a
-volume of some dry divinity on his reading-desk, until the clock of
+volume of some dry divinity on his reading desk, until the clock of
 the neighbouring church rang out the hour of twelve, when he would
 go soberly and gratefully to bed. On this night, however, as soon as
 the cloth was taken away, he took up a candle and went into his
-business-room. There he opened his safe, took from the most private
+business room. There he opened his safe, took from the most private
 part of it a document endorsed on the envelope as Dr. Jekyll's Will,
 and sat down with a clouded brow to study its contents. The will was
 holograph, for Mr. Utterson, though he took charge of it now that it
@@ -302,7 +302,7 @@ up the sudden, definite presentment of a fiend.
 "I thought it was madness," he said, as he replaced the obnoxious
 paper in the safe, "and now I begin to fear it is disgrace."
 
-With that he blew out his candle, put on a great-coat, and set
+With that he blew out his candle, put on a great coat, and set
 forth in the direction of Cavendish Square, that citadel of
 medicine, where his friend, the great Dr. Lanyon, had his house and
 received his crowding patients. "If any one knows, it will be
@@ -313,8 +313,8 @@ The solemn butler knew and welcomed him;
 13)
 
 he was subjected to no stage of delay, but ushered direct from the
-door to the dining-room where Dr. Lanyon sat alone over his wine.
-This was a hearty, healthy, dapper, red-faced gentleman, with a
+door to the dining room where Dr. Lanyon sat alone over his wine.
+This was a hearty, healthy, dapper, red faced gentleman, with a
 shock of hair prematurely white, and a boisterous and decided
 manner. At sight of Mr. Utterson, he sprang up from his chair and
 welcomed him with both hands. The geniality, as was the way of the
@@ -325,7 +325,7 @@ other, and, what does not always follow, men who thoroughly enjoyed
 each other's company.
 
 After a little rambling talk, the lawyer led up to the subject
-which so disagreeably pre-occupied his mind.
+which so disagreeably pre occupied his mind.
 
 "I suppose, Lanyon," said he "you and I must be the two oldest
 friends that Henry Jekyll has?"
@@ -354,7 +354,7 @@ thought; and being a man of no scientific passions (except in the
 matter of conveyancing), he even added: "It is nothing worse than
 that!" He gave his friend a few seconds to recover his composure,
 and then approached the question he had come to put. "Did you ever
-come across a protege of his--one Hyde?" he asked.
+come across a protege of his one Hyde?" he asked.
 
 "Hyde?" repeated Lanyon. "No. Never heard of him. Since my time."
 
@@ -387,7 +387,7 @@ in these two phases haunted the lawyer all night; and if at any time
 he dozed over, it was but to see it glide more stealthily through
 sleeping houses, or move the more swiftly and still the more
 swiftly, even to dizziness, through wider labyrinths of lamplighted
-city, and at every street-corner crush a child and leave her
+city, and at every street corner crush a child and leave her
 screaming. And still the figure had no face by which he might know
 it; even in his dreams, it had no face, or one that baffled him and
 melted before his eyes; and thus it was that there sprang up and
@@ -407,7 +407,7 @@ face which had but to show itself to raise up, in the mind of the
 unimpressionable Enfield, a spirit of enduring hatred.
 
 From that time forward, Mr. Utterson began to haunt the door in the
-by-street of shops. In the morning before office hours, at noon when
+by street of shops. In the morning before office hours, at noon when
 business was plenty, and time scarce, at night under the face of the
 fogged city moon, by all lights and at all hours of solitude or
 concourse, the lawyer was to be found on his chosen post.
@@ -418,7 +418,7 @@ And at last his patience was rewarded. It was a fine dry night;
 frost in the air; the streets as clean as a ballroom floor; the
 lamps, unshaken, by any wind, drawing a regular pattern of light
 and shadow. By ten o'clock, when the shops were closed, the
-by-street was very solitary and, in spite of the low growl of
+by street was very solitary and, in spite of the low growl of
 London from all round, very silent. Small sounds carried far;
 domestic sounds out of the houses were clearly audible on either
 side of the roadway; and the rumour of the approach of any
@@ -454,11 +454,11 @@ the face, he answered coolly enough: "That is my name. What do you
 want?"
 
 "I see you are going in," returned the lawyer. "I am an old friend
-of Dr. Jekyll's--Mr. Utter-
+of Dr. Jekyll's Mr. Utter 
 
 18)
 
-son of Gaunt Street--you must have heard my name; and meeting you
+son of Gaunt Street you must have heard my name; and meeting you
 so conveniently, I thought you might admit me."
 
 "You will not find Dr. Jekyll; he is from home," replied Mr. Hyde,
@@ -520,7 +520,7 @@ the lawyer with a sort of murderous mixture of timidity and
 boldness, and he spoke with a husky, whispering and somewhat broken
 voice; all these were points against him, but not all of these
 together could explain the hitherto unknown disgust, loathing, and
-fear with which Mr. Utterson regarded him. "There must be some-
+fear with which Mr. Utterson regarded him. "There must be some 
 
 20)
 
@@ -532,20 +532,20 @@ that thus transpires through, and transfigures, its clay continent?
 The last, I think; for, O my poor old Harry Jekyll, if ever I read
 Satan's signature upon a face, it is on that of your new friend."
 
-Round the corner from the by-street, there was a square of ancient,
+Round the corner from the by street, there was a square of ancient,
 handsome houses, now for the most part decayed from their high
 estate and let in flats and chambers to all sorts and conditions of
-men: map-engravers, architects, shady lawyers, and the agents of
+men: map engravers, architects, shady lawyers, and the agents of
 obscure enterprises. One house, however, second from the corner, was
 still occupied entire; and at the door of this, which wore a great
 air of wealth and comfort, though it was now plunged in darkness
-except for the fan-light, Mr. Utterson stopped and knocked. A
-well-dressed, elderly servant opened the door.
+except for the fan light, Mr. Utterson stopped and knocked. A
+well dressed, elderly servant opened the door.
 
 "Is Dr. Jekyll at home, Poole?" asked the lawyer.
 
 "I will see, Mr. Utterson," said Poole, admitting the visitor, as
-he spoke, into a large, low-roofed, comfortable hall, paved with
+he spoke, into a large, low roofed, comfortable hall, paved with
 flags, warmed (after the fashion of a country house) by a bright,
 open fire, and furnished with costly cabinets of oak. "Will you
 wait here by the
@@ -557,7 +557,7 @@ fire, sir? or shall I give you a light in the dining room?"
 "Here, thank you," said the lawyer, and he drew near and leaned on
 the tall fender. This hall, in which he was now left alone, was a
 pet fancy of his friend the doctor's; and Utterson himself was wont
-to speak of it as the pleasantest room in London. But to-night there
+to speak of it as the pleasantest room in London. But to night there
 was a shudder in his blood; the face of Hyde sat heavy on his
 memory; he felt (what was rare with him) a nausea and distaste of
 life; and in the gloom of his spirits, he seemed to read a menace in
@@ -566,7 +566,7 @@ uneasy starting of the shadow on the roof. He was ashamed of his
 relief, when Poole presently returned to announce that Dr. Jekyll
 was gone out.
 
-"I saw Mr. Hyde go in by the old dissecting-room door, Poole," he
+"I saw Mr. Hyde go in by the old dissecting room door, Poole," he
 said. "Is that right, when Dr. Jekyll is from home?"
 
 "Quite right, Mr. Utterson, sir," replied the servant. "Mr. Hyde
@@ -589,18 +589,18 @@ we see very little of
 him on this side of the house; he mostly comes and goes by the
 laboratory."
 
-"Well, good-night, Poole."
+"Well, good night, Poole."
 
-"Good-night, Mr. Utterson." And the lawyer set out homeward with a
+"Good night, Mr. Utterson." And the lawyer set out homeward with a
 very heavy heart. "Poor Harry Jekyll," he thought, "my mind
 misgives me he is in deep waters! He was wild when he was young; a
 long while ago to be sure; but in the law of God, there is no
 statute of limitations. Ay, it must be that; the ghost of some old
 sin, the cancer of some concealed disgrace: punishment coming, PEDE
-CLAUDO, years after memory has forgotten and self-love condoned the
+CLAUDO, years after memory has forgotten and self love condoned the
 fault." And the lawyer, scared by the thought, brooded a while on
 his own past, groping in all the corners of memory, lest by chance
-some Jack-in-the-Box of an old iniquity should leap to light there.
+some Jack in the Box of an old iniquity should leap to light there.
 His past was fairly blameless; few men could read the rolls of their
 life with less apprehension; yet he was humbled to the dust by the
 many ill things he had done, and raised up again into a sober and
@@ -634,14 +634,14 @@ Utterson so contrived that he remained behind after the others had
 departed. This was no new arrangement, but a thing that had
 befallen many scores of times. Where Utterson was liked, he was
 liked well. Hosts loved to detain the dry lawyer, when the
-light-hearted and the loose-tongued had already their foot on the
+light hearted and the loose tongued had already their foot on the
 threshold; they liked to sit a while in his unobtrusive company,
 practising for solitude, sobering their minds in the man's rich
 silence after the expense and strain of gaiety. To this rule, Dr.
 Jekyll was no exception; and as he now sat on the opposite side of
-the fire--a large, well-made, smooth-faced man of fifty, with
+the fire a large, well made, smooth faced man of fifty, with
 something of a slyish cast perhaps, but every mark of capacity and
-kindness--you could see by his looks that he cherished for Mr.
+kindness you could see by his looks that he cherished for Mr.
 Utterson a sincere and warm affection.
 
 25)
@@ -654,9 +654,9 @@ A close observer might have gathered that the topic was
 distasteful; but the doctor carried it off gaily. "My poor
 Utterson," said he, "you are unfortunate in such a client. I never
 saw a man so distressed as you were by my will; unless it were that
-hide-bound pedant, Lanyon, at what he called my scientific heresies.
-Oh, I know he's a good fellow--you needn't frown--an excellent
-fellow, and I always mean to see more of him; but a hide-bound
+hide bound pedant, Lanyon, at what he called my scientific heresies.
+Oh, I know he's a good fellow you needn't frown an excellent
+fellow, and I always mean to see more of him; but a hide bound
 pedant for all that; an ignorant, blatant pedant. I was never more
 disappointed in any man than Lanyon."
 
@@ -675,13 +675,13 @@ more," said he. "This is a matter I thought we had agreed to drop."
 
 "What I heard was abominable," said Utterson.
 
-"It can make no change. You do not under-
+"It can make no change. You do not under 
 
 26)
 
 stand my position," returned the doctor, with a certain incoherency
 of manner. "I am painfully situated, Utterson; my position is a very
-strange--a very strange one. It is one of those affairs that
+strange a very strange one. It is one of those affairs that
 cannot be mended by talking."
 
 "Jekyll," said Utterson, "you know me: I am a man to be trusted.
@@ -737,7 +737,7 @@ NEARLY a year later, in the month of October, 18---, London was
 startled by a crime of singular ferocity and rendered all the more
 notable by the high position of the victim. The details were few and
 startling. A maid servant living alone in a house not far from the
-river, had gone up-stairs to bed about eleven. Although a fog rolled
+river, had gone up stairs to bed about eleven. Although a fog rolled
 over the city in the small hours, the early part of the night was
 cloudless, and the lane, which the maid's window overlooked, was
 brilliantly lit by the full moon. It seems she was romantically
@@ -759,18 +759,18 @@ if the subject of his address were of great importance; indeed,
 from his pointing, it sometimes appeared as if he were only
 inquiring his way; but the moon shone on his face as he spoke, and
 the girl was pleased to watch it, it seemed to breathe such an
-innocent and old-world kindness of disposition, yet with something
-high too, as of a well-founded self-content. Presently her eye
+innocent and old world kindness of disposition, yet with something
+high too, as of a well founded self content. Presently her eye
 wandered to the other, and she was surprised to recognise in him a
 certain Mr. Hyde, who had once visited her master and for whom she
 had conceived a dislike. He had in his hand a heavy cane, with which
 he was trifling; but he answered never a word, and seemed to listen
-with an ill-contained impatience. And then all of a sudden he broke
+with an ill contained impatience. And then all of a sudden he broke
 out in a great flame of anger, stamping with his foot, brandishing
 the cane, and carrying on (as the maid described it) like a madman.
 The old gentleman took a step back, with the air of one very much
 surprised and a trifle hurt; and at that Mr. Hyde broke out of all
-bounds and clubbed him to the earth. And next moment, with ape-like
+bounds and clubbed him to the earth. And next moment, with ape like
 fury, he was trampling his victim under foot and hailing down a
 storm of blows, under which the bones were audibly shattered and the
 body jumped upon the roadway. At the horror of these sights and
@@ -784,7 +784,7 @@ the middle of the lane, incredibly mangled. The stick with which the
 deed had been done, although it was of some rare and very tough and
 heavy wood, had broken in the middle under the stress of this
 insensate cruelty; and one splintered half had rolled in the
-neighbouring gutter--the other, without doubt, had been carried
+neighbouring gutter the other, without doubt, had been carried
 away by the murderer. A purse and a gold watch were found upon the
 victim: but no cards or papers, except a sealed and stamped
 envelope, which he had been probably carrying to the post, and which
@@ -819,7 +819,7 @@ presented many years before to Henry Jekyll.
 
 "Is this Mr. Hyde a person of small stature?" he inquired.
 
-"Particularly small and particularly wicked-looking, is what the
+"Particularly small and particularly wicked looking, is what the
 maid calls him," said the officer.
 
 Mr. Utterson reflected; and then, raising his head, "If you will
@@ -827,11 +827,11 @@ come with me in my cab," he said, "I think I can take you to his
 house."
 
 It was by this time about nine in the morning, and the first fog of
-the season. A great chocolate-coloured pall lowered over heaven, but
+the season. A great chocolate coloured pall lowered over heaven, but
 the wind was continually charging and routing these embattled
 vapours; so that as the cab crawled from street to street, Mr.
 Utterson beheld a marvellous number of degrees and hues of twilight;
-for here it would be dark like the back-end of evening; and there
+for here it would be dark like the back end of evening; and there
 would be a glow of a rich, lurid brown, like the light of some
 strange conflagration; and here, for a moment, the fog would be
 quite broken up, and a haggard shaft
@@ -842,7 +842,7 @@ of daylight would glance in between the swirling wreaths. The
 dismal quarter of Soho seen under these changing glimpses, with its
 muddy ways, and slatternly passengers, and its lamps, which had
 never been extinguished or had been kindled afresh to combat this
-mournful re-invasion of darkness, seemed, in the lawyer's eyes, like
+mournful re invasion of darkness, seemed, in the lawyer's eyes, like
 a district of some city in a nightmare. The thoughts of his mind,
 besides, were of the gloomiest dye; and when he glanced at the
 companion of his drive, he was conscious of some touch of that
@@ -851,7 +851,7 @@ the most honest.
 
 As the cab drew up before the address indicated, the fog lifted a
 little and showed him a dingy street, a gin palace, a low French
-eating-house, a shop for the retail of penny numbers and twopenny
+eating house, a shop for the retail of penny numbers and twopenny
 salads, many ragged children huddled in the doorways, and many
 women of different nationalities passing out, key in hand, to have a
 morning glass; and the next moment the fog settled down again upon
@@ -859,7 +859,7 @@ that part, as brown as umber, and cut him off from his blackguardly
 surroundings. This was the home of Henry Jekyll's favourite; of a
 man who was heir to a quarter of a million sterling.
 
-An ivory-faced and silvery-haired old woman opened the door. She
+An ivory faced and silvery haired old woman opened the door. She
 had an evil face, smoothed by hypocrisy; but her manners were
 excellent. Yes, she said, this was Mr. Hyde's, but he was not at
 home; he had been in that night very late,
@@ -896,10 +896,10 @@ out;
 
 34)
 
-lock-fast drawers stood open; and on the hearth there lay a pile of
+lock fast drawers stood open; and on the hearth there lay a pile of
 grey ashes, as though many papers had been burned. From these
-embers the inspector disinterred the butt-end of a green
-cheque-book, which had resisted the action of the fire; the other
+embers the inspector disinterred the butt end of a green
+cheque book, which had resisted the action of the fire; the other
 half of the stick was found behind the door; and as this clinched
 his suspicions, the officer declared himself delighted. A visit to
 the bank, where several thousand pounds were found to be lying to
@@ -907,12 +907,12 @@ the murderer's credit, completed his gratification.
 
 "You may depend upon it, sir," he told Mr. Utterson: "I have him in
 my hand. He must have lost his head, or he never would have left the
-stick or, above all, burned the cheque-book. Why, money's life to
+stick or, above all, burned the cheque book. Why, money's life to
 the man. We have nothing to do but wait for him at the bank, and get
 out the handbills."
 
 This last, however, was not so easy of accomplishment; for Mr. Hyde
-had numbered few familiars--even the master of the servant-maid
+had numbered few familiars even the master of the servant maid
 had only seen him twice; his family could nowhere be traced; he had
 never been photographed; and the few who could describe him differed
 widely, as common observers will. Only on one point, were they
@@ -929,7 +929,7 @@ IT was late in the afternoon, when Mr. Utterson found his way to
 Dr. Jekyll's door, where he was at once admitted by Poole, and
 carried down by the kitchen offices and across a yard which had
 once been a garden, to the building which was indifferently known
-as the laboratory or the dissecting-rooms. The doctor had bought
+as the laboratory or the dissecting rooms. The doctor had bought
 the house from the heirs of a celebrated surgeon; and his own
 tastes being rather chemical than anatomical, had changed the
 destination of the block at the bottom of the garden. It was the
@@ -946,7 +946,7 @@ end, a flight of stairs mounted to a door covered with red baize;
 
 and through this, Mr. Utterson was at last received into the
 doctor's cabinet. It was a large room, fitted round with glass
-presses, furnished, among other things, with a cheval-glass and a
+presses, furnished, among other things, with a cheval glass and a
 business table, and looking out upon the court by three dusty
 windows barred with iron. A fire burned in the grate; a lamp was
 set lighted on the chimney shelf, for even in the houses the fog
@@ -958,7 +958,7 @@ but held out a cold hand and bade him welcome in a changed voice.
 have heard the news?"
 
 The doctor shuddered. "They were crying it in the square," he said.
-"I heard them in my dining-room."
+"I heard them in my dining room."
 
 "One word," said the lawyer. "Carew was my client, but so are you,
 and I want to know what I am doing. You have not been mad enough to
@@ -981,7 +981,7 @@ If it came to a trial, your name might appear."
 
 "I am quite sure of him," replied Jekyll; "I have grounds for
 certainty that I cannot share with any one. But there is one thing
-on which you may advise me. I have--I have received a letter; and
+on which you may advise me. I have I have received a letter; and
 I am at a loss whether I should show it to the police. I should like
 to leave it in your hands, Utterson; you would judge wisely, I am
 sure; I have so great a trust in you."
@@ -1030,11 +1030,11 @@ mouth tight and nodded.
 fine escape."
 
 "I have had what is far more to the purpose," returned the doctor
-solemnly: "I have had a lesson--O God, Utterson, what a lesson I
+solemnly: "I have had a lesson O God, Utterson, what a lesson I
 have had!" And he covered his face for a moment with his hands.
 
 On his way out, the lawyer stopped and had a word or two with
-Poole. "By the by," said he, "there was a letter handed in to-day:
+Poole. "By the by," said he, "there was a letter handed in to day:
 what was the messenger like?" But Poole was positive nothing had
 come except by post; "and only circulars by that," he added.
 
@@ -1051,7 +1051,7 @@ Shocking murder of an M. P." That was the funeral oration of one
 friend and client; and he could not help a certain apprehension lest
 the good name of another should be sucked down in the eddy of the
 scandal. It was, at least, a ticklish decision that he had to make;
-and self-reliant as he was by habit, he began to cherish a longing
+and self reliant as he was by habit, he began to cherish a longing
 for advice. It was not to be had directly; but perhaps, he thought,
 it might be fished for.
 
@@ -1179,7 +1179,7 @@ to dine with him; and the sixth he betook himself to Dr. Lanyon's.
 
 There at least he was not denied admittance; but when he came in,
 he was shocked at the change which had taken place in the doctor's
-appearance. He had his death-warrant written legibly upon his face.
+appearance. He had his death warrant written legibly upon his face.
 The rosy man had grown pale; his flesh had fallen away; he was
 visibly balder and older; and yet it was not so much, these tokens
 of a swift physical decay that arrested the lawyer's notice, as a
@@ -1187,12 +1187,12 @@ look in the eye and quality of manner that seemed to testify to
 
 44)
 
-some deep-seated terror of the mind. It was unlikely that the
+some deep seated terror of the mind. It was unlikely that the
 doctor should fear death; and yet that was what Utterson was
 tempted to suspect. "Yes," he thought; "he is a doctor, he must
 know his own state and that his days are counted; and the knowledge
 is more than he can bear." And yet when Utterson remarked on his
-ill-looks, it was with an air of greatness that Lanyon declared
+ill looks, it was with an air of greatness that Lanyon declared
 himself a doomed man.
 
 "I have had a shock," he said, "and I shall never recover. It is a
@@ -1207,7 +1207,7 @@ to see or hear no more of Dr. Jekyll," he said in a loud, unsteady
 voice. "I am quite done with that person; and I beg that you will
 spare me any allusion to one whom I regard as dead."
 
-"Tut-tut," said Mr. Utterson; and then after a considerable pause,
+"Tut tut," said Mr. Utterson; and then after a considerable pause,
 "Can't I do anything?" he inquired. "We are three very old friends,
 Lanyon; we shall not live to make others."
 
@@ -1262,7 +1262,7 @@ hand and sealed with the seal of his dead friend. "PRIVATE: for
 the hands of G. J. Utterson ALONE and in case of his predecease
 to be destroyed unread," so it was emphatically superscribed; and
 the lawyer dreaded to behold the contents. "I have buried one
-friend to-day," he thought: "what if this should cost me
+friend to day," he thought: "what if this should cost me
 another?" And then he condemned the fear as a disloyalty, and
 broke the seal. Within there was another enclosure, likewise
 sealed, and marked upon the cover as "not to be opened till the
@@ -1309,7 +1309,7 @@ his visits.
 
 IT chanced on Sunday, when Mr. Utterson was on his usual walk
 with Mr. Enfield, that their way lay once again through the
-by-street; and that when they came in front of the door, both
+by street; and that when they came in front of the door, both
 stopped to gaze on it.
 
 "Well," said Enfield, "that story's at an end at least. We shall
@@ -1333,7 +1333,7 @@ good."
 
 The court was very cool and a little damp, and full of premature
 twilight, although the sky, high up overhead, was still bright
-with sunset. The middle one of the three windows was half-way
+with sunset. The middle one of the three windows was half way
 open; and sitting close beside it, taking the air with an
 infinite sadness of mien, like some disconsolate prisoner,
 Utterson saw Dr. Jekyll.
@@ -1345,7 +1345,7 @@ low. It will not last long, thank God."
 
 "You stay too much indoors," said the lawyer. "You should be out,
 whipping up the circulation like Mr. Enfield and me. (This is my
-cousin--Mr. Enfield--Dr. Jekyll.) Come, now; get your hat and
+cousin Mr. Enfield Dr. Jekyll.) Come, now; get your hat and
 take a quick turn with us."
 
 "You are very good," sighed the other. "I should like to very
@@ -1354,7 +1354,7 @@ indeed, Utterson, I am very glad to see you; this is really a
 great pleasure; I would ask you and Mr. Enfield up, but the place
 is really not fit."
 
-"Why then," said the lawyer, good-naturedly, "the best thing we
+"Why then," said the lawyer, good naturedly, "the best thing we
 can do is to stay down here and speak with you from where we
 are."
 
@@ -1368,7 +1368,7 @@ by an expression of such abject terror and despair, as froze the
 very blood of the two gentlemen below. They saw it but for a
 glimpse, for the window was instantly thrust down; but that
 glimpse had been sufficient, and they turned and left the court
-without a word. In silence, too, they traversed the by-street;
+without a word. In silence, too, they traversed the by street;
 and it was not until they had come into a neighbouring
 thoroughfare, where even upon a Sunday there were still some
 stirrings of life, that Mr. Utterson at last turned and looked at
@@ -1401,7 +1401,7 @@ lawyer. "Now, take your time, and tell me plainly what you want."
 
 "You know the doctor's ways, sir," replied Poole, "and how he
 shuts himself up. Well, he's shut up again in the cabinet; and I
-don't like it, sir--I wish I may die if I like it. Mr. Utterson,
+don't like it, sir I wish I may die if I like it. Mr. Utterson,
 sir, I'm afraid."
 
 "Now, my good man," said the lawyer, "be explicit. What are you
@@ -1435,7 +1435,7 @@ does the man mean?"
 with me and see for yourself?"
 
 Mr. Utterson's only answer was to rise and get his hat and
-great-coat; but he observed with wonder the greatness of the
+great coat; but he observed with wonder the greatness of the
 relief that appeared upon the butler's face, and perhaps with no
 less, that the wine was still untasted when he set it down to
 follow.
@@ -1452,14 +1452,14 @@ streets unusually bare of passengers, besides; for Mr. Utterson
 thought he had never seen that part of London so deserted. He
 could have wished it otherwise; never in his life had he been
 conscious of so sharp a wish to see and touch his
-fellow-creatures; for struggle as he might, there was borne in
+fellow creatures; for struggle as he might, there was borne in
 upon his mind a crushing anticipation of calamity. The square,
 when they got there, was all full of wind and dust, and the thin
 trees in the garden were lashing themselves along the railing.
 Poole, who had kept all the way a pace or two ahead, now pulled
 up in the middle of the pavement, and in spite of the biting
 weather, took off his hat and mopped his brow with a red
-pocket-handkerchief. But for all the hurry of his coming, these
+pocket handkerchief. But for all the hurry of his coming, these
 were not the dews of exertion that he wiped away, but the
 moisture of some strangling anguish; for his face was white and
 his voice, when he spoke, harsh and broken.
@@ -1497,16 +1497,16 @@ that testified to his own jangled nerves; and indeed, when the
 girl had so suddenly raised the note of her lamentation, they had
 all started and turned toward the inner door with faces of
 dreadful expectation. "And now," continued the butler, addressing
-the knife-boy, "reach me a candle, and we'll get this through
+the knife boy, "reach me a candle, and we'll get this through
 hands at once." And then he begged Mr. Utterson to follow him,
-and led the way to the back-garden.
+and led the way to the back garden.
 
 "Now, sir," said he, "you come as gently as you can. I want you
 to hear, and I don't want you to be heard. And see here, sir, if
 by any chance he was to ask you in, don't go."
 
-Mr. Utterson's nerves, at this unlooked-for termination, gave a
-jerk that nearly threw him from his balance; but he re-collected
+Mr. Utterson's nerves, at this unlooked for termination, gave a
+jerk that nearly threw him from his balance; but he re collected
 his courage
 
 55)
@@ -1547,7 +1547,7 @@ that cries to Heaven, Mr. Utterson!"
 
 "This is a very strange tale, Poole; this is rather a wild tale,
 my man," said Mr. Utterson, biting his finger. "Suppose it were
-as you suppose, supposing Dr. Jekyll to have been--well,
+as you suppose, supposing Dr. Jekyll to have been well,
 murdered, what could induce the murderer to stay? That won't hold
 water; it doesn't commend itself to reason."
 
@@ -1555,7 +1555,7 @@ water; it doesn't commend itself to reason."
 it yet," said Poole. "All this last week (you must know) him, or
 it, or whatever it is that lives in that cabinet, has been crying
 night and day for some sort of medicine and cannot get it to his
-mind. It was sometimes his way--the master's, that is--to
+mind. It was sometimes his way the master's, that is to
 write his orders on a sheet of paper and throw it on the stair.
 We've had nothing else this week back; nothing but papers, and a
 closed door, and the very meals left there to be smuggled in when
@@ -1596,7 +1596,7 @@ like so much dirt," returned Poole.
 the lawyer.
 
 "I thought it looked like it," said the servant rather sulkily;
-and then, with another voice, "But what matters hand-of-write?"
+and then, with another voice, "But what matters hand of write?"
 he said. "I've seen him!"
 
 "Seen him?" repeated Mr. Utterson. "Well?"
@@ -1609,7 +1609,7 @@ the theatre from the
 garden. It seems he had slipped out to look for this drug or
 whatever it is; for the cabinet door was open, and there he was
 at the far end of the room digging among the crates. He looked up
-when I came in, gave a kind of cry, and whipped up-stairs into
+when I came in, gave a kind of cry, and whipped up stairs into
 the cabinet. It was but for one minute that I saw him, but the
 hair stood upon my head like quills. Sir, if that was my master,
 why had he a mask upon his face? If it was my master, why did he
@@ -1623,14 +1623,14 @@ plainly seized with one of those maladies that both torture and
 deform the sufferer; hence, for aught I know, the alteration of
 his voice; hence the mask and the avoidance of his friends; hence
 his eagerness to find this drug, by means of which the poor soul
-retains some hope of ultimate recovery--God grant that he be
+retains some hope of ultimate recovery God grant that he be
 not deceived! There is my explanation; it is sad enough, Poole,
 ay, and appalling to consider; but it is plain and natural, hangs
 well together, and delivers us from all exorbitant alarms."
 
 "Sir," said the butler, turning to a sort of mottled pallor,
 "that thing was not my master, and there's the truth. My master"
-here he looked round him and began to whisper--"is
+here he looked round him and began to whisper "is
 
 59)
 
@@ -1639,7 +1639,7 @@ Utterson attempted to protest. "O, sir," cried Poole, "do you
 think I do not know my master after twenty years? Do you think I
 do not know where his head comes to in the cabinet door, where I
 saw him every morning of my life? No, Sir, that thing in the mask
-was never Dr. Jekyll--God knows what it was, but it was never
+was never Dr. Jekyll God knows what it was, but it was never
 Dr. Jekyll; and it is the belief of my heart that there was
 murder done."
 
@@ -1678,7 +1678,7 @@ This masked figure that you saw, did you recognise it?"
 
 "Well, sir, it went so quick, and the creature was so doubled up,
 that I could hardly swear to that," was the answer. "But if you
-mean, was it Mr. Hyde?--why, yes, I think it was! You see, it
+mean, was it Mr. Hyde? why, yes, I think it was! You see, it
 was much of the same bigness; and it had the same quick, light
 way with it; and then who else could have got in by the
 laboratory door? You have not forgot, sir that at the time of the
@@ -1688,8 +1688,8 @@ know, Mr. Utterson, if ever you met this Mr. Hyde?"
 "Yes," said the lawyer, "I once spoke with him."
 
 "Then you must know as well as the rest of us that there was
-something queer about that gentleman--something that gave a man
-a turn--I don't know rightly how to say it, sir, beyond this:
+something queer about that gentleman something that gave a man
+a turn I don't know rightly how to say it, sir, beyond this:
 that you felt it in your marrow kind of cold and thin."
 
 "I own I felt something of what you describe," said Mr. Utterson.
@@ -1700,12 +1700,12 @@ that you felt it in your marrow kind of cold and thin."
 
 that masked thing like a monkey jumped from among the chemicals
 and whipped into the cabinet, it went down my spine like ice. Oh,
-I know it's not evidence, Mr. Utterson. I'm book-learned enough
+I know it's not evidence, Mr. Utterson. I'm book learned enough
 for that; but a man has his feelings, and I give you my
-Bible-word it was Mr. Hyde!"
+Bible word it was Mr. Hyde!"
 
 "Ay, ay," said the lawyer. "My fears incline to the same point.
-Evil, I fear, founded--evil was sure to come--of that
+Evil, I fear, founded evil was sure to come of that
 connection. Ay, truly, I believe you; I believe poor Harry is
 killed; and I believe his murderer (for what purpose, God alone
 can tell) is still lurking in his victim's room. Well, let our
@@ -1743,7 +1743,7 @@ cabinet floor.
 better part of the night. Only when a new sample comes from the
 chemist, there's a bit of a break. Ah, it's an ill conscience
 that's such an enemy to rest! Ah, sir, there's blood foully shed
-in every step of it! But hark again, a little closer--put your
+in every step of it! But hark again, a little closer put your
 heart in your ears, Mr. Utterson, and tell me, is that the
 doctor's foot?"
 
@@ -1779,7 +1779,7 @@ of your consent, then by brute force!"
 "Utterson," said the voice, "for God's sake, have mercy!"
 
 
-"Ah, that's not Jekyll's voice--it's Hyde's!" cried Utterson.
+"Ah, that's not Jekyll's voice it's Hyde's!" cried Utterson.
 "Down with the door, Poole!"
 
 Poole swung the axe over his shoulder; the blow shook the
@@ -1799,7 +1799,7 @@ had succeeded, stood back a little and peered in. There lay the
 cabinet before their eyes in the quiet lamplight, a good fire
 glowing and chattering on the hearth, the kettle singing its thin
 strain, a drawer or two open, papers neatly set forth on the
-business-table, and nearer the fire, the things laid out for tea:
+business table, and nearer the fire, the things laid out for tea:
 the quietest room, you would have said, and, but for the glazed
 presses full of chemicals, the most commonplace that night in
 London.
@@ -1811,7 +1811,7 @@ clothes far too large for him, clothes of the doctor's bigness;
 the cords of his face still moved with a semblance of life, but
 life was quite gone; and by the crushed phial in the hand and the
 strong smell of kernels that hung upon the air, Utterson knew
-that he was looking on the body of a self-destroyer.
+that he was looking on the body of a self destroyer.
 
 "We have come too late," he said sternly, "whether to save or
 punish. Hyde is gone to his account; and it only remains for us
@@ -1825,7 +1825,7 @@ story at one end and looked upon the
 65)
 
 court. A corridor joined the theatre to the door on the
-by-street; and with this the cabinet communicated separately by a
+by street; and with this the cabinet communicated separately by a
 second flight of stairs. There were besides a few dark closets
 and a spacious cellar. All these they now thoroughly examined.
 Each closet needed but a glance, for all were empty, and all, by
@@ -1841,7 +1841,7 @@ Poole stamped on the flags of the corridor. "He must be buried
 here," he said, hearkening to the sound.
 
 "Or he may have fled," said Utterson, and he turned to examine
-the door in the by-street. It was locked; and lying near by on
+the door in the by street. It was locked; and lying near by on
 the flags, they found the key, already stained with rust.
 
 "This does not look like use," observed the lawyer.
@@ -1858,7 +1858,7 @@ me,
 Poole," said the lawyer. "Let us go back to the cabinet."
 
 They mounted the stair in silence, and still with an occasional
-awe-struck glance at the dead body, proceeded more thoroughly to
+awe struck glance at the dead body, proceeded more thoroughly to
 examine the contents of the cabinet. At one table, there were
 traces of chemical work, various measured heaps of some white
 salt being laid on glass saucers, as though for an experiment in
@@ -1868,10 +1868,10 @@ which the unhappy man had been prevented.
 Poole; and even as he spoke, the kettle with a startling noise
 boiled over.
 
-This brought them to the fireside, where the easy-chair was drawn
-cosily up, and the tea-things stood ready to the sitter's elbow,
+This brought them to the fireside, where the easy chair was drawn
+cosily up, and the tea things stood ready to the sitter's elbow,
 the very sugar in the cup. There were several books on a shelf;
-one lay beside the tea-things open, and Utterson was amazed to
+one lay beside the tea things open, and Utterson was amazed to
 find it a copy of a pious work, for which Jekyll had several
 times expressed a great esteem, annotated, in his own hand, with
 startling blasphemies.
@@ -1888,12 +1888,12 @@ their own pale and fearful countenances stooping to look in.
 "This glass have seen some strange things, sir," whispered Poole.
 
 "And surely none stranger than itself," echoed the lawyer in the
-same tones. "For what did Jekyll"--he caught himself up at the
-word with a start, and then conquering the weakness--"what
+same tones. "For what did Jekyll" he caught himself up at the
+word with a start, and then conquering the weakness "what
 could Jekyll want with it?" he said.
 
 "You may say that!" said Poole. Next they turned to the
-business-table. On the desk among the neat array of papers, a
+business table. On the desk among the neat array of papers, a
 large envelope was uppermost, and bore, in the doctor's hand, the
 name of Mr. Utterson. The lawyer unsealed it, and several
 enclosures fell to the floor. The first was a will, drawn in the
@@ -1928,7 +1928,7 @@ no cause for it!" And with that he brought the paper to his eyes
 and read as follows:
 
 
-"MY DEAR UTTERSON,--When this shall fall into your hands, I
+"MY DEAR UTTERSON, When this shall fall into your hands, I
 shall have disappeared, under what circumstances I have not the
 penetration to foresee, but my instinct and all the circumstances
 of my nameless situation tell me that the end is sure and must be
@@ -1966,7 +1966,7 @@ narratives in which this mystery was now to be explained.
 
 ON the ninth of January, now four days ago, I received by the
 evening delivery a registered envelope, addressed in the hand of
-my colleague and old school-companion, Henry Jekyll. I was a good
+my colleague and old school companion, Henry Jekyll. I was a good
 deal surprised by this; for we were by no means in the habit of
 correspondence; I had seen the man, dined with him, indeed, the
 night before; and I could imagine nothing in our intercourse that
@@ -1985,11 +1985,11 @@ are all at your mercy;
 
 71)
 
-if you fail me to-night I am lost. You might suppose, after this
+if you fail me to night I am lost. You might suppose, after this
 preface, that I am going to ask you for something dishonourable
 to grant. Judge for yourself.
 
-"I want you to postpone all other engagements for to-night--ay,
+"I want you to postpone all other engagements for to night ay,
 even if you were summoned to the bedside of an emperor; to take a
 cab, unless your carriage should be actually at the door; and
 with this letter in your hand for consultation, to drive straight
@@ -2009,13 +2009,13 @@ Cavendish Square exactly as it stands.
 should be back, if you set out at once on the receipt of this,
 long before midnight; but I will leave you that amount of margin,
 not only in the fear of one of those obstacles that can neither
-be prevented nor fore-
+be prevented nor fore 
 
 72)
 
 seen, but because an hour when your servants are in bed is to be
 preferred for what will then remain to do. At midnight, then, I
-have to ask you to be alone in your consulting-room, to admit
+have to ask you to be alone in your consulting room, to admit
 with your own hand into the house a man who will present himself
 in my name, and to place in his hands the drawer that you will
 have brought with you from my cabinet. Then you will have played
@@ -2043,7 +2043,7 @@ this letter
 
 73)
 
-not come into your hands until to-morrow morning. In that case,
+not come into your hands until to morrow morning. In that case,
 dear Lanyon, do my errand when it shall be most convenient for
 you in the course of the day; and once more expect my messenger
 at midnight. It may then already be too late; and if that night
@@ -2081,10 +2081,10 @@ chemist; so that it was plain they were of Jekyll's private
 manufacture; and when I opened one of the wrappers I found what
 seemed to me a simple crystalline salt of a white colour. The
 phial, to which I next turned my attention, might have been about
-half-full of a blood-red liquor, which was highly pungent to the
+half full of a blood red liquor, which was highly pungent to the
 sense of smell and seemed to me to contain phosphorus and some
 volatile ether. At the other ingredients I could make no guess.
-The book was an ordinary version-book and contained little but a
+The book was an ordinary version book and contained little but a
 series of dates. These covered a period of many years, but I
 observed that the entries ceased nearly a year ago and quite
 abruptly. Here and there a brief remark was appended to a date,
@@ -2093,7 +2093,7 @@ six times in a total of several hundred entries; and once very
 early in the list and followed by several marks of exclamation,
 "total failure!!!" All this, though it whetted my curiosity, told
 me little that was definite. Here were a phial of some tincture,
-a paper of some salt, and the record of a series of experi-
+a paper of some salt, and the record of a series of experi 
 
 75)
 
@@ -2106,7 +2106,7 @@ impediment, why was this gentleman to be received by me in
 secret? The more I reflected the more convinced I grew that I was
 dealing with a case of cerebral disease: and though I dismissed
 my servants to bed, I loaded an old revolver, that I might be
-found in some posture of self-defence.
+found in some posture of self defence.
 
 Twelve o'clock had scarce rung out over London, ere the knocker
 sounded very gently on the door. I went myself at the summons,
@@ -2122,7 +2122,7 @@ off, advancing with his bull's eye open; and at the sight, I
 thought my visitor started and made greater haste.
 
 These particulars struck me, I confess, disagreeably; and as I
-followed him into the bright light of the consulting-room, I kept
+followed him into the bright light of the consulting room, I kept
 my hand ready on my weapon. Here, at last, I had a
 
 76)
@@ -2131,7 +2131,7 @@ chance of clearly seeing him. I had never set eyes on him before,
 so much was certain. He was small, as I have said; I was struck
 besides with the shocking expression of his face, with his
 remarkable combination of great muscular activity and great
-apparent debility of constitution, and--last but not least--
+apparent debility of constitution, and last but not least -
 with the odd, subjective disturbance caused by his neighbourhood.
 This bore some resemblance to incipient rigour, and was
 accompanied by a marked sinking of the pulse. At the time, I set
@@ -2146,17 +2146,17 @@ struck in me what I can only describe as a disgustful curiosity)
 was dressed in a fashion that would have made an ordinary person
 laughable; his clothes, that is to say, although they were of
 rich and sober fabric, were enormously too large for him in every
-measurement--the trousers hanging on his legs and rolled up to
+measurement the trousers hanging on his legs and rolled up to
 keep them from the ground, the waist of the coat below his
 haunches, and the collar sprawling wide upon his shoulders.
 Strange to relate, this ludicrous accoutrement was far from
 moving me to laughter. Rather, as there was something abnormal
-and misbe-
+and misbe 
 
 77)
 
-gotten in the very essence of the creature that now faced me--
-something seizing, surprising, and revolting--this fresh
+gotten in the very essence of the creature that now faced me -
+something seizing, surprising, and revolting this fresh
 disparity seemed but to fit in with and to reinforce it; so that
 to my interest in the man's nature and character, there was added
 a curiosity as to his origin, his life, his fortune and status in
@@ -2176,20 +2176,20 @@ yet the pleasure of your acquaintance. Be seated, if you please."
 And I showed him an example, and sat down myself in my customary
 seat and with as fair an imitation of my ordinary manner to a
 patient, as the lateness of the hour, the nature of my
-pre-occupations, and the horror I had of my visitor, would suffer
+pre occupations, and the horror I had of my visitor, would suffer
 me to muster.
 
 "I beg your pardon, Dr. Lanyon," he replied civilly enough. "What
 you say is very well founded; and my impatience has shown its
 heels to my politeness. I come here at the instance of your
 colleague, Dr. Henry Jekyll, on a piece of business of some
-moment; and I under-
+moment; and I under 
 
 78)
 
 stood..." He paused and put his hand to his throat, and I could
 see, in spite of his collected manner, that he was wrestling
-against the approaches of the hysteria--"I understood, a
+against the approaches of the hysteria "I understood, a
 drawer..."
 
 But here I took pity on my visitor's suspense, and some perhaps
@@ -2255,21 +2255,21 @@ before I see the end."
 you remember your vows: what follows is under the seal of our
 profession. And now, you who have so long been bound to the most
 narrow and material views, you who have denied the virtue of
-transcendental medicine, you who have derided your superiors--
+transcendental medicine, you who have derided your superiors -
 behold!"
 
 He put the glass to his lips and drank at one gulp. A cry
 followed; he reeled, staggered, clutched at the table and held
 on, staring with injected eyes, gasping with open mouth; and as I
-looked there came, I thought, a change--he seemed to swell--
+looked there came, I thought, a change he seemed to swell -
 his face became suddenly black and the features seemed to melt
-and alter--and the next moment, I had sprung to my feet and
+and alter and the next moment, I had sprung to my feet and
 leaped back against the wall, my arm raised to shield me from
 that prodigy, my mind submerged in terror.
 
 "O God!" I screamed, and "O God!" again and again; for there
-before my eyes--pale and shaken, and half-fainting, and groping
-before him with his hands, like a man restored from death--
+before my eyes pale and shaken, and half fainting, and groping
+before him with his hands, like a man restored from death -
 there stood Henry Jekyll!
 
 What he told me in the next hour, I cannot bring my mind to set
@@ -2300,7 +2300,7 @@ corner of the land as the murderer of Carew.
 
 I WAS born in the year 18--- to a large fortune, endowed besides
 with excellent parts, inclined by nature to industry, fond of the
-respect of the wise and good among my fellow-men, and thus, as
+respect of the wise and good among my fellow men, and thus, as
 might have been supposed, with every guarantee of an honourable
 and distinguished future. And indeed the worst of my faults was a
 certain impatient gaiety of disposition, such as has made the
@@ -2324,13 +2324,13 @@ good and ill which divide and compound man's dual nature. In this
 case, I was driven to reflect deeply and inveterately on that
 hard law of life, which lies at the root of religion and is one
 of the most plentiful springs of distress. Though so profound a
-double-dealer, I was in no sense a hypocrite; both sides of me
+double dealer, I was in no sense a hypocrite; both sides of me
 were in dead earnest; I was no more myself when I laid aside
 restraint and plunged in shame, than when I laboured, in the eye
 of day, at the furtherance of knowledge or the relief of sorrow
 and suffering. And it chanced that the direction of my scientific
 studies, which led wholly toward the mystic and the
-transcendental, re-acted and shed a strong light on this
+transcendental, re acted and shed a strong light on this
 consciousness of the perennial war among my members. With every
 day, and from both sides of my intelligence, the moral and the
 intellectual, I thus drew steadily nearer to that truth, by whose
@@ -2353,7 +2353,7 @@ rightly be said to be either, it was only because I was radically
 both; and from an early date, even before the course of my
 scientific discoveries had begun to suggest the most naked
 possibility of such a miracle, I had learned to dwell with
-pleasure, as a beloved day-dream, on the thought of the
+pleasure, as a beloved day dream, on the thought of the
 separation of these elements. If each, I told myself, could but
 be housed in separate identities, life would be relieved of all
 that was unbearable; the unjust delivered from the aspirations
@@ -2366,14 +2366,14 @@ incongruous fagots were thus bound together that in the agonised
 womb of consciousness, these polar twins should be continuously
 struggling. How, then, were they dissociated?
 
-I was so far in my reflections when, as I have said, a side-light
+I was so far in my reflections when, as I have said, a side light
 began to shine upon the subject from the laboratory table. I
 began to perceive
 
 85)
 
 more deeply than it has ever yet been stated, the trembling
-immateriality, the mist-like transience of this seemingly so
+immateriality, the mist like transience of this seemingly so
 solid body in which we walk attired. Certain agents I found to
 have the power to shake and to pluck back that fleshly vestment,
 even as a wind might toss the curtains of a pavilion. For two
@@ -2418,7 +2418,7 @@ There was something strange in my sensations, something
 indescribably new and, from its very novelty, incredibly sweet. I
 felt younger, lighter, happier in body; within I was conscious of
 a heady recklessness, a current of disordered sensual images
-running like a mill-race in my fancy, a solution of the bonds of
+running like a mill race in my fancy, a solution of the bonds of
 obligation, an unknown but not an innocent freedom of the soul. I
 knew myself, at the first breath of this new life, to be more
 wicked, tenfold more wicked, sold a slave to my original evil;
@@ -2434,8 +2434,8 @@ in stature.
 There was no mirror, at that date, in my room; that which stands
 beside me as I write, was brought there later on and for the very
 purpose of these transformations. The night, however, was far
-gone into the morning--the morning, black as it was, was nearly
-ripe for the conception of the day--the inmates of my house
+gone into the morning the morning, black as it was, was nearly
+ripe for the conception of the day the inmates of my house
 were locked in the most rigorous hours of slumber; and I
 determined, flushed as I was with hope and triumph, to venture in
 my new shape as far as to my bedroom. I crossed the yard, wherein
@@ -2450,7 +2450,7 @@ but that which I suppose to be most probable. The evil side of my
 nature, to which I had now transferred the stamping efficacy, was
 less robust and less developed than the good which I had just
 deposed. Again, in the course of my life, which had been, after
-all, nine-tenths a life of effort, virtue, and control, it had
+all, nine tenths a life of effort, virtue, and control, it had
 been much less exercised and much less exhausted. And hence, as I
 think, it came about that Edward Hyde was so much smaller,
 
@@ -2483,13 +2483,13 @@ with the character, the stature, and the face of Henry Jekyll.
 
 89)
 
-That night I had come to the fatal cross-roads. Had I approached
+That night I had come to the fatal cross roads. Had I approached
 my discovery in a more noble spirit, had I risked the experiment
 while under the empire of generous or pious aspirations, all must
 have been otherwise, and from these agonies of death and birth, I
 had come forth an angel instead of a fiend. The drug had no
 discriminating action; it was neither diabolical nor divine; it
-but shook the doors of the prison-house of my disposition; and
+but shook the doors of the prison house of my disposition; and
 like the captives of Philippi, that which stood within ran forth.
 At that time my virtue slumbered; my evil, kept awake by
 ambition, was alert and swift to seize the occasion; and the
@@ -2534,7 +2534,7 @@ could thus plod in the public eye with a load of genial
 respectability, and in a moment, like a schoolboy, strip off
 these lendings and spring headlong into the sea of liberty. But
 for me, in my impenetrable mantle, the safety was complete. Think
-of it--I did not even exist! Let me but escape into my
+of it I did not even exist! Let me but escape into my
 laboratory door, give me but a second or
 
 91)
@@ -2572,7 +2572,7 @@ have no design of entering; I mean but to point out the warnings
 and the successive steps with which my chastisement approached. I
 met with one accident which, as it brought on no consequence, I
 shall no more than mention. An act of cruelty to a child aroused
-against me the anger of a passer-by, whom I recognised the other
+against me the anger of a passer by, whom I recognised the other
 day in the person of your kinsman; the doctor and the child's
 family joined him; there were moments when I feared for my life;
 and at last, in order to pacify their too just resentment, Edward
@@ -2588,7 +2588,7 @@ for one of my adventures, had returned at a late hour, and woke
 the next day in bed with somewhat odd sensations. It was in vain
 I looked about me; in vain I saw the decent furniture and tall
 proportions of my room in the square; in vain that I recognised
-the pattern of the bed-curtains and the design of the mahogany
+the pattern of the bed curtains and the design of the mahogany
 frame; something still kept insisting that I was not where I was,
 
 93)
@@ -2602,8 +2602,8 @@ morning doze. I was still so engaged when, in one of my more
 wakeful moments, my eyes fell upon my hand. Now the hand of Henry
 Jekyll (as you have often remarked) was professional in shape and
 size: it was large, firm, white, and comely. But the hand which I
-now saw, clearly enough, in the yellow light of a mid-London
-morning, lying half shut on the bed-clothes, was lean, corded,
+now saw, clearly enough, in the yellow light of a mid London
+morning, lying half shut on the bed clothes, was lean, corded,
 knuckly, of a dusky pallor and thickly shaded with a swart growth
 of hair. It was the hand of Edward Hyde.
 
@@ -2614,15 +2614,15 @@ bounding from my bed, I rushed to the mirror. At the sight that
 met my eyes, my blood was changed into something exquisitely thin
 and icy. Yes, I had gone to bed Henry Jekyll, I had awakened
 Edward Hyde. How was this to be explained? I asked myself, and
-then, with another bound of terror--how was it to be remedied?
+then, with another bound of terror how was it to be remedied?
 It was well on in the morning; the servants were up; all my drugs
 were in the
 
 94)
 
-cabinet--a long journey down two pairs of stairs, through the
+cabinet a long journey down two pairs of stairs, through the
 back passage, across the open court and through the anatomical
-theatre, from where I was then standing horror-struck. It might
+theatre, from where I was then standing horror struck. It might
 indeed be possible to cover my face; but of what use was that,
 when I was unable to conceal the alteration in my stature? And
 then with an overpowering sweetness of relief, it came back upon
@@ -2744,20 +2744,20 @@ evil gratified and stimulated, my love of life screwed to the
 topmost peg. I ran to the house in Soho, and (to make assurance
 doubly sure) destroyed my papers; thence I set out through the
 lamplit streets, in the same divided ecstasy of mind, gloating on
-my crime, light-headedly devising others in the future, and yet
+my crime, light headedly devising others in the future, and yet
 still hastening and still hearkening in my wake for the steps of
 the avenger. Hyde had a song upon his lips as he compounded the
 draught, and as he drank it, pledged the dead man. The pangs of
 transformation had not done tearing him, before Henry Jekyll,
 with streaming tears of gratitude and remorse, had fallen upon
 his knees and lifted his clasped hands to God. The veil of
-self-indulgence was rent from head to foot, I saw my life as a
+self indulgence was rent from head to foot, I saw my life as a
 whole: I followed it up from the days of childhood, when I had
 walked
 
 99)
 
-with my father's hand, and through the self-denying toils of my
+with my father's hand, and through the self denying toils of my
 professional life, to arrive again and again, with the same sense
 of unreality, at the damned horrors of the evening. I could have
 screamed aloud; I sought with tears and prayers to smother down
@@ -2817,7 +2817,7 @@ subsequent penitence, but not yet moved to begin. After all, I
 reflected, I was like my neighbours; and then I smiled, comparing
 myself with other men, comparing my active goodwill with the lazy
 cruelty of their neglect. And at the very moment of that
-vain-glorious thought, a qualm came over me, a horrid nausea and
+vain glorious thought, a qualm came over me, a horrid nausea and
 the most deadly shuddering. These passed away, and left me faint;
 and then as in its turn the faintness subsided, I began to be
 aware of a change in the temper of my thoughts, a greater
@@ -2825,8 +2825,8 @@ boldness, a contempt of danger, a solution of the bonds of
 obligation. I looked down; my clothes hung formlessly on my
 shrunken limbs; the hand that lay on my knee was corded and
 hairy. I was once more Edward Hyde. A moment before I had been
-safe of all men's respect, wealthy, beloved--the cloth laying
-for me in the dining-room at home; and now I was the common
+safe of all men's respect, wealthy, beloved the cloth laying
+for me in the dining room at home; and now I was the common
 quarry of mankind, hunted, houseless, a known murderer, thrall to
 the gallows.
 
@@ -2858,7 +2858,7 @@ of which I chanced to remember. At my appearance (which was
 indeed comical enough, however tragic a fate these garments
 covered) the driver could not conceal his mirth. I gnashed my
 teeth upon him with a gust of devilish fury; and the smile
-withered from his face--happily for him--yet more happily for
+withered from his face happily for him yet more happily for
 myself, for in another instant I had certainly dragged him from
 his perch. At the inn, as I entered, I looked about me with so
 black a countenance as made the attendants tremble; not a look
@@ -2881,14 +2881,14 @@ gnawing his nails; there he dined, sitting alone with his fears,
 the waiter visibly quailing before his eye; and thence, when the
 night was fully come, he set forth in the corner of a closed cab,
 and was driven to and fro about the streets of the city. He, I
-say--I cannot say, I. That child of Hell had nothing human;
+say I cannot say, I. That child of Hell had nothing human;
 nothing lived in him but fear and hatred. And when at last,
 thinking the driver had begun to grow suspicious, he discharged
 the cab and ventured on foot, attired in his misfitting clothes,
 an object marked out for observation, into the midst of the
 nocturnal passengers, these two base passions raged within him
 like a tempest. He walked fast, hunted by his fears, chattering
-to himself, skulking through the less-frequented thoroughfares,
+to himself, skulking through the less frequented thoroughfares,
 counting the minutes that still divided him from midnight. Once a
 
 104)
@@ -2923,14 +2923,14 @@ Hyde. It took on this occasion a double dose to recall me to
 105)
 
 myself; and alas! Six hours after, as I sat looking sadly in the
-fire, the pangs returned, and the drug had to be re-administered.
+fire, the pangs returned, and the drug had to be re administered.
 In short, from that day forth it seemed only by a great effort as
 of gymnastics, and only under the immediate stimulation of the
 drug, that I was able to wear the countenance of Jekyll. At all
 hours of the day and night, I would be taken with the premonitory
 shudder; above all, if I slept, or even dozed for a moment in my
 chair, it was always as Hyde that I awakened. Under the strain of
-this continually-impending doom and by the sleeplessness to which
+this continually impending doom and by the sleeplessness to which
 I now condemned myself, ay, even beyond what I had thought
 possible to man, I became, in my own person, a creature eaten up
 and emptied by fever, languidly weak both in body and mind, and
@@ -2948,7 +2948,7 @@ that creature that shared with him some of the phenomena of
 
 106)
 
-consciousness, and was co-heir with him to death: and beyond these
+consciousness, and was co heir with him to death: and beyond these
 links of community, which in themselves made the most poignant
 part of his distress, he thought of Hyde, for all his energy of
 life, as of something not only hellish but inorganic. This was the
@@ -2965,7 +2965,7 @@ continually to commit temporary suicide, and return to his
 subordinate station of a part instead of a person; but he loathed
 the necessity, he loathed the despondency into which Jekyll was
 now fallen, and he resented the dislike with which he was himself
-regarded. Hence the ape-like tricks that he would play me,
+regarded. Hence the ape like tricks that he would play me,
 scrawling in my own hand blasphemies on the pages of my books,
 burning the letters and destroying the portrait of my father; and
 indeed, had it not been for his fear of death, he would long ago
@@ -2981,8 +2981,8 @@ to pity him.
 
 It is useless, and the time awfully fails me, to prolong this
 description; no one has ever suffered such torments, let that
-suffice; and yet even to these, habit brought--no, not
-alleviation--but a certain callousness of soul, a certain
+suffice; and yet even to these, habit brought no, not
+alleviation but a certain callousness of soul, a certain
 acquiescence of despair; and my punishment might have gone on for
 years, but for the last calamity which has now fallen, and which
 has finally severed me from my own face and nature. My provision
@@ -3009,12 +3009,12 @@ great prudence and great good luck. Should the throes of change
 take me in the act of writing it, Hyde will tear it in pieces;
 but if some time shall have elapsed after I have laid it by, his
 wonderful selfishness and Circumscription to the moment will
-probably save it once again from the action of his ape-like
+probably save it once again from the action of his ape like
 spite. And indeed the doom that is closing on us both, has
 already changed and crushed him. Half an hour from now, when I
-shall again and for ever re-indue that hated personality, I know
+shall again and for ever re indue that hated personality, I know
 how I shall sit shuddering and weeping in my chair, or continue,
-with the most strained and fear-struck ecstasy of listening, to
+with the most strained and fear struck ecstasy of listening, to
 pace up and down this room (my last earthly refuge) and give ear
 to every sound of menace. Will Hyde die upon the scaffold? or
 will he find courage to release himself at the last moment? God

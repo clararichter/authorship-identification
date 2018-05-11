@@ -1,4 +1,4 @@
-I ENVOY
+I—ENVOY
 
 
    GO, little book, and wish to all
@@ -10,21 +10,21 @@ I ENVOY
 
 
 
-II A SONG OF THE ROAD
+II—A SONG OF THE ROAD
 
 
    THE gauger walked with willing foot,
    And aye the gauger played the flute;
    And what should Master Gauger play
-   But  Over the hills and far away ?
+   But _Over the hills and far away_?
 
    Whene’er I buckle on my pack
    And foot it gaily in the track,
    O pleasant gauger, long since dead,
    I hear you fluting on ahead.
 
-   You go with me the self-same way 
-   The self-same air for me you play;
+   You go with me the self same way—
+   The self same air for me you play;
    For I do think and so do you
    It is the tune to travel to.
 
@@ -46,19 +46,19 @@ II A SONG OF THE ROAD
    For one and all, or high or low,
    Will lead you where you wish to go;
    And one and all go night and day
-    Over the hills and far away !
+   _Over the hills and far away_!
 
- Forest of Montargis , 1878.
+_Forest of Montargis_, 1878.
 
 
 
-III THE CANOE SPEAKS
+III—THE CANOE SPEAKS
 
 
    ON the great streams the ships may go
    About men’s business to and fro.
-   But I, the egg-shell pinnace, sleep
-   On crystal waters ankle-deep:
+   But I, the egg shell pinnace, sleep
+   On crystal waters ankle deep:
    I, whose diminutive design,
    Of sweeter cedar, pithier pine,
    Is fashioned on so frail a mould,
@@ -68,15 +68,15 @@ III THE CANOE SPEAKS
    I, the unnamed, inviolate,
    Green, rustic rivers, navigate;
    My dipping paddle scarcely shakes
-   The berry in the bramble-brakes;
+   The berry in the bramble brakes;
    Still forth on my green way I wend
-   Beside the cottage garden-end;
+   Beside the cottage garden end;
    And by the nested angler fare,
    And take the lovers unaware.
-   By willow wood and water-wheel
+   By willow wood and water wheel
    Speedily fleets my touching keel;
    By all retired and shady spots
-   Where prosper dim forget-me-nots;
+   Where prosper dim forget me nots;
    By meadows where at afternoon
    The growing maidens troop in June
    To loose their girdles on the grass.
@@ -88,7 +88,7 @@ III THE CANOE SPEAKS
    When, following the recondite brook,
    Sudden upon this scene I look,
    And light with unfamiliar face
-   On chaste Diana’s bathing-place,
+   On chaste Diana’s bathing place,
    Loud ring the hills about and all
    The shallows are abandoned. . . .
 
@@ -108,7 +108,7 @@ IV
    To pass and linger, pause and look.
 
    A year ago, and blithely paired,
-   Their rough-and-tumble play they shared;
+   Their rough and tumble play they shared;
    They kissed and quarrelled, laughed and cried,
    A year ago at Eastertide.
 
@@ -128,28 +128,28 @@ IV
    Than nightingale and mavis are.
 
    Now when they sever wedded hands,
-   Joy trembles in their bosom-strands
+   Joy trembles in their bosom strands
    And lovely laughter leaps and falls
    Upon their lips in madrigals.
 
 
 
-V THE HOUSE BEAUTIFUL
+V—THE HOUSE BEAUTIFUL
 
 
-    A naked house ,  a naked moor ,
-    A shivering pool before the door ,
-    A garden bare of flowers and fruit 
-    And poplars at the garden foot :
-    Such is the place that I live in ,
-    Bleak without and bare within .
+   _A naked house_, _a naked moor_,
+   _A shivering pool before the door_,
+   _A garden bare of flowers and fruit_
+   _And poplars at the garden foot_:
+   _Such is the place that I live in_,
+   _Bleak without and bare within_.
 
    Yet shall your ragged moor receive
    The incomparable pomp of eve,
    And the cold glories of the dawn
    Behind your shivering trees be drawn;
    And when the wind from place to place
-   Doth the unmoored cloud-galleons chase,
+   Doth the unmoored cloud galleons chase,
    Your garden gloom and gleam again,
    With leaping sun, with glancing rain.
    Here shall the wizard moon ascend
@@ -161,12 +161,12 @@ V THE HOUSE BEAUTIFUL
    And oft the morning muser see
    Larks rising from the broomy lea,
    And every fairy wheel and thread
-   Of cobweb dew-bediamonded.
+   Of cobweb dew bediamonded.
    When daisies go, shall winter time
    Silver the simple grass with rime;
    Autumnal frosts enchant the pool
-   And make the cart-ruts beautiful;
-   And when snow-bright the moor expands,
+   And make the cart ruts beautiful;
+   And when snow bright the moor expands,
    How shall your children clap their hands!
    To make this earth our hermitage,
    A cheerful and a changeful page,
@@ -175,13 +175,13 @@ V THE HOUSE BEAUTIFUL
 
 
 
-VI A VISIT FROM THE SEA
+VI—A VISIT FROM THE SEA
 
 
    FAR from the loud sea beaches
       Where he goes fishing and crying,
    Here in the inland garden
-      Why is the sea-gull flying?
+      Why is the sea gull flying?
 
    Here are no fish to dive for;
       Here is the corn and lea;
@@ -190,7 +190,7 @@ VI A VISIT FROM THE SEA
 
    Fresh is the river water
       And quiet among the rushes;
-   This is no home for the sea-gull
+   This is no home for the sea gull
       But for the rooks and thrushes.
 
    Pity the bird that has wandered!
@@ -198,23 +198,23 @@ VI A VISIT FROM THE SEA
    Hurry him home to the ocean,
       Let him come here no more!
 
-   High on the sea-cliff ledges
+   High on the sea cliff ledges
       The white gulls are trooping and crying,
    Here among the rooks and roses,
-      Why is the sea-gull flying?
+      Why is the sea gull flying?
 
 
 
-VII TO A GARDENER
+VII—TO A GARDENER
 
 
-   FRIEND, in my mountain-side demesne
-   My plain-beholding, rosy, green
-   And linnet-haunted garden-ground,
+   FRIEND, in my mountain side demesne
+   My plain beholding, rosy, green
+   And linnet haunted garden ground,
    Let still the esculents abound.
    Let first the onion flourish there,
-   Rose among roots, the maiden-fair,
-   Wine-scented and poetic soul
+   Rose among roots, the maiden fair,
+   Wine scented and poetic soul
    Of the capacious salad bowl.
    Let thyme the mountaineer (to dress
    The tinier birds) and wading cress,
@@ -222,17 +222,17 @@ VII TO A GARDENER
    From all my plots and borders look.
 
    Nor crisp and ruddy radish, nor
-   Pease-cods for the child’s pinafore
+   Pease cods for the child’s pinafore
    Be lacking; nor of salad clan
    The last and least that ever ran
-   About great nature’s garden-beds.
+   About great nature’s garden beds.
    Nor thence be missed the speary heads
    Of artichoke; nor thence the bean
    That gathered innocent and green
    Outsavours the belauded pea.
 
    These tend, I prithee; and for me,
-   Thy most long-suffering master, bring
+   Thy most long suffering master, bring
    In April, when the linnets sing
    And the days lengthen more and more
    At sundown to the garden door.
@@ -241,16 +241,16 @@ VII TO A GARDENER
    A book, a taper, and a cup
    Of country wine, divinely sup.
 
- La Solitude ,  Hyères .
+_La Solitude_, _Hyères_.
 
 
 
-VIII TO MINNIE
+VIII—TO MINNIE
 
 
-                           (With a hand-glass)
+                           (With a hand glass)
 
-   A PICTURE-FRAME for you to fill,
+   A PICTURE FRAME for you to fill,
       A paltry setting for your face,
    A thing that has no worth until
       You lend it something of your grace
@@ -262,28 +262,28 @@ VIII TO MINNIE
 
    And happier than I, alas!
       (Dumb thing, I envy its delight)
-   ’Twill wish you well, the looking-glass,
-      And look you in the face to-night.
+   ’Twill wish you well, the looking glass,
+      And look you in the face to night.
 
 1869.
 
 
 
-IX TO K. DE M.
+IX—TO K. DE M.
 
 
    A LOVER of the moorland bare
    And honest country winds, you were;
-   The silver-skimming rain you took;
+   The silver skimming rain you took;
    And loved the floodings of the brook,
    Dew, frost and mountains, fire and seas,
    Tumultuary silences,
    Winds that in darkness fifed a tune,
-   And the high-riding, virgin moon.
+   And the high riding, virgin moon.
 
    And as the berry, pale and sharp,
    Springs on some ditch’s counterscarp
-   In our ungenial, native north 
+   In our ungenial, native north—
    You put your frosted wildings forth,
    And on the heath, afar from man,
    A strong and bitter virgin ran.
@@ -292,14 +292,14 @@ IX TO K. DE M.
    And racy flavour of the wood.
    And you that loved the empty plain
    All redolent of wind and rain,
-   Around you still the curlew sings 
-   The freshness of the weather clings 
+   Around you still the curlew sings—
+   The freshness of the weather clings—
    The maiden jewels of the rain
    Sit in your dabbled locks again.
 
 
 
-X TO N. V. DE G. S.
+X—TO N. V. DE G. S.
 
 
    THE unfathomable sea, and time, and tears,
@@ -311,7 +311,7 @@ X TO N. V. DE G. S.
    Descry a land far off and know not which.
    So I approach uncertain; so I cruise
    Round thy mysterious islet, and behold
-   Surf and great mountains and loud river-bars,
+   Surf and great mountains and loud river bars,
    And from the shore hear inland voices call.
 
    Strange is the seaman’s heart; he hopes, he fears;
@@ -328,7 +328,7 @@ X TO N. V. DE G. S.
 
 
 
-XI TO WILL. H. LOW
+XI—TO WILL. H. LOW
 
 
    YOUTH now flees on feathered foot
@@ -344,7 +344,7 @@ XI TO WILL. H. LOW
 
    This is unborn beauty: she
    Now in air floats high and free,
-   Takes the sun and breaks the blue; 
+   Takes the sun and breaks the blue;—
    Late with stooping pinion flew
    Raking hedgerow trees, and wet
    Her wing in silver streams, and set
@@ -367,7 +367,7 @@ XI TO WILL. H. LOW
 
 
 
-XII TO MRS. WILL. H. LOW
+XII—TO MRS. WILL. H. LOW
 
 
    EVEN in the bluest noonday of July,
@@ -377,10 +377,10 @@ XII TO MRS. WILL. H. LOW
    The hum of city cabs that sought the Bois,
    Suburban ashes shivered into song.
    A patter and a chatter and a chirp
-   And a long dying hiss it was as though
+   And a long dying hiss—it was as though
    Starched old brocaded dames through all the house
    Had trailed a strident skirt, or the whole sky
-   Even in a wink had over-brimmed in rain.
+   Even in a wink had over brimmed in rain.
 
    Hark, in these shady parlours, how it talks
    Of the near Autumn, how the smitten ash
@@ -392,29 +392,29 @@ XII TO MRS. WILL. H. LOW
    Search the foul garden, search the darkened rooms,
    Nor find one jewel but the blazing log.
 
-12  Rue Vernier ,  Paris .
+12 _Rue Vernier_, _Paris_.
 
 
 
-XIII TO H. F. BROWN
+XIII—TO H. F. BROWN
 
 
                   (Written during a dangerous sickness.)
 
    I SIT and wait a pair of oars
-   On cis-Elysian river-shores.
+   On cis Elysian river shores.
    Where the immortal dead have sate,
    ’Tis mine to sit and meditate;
-   To re-ascend life’s rivulet,
+   To re ascend life’s rivulet,
    Without remorse, without regret;
-   And sing my  Alma Genetrix 
+   And sing my _Alma Genetrix_
    Among the willows of the Styx.
 
    And lo, as my serener soul
    Did these unhappy shores patrol,
    And wait with an attentive ear
    The coming of the gondolier,
-   Your fire-surviving roll I took,
+   Your fire surviving roll I took,
    Your spirited and happy book; {27}
    Whereon, despite my frowning fate,
    It did my soul so recreate
@@ -424,22 +424,22 @@ XIII TO H. F. BROWN
    Now, thanks to your triumphant care,
    Your pages clear as April air,
    The sails, the bells, the birds, I know,
-   And the far-off Friulan snow;
+   And the far off Friulan snow;
    The land and sea, the sun and shade,
-   And the blue even lamp-inlaid.
+   And the blue even lamp inlaid.
    For this, for these, for all, O friend,
-   For your whole book from end to end 
-   For Paron Piero’s muttonham 
+   For your whole book from end to end—
+   For Paron Piero’s muttonham—
    I your defaulting debtor am.
 
    Perchance, reviving, yet may I
-   To your sea-paven city hie,
-   And in a  felze , some day yet
+   To your sea paven city hie,
+   And in a _felze_, some day yet
    Light at your pipe my cigarette.
 
 
 
-XIV TO ANDREW LANG
+XIV—TO ANDREW LANG
 
 
    DEAR Andrew, with the brindled hair,
@@ -467,7 +467,7 @@ XIV TO ANDREW LANG
    So went the fiat forth, and so
    Garrulous like a brook you go,
    With sound of happy mirth and sheen
-   Of daylight whether by the green
+   Of daylight—whether by the green
    You fare that moment, or the gray;
    Whether you dwell in March or May;
    Or whether treat of reels and rods
@@ -477,7 +477,7 @@ XIV TO ANDREW LANG
 
 
 
-XV ET TU IN ARCADIA VIXISTI
+XV—ET TU IN ARCADIA VIXISTI
 
 
                              (TO R. A. M. S.)
@@ -487,15 +487,15 @@ XV ET TU IN ARCADIA VIXISTI
    High expectation, high delights and deeds,
    Thy fluttering heart with hope and terror moved.
    And thou hast heard of yore the Blatant Beast,
-   And Roland’s horn, and that war-scattering shout
-   Of all-unarmed Achilles, ægis-crowned
+   And Roland’s horn, and that war scattering shout
+   Of all unarmed Achilles, ægis crowned
    And perilous lands thou sawest, sounding shores
    And seas and forests drear, island and dale
    And mountain dark.  For thou with Tristram rod’st
    Or Bedevere, in farthest Lyonesse.
 
    Thou hadst a booth in Samarcand, whereat
-   Side-looking Magians trafficked; thence, by night,
+   Side looking Magians trafficked; thence, by night,
    An Afreet snatched thee, and with wings upbore
    Beyond the Aral mount; or, hoping gain,
    Thou, with a jar of money, didst embark,
@@ -565,7 +565,7 @@ XV ET TU IN ARCADIA VIXISTI
 
 
 
-XVI TO W. E. HENLEY
+XVI—TO W. E. HENLEY
 
 
    THE year runs through her phases; rain and sun,
@@ -587,42 +587,42 @@ XVI TO W. E. HENLEY
    Shows brooks and forests, and the blue beyond
    Of mountains.
                Small the pipe; but oh! do thou,
-   Peak-faced and suffering piper, blow therein
+   Peak faced and suffering piper, blow therein
    The dirge of heroes dead; and to these sick,
    These dying, sound the triumph over death.
    Behold! each greatly breathes; each tastes a joy
    Unknown before, in dying; for each knows
-   A hero dies with him though unfulfilled,
-   Yet conquering truly and not dies in vain
+   A hero dies with him—though unfulfilled,
+   Yet conquering truly—and not dies in vain
 
    So is pain cheered, death comforted; the house
-   Of sorrow smiles to listen.  Once again 
+   Of sorrow smiles to listen.  Once again—
    O thou, Orpheus and Heracles, the bard
    And the deliverer, touch the stops again!
 
 
 
-XVII HENRY JAMES
+XVII—HENRY JAMES
 
 
-   WHO comes to-night?  We ope the doors in vain.
+   WHO comes to night?  We ope the doors in vain.
    Who comes?  My bursting walls, can you contain
    The presences that now together throng
    Your narrow entry, as with flowers and song,
    As with the air of life, the breath of talk?
    Lo, how these fair immaculate women walk
    Behind their jocund maker; and we see
-   Slighted  De Mauves , and that far different she,
-    Gressie , the trivial sphynx; and to our feast
-    Daisy  and  Barb  and  Chancellor  (she not least!)
+   Slighted _De Mauves_, and that far different she,
+   _Gressie_, the trivial sphynx; and to our feast
+   _Daisy_ and _Barb_ and _Chancellor_ (she not least!)
    With all their silken, all their airy kin,
    Do like unbidden angels enter in.
    But he, attended by these shining names,
-   Comes (best of all) himself our welcome James.
+   Comes (best of all) himself—our welcome James.
 
 
 
-XVIII THE MIRROR SPEAKS
+XVIII—THE MIRROR SPEAKS
 
 
    WHERE the bells peal far at sea
@@ -656,7 +656,7 @@ XVIII THE MIRROR SPEAKS
 
 
 
-XIX KATHARINE
+XIX—KATHARINE
 
 
    WE see you as we see a face
@@ -670,21 +670,21 @@ XIX KATHARINE
 
 
 
-XX TO F. J. S.
+XX—TO F. J. S.
 
 
    I READ, dear friend, in your dear face
    Your life’s tale told with perfect grace;
    The river of your life, I trace
-   Up the sun-chequered, devious bed
-   To the far-distant fountain-head.
+   Up the sun chequered, devious bed
+   To the far distant fountain head.
 
    Not one quick beat of your warm heart,
    Nor thought that came to you apart,
    Pleasure nor pity, love nor pain
    Nor sorrow, has gone by in vain;
 
-   But as some lone, wood-wandering child
+   But as some lone, wood wandering child
    Brings home with him at evening mild
    The thorns and flowers of all the wild,
    From your whole life, O fair and true
@@ -692,7 +692,7 @@ XX TO F. J. S.
 
 
 
-XXI REQUIEM
+XXI—REQUIEM
 
 
    UNDER the wide and starry sky,
@@ -701,13 +701,13 @@ XXI REQUIEM
       And I laid me down with a will.
 
    This be the verse you grave for me:
-    Here he lies where he longed to be ;
-    Home is the sailor ,  home from sea ,
-       And the hunter home from the hill .
+   _Here he lies where he longed to be_;
+   _Home is the sailor_, _home from sea_,
+      _And the hunter home from the hill_.
 
 
 
-XXII THE CELESTIAL SURGEON
+XXII—THE CELESTIAL SURGEON
 
 
    IF I have faltered more or less
@@ -717,7 +717,7 @@ XXII THE CELESTIAL SURGEON
    If beams from happy human eyes
    Have moved me not; if morning skies,
    Books, and my food, and summer rain
-   Knocked on my sullen heart in vain: 
+   Knocked on my sullen heart in vain:—
    Lord, thy most pointed pleasure take
    And stab my spirit broad awake;
    Or, Lord, if too obdurate I,
@@ -727,7 +727,7 @@ XXII THE CELESTIAL SURGEON
 
 
 
-XXIII OUR LADY OF THE SNOWS
+XXIII—OUR LADY OF THE SNOWS
 
 
    OUT of the sun, out of the blast,
@@ -748,7 +748,7 @@ XXIII OUR LADY OF THE SNOWS
    Whom the clear eyes solicit still
    To some bold output of the will,
    While fairy Fancy far before
-   And musing Memory-Hold-the-door
+   And musing Memory Hold the door
    Now to heroic death invite
    And now uncurtain fresh delight:
    O, little boots it thus to dwell
@@ -763,8 +763,8 @@ XXIII OUR LADY OF THE SNOWS
    With voiceless calls, the ancient earth
    Summons me to a daily birth.
 
-   Thou, O my love, ye, O my friends 
-   The gist of life, the end of ends 
+   Thou, O my love, ye, O my friends—
+   The gist of life, the end of ends—
    To laugh, to love, to live, to die,
    Ye call me by the ear and eye!
 
@@ -772,7 +772,7 @@ XXIII OUR LADY OF THE SNOWS
    Where honour has the world to gain,
    Pour forth and bravely do your part,
    O knights of the unshielded heart!
-   Forth and forever forward! out
+   Forth and forever forward!—out
    From prudent turret and redoubt,
    And in the mellay charge amain,
    To fall but yet to rise again!
@@ -806,7 +806,7 @@ XXIII OUR LADY OF THE SNOWS
    And still with laughter, song and shout,
    Spin the great wheel of earth about.
 
-   But ye? O ye who linger still
+   But ye?—O ye who linger still
    Here in your fortress on the hill,
    With placid face, with tranquil breath,
    The unsought volunteers of death,
@@ -833,7 +833,7 @@ XXIV
    Love for dear love, still suppliant with tears.
    Alas, not yet thy human task is done!
    A bond at birth is forged; a debt doth lie
-   Immortal on mortality.  It grows 
+   Immortal on mortality.  It grows—
    By vast rebound it grows, unceasing growth;
    Gift upon gift, alms upon alms, upreared,
    From man, from God, from nature, till the soul
@@ -844,7 +844,7 @@ XXIV
    Without due service rendered.  For thy life,
    Up, spirit, and defend that fort of clay,
    Thy body, now beleaguered; whether soon
-   Or late she fall; whether to-day thy friends
+   Or late she fall; whether to day thy friends
    Bewail thee dead, or, after years, a man
    Grown old in honour and the friend of peace.
    Contend, my soul, for moments and for hours;
@@ -856,7 +856,7 @@ XXIV
    He, on the field, encamps, well pleased in mind.
    Yet surely him shall fortune overtake,
    Him smite in turn, headlong his ensigns drive;
-   And that dear land, now safe, to-morrow fall.
+   And that dear land, now safe, to morrow fall.
    But he, unthinking, in the present good
    Solely delights, and all the camps rejoice.
 
@@ -880,7 +880,7 @@ XXV
    Though as all passes, day and night,
    The seasons and the years,
    From you, O mother, this delight,
-   This also disappears 
+   This also disappears—
    Some profit yet survives of all your pangs and tears.
 
    The child, the seed, the grain of corn,
@@ -915,36 +915,36 @@ XXV
 
 
 
-XXVI THE SICK CHILD
+XXVI—THE SICK CHILD
 
 
-    Child .  O MOTHER, lay your hand on my brow!
+   _Child_.  O MOTHER, lay your hand on my brow!
    O mother, mother, where am I now?
    Why is the room so gaunt and great?
    Why am I lying awake so late?
 
-    Mother .  Fear not at all: the night is still.
-   Nothing is here that means you ill 
+   _Mother_.  Fear not at all: the night is still.
+   Nothing is here that means you ill—
    Nothing but lamps the whole town through,
    And never a child awake but you.
 
-    Child .  Mother, mother, speak low in my ear,
+   _Child_.  Mother, mother, speak low in my ear,
    Some of the things are so great and near,
    Some are so small and far away,
    I have a fear that I cannot say,
    What have I done, and what do I fear,
    And why are you crying, mother dear?
 
-    Mother .  Out in the city, sounds begin
+   _Mother_.  Out in the city, sounds begin
    Thank the kind God, the carts come in!
    An hour or two more, and God is so kind,
-   The day shall be blue in the window-blind,
+   The day shall be blue in the window blind,
    Then shall my child go sweetly asleep,
    And dream of the birds and the hills of sheep.
 
 
 
-XXVII IN MEMORIAM F. A. S.
+XXVII—IN MEMORIAM F. A. S.
 
 
    YET, O stricken heart, remember, O remember
@@ -967,11 +967,11 @@ XXVII IN MEMORIAM F. A. S.
    Here, a boy, he dwelt through all the singing season
       And ere the day of sorrow departed as he came.
 
- Davos , 1881.
+_Davos_, 1881.
 
 
 
-XXVIII TO MY FATHER
+XXVIII—TO MY FATHER
 
 
    PEACE and her huge invasion to these shores
@@ -988,7 +988,7 @@ XXVIII TO MY FATHER
    Along the yellowing sunset, and all night
    Among the unnumbered stars of God they shine;
    Or whether fogs arise and far and wide
-   The low sea-level drown each finds a tongue
+   The low sea level drown—each finds a tongue
    And all night long the tolling bell resounds:
    So shine, so toll, till night be overpast,
    Till the stars vanish, till the sun return,
@@ -1002,18 +1002,18 @@ XXVIII TO MY FATHER
    The ship lies resting, where by reef and roost
    Thou and thy lights have led her like a child.
 
-   This hast thou done, and I can I be base?
+   This hast thou done, and I—can I be base?
    I must arise, O father, and to port
    Some lost, complaining seaman pilot home.
 
 
 
-XXIX IN THE STATES
+XXIX—IN THE STATES
 
 
    WITH half a heart I wander here
       As from an age gone by
-   A brother yet though young in years.
+   A brother—yet though young in years.
       An elder brother, I.
 
    You speak another tongue than mine,
@@ -1023,19 +1023,19 @@ XXIX IN THE STATES
 
    Youth shall grow great and strong and free,
       But age must still decay:
-   To-morrow for the States for me,
+   To morrow for the States—for me,
       England and Yesterday.
 
- San Francisco .
+_San Francisco_.
 
 
 
-XXX A PORTRAIT
+XXX—A PORTRAIT
 
 
    I AM a kind of farthing dip,
       Unfriendly to the nose and eyes;
-   A blue-behinded ape, I skip
+   A blue behinded ape, I skip
       Upon the trees of Paradise.
 
    At mankind’s feast, I take my place
@@ -1044,7 +1044,7 @@ XXX A PORTRAIT
       While I defile the dinner plate.
 
    I am “the smiler with the knife,”
-      The battener upon garbage, I 
+      The battener upon garbage, I—
    Dear Heaven, with such a rancid life,
       Were it not better far to die?
 
@@ -1055,8 +1055,8 @@ XXX A PORTRAIT
 
    And when at length, some golden day,
       The unfailing sportsman, aiming at,
-   Shall bag, me all the world shall say:
-       Thank God ,  and there’s an end of that !
+   Shall bag, me—all the world shall say:
+      _Thank God_, _and there’s an end of that_!
 
 
 
@@ -1069,11 +1069,11 @@ XXXI
    To wake a weeping echo in the hill;
    But as the boy, the pirate of the spring,
    From the green elm a living linnet takes,
-   One natural verse recapture then be still.
+   One natural verse recapture—then be still.
 
 
 
-XXXII A CAMP {66}
+XXXII—A CAMP {66}
 
 
    THE bed was made, the room was fit,
@@ -1085,7 +1085,7 @@ XXXII A CAMP {66}
 
 
 
-XXXIII THE COUNTRY OF THE CAMISARDS {67}
+XXXIII—THE COUNTRY OF THE CAMISARDS {67}
 
 
    WE travelled in the print of olden wars,
@@ -1093,14 +1093,14 @@ XXXIII THE COUNTRY OF THE CAMISARDS {67}
       And love we found, and peace,
       Where fire and war had been.
 
-   They pass and smile, the children of the sword 
+   They pass and smile, the children of the sword—
       No more the sword they wield;
       And O, how deep the corn
       Along the battlefield!
 
 
 
-XXXIV SKERRYVORE
+XXXIV—SKERRYVORE
 
 
    FOR love of lovely words, and for the sake
@@ -1113,7 +1113,7 @@ XXXIV SKERRYVORE
 
 
 
-XXXV SKERRYVORE: THE PARALLEL
+XXXV—SKERRYVORE: THE PARALLEL
 
 
    HERE all is sunny, and when the truant gull
@@ -1121,7 +1121,7 @@ XXXV SKERRYVORE: THE PARALLEL
    Dispetals roses; here the house is framed
    Of kneaded brick and the plumed mountain pine,
    Such clay as artists fashion and such wood
-   As the tree-climbing urchin breaks.  But there
+   As the tree climbing urchin breaks.  But there
    Eternal granite hewn from the living isle
    And dowelled with brute iron, rears a tower
    That from its wet foundation to its crown
@@ -1133,13 +1133,13 @@ XXXV SKERRYVORE: THE PARALLEL
 XXXVI
 
 
-    My house , I say.  But hark to the sunny doves
+   _My house_, I say.  But hark to the sunny doves
    That make my roof the arena of their loves,
    That gyre about the gable all day long
    And fill the chimneys with their murmurous song:
-    Our house , they say; and  mine , the cat declares
+   _Our house_, they say; and _mine_, the cat declares
    And spreads his golden fleece upon the chairs;
-   And  mine  the dog, and rises stiff with wrath
+   And _mine_ the dog, and rises stiff with wrath
    If any alien foot profane the path.
    So too the buck that trimmed my terraces,
    Our whilome gardener, called the garden his;
@@ -1152,33 +1152,33 @@ XXXVII
 
 
    MY body which my dungeon is,
-   And yet my parks and palaces: 
+   And yet my parks and palaces:—
       Which is so great that there I go
    All the day long to and fro,
    And when the night begins to fall
    Throw down my bed and sleep, while all
-   The building hums with wakefulness 
+   The building hums with wakefulness—
    Even as a child of savages
    When evening takes her on her way,
    (She having roamed a summer’s day
-   Along the mountain-sides and scalp)
-   Sleeps in an antre of that alp: 
+   Along the mountain sides and scalp)
+   Sleeps in an antre of that alp:—
       Which is so broad and high that there,
    As in the topless fields of air,
    My fancy soars like to a kite
-   And faints in the blue infinite: 
+   And faints in the blue infinite:—
       Which is so strong, my strongest throes
    And the rough world’s besieging blows
    Not break it, and so weak withal,
    Death ebbs and flows in its loose wall
    As the green sea in fishers’ nets,
-   And tops its topmost parapets: 
+   And tops its topmost parapets:—
       Which is so wholly mine that I
    Can wield its whole artillery,
    And mine so little, that my soul
    Dwells in perpetual control,
    And I but think and speak and do
-   As my dead fathers move me to: 
+   As my dead fathers move me to:—
       If this born body of my bones
    The beggared soul so barely owns,
    What money passed from hand to hand,
@@ -1195,18 +1195,18 @@ XXXVIII
    The labours of my sires, and fled the sea,
    The towers we founded and the lamps we lit,
    To play at home with paper like a child.
-   But rather say:  In the afternoon of time 
-    A strenuous family dusted from its hands 
-    The sand of granite ,  and beholding far 
-    Along the sounding coast its pyramids 
-    And tall memorials catch the dying sun ,
-    Smiled well content ,  and to this childish task 
-    Around the fire addressed its evening hours .
+   But rather say: _In the afternoon of time_
+   _A strenuous family dusted from its hands_
+   _The sand of granite_, _and beholding far_
+   _Along the sounding coast its pyramids_
+   _And tall memorials catch the dying sun_,
+   _Smiled well content_, _and to this childish task_
+   _Around the fire addressed its evening hours_.
 
 
 
 
-BOOK II. In Scots 
+BOOK II.—_In Scots_
 
 
 TABLE OF COMMON SCOTTISH VOWEL SOUNDS
@@ -1239,7 +1239,7 @@ i                                   pretty nearly what you please,
 
 
 
-I THE MAKER TO POSTERITY
+I—THE MAKER TO POSTERITY
 
 
    FAR ’yont amang the years to be
@@ -1249,58 +1249,58 @@ I THE MAKER TO POSTERITY
    An’ what was richt and wrang for me
          Lies mangled throu’ther,
 
-   It’s possible it’s hardly mair 
-   That some ane, ripin’ after lear 
+   It’s possible—it’s hardly mair—
+   That some ane, ripin’ after lear—
    Some auld professor or young heir,
-         If still there’s either 
+         If still there’s either—
    May find an’ read me, an’ be sair
          Perplexed, puir brither!
 
-   “ What tongue does your auld bookie speak ?”
+   “_What tongue does your auld bookie speak_?”
    He’ll spier; an’ I, his mou to steik:
-   “ No bein’ fit to write in Greek ,
-          I write in Lallan ,
-    Dear to my heart as the peat reek ,
-          Auld as Tantallon .
+   “_No bein’ fit to write in Greek_,
+         _I write in Lallan_,
+   _Dear to my heart as the peat reek_,
+         _Auld as Tantallon_.
 
-   “ Few spak it then ,  an’ noo there’s nane .
-    My puir auld sangs lie a’ their lane ,
-    Their sense ,  that aince was braw an’ plain ,
-          Tint a’thegether ,
-    Like runes upon a standin’ stane 
-          Amang the heather .
+   “_Few spak it then_, _an’ noo there’s nane_.
+   _My puir auld sangs lie a’ their lane_,
+   _Their sense_, _that aince was braw an’ plain_,
+         _Tint a’thegether_,
+   _Like runes upon a standin’ stane_
+         _Amang the heather_.
 
-   “ But think not you the brae to speel ;
-    You ,  tae ,  maun chow the bitter peel ;
-    For a’ your lear ,  for a’ your skeel ,
-          Ye’re nane sae lucky ;
-    An’ things are mebbe waur than weel 
-          For you ,  my buckie .
+   “_But think not you the brae to speel_;
+   _You_, _tae_, _maun chow the bitter peel_;
+   _For a’ your lear_, _for a’ your skeel_,
+         _Ye’re nane sae lucky_;
+   _An’ things are mebbe waur than weel_
+         _For you_, _my buckie_.
 
-   “ The hale concern  ( baith hens an’ eggs ,
-    Baith books an’ writers ,  stars an’ clegs )
-    Noo stachers upon lowsent legs 
-          An’ wears awa’ ;
-    The tack o’ mankind ,  near the dregs ,
-          Rins unco law .
+   “_The hale concern_ (_baith hens an’ eggs_,
+   _Baith books an’ writers_, _stars an’ clegs_)
+   _Noo stachers upon lowsent legs_
+         _An’ wears awa’_;
+   _The tack o’ mankind_, _near the dregs_,
+         _Rins unco law_.
 
-   “ Your book ,  that in some braw new tongue ,
-    Ye wrote or prentit ,  preached or sung ,
-    Will still be just a bairn ,  an’ young 
-          In fame an’ years ,
-    Whan the hale planet’s guts are dung 
-          About your ears ;
+   “_Your book_, _that in some braw new tongue_,
+   _Ye wrote or prentit_, _preached or sung_,
+   _Will still be just a bairn_, _an’ young_
+         _In fame an’ years_,
+   _Whan the hale planet’s guts are dung_
+         _About your ears_;
 
-   “ An’ you ,  sair gruppin’ to a spar 
-    Or whammled wi’ some bleezin’ star ,
-    Cryin’ to ken whaur deil ye are ,
-          Hame ,  France ,  or Flanders 
-    Whang sindry like a railway car 
-          An’ flie in danders .”
+   “_An’ you_, _sair gruppin’ to a spar_
+   _Or whammled wi’ some bleezin’ star_,
+   _Cryin’ to ken whaur deil ye are_,
+         _Hame_, _France_, _or Flanders_—
+   _Whang sindry like a railway car_
+         _An’ flie in danders_.”
 
 
 
-II ILLE TERRARUM
+II—ILLE TERRARUM
 
 
    FRAE nirly, nippin’, Eas’lan’ breeze,
@@ -1311,7 +1311,7 @@ II ILLE TERRARUM
          Secure ye sit.
 
    Beeches an’ aiks entwine their theek,
-   An’ firs, a stench, auld-farrant clique.
+   An’ firs, a stench, auld farrant clique.
    A’ simmer day, your chimleys reek,
          Couthy and bien;
    An’ here an’ there your windies keek
@@ -1325,10 +1325,10 @@ II ILLE TERRARUM
          A’ by her lane.
 
    The gairdner crooks his weary back
-   A’ day in the pitaty-track,
+   A’ day in the pitaty track,
    Or mebbe stops awhile to crack
          Wi’ Jane the cook,
-   Or at some buss, worm-eaten-black,
+   Or at some buss, worm eaten black,
          To gie a look.
 
    Frae the high hills the curlew ca’s;
@@ -1339,7 +1339,7 @@ II ILLE TERRARUM
          Weariet wi’ heather.
 
    Or in the gloamin’ douce an’ gray
-   The sweet-throat mavis tunes her lay;
+   The sweet throat mavis tunes her lay;
    The herd comes linkin’ doun the brae;
          An’ by degrees
    The muckle siller müne maks way
@@ -1355,8 +1355,8 @@ II ILLE TERRARUM
    Here aft, weel neukit by my lane,
    Wi’ Horace, or perhaps Montaigne,
    The mornin’ hours hae come an’ gane
-         Abüne my heid 
-   I wadnae gi’en a chucky-stane
+         Abüne my heid—
+   I wadnae gi’en a chucky stane
          For a’ I’d read.
 
    But noo the auld city, street by street,
@@ -1375,7 +1375,7 @@ II ILLE TERRARUM
 
    Whan bugles frae the Castle rock,
    An’ beaten drums wi’ dowie shock,
-   Wauken, at cauld-rife sax o’clock,
+   Wauken, at cauld rife sax o’clock,
          My chitterin’ frame,
    I mind me on the kintry cock,
          The kintry hame.
@@ -1402,14 +1402,14 @@ III
    The heart plays dunt wi’ main an’ micht;
    The lasses’ een are a’ sae bricht,
    Their dresses are sae braw an’ ticht,
-         The bonny birdies! 
+         The bonny birdies!—
    Puir winter virtue at the sicht
          Gangs heels ower hurdies.
 
    An’ aye as love frae land to land
    Tirls the drum wi’ eident hand,
    A’ men collect at her command,
-         Toun-bred or land’art,
+         Toun bred or land’art,
    An’ follow in a denty band
          Her gaucy standart.
 
@@ -1417,12 +1417,12 @@ III
    An’ weary winter weel awa’,
    Noo busk me in a jacket braw,
          An’ tak my place
-   I’ the ram-stam, harum-scarum raw,
+   I’ the ram stam, harum scarum raw,
          Wi’ smilin’ face.
 
 
 
-IV A MILE AN’ A BITTOCK
+IV—A MILE AN’ A BITTOCK
 
 
    A MILE an’ a bittock, a mile or twa,
@@ -1456,16 +1456,16 @@ IV A MILE AN’ A BITTOCK
       An’ the müne was shinin’ clearly!
 
    O years ayont, O years awa’,
-   My lads, ye’ll mind whate’er befa’ 
+   My lads, ye’ll mind whate’er befa’—
    My lads, ye’ll mind on the bield o’ the law,
       When the müne was shinin’ clearly.
 
 
 
-V A LOWDEN SABBATH MORN
+V—A LOWDEN SABBATH MORN
 
 
-   THE clinkum-clank o’ Sabbath bells
+   THE clinkum clank o’ Sabbath bells
    Noo to the hoastin’ rookery swells,
    Noo faintin’ laigh in shady dells,
          Sounds far an’ near,
@@ -1473,7 +1473,7 @@ V A LOWDEN SABBATH MORN
          Its tale o’ cheer.
 
    An’ noo, to that melodious play,
-   A’ deidly awn the quiet sway 
+   A’ deidly awn the quiet sway—
    A’ ken their solemn holiday,
          Bestial an’ human,
    The singin’ lintie on the brae,
@@ -1481,7 +1481,7 @@ V A LOWDEN SABBATH MORN
 
    He, mair than a’ the lave o’ men,
    His week completit joys to ken;
-   Half-dressed, he daunders out an’ in,
+   Half dressed, he daunders out an’ in,
          Perplext wi’ leisure;
    An’ his raxt limbs he’ll rax again
          Wi’ painfü’ pleesure.
@@ -1495,7 +1495,7 @@ V A LOWDEN SABBATH MORN
 
    The lasses, clean frae tap to taes,
    Are busked in crunklin’ underclaes;
-   The gartened hose, the weel-filled stays,
+   The gartened hose, the weel filled stays,
          The nakit shift,
    A’ bleached on bonny greens for days,
          An’ white’s the drift.
@@ -1508,10 +1508,10 @@ V A LOWDEN SABBATH MORN
          The warth o’ siller.
 
    Our Marg’et, aye sae keen to crack,
-   Douce-stappin’ in the stoury track,
+   Douce stappin’ in the stoury track,
    Her emeralt goun a’ kiltit back
          Frae snawy coats,
-   White-ankled, leads the kirkward pack
+   White ankled, leads the kirkward pack
          Wi’ Dauvit Groats.
 
    A thocht ahint, in runkled breeks,
@@ -1550,7 +1550,7 @@ V A LOWDEN SABBATH MORN
          Try hard to square.
 
    It’s here our Merren lang has lain,
-   A wee bewast the table-stane;
+   A wee bewast the table stane;
    An’ yon’s the grave o’ Sandy Blane;
          An’ further ower,
    The mither’s brithers, dacent men!
@@ -1577,22 +1577,22 @@ V A LOWDEN SABBATH MORN
    Filled fu’ wi’ clavers about sin
          An’ man’s estate.
 
-   The tünes are up French , to be shüre,
-   The faithfü’  French , an’ twa-three mair;
+   The tünes are up—_French_, to be shüre,
+   The faithfü’ _French_, an’ twa three mair;
    The auld prezentor, hoastin’ sair,
          Wales out the portions,
    An’ yirks the tüne into the air
          Wi’ queer contortions.
 
    Follows the prayer, the readin’ next,
-   An’ than the fisslin’ for the text 
-   The twa-three last to find it, vext
+   An’ than the fisslin’ for the text—
+   The twa three last to find it, vext
          But kind o’ proud;
    An’ than the peppermints are raxed,
          An’ southernwood.
 
    For noo’s the time whan pews are seen
-   Nid-noddin’ like a mandareen;
+   Nid noddin’ like a mandareen;
    When tenty mithers stap a preen
          In sleepin’ weans;
    An’ nearly half the parochine
@@ -1601,8 +1601,8 @@ V A LOWDEN SABBATH MORN
    There’s just a waukrif’ twa or three:
    Thrawn commentautors sweer to ’gree,
    Weans glowrin’ at the bumlin’ bee
-         On windie-glasses,
-   Or lads that tak a keek a-glee
+         On windie glasses,
+   Or lads that tak a keek a glee
          At sonsie lasses.
 
    Himsel’, meanwhile, frae whaur he cocks
@@ -1620,13 +1620,13 @@ V A LOWDEN SABBATH MORN
          When a’s confessed o’ them.
 
    Bethankit! what a bonny creed!
-   What mair would ony Christian need? 
+   What mair would ony Christian need?—
    The braw words rumm’le ower his heid,
          Nor steer the sleeper;
    And in their restin’ graves, the deid
          Sleep aye the deeper.
 
- Note . It may be guessed by some that I had a certain parish in my eye,
+_Note_.—It may be guessed by some that I had a certain parish in my eye,
 and this makes it proper I should add a word of disclamation.  In my time
 there have been two ministers in that parish.  Of the first I have a
 special reason to speak well, even had there been any to think ill.  The
@@ -1639,50 +1639,50 @@ and by recent advices, it would seem he has not yet entirely disappeared.
 
 
 
-VI THE SPAEWIFE
+VI—THE SPAEWIFE
 
 
-   O, I wad like to ken to the beggar-wife says I 
+   O, I wad like to ken—to the beggar wife says I—
    Why chops are guid to brander and nane sae guid to fry.
    An’ siller, that’s sae braw to keep, is brawer still to gi’e.
-    It’s gey an’ easy spierin’ , says the beggar-wife to me.
+   —_It’s gey an’ easy spierin’_, says the beggar wife to me.
 
-   O, I wad like to ken to the beggar-wife says I 
+   O, I wad like to ken—to the beggar wife says I—
    Hoo a’ things come to be whaur we find them when we try,
    The lasses in their claes an’ the fishes in the sea.
-    It’s gey an’ easy spierin’ , says the beggar-wife to me.
+   —_It’s gey an’ easy spierin’_, says the beggar wife to me.
 
-   O, I wad like to ken to the beggar-wife says I 
+   O, I wad like to ken—to the beggar wife says I—
    Why lads are a’ to sell an’ lasses a’ to buy;
    An’ naebody for dacency but barely twa or three
-    It’s gey an’ easy spierin’ , says the beggar-wife to me.
+   —_It’s gey an’ easy spierin’_, says the beggar wife to me.
 
-   O, I wad like to ken to the beggar-wife says I 
+   O, I wad like to ken—to the beggar wife says I—
    Gin death’s as shüre to men as killin’ is to kye,
    Why God has filled the yearth sae fu’ o’ tasty things to pree.
-    It’s gey an’ easy spierin’ , says the beggar-wife to me.
+   —_It’s gey an’ easy spierin’_, says the beggar wife to me.
 
-   O, I wad like to ken to the beggar wife says I 
+   O, I wad like to ken—to the beggar wife says I—
    The reason o’ the cause an’ the wherefore o’ the why,
    Wi’ mony anither riddle brings the tear into my e’e.
-    It’s gey an’ easy spierin’ , says the beggar-wife to me.
+   —_It’s gey an’ easy spierin’_, says the beggar wife to me.
 
 
 
-VII THE BLAST 1875
+VII—THE BLAST—1875
 
 
    IT’S rainin’.  Weet’s the gairden sod,
-   Weet the lang roads whaur gangrels plod 
+   Weet the lang roads whaur gangrels plod—
    A maist unceevil thing o’ God
-         In mid July 
+         In mid July—
    If ye’ll just curse the sneckdraw, dod!
          An’ sae wull I!
 
    He’s a braw place in Heev’n, ye ken,
    An’ lea’s us puir, forjaskit men
    Clamjamfried in the but and ben
-         He ca’s the earth 
+         He ca’s the earth—
    A wee bit inconvenient den
          No muckle worth;
 
@@ -1696,27 +1696,27 @@ VII THE BLAST 1875
    An’ whiles, whan they tak heart again,
    An’ life i’ the sun looks braw an’ plain,
    Doun comes a jaw o’ droukin’ rain
-         Upon their honours 
+         Upon their honours—
    God sends a spate outower the plain,
          Or mebbe thun’ers.
 
    Lord safe us, life’s an unco thing!
    Simmer an’ Winter, Yule an’ Spring,
-   The damned, dour-heartit seasons bring
+   The damned, dour heartit seasons bring
          A feck o’ trouble.
-   I wadnae try’t to be a king 
+   I wadnae try’t to be a king—
          No, nor for double.
 
-   But since we’re in it, willy-nilly,
+   But since we’re in it, willy nilly,
    We maun be watchfü’, wise an’ skilly,
    An’ no mind ony ither billy,
          Lassie nor God.
-   But drink that’s my best counsel till ’e:
+   But drink—that’s my best counsel till ’e:
          Sae tak the nod.
 
 
 
-VIII THE COUNTERBLAST 1886
+VIII—THE COUNTERBLAST—1886
 
 
    MY bonny man, the warld, it’s true,
@@ -1737,14 +1737,14 @@ VIII THE COUNTERBLAST 1886
    An’ beasts an’ brambles bite an’ scart;
    An’ what would WE be like, my heart!
          If bared o’ claethin’?
-    Aweel, I cannae mend your cart:
+   —Aweel, I cannae mend your cart:
          It’s that or naethin’.
 
    A feck o’ folk frae first to last
    Have through this queer experience passed;
-   Twa-three, I ken, just damn an’ blast
+   Twa three, I ken, just damn an’ blast
          The hale transaction;
-   But twa-three ithers, east an’ wast,
+   But twa three ithers, east an’ wast,
          Fand satisfaction,
 
    Whaur braid the briery muirs expand,
@@ -1761,7 +1761,7 @@ VIII THE COUNTERBLAST 1886
    The muircock an’ the barefit bairn
          Are happy there.
 
-   Sic-like the howes o’ life to some:
+   Sic like the howes o’ life to some:
    Green loans whaur they ne’er fash their thumb.
    But mark the muckle winds that come
          Soopin’ an’ cool,
@@ -1784,9 +1784,9 @@ VIII THE COUNTERBLAST 1886
 
    An’ since at life ye’ve taen the grue,
    An’ winnae blithely hirsle through,
-   Ye’ve fund the very thing to do 
+   Ye’ve fund the very thing to do—
          That’s to drink speerit;
-   An’ shüne we’ll hear the last o’ you 
+   An’ shüne we’ll hear the last o’ you—
          An’ blithe to hear it!
 
    The shoon ye coft, the life ye lead,
@@ -1799,13 +1799,13 @@ VIII THE COUNTERBLAST 1886
    As whan a glum an’ fractious wean
    Has sat an’ sullened by his lane
    Till, wi’ a rowstin’ skelp, he’s taen
-         An’ shoo’d to bed 
+         An’ shoo’d to bed—
    The ither bairns a’ fa’ to play’n’,
          As gleg’s a gled.
 
 
 
-IX THE COUNTERBLAST IRONICAL
+IX—THE COUNTERBLAST IRONICAL
 
 
    IT’S strange that God should fash to frame
@@ -1834,7 +1834,7 @@ IX THE COUNTERBLAST IRONICAL
       To a gentleman like me.
 
    It’s a different thing that I demand,
-      Tho’ humble as can be 
+      Tho’ humble as can be—
    A statement fair in my Maker’s hand
       To a gentleman like me:
 
@@ -1845,48 +1845,48 @@ IX THE COUNTERBLAST IRONICAL
 
 
 
-X THEIR LAUREATE TO AN ACADEMY CLASS DINNER CLUB
+X—THEIR LAUREATE TO AN ACADEMY CLASS DINNER CLUB
 
 
    DEAR Thamson class, whaure’er I gang
    It aye comes ower me wi’ a spang:
-   “ Lordsake !  they Thamson lads ( deil hang 
-          Or else Lord mend them !) 
-    An’ that wanchancy annual sang 
-          I ne’er can send them !”
+   “_Lordsake_! _they Thamson lads_—(_deil hang_
+         _Or else Lord mend them_!)—
+   _An’ that wanchancy annual sang_
+         _I ne’er can send them_!”
 
    Straucht, at the name, a trusty tyke,
    My conscience girrs ahint the dyke;
    Straucht on my hinderlands I fyke
          To find a rhyme t’ ye;
-   Pleased although mebbe no pleased-like 
+   Pleased—although mebbe no pleased like—
          To gie my time t’ye.
 
-   “ Weel ,” an’ says you, wi’ heavin’ breist,
-   “ Sae far ,  sae guid ,  but what’s the neist ?
-    Yearly we gaither to the feast ,
-          A’ hopefü’ men 
-    Yearly we skelloch  ‘ Hang the beast 
-          Nae sang again !’”
+   “_Weel_,” an’ says you, wi’ heavin’ breist,
+   “_Sae far_, _sae guid_, _but what’s the neist_?
+   _Yearly we gaither to the feast_,
+         _A’ hopefü’ men_—
+   _Yearly we skelloch_ ‘_Hang the beast_—
+         _Nae sang again_!’”
 
    My lads, an’ what am I to say?
    Ye shürely ken the Muse’s way:
-   Yestreen, as gleg’s a tyke the day,
+   Yestreen, as gleg’s a tyke—the day,
          Thrawn like a cuddy:
    Her conduc’, that to her’s a play,
          Deith to a body.
 
    Aft whan I sat an’ made my mane,
-   Aft whan I laboured burd-alane
+   Aft whan I laboured burd alane
    Fishin’ for rhymes an’ findin’ nane,
-         Or nane were fit for ye 
-   Ye judged me cauld’s a chucky stane 
+         Or nane were fit for ye—
+   Ye judged me cauld’s a chucky stane—
          No car’n’ a bit for ye!
 
    But saw ye ne’er some pingein’ bairn
-   As weak as a pitaty-par’n’ 
-   Less üsed wi’ guidin’ horse-shoe airn
-         Than steerin’ crowdie 
+   As weak as a pitaty par’n’—
+   Less üsed wi’ guidin’ horse shoe airn
+         Than steerin’ crowdie—
    Packed aff his lane, by moss an’ cairn,
          To ca’ the howdie.
 
@@ -1897,30 +1897,30 @@ X THEIR LAUREATE TO AN ACADEMY CLASS DINNER CLUB
    Till, blaff! upon his hinderlan’
          Behauld him landit.
 
-   Sic-like I awn the weary fac’ 
+   Sic like—I awn the weary fac’—
    Whan on my muse the gate I tak,
    An’ see her gleed e’e raxin’ back
-         To keek ahint her; 
+         To keek ahint her;—
    To me, the brig o’ Heev’n gangs black
          As blackest winter.
 
-   “ Lordsake !  we’re aff ,” thinks I, “ but whaur ?
-    On what abhorred an’ whinny scaur ,
-    Or whammled in what sea o’ glaur ,
-          Will she desert me ?
-    An’ will she just disgrace ?  or waur 
-          Will she no hurt me ?”
+   “_Lordsake_! _we’re aff_,” thinks I, “_but whaur_?
+   _On what abhorred an’ whinny scaur_,
+   _Or whammled in what sea o’ glaur_,
+         _Will she desert me_?
+   _An’ will she just disgrace_? _or waur_—
+         _Will she no hurt me_?”
 
    Kittle the quaere!  But at least
    The day I’ve backed the fashious beast,
    While she, wi’ mony a spang an’ reist,
          Flang heels ower bonnet;
-   An’ a’ triumphant for your feast,
+   An’ a’ triumphant—for your feast,
          Hae! there’s your sonnet!
 
 
 
-XI EMBRO HIE KIRK
+XI—EMBRO HIE KIRK
 
 
    THE Lord Himsel’ in former days
@@ -1939,47 +1939,47 @@ XI EMBRO HIE KIRK
 
    The hale o’ life by His commands
    Was ordered to a body’s hands;
-   But see! this  corpus juris  stands
+   But see! this _corpus juris_ stands
          By a’ forgotten;
    An’ God’s religion in a’ lands
          Is deid an’ rotten.
 
    While thus the lave o’ mankind’s lost,
-   O’ Scotland still God maks His boast 
+   O’ Scotland still God maks His boast—
    Puir Scotland, on whase barren coast
          A score or twa
    Auld wives wi’ mutches an’ a hoast
          Still keep His law.
 
    In Scotland, a wheen canty, plain,
-   Douce, kintry-leevin’ folk retain
-   The Truth or did so aince alane
+   Douce, kintry leevin’ folk retain
+   The Truth—or did so aince—alane
          Of a’ men leevin’;
-   An’ noo just twa o’ them remain 
+   An’ noo just twa o’ them remain—
          Just Begg an’ Niven.
 
    For noo, unfaithfü’, to the Lord
    Auld Scotland joins the rebel horde;
-   Her human hymn-books on the board
+   Her human hymn books on the board
          She noo displays:
    An’ Embro Hie Kirk’s been restored
          In popish ways.
 
-   O  punctum temporis  for action
+   O _punctum temporis_ for action
    To a’ o’ the reformin’ faction,
    If yet, by ony act or paction,
          Thocht, word, or sermon,
    This dark an’ damnable transaction
          Micht yet determine!
 
-   For see as Doctor Begg explains 
+   For see—as Doctor Begg explains—
    Hoo easy ’t’s düne! a pickle weans,
    Wha in the Hie Street gaither stanes
          By his instruction,
    The uncovenantit, pentit panes
          Ding to destruction.
 
-   Up, Niven, or ower late an’ dash
+   Up, Niven, or ower late—an’ dash
    Laigh in the glaur that carnal hash;
    Let spires and pews wi’ gran’ stramash
          Thegether fa’;
@@ -1989,7 +1989,7 @@ XI EMBRO HIE KIRK
    Noo choose ye out a walie hammer;
    About the knottit buttress clam’er;
    Alang the steep roof stoyt an’ stammer,
-         A gate mis-chancy;
+         A gate mis chancy;
    On the aul’ spire, the bells’ hie cha’mer,
          Dance your bit dancie.
 
@@ -1997,12 +1997,12 @@ XI EMBRO HIE KIRK
    Wi’ carnal stanes the square bestrewin’,
    Till your loud chaps frae Kyle to Fruin,
          Frae Hell to Heeven,
-   Tell the guid wark that baith are doin’ 
+   Tell the guid wark that baith are doin’—
          Baith Begg an’ Niven.
 
 
 
-XII THE SCOTSMAN’S RETURN FROM ABROAD
+XII—THE SCOTSMAN’S RETURN FROM ABROAD
 
 
 In a letter from Mr. Thomson to Mr. Johnstone.
@@ -2022,8 +2022,8 @@ In a letter from Mr. Thomson to Mr. Johnstone.
    An’ cauld religious destitütion.
    He rins, puir man, frae place to place,
    Tries a’ their graceless means o’ grace,
-   Preacher on preacher, kirk on kirk 
-   This yin a stot an’ thon a stirk 
+   Preacher on preacher, kirk on kirk—
+   This yin a stot an’ thon a stirk—
    A bletherin’ clan, no warth a preen,
    As bad as Smith of Aiberdeen!
 
@@ -2031,7 +2031,7 @@ In a letter from Mr. Thomson to Mr. Johnstone.
    Frae far, outlandish pairts I came.
    On ilka side o’ me I fand
    Fresh tokens o’ my native land.
-   Wi’ whatna joy I hailed them a’ 
+   Wi’ whatna joy I hailed them a’—
    The hilltaps standin’ raw by raw,
    The public house, the Hielan’ birks,
    And a’ the bonny U.P. kirks!
@@ -2043,7 +2043,7 @@ In a letter from Mr. Thomson to Mr. Johnstone.
    For after years wi’ a pockmantie
    Frae Zanzibar to Alicante,
    In mony a fash and sair affliction
-   I gie’t as my sincere conviction 
+   I gie’t as my sincere conviction—
    Of a’ their foreign tricks an’ pliskies,
    I maist abominate their whiskies.
    Nae doot, themsel’s, they ken it weel,
@@ -2053,13 +2053,13 @@ In a letter from Mr. Thomson to Mr. Johnstone.
    Sic wersh apothecary’s broos wi’
    As Scotsmen scorn to fyle their moo’s wi’.
 
-   An’, man, I was a blithe hame-comer
+   An’, man, I was a blithe hame comer
    Whan first I syndit out my rummer.
    Ye should hae seen me then, wi’ care
    The less important pairts prepare;
    Syne, weel contentit wi’ it a’,
    Pour in the sperrits wi’ a jaw!
-   I didnae drink, I didnae speak, 
+   I didnae drink, I didnae speak,—
    I only snowkit up the reek.
    I was sae pleased therein to paidle,
    I sat an’ plowtered wi’ my ladle.
@@ -2077,7 +2077,7 @@ In a letter from Mr. Thomson to Mr. Johnstone.
 
    I was, and I will no deny it,
    At the first gliff a hantle tryit
-   To see yoursel’ in sic a station 
+   To see yoursel’ in sic a station—
    It seemed a doubtfü’ dispensation.
    The feelin’ was a mere digression;
    For shüne I understood the session,
@@ -2085,24 +2085,24 @@ In a letter from Mr. Thomson to Mr. Johnstone.
    I wondered they had düne sae weel.
    I saw I had mysel’ to blame;
    For had I but remained at hame,
-   Aiblins though no ava’ deservin’ ’t 
+   Aiblins—though no ava’ deservin’ ’t—
    They micht hae named your humble servant.
 
    The kirk was filled, the door was steeked;
    Up to the pu’pit ance I keeked;
-   I was mair pleased than I can tell 
+   I was mair pleased than I can tell—
    It was the minister himsel’!
    Proud, proud was I to see his face,
    After sae lang awa’ frae grace.
    Pleased as I was, I’m no denyin’
    Some maitters were not edifyin’;
-   For first I fand an’ here was news! 
-   Mere hymn-books cockin’ in the pews 
+   For first I fand—an’ here was news!—
+   Mere hymn books cockin’ in the pews—
    A humanised abomination,
    Unfit for ony congregation.
    Syne, while I still was on the tenter,
    I scunnered at the new prezentor;
-   I thocht him gesterin’ an’ cauld 
+   I thocht him gesterin’ an’ cauld—
    A sair declension frae the auld.
    Syne, as though a’ the faith was wreckit,
    The prayer was not what I’d exspeckit.
@@ -2117,7 +2117,7 @@ In a letter from Mr. Thomson to Mr. Johnstone.
    To hear the p’ints o’ doctrine clearit,
    And a’ the horrors o’ damnation
    Set furth wi’ faithfü’ ministration!
-   Nae shauchlin’ testimony here 
+   Nae shauchlin’ testimony here—
    We were a’ damned, an’ that was clear,
    I owned, wi’ gratitude an’ wonder,
    He was a pleisure to sit under.
@@ -2130,15 +2130,15 @@ XIII
    LATE in the nicht in bed I lay,
    The winds were at their weary play,
    An’ tirlin’ wa’s an’ skirlin’ wae
-         Through Heev’n they battered; 
-   On-ding o’ hail, on-blaff o’ spray,
+         Through Heev’n they battered;—
+   On ding o’ hail, on blaff o’ spray,
          The tempest blattered.
 
    The masoned house it dinled through;
    It dung the ship, it cowped the coo’.
    The rankit aiks it overthrew,
          Had braved a’ weathers;
-   The strang sea-gleds it took an’ blew
+   The strang sea gleds it took an’ blew
          Awa’ like feathers.
 
    The thrawes o’ fear on a’ were shed,
@@ -2148,7 +2148,7 @@ XIII
    An’ the cauld terror clum in bed
          Wi’ a’ an’ sindry.
 
-   To hear in the pit-mirk on hie
+   To hear in the pit mirk on hie
    The brangled collieshangie flie,
    The warl’, they thocht, wi’ land an’ sea,
          Itsel’ wad cowpit;
@@ -2170,8 +2170,8 @@ XIII
          O’ tautit sinners!
 
    The wind may blaw, the heathen rage,
-   The deil may start on the rampage; 
-   The sick in bed, the thief in cage 
+   The deil may start on the rampage;—
+   The sick in bed, the thief in cage—
          What’s a’ to me?
    Cosh in my house, a sober sage,
          I sit an’ see.
@@ -2180,8 +2180,8 @@ XIII
    To lie sae saft, to live sae free,
    While better men maun do an’ die
          In unco places.
-   “ Whaur’s God ?” I cry, an’ “ Whae is me 
-          To hae sic graces ?”
+   “_Whaur’s God_?” I cry, an’ “_Whae is me_
+         _To hae sic graces_?”
 
    I mind the fecht the sailors keep,
    But fire or can’le, rest or sleep,
@@ -2190,8 +2190,8 @@ XIII
    The herd that on the hills o’ sheep
          Has wandered wide.
 
-   I mind me on the hoastin’ weans 
-   The penny joes on causey stanes 
+   I mind me on the hoastin’ weans—
+   The penny joes on causey stanes—
    The auld folk wi’ the crazy banes,
          Baith auld an’ puir,
    That aye maun thole the winds an’ rains
@@ -2215,18 +2215,18 @@ XIII
    Let daw that sair an’ happy day!
    Again’ the warl’, grawn auld an’ gray,
          Up wi’ your aixe!
-   An’ let the puir enjoy their play 
+   An’ let the puir enjoy their play—
          I’ll thole my paiks.
 
 
 
-XIV MY CONSCIENCE!
+XIV—MY CONSCIENCE!
 
 
    OF a’ the ills that flesh can fear,
    The loss o’ frien’s, the lack o’ gear,
    A yowlin’ tyke, a glandered mear,
-         A lassie’s nonsense 
+         A lassie’s nonsense—
    There’s just ae thing I cannae bear,
          An’ that’s my conscience.
 
@@ -2240,25 +2240,25 @@ XIV MY CONSCIENCE!
    A’ day wi’ various ends in view
    The hairsts o’ time I had to pu’,
    An’ made a hash wad staw a soo,
-         Let be a man! 
+         Let be a man!—
    My conscience! whan my han’s were fu’,
          Whaur were ye than?
 
    An’ there were a’ the lures o’ life,
    There pleesure skirlin’ on the fife,
    There anger, wi’ the hotchin’ knife
-         Ground shairp in Hell 
-   My conscience! you that’s like a wife! 
+         Ground shairp in Hell—
+   My conscience!—you that’s like a wife!—
          Whaur was yoursel’?
 
    I ken it fine: just waitin’ here,
    To gar the evil waur appear,
    To clart the guid, confüse the clear,
-         Mis-ca’ the great,
+         Mis ca’ the great,
    My conscience! an’ to raise a steer
          Whan a’s ower late.
 
-   Sic-like, some tyke grawn auld and blind,
+   Sic like, some tyke grawn auld and blind,
    Whan thieves brok’ through the gear to p’ind,
    Has lain his dozened length an’ grinned
          At the disaster;
@@ -2267,18 +2267,18 @@ XIV MY CONSCIENCE!
 
 
 
-XV TO DOCTOR JOHN BROWN
+XV—TO DOCTOR JOHN BROWN
 
 
-   ( Whan the dear doctor ,  dear to a’ ,
-    Was still amang us here belaw ,
-    I set my pipes his praise to blaw 
-          Wi’ a’ my speerit ;
-    But noo ,  Dear Doctor !  he’s awa’ ,
-          An’ ne’er can hear it .)
+   (_Whan the dear doctor_, _dear to a’_,
+   _Was still amang us here belaw_,
+   _I set my pipes his praise to blaw_
+         _Wi’ a’ my speerit_;
+   _But noo_, _Dear Doctor_! _he’s awa’_,
+         _An’ ne’er can hear it_.)
 
    BY Lyne and Tyne, by Thames and Tees,
-   By a’ the various river-Dee’s,
+   By a’ the various river Dee’s,
    In Mars and Manors ’yont the seas
          Or here at hame,
    Whaure’er there’s kindly folk to please,
@@ -2292,9 +2292,9 @@ XV TO DOCTOR JOHN BROWN
          An’ no yoursel’.
 
    As at the gowff, some canny play’r
-   Should tee a common ba’ wi’ care 
+   Should tee a common ba’ wi’ care—
    Should flourish and deleever fair
-         His souple shintie 
+         His souple shintie—
    An’ the ba’ rise into the air,
          A leevin’ lintie:
 
@@ -2305,7 +2305,7 @@ XV TO DOCTOR JOHN BROWN
    An’ like your Rab, their things o’ clay,
          Spreid wings o’ life.
 
-   Ye scarce deserved it, I’m afraid 
+   Ye scarce deserved it, I’m afraid—
    You that had never learned the trade,
    But just some idle mornin’ strayed
          Into the schüle,
@@ -2315,7 +2315,7 @@ XV TO DOCTOR JOHN BROWN
    Your e’e was gleg, your fingers dink;
    Ye didnae fash yoursel’ to think,
    But wove, as fast as puss can link,
-         Your denty wab: 
+         Your denty wab:—
    Ye stapped your pen into the ink,
          An’ there was Rab!
 
@@ -2330,17 +2330,17 @@ XV TO DOCTOR JOHN BROWN
    An’ hauld ye for an honoured heid,
    That for a wee bit clarkit screed
          Sae weel reward ye,
-   An’ lend puir Rabbie bein’ deid 
+   An’ lend—puir Rabbie bein’ deid—
          His ghaist to guard ye.
 
    For though, whaure’er yoursel’ may be,
    We’ve just to turn an’ glisk a wee,
    An’ Rab at heel we’re shüre to see
-         Wi’ gladsome caper: 
-   The bogle of a bogle, he 
+         Wi’ gladsome caper:—
+   The bogle of a bogle, he—
          A ghaist o’ paper!
 
-   And as the auld-farrand hero sees
+   And as the auld farrand hero sees
    In Hell a bogle Hercules,
    Pit there the lesser deid to please,
          While he himsel’
@@ -2349,7 +2349,7 @@ XV TO DOCTOR JOHN BROWN
 
    Sae the true Rabbie far has gane
    On kindlier business o’ his ain
-   Wi’ aulder frien’s; an’ his breist-bane
+   Wi’ aulder frien’s; an’ his breist bane
          An’ stumpie tailie,
    He birstles at a new hearth stane
          By James and Ailie.

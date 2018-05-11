@@ -17,14 +17,14 @@
 
   BEATRIX POTTER
 
-   Author of
-  "The Tale of Peter Rabbit," etc. 
+  _Author of
+  "The Tale of Peter Rabbit," etc._
 
   NEW YORK
 
   FREDERICK WARNE & CO., LTD.
 
-  [ All rights reserved ]
+  [_All rights reserved_]
 
   Copyright, 1922,
   by
@@ -70,7 +70,7 @@
 
   [Illustration]
 
-  Pussy-cat sits by the fire;
+  Pussy cat sits by the fire;
     How should she be fair?
   In walks the little dog,
     Says "Pussy! are you there?"
@@ -116,6 +116,6 @@
 
   Ninny nanny netticoat,
   In a white petticoat,
-      With a red nose,--
+      With a red nose, -
   The longer she stands,
       The shorter she grows.

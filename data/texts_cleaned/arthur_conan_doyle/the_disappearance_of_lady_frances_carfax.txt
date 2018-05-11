@@ -1,6 +1,6 @@
 "But why Turkish?" asked Mr. Sherlock Holmes, gazing fixedly at my
-boots.  I was reclining in a cane-backed chair at the moment, and my
-protruded feet had attracted his ever-active attention.
+boots.  I was reclining in a cane backed chair at the moment, and my
+protruded feet had attracted his ever active attention.
 
 "English," I answered in some surprise.  "I got them at Latimer's, in
 Oxford Street."
@@ -8,14 +8,14 @@ Oxford Street."
 Holmes smiled with an expression of weary patience.
 
 "The bath!" he said; "the bath!  Why the relaxing and expensive Turkish
-rather than the invigorating home-made article?"
+rather than the invigorating home made article?"
 
 "Because for the last few days I have been feeling rheumatic and old. A
-Turkish bath is what we call an alterative in medicine--a fresh
-starting-point, a cleanser of the system.
+Turkish bath is what we call an alterative in medicine a fresh
+starting point, a cleanser of the system.
 
 "By the way, Holmes," I added, "I have no doubt the connection between
-my boots and a Turkish bath is a perfectly self-evident one to a
+my boots and a Turkish bath is a perfectly self evident one to a
 logical mind, and yet I should be obliged to you if you would indicate
 it."
 
@@ -28,7 +28,7 @@ your cab in your drive this morning."
 with some asperity.
 
 "Bravo, Watson!  A very dignified and logical remonstrance.  Let me
-see, what were the points?  Take the last one first--the cab. You
+see, what were the points?  Take the last one first the cab. You
 observe that you have some splashes on the left sleeve and shoulder of
 your coat.  Had you sat in the centre of a hansom you would probably
 have had no splashes, and if you had they would certainly have been
@@ -44,7 +44,7 @@ Therefore it is equally clear that you had a companion."
 "Equally childish.  You are in the habit of doing up your boots in a
 certain way.  I see them on this occasion fastened with an elaborate
 double bow, which is not your usual method of tying them.  You have,
-therefore, had them off.  Who has tied them?  A bootmaker--or the boy
+therefore, had them off.  Who has tied them?  A bootmaker or the boy
 at the bath.  It is unlikely that it is the bootmaker, since your boots
 are nearly new.  Well, what remains? The bath.  Absurd, is it not?
 But, for all that, the Turkish bath has served a purpose."
@@ -53,7 +53,7 @@ But, for all that, the Turkish bath has served a purpose."
 
 "You say that you have had it because you need a change.  Let me
 suggest that you take one.  How would Lausanne do, my dear
-Watson--first-class tickets and all expenses paid on a princely scale?"
+Watson first class tickets and all expenses paid on a princely scale?"
 
 "Splendid!  But why?"
 
@@ -77,7 +77,7 @@ particular.  Holmes consulted his notes.
 family of the late Earl of Rufton.  The estates went, as you may
 remember, in the male line.  She was left with limited means, but with
 some very remarkable old Spanish jewellery of silver and curiously cut
-diamonds to which she was fondly attached--too attached, for she
+diamonds to which she was fondly attached too attached, for she
 refused to leave them with her banker and always carried them about
 with her.  A rather pathetic figure, the Lady Frances, a beautiful
 woman, still in fresh middle age, and yet, by a strange change, the
@@ -120,7 +120,7 @@ researches will soon clear the matter up."
 
 "MY researches!"
 
-"Hence the health-giving expedition to Lausanne.  You know that I
+"Hence the health giving expedition to Lausanne.  You know that I
 cannot possibly leave London while old Abrahams is in such mortal
 terror of his life.  Besides, on general principles it is best that I
 should not leave the country.  Scotland Yard feels lonely without me,
@@ -130,7 +130,7 @@ extravagant a rate as two pence a word, it waits your disposal night
 and day at the end of the Continental wire."
 
 Two days later found me at the Hotel National at Lausanne, where I
-received every courtesy at the hands of M. Moser, the well-known
+received every courtesy at the hands of M. Moser, the well known
 manager.  Lady Frances, as he informed me, had stayed there for several
 weeks.  She had been much liked by all who met her. Her age was not
 more than forty.  She was still handsome and bore every sign of having
@@ -151,7 +151,7 @@ overlooking the lake.  And yet she had left at a single day's notice,
 which involved her in the useless payment of a week's rent.  Only Jules
 Vibart, the lover of the maid, had any suggestion to offer.  He
 connected the sudden departure with the visit to the hotel a day or two
-before of a tall, dark, bearded man.  "Un sauvage--un veritable
+before of a tall, dark, bearded man.  "Un sauvage un veritable
 sauvage!" cried Jules Vibart.  The man had rooms somewhere in the town.
 He had been seen talking earnestly to Madame on the promenade by the
 lake.  Then he had called.  She had refused to see him.  He was
@@ -171,7 +171,7 @@ Otherwise why should not her luggage have been openly labelled for
 Baden?  Both she and it reached the Rhenish spa by some circuitous
 route.  This much I gathered from the manager of Cook's local office.
 So to Baden I went, after dispatching to Holmes an account of all my
-proceedings and receiving in reply a telegram of half-humorous
+proceedings and receiving in reply a telegram of half humorous
 commendation.
 
 At Baden the track was not difficult to follow.  Lady Frances had
@@ -183,7 +183,7 @@ his whole hearted devotion, and the fact that he was recovering from a
 disease contracted in the exercise of his apostolic duties affected her
 deeply.  She had helped Mrs. Shlessinger in the nursing of the
 convalescent saint.  He spent his day, as the manager described it to
-me, upon a lounge-chair on the veranda, with an attendant lady upon
+me, upon a lounge chair on the veranda, with an attendant lady upon
 either side of him.  He was preparing a map of the Holy Land, with
 special reference to the kingdom of the Midianites, upon which he was
 writing a monograph.  Finally, having improved much in health, he and
@@ -224,10 +224,10 @@ To Holmes I wrote showing how rapidly and surely I had got down to the
 roots of the matter.  In reply I had a telegram asking for a
 description of Dr. Shlessinger's left ear.  Holmes's ideas of humour
 are strange and occasionally offensive, so I took no notice of his
-ill-timed jest--indeed, I had already reached Montpellier in my pursuit
+ill timed jest indeed, I had already reached Montpellier in my pursuit
 of the maid, Marie, before his message came.
 
-I had no difficulty in finding the ex-servant and in learning all that
+I had no difficulty in finding the ex servant and in learning all that
 she could tell me.  She was a devoted creature, who had only left her
 mistress because she was sure that she was in good hands, and because
 her own approaching marriage made a separation inevitable in any case.
@@ -235,7 +235,7 @@ Her mistress had, as she confessed with distress, shown some
 irritability of temper towards her during their stay in Baden, and had
 even questioned her once as if she had suspicions of her honesty, and
 this had made the parting easier than it would otherwise have been.
-Lady Frances had given her fifty pounds as a wedding-present.  Like me,
+Lady Frances had given her fifty pounds as a wedding present.  Like me,
 Marie viewed with deep distrust the stranger who had driven her
 mistress from Lausanne.  With her own eyes she had seen him seize the
 lady's wrist with great violence on the public promenade by the lake.
@@ -248,7 +248,7 @@ narrative, when suddenly she sprang from her chair and her face was
 convulsed with surprise and fear.  "See!" she cried.  "The miscreant
 follows still!  There is the very man of whom I speak."
 
-Through the open sitting-room window I saw a huge, swarthy man with a
+Through the open sitting room window I saw a huge, swarthy man with a
 bristling black beard walking slowly down the centre of the street and
 staring eagerly at the numbers of the houses.  It was clear that, like
 myself, he was on the track of the maid. Acting upon the impulse of the
@@ -301,8 +301,8 @@ to give the alarm everywhere and yet to discover nothing."
 "Perhaps you would have done no better," I answered bitterly.
 
 "There is no 'perhaps' about it.  I HAVE done better.  Here is the Hon.
-Philip Green, who is a fellow-lodger with you in this hotel, and we may
-find him the starting-point for a more successful investigation."
+Philip Green, who is a fellow lodger with you in this hotel, and we may
+find him the starting point for a more successful investigation."
 
 A card had come up on a salver, and it was followed by the same bearded
 ruffian who had attacked me in the street.  He started when he saw me.
@@ -326,17 +326,17 @@ came to hear of my existence at all."
 
 "Old Susan Dobney with the mob cap!  I remember her well."
 
-"And she remembers you.  It was in the days before--before you found it
+"And she remembers you.  It was in the days before before you found it
 better to go to South Africa."
 
 "Ah, I see you know my whole story.  I need hide nothing from you.  I
 swear to you, Mr. Holmes, that there never was in this world a man who
 loved a woman with a more wholehearted love than I had for Frances.  I
-was a wild youngster, I know--not worse than others of my class.  But
+was a wild youngster, I know not worse than others of my class.  But
 her mind was pure as snow.  She could not bear a shadow of coarseness.
 So, when she came to hear of things that I had done, she would have no
-more to say to me. And yet she loved me--that is the wonder of
-it!--loved me well enough to remain single all her sainted days just
+more to say to me. And yet she loved me that is the wonder of
+it! loved me well enough to remain single all her sainted days just
 for my sake alone.  When the years had passed and I had made my money
 at Barberton I thought perhaps I could seek her out and soften her. I
 had heard that she was still unmarried, I found her at Lausanne and
@@ -358,7 +358,7 @@ may rest assured that all that can be done will be done for the safety
 of Lady Frances.  I can say no more for the instant.  I will leave you
 this card so that you may be able to keep in touch with us.  Now,
 Watson, if you will pack your bag I will cable to Mrs. Hudson to make
-one of her best efforts for two hungry travellers at 7:30 to-morrow."
+one of her best efforts for two hungry travellers at 7:30 to morrow."
 
 
 A telegram was awaiting us when we reached our Baker Street rooms,
@@ -381,13 +381,13 @@ Englischer Hof, whose answer lies here."
 "It shows, my dear Watson, that we are dealing with an exceptionally
 astute and dangerous man.  The Rev. Dr. Shlessinger, missionary from
 South America, is none other than Holy Peters, one of the most
-unscrupulous rascals that Australia has ever evolved--and for a young
+unscrupulous rascals that Australia has ever evolved and for a young
 country it has turned out some very finished types.  His particular
 specialty is the beguiling of lonely ladies by playing upon their
-religious feelings, and his so-called wife, an Englishwoman named
+religious feelings, and his so called wife, an Englishwoman named
 Fraser, is a worthy helpmate.  The nature of his tactics suggested his
-identity to me, and this physical peculiarity--he was badly bitten in a
-saloon-fight at Adelaide in '89--confirmed my suspicion.  This poor
+identity to me, and this physical peculiarity he was badly bitten in a
+saloon fight at Adelaide in '89--confirmed my suspicion.  This poor
 lady is in the hands of a most infernal couple, who will stick at
 nothing, Watson.  That she is already dead is a very likely
 supposition.  If not, she is undoubtedly in some sort of confinement
@@ -411,14 +411,14 @@ tried, and failed.  Clues were followed, and led to nothing.  Every
 criminal resort which Shlessinger might frequent was drawn in vain.
 His old associates were watched, but they kept clear of him.  And then
 suddenly, after a week of helpless suspense there came a flash of
-light.  A silver-and-brilliant pendant of old Spanish design had been
+light.  A silver and brilliant pendant of old Spanish design had been
 pawned at Bovington's, in Westminster Road.  The pawner was a large,
-clean-shaven man of clerical appearance.  His name and address were
+clean shaven man of clerical appearance.  His name and address were
 demonstrably false.  The ear had escaped notice, but the description
 was surely that of Shlessinger.
 
 Three times had our bearded friend from the Langham called for
-news--the third time within an hour of this fresh development. His
+news the third time within an hour of this fresh development. His
 clothes were getting looser on his great body.  He seemed to be wilting
 away in his anxiety.  "If you will only give me something to do!" was
 his constant wail.  At last Holmes could oblige him.
@@ -441,7 +441,7 @@ prepare for the worst."
 
 "It is possible that he will go to some other pawnbroker in the future.
 In that case, we must begin again.  On the other hand, he has had a
-fair price and no questions asked, so if he is in need of ready-money
+fair price and no questions asked, so if he is in need of ready money
 he will probably come back to Bovington's.  I will give you a note to
 them, and they will let you wait in the shop.  If the fellow comes you
 will follow him home.  But no indiscretion, and, above all, no
@@ -451,7 +451,7 @@ my knowledge and consent."
 For two days the Hon. Philip Green (he was, I may mention, the son of
 the famous admiral of that name who commanded the Sea of Azof fleet in
 the Crimean War) brought us no news.  On the evening of the third he
-rushed into our sitting-room, pale, trembling, with every muscle of his
+rushed into our sitting room, pale, trembling, with every muscle of his
 powerful frame quivering with excitement.
 
 "We have him!  We have him!" he cried.
@@ -506,7 +506,7 @@ think that she recognized me.  I saw her start, and she hastily closed
 the door. I remembered my promise to you, and here I am."
 
 "You have done excellent work," said Holmes, scribbling a few words
-upon a half-sheet of paper.  "We can do nothing legal without a
+upon a half sheet of paper.  "We can do nothing legal without a
 warrant, and you can serve the cause best by taking this note down to
 the authorities and getting one.  There may be some difficulty, but I
 should think that the sale of the jewellery should be sufficient.
@@ -548,7 +548,7 @@ certificate and official sanction.  Had the lady been obviously
 murdered, they would have buried her in a hole in the back garden.  But
 here all is open and regular.  What does this mean?  Surely that they
 have done her to death in some way which has deceived the doctor and
-simulated a natural end--poisoning, perhaps.  And yet how strange that
+simulated a natural end poisoning, perhaps.  And yet how strange that
 they should ever let a doctor approach her unless he were a
 confederate, which is hardly a credible proposition."
 
@@ -558,11 +558,11 @@ confederate, which is hardly a credible proposition."
 Pull up, cabby!  This is evidently the undertaker's, for we have just
 passed the pawnbroker's.  Would you go in, Watson?  Your appearance
 inspires confidence.  Ask what hour the Poultney Square funeral takes
-place to-morrow."
+place to morrow."
 
 The woman in the shop answered me without hesitation that it was to be
 at eight o'clock in the morning.  "You see, Watson, no mystery;
-everything above-board!  In some way the legal forms have undoubtedly
+everything above board!  In some way the legal forms have undoubtedly
 been complied with, and they think that they have little to fear.
 Well, there's nothing for it now but a direct frontal attack.  Are you
 armed?"
@@ -577,7 +577,7 @@ in the past."
 
 He had rung loudly at the door of a great dark house in the centre of
 Poultney Square.  It was opened immediately, and the figure of a tall
-woman was outlined against the dim-lit hall.
+woman was outlined against the dim lit hall.
 
 "Well, what do you want?" she asked sharply, peering at us through the
 darkness.
@@ -592,20 +592,20 @@ himself," said Holmes firmly.
 
 She hesitated.  Then she threw open the door.  "Well, come in!" said
 she.  "My husband is not afraid to face any man in the world."  She
-closed the door behind us and showed us into a sitting-room on the
+closed the door behind us and showed us into a sitting room on the
 right side of the hall, turning up the gas as she left us.  "Mr. Peters
 will be with you in an instant," she said.
 
 Her words were literally true, for we had hardly time to look around
-the dusty and moth-eaten apartment in which we found ourselves before
-the door opened and a big, clean-shaven bald-headed man stepped lightly
+the dusty and moth eaten apartment in which we found ourselves before
+the door opened and a big, clean shaven bald headed man stepped lightly
 into the room.  He had a large red face, with pendulous cheeks, and a
 general air of superficial benevolence which was marred by a cruel,
 vicious mouth.
 
 "There is surely some mistake here, gentlemen," he said in an unctuous,
-make-everything-easy voice.  "I fancy that you have been misdirected.
-Possibly if you tried farther down the street--"
+make everything easy voice.  "I fancy that you have been misdirected.
+Possibly if you tried farther down the street "
 
 "That will do; we have no time to waste," said my companion firmly.
 "You are Henry Peters, of Adelaide, late the Rev. Dr. Shlessinger, of
@@ -624,10 +624,10 @@ you brought away with you from Baden."
 answered coolly.  "I've a bill against her for nearly a hundred
 pounds, and nothing to show for it but a couple of trumpery pendants
 that the dealer would hardly look at.  She attached herself to Mrs.
-Peters and me at Baden--it is a fact that I was using another name at
-the time--and she stuck on to us until we came to London.  I paid her
+Peters and me at Baden it is a fact that I was using another name at
+the time and she stuck on to us until we came to London.  I paid her
 bill and her ticket.  Once in London, she gave us the slip, and, as I
-say, left these out-of-date jewels to pay her bills.  You find her, Mr.
+say, left these out of date jewels to pay her bills.  You find her, Mr.
 Holmes, and I'm your debtor."
 
 "I MEAN to find her," said Sherlock Holmes.  "I'm going through this
@@ -662,12 +662,12 @@ it."
 
 "Then without it."  With a quick movement Holmes pushed the fellow to
 one side and passed into the hall.  A door half opened stood
-immediately before us.  We entered.  It was the dining-room. On the
-table, under a half-lit chandelier, the coffin was lying.  Holmes
+immediately before us.  We entered.  It was the dining room. On the
+table, under a half lit chandelier, the coffin was lying.  Holmes
 turned up the gas and raised the lid.  Deep down in the recesses of the
 coffin lay an emaciated figure.  The glare from the lights above beat
 down upon an aged and withered face. By no possible process of cruelty,
-starvation, or disease could this worn-out wreck be the still beautiful
+starvation, or disease could this worn out wreck be the still beautiful
 Lady Frances.  Holmes's face showed his amazement, and also his relief.
 
 "Thank God!" he muttered.  "It's someone else."
@@ -680,12 +680,12 @@ Peters, who had followed us into the room.
 "Well, if you really must know, she is an old nurse of my wife's, Rose
 Spender by name, whom we found in the Brixton Workhouse Infirmary.  We
 brought her round here, called in Dr. Horsom, of 13 Firbank
-Villas--mind you take the address, Mr. Holmes--and had her carefully
+Villas mind you take the address, Mr. Holmes and had her carefully
 tended, as Christian folk should.  On the third day she
-died--certificate says senile decay--but that's only the doctor's
+died certificate says senile decay but that's only the doctor's
 opinion, and of course you know better.  We ordered her funeral to be
 carried out by Stimson and Co., of the Kennington Road, who will bury
-her at eight o'clock to-morrow morning.  Can you pick any hole in that,
+her at eight o'clock to morrow morning.  Can you pick any hole in that,
 Mr. Holmes?  You've made a silly blunder, and you may as well own up to
 it.  I'd give something for a photograph of your gaping, staring face
 when you pulled aside that lid expecting to see the Lady Frances Carfax
@@ -727,7 +727,7 @@ followed us.
 "Exactly, Sergeant, you could not do otherwise."
 
 "I expect there was good reason for your presence there.  If there is
-anything I can do--"
+anything I can do "
 
 "It's a missing lady, Sergeant, and we think she is in that house.  I
 expect a warrant presently."
@@ -766,17 +766,17 @@ together, and his long, nervous fingers tapping upon the arms of his
 chair, as he turned over in his mind every possible solution of the
 mystery.  Several times in the course of the night I heard him prowling
 about the house. Finally, just after I had been called in the morning,
-he rushed into my room.  He was in his dressing-gown, but his pale,
-hollow-eyed face told me that his night had been a sleepless one.
+he rushed into my room.  He was in his dressing gown, but his pale,
+hollow eyed face told me that his night had been a sleepless one.
 
 "What time was the funeral?  Eight, was it not?" he asked eagerly.
 "Well, it is 7:20 now.  Good heavens, Watson, what has become of any
-brains that God has given me?  Quick, man, quick! It's life or death--a
+brains that God has given me?  Quick, man, quick! It's life or death a
 hundred chances on death to one on life. I'll never forgive myself,
 never, if we are too late!"
 
 Five minutes had not passed before we were flying in a hansom down
-Baker Street.  But even so it was twenty-five to eight as we passed Big
+Baker Street.  But even so it was twenty five to eight as we passed Big
 Ben, and eight struck as we tore down the Brixton Road.  But others
 were late as well as we.  Ten minutes after the hour the hearse was
 still standing at the door of the house, and even as our foaming horse
@@ -795,15 +795,15 @@ it comes."
 
 The authority in Holmes's voice had its effect upon the bearers. Peters
 had suddenly vanished into the house, and they obeyed these new orders.
-"Quick, Watson, quick!  Here is a screw-driver!" he shouted as the
+"Quick, Watson, quick!  Here is a screw driver!" he shouted as the
 coffin was replaced upon the table. "Here's one for you, my man!  A
-sovereign if the lid comes off in a minute!  Ask no questions--work
+sovereign if the lid comes off in a minute!  Ask no questions work
 away!  That's good!  Another! And another!  Now pull all together!
 It's giving!  It's giving! Ah, that does it at last."
 
-With a united effort we tore off the coffin-lid.  As we did so there
+With a united effort we tore off the coffin lid.  As we did so there
 came from the inside a stupefying and overpowering smell of chloroform.
-A body lay within, its head all wreathed in cotton-wool, which had been
+A body lay within, its head all wreathed in cotton wool, which had been
 soaked in the narcotic.  Holmes plucked it off and disclosed the
 statuesque face of a handsome and spiritual woman of middle age.  In an
 instant he had passed his arm round the figure and raised her to a
@@ -825,11 +825,11 @@ the passage, "is someone who has a better right to nurse this lady than
 we have.  Good morning, Mr. Green; I think that the sooner we can move
 the Lady Frances the better. Meanwhile, the funeral may proceed, and
 the poor old woman who still lies in that coffin may go to her last
-resting-place alone."
+resting place alone."
 
 "Should you care to add the case to your annals, my dear Watson," said
 Holmes that evening, "it can only be as an example of that temporary
-eclipse to which even the best-balanced mind may be exposed.  Such
+eclipse to which even the best balanced mind may be exposed.  Such
 slips are common to all mortals, and the greatest is he who can
 recognize and repair them.  To this modified credit I may, perhaps,
 make some claim.  My night was haunted by the thought that somewhere a
@@ -858,6 +858,6 @@ well enough.  You saw the horrible den upstairs, where the poor lady
 had been kept so long.  They rushed in and overpowered her with their
 chloroform, carried her down, poured more into the coffin to insure
 against her waking, and then screwed down the lid.  A clever device,
-Watson.  It is new to me in the annals of crime.  If our ex-missionary
+Watson.  It is new to me in the annals of crime.  If our ex missionary
 friends escape the clutches of Lestrade, I shall expect to hear of some
 brilliant incidents in their future career."

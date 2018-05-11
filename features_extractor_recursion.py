@@ -59,7 +59,8 @@ def combine_author_df(authors):
     for author in authors:
         print(author)
         author_df = build_author_df(author=author)
-        author_dfs.append(author_df.df)
+        print(author_df.shape)
+        author_dfs.append(author_df)
     books_df = pd.concat(author_dfs)
     books_df = books_df.fillna(0)
     print(books_df.shape)

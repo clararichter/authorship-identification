@@ -5,9 +5,9 @@ CARTHORIS AND THUVIA
 
 Upon a massive bench of polished ersite beneath the gorgeous blooms
 of a giant pimalia a woman sat.  Her shapely, sandalled foot tapped
-impatiently upon the jewel-strewn walk that wound beneath the
+impatiently upon the jewel strewn walk that wound beneath the
 stately sorapus trees across the scarlet sward of the royal gardens
-of Thuvan Dihn, Jeddak of Ptarth, as a dark-haired, red-skinned
+of Thuvan Dihn, Jeddak of Ptarth, as a dark haired, red skinned
 warrior bent low toward her, whispering heated words close to her
 ear.
 
@@ -15,8 +15,8 @@ ear.
 fiery blasts of my consuming love!  No harder than your heart, nor
 colder is the hard, cold ersite of this thrice happy bench which
 supports your divine and fadeless form!  Tell me, O Thuvia of
-Ptarth, that I may still hope--that though you do not love me now,
-yet some day, some day, my princess, I--"
+Ptarth, that I may still hope that though you do not love me now,
+yet some day, some day, my princess, I "
 
 The girl sprang to her feet with an exclamation of surprise and
 displeasure.  Her queenly head was poised haughtily upon her smooth
@@ -32,16 +32,16 @@ The man reached suddenly forth and grasped her by the arm.
 shalt, nor shall any other come between Astok, Prince of Dusar,
 and his heart's desire.  Tell me that there is another, and I shall
 cut out his foul heart and fling it to the wild calots of the dead
-sea-bottoms!"
+sea bottoms!"
 
 At touch of the man's hand upon her flesh the girl went pallid
 beneath her coppery skin, for the persons of the royal women of
 the courts of Mars are held but little less than sacred.  The act
 of Astok, Prince of Dusar, was profanation.  There was no terror
-in the eyes of Thuvia of Ptarth--only horror for the thing the man
+in the eyes of Thuvia of Ptarth only horror for the thing the man
 had done and for its possible consequences.
 
-"Release me."  Her voice was level--frigid.
+"Release me."  Her voice was level frigid.
 
 The man muttered incoherently and drew her roughly toward him.
 
@@ -56,7 +56,7 @@ in the mouth with the massive bracelets that circled her free arm.
 in protection of the Princess of Ptarth!"
 
 In answer to her call a dozen guardsmen came racing across the
-scarlet sward, their gleaming long-swords naked in the sun, the
+scarlet sward, their gleaming long swords naked in the sun, the
 metal of their accoutrements clanking against that of their leathern
 harness, and in their throats hoarse shouts of rage at the sight
 which met their eyes.
@@ -66,9 +66,9 @@ Astok of Dusar still held the struggling girl in his grasp, another
 figure sprang from a cluster of dense foliage that half hid a golden
 fountain close at hand.  A tall, straight youth he was, with black
 hair and keen grey eyes; broad of shoulder and narrow of hip; a
-clean-limbed fighting man.  His skin was but faintly tinged with
+clean limbed fighting man.  His skin was but faintly tinged with
 the copper colour that marks the red men of Mars from the other
-races of the dying planet--he was like them, and yet there was a
+races of the dying planet he was like them, and yet there was a
 subtle difference greater even than that which lay in his lighter
 skin and his grey eyes.
 
@@ -77,7 +77,7 @@ leaps that carried him so swiftly over the ground that the speed
 of the guardsmen was as nothing by comparison.
 
 Astok still clutched Thuvia's wrist as the young warrior confronted
-him.  The new-comer wasted no time and he spoke but a single word.
+him.  The new comer wasted no time and he spoke but a single word.
 
 "Calot!" he snapped, and then his clenched fist landed beneath the
 other's chin, lifting him high into the air and depositing him in
@@ -127,7 +127,7 @@ man's challenge.
 
 The guard still surrounded Astok.  It was a difficult position for
 the young officer who commanded it.  His prisoner was the son of a
-mighty jeddak; he was the guest of Thuvan Dihn--until but now an
+mighty jeddak; he was the guest of Thuvan Dihn until but now an
 honoured guest upon whom every royal dignity had been showered.
 To arrest him forcibly could mean naught else than war, and yet he
 had done that which in the eyes of the Ptarth warrior merited death.
@@ -136,7 +136,7 @@ The young man hesitated.  He looked toward his princess.  She, too,
 guessed all that hung upon the action of the coming moment.  For
 many years Dusar and Ptarth had been at peace with each other.
 Their great merchant ships plied back and forth between the larger
-cities of the two nations.  Even now, far above the gold-shot
+cities of the two nations.  Even now, far above the gold shot
 scarlet dome of the jeddak's palace, she could see the huge bulk
 of a giant freighter taking its majestic way through the thin
 Barsoomian air toward the west and Dusar.
@@ -145,7 +145,7 @@ By a word she might plunge these two mighty nations into a bloody
 conflict that would drain them of their bravest blood and their
 incalculable riches, leaving them all helpless against the inroads
 of their envious and less powerful neighbors, and at last a prey
-to the savage green hordes of the dead sea-bottoms.
+to the savage green hordes of the dead sea bottoms.
 
 No sense of fear influenced her decision, for fear is seldom known
 to the children of Mars.  It was rather a sense of the responsibility
@@ -184,12 +184,12 @@ to see through the cold mask of the jeddak's courtesy that only
 the customs of royal hospitality restrained him from voicing the
 contempt he felt for the Prince of Dusar.
 
-Carthoris was not present at the leave-taking, nor was Thuvia.  The
+Carthoris was not present at the leave taking, nor was Thuvia.  The
 ceremony was as stiff and formal as court etiquette could make it,
 and when the last of the Dusarians clambered over the rail of the
 battleship that had brought them upon this fateful visit to the
 court of Ptarth, and the mighty engine of destruction had risen
-slowly from the ways of the landing-stage, a note of relief was
+slowly from the ways of the landing stage, a note of relief was
 apparent in the voice of Thuvan Dihn as he turned to one of his
 officers with a word of comment upon a subject foreign to that
 which had been uppermost in the minds of all for hours.
@@ -241,9 +241,9 @@ you ever tell me as much?  Ever before have words of love for me
 fallen from your lips?"
 
 "But you MUST have known it!" he exclaimed.  "I am like my
-father--witless in matters of the heart, and of a poor way with
-women; yet the jewels that strew these royal garden paths--the
-trees, the flowers, the sward--all must have read the love that has
+father witless in matters of the heart, and of a poor way with
+women; yet the jewels that strew these royal garden paths the
+trees, the flowers, the sward all must have read the love that has
 filled my heart since first my eyes were made new by imaging your
 perfect face and form; so how could you alone have been blind to
 it?"
@@ -263,7 +263,7 @@ face went almost white, and then his head came up as befitted him
 in whose veins flowed the blood of the overlord of a world.
 
 "Carthoris of Helium wishes you every happiness with the man of
-your choice," he said.  "With--" and then he hesitated, waiting
+your choice," he said.  "With " and then he hesitated, waiting
 for her to fill in the name.
 
 "Kulan Tith, Jeddak of Kaol," she replied.  "My father's friend
@@ -277,7 +277,7 @@ again.
 "I am promised to him," she replied simply.
 
 He did not press her.  "He is of Barsoom's noblest blood and mightiest
-fighters," mused Carthoris.  "My father's friend and mine--would
+fighters," mused Carthoris.  "My father's friend and mine would
 that it might have been another!" he muttered almost savagely.  What
 the girl thought was hidden by the mask of her expression, which
 was tinged only by a little shadow of sadness that might have been
@@ -287,7 +287,7 @@ Carthoris of Helium did not ask, though he noted it, for his
 loyalty to Kulan Tith was the loyalty of the blood of John Carter
 of Virginia for a friend, greater than which could be no loyalty.
 
-He raised a jewel-encrusted bit of the girl's magnificent trappings
+He raised a jewel encrusted bit of the girl's magnificent trappings
 to his lips.
 
 "To the honour and happiness of Kulan Tith and the priceless jewel
@@ -297,14 +297,14 @@ that I loved you, Thuvia, before I knew that you were promised to
 another.  I may not tell you it again, but I am glad that you know
 it, for there is no dishonour in it either to you or to Kulan Tith
 or to myself.  My love is such that it may embrace as well Kulan
-Tith--if you love him."  There was almost a question in the statement.
+Tith if you love him."  There was almost a question in the statement.
 
 "I am promised to him," she replied.
 
 Carthoris backed slowly away.  He laid one hand upon his heart,
-the other upon the pommel of his long-sword.
+the other upon the pommel of his long sword.
 
-"These are yours--always," he said.  A moment later he had entered
+"These are yours always," he said.  A moment later he had entered
 the palace, and was gone from the girl's sight.
 
 Had he returned at once he would have found her prone upon the
@@ -319,7 +319,7 @@ had been no formality in his coming there was no need of formality
 in his going.
 
 To Thuvan Dihn he explained that he had been but testing an invention
-of his own with which his flier was equipped--a clever improvement
+of his own with which his flier was equipped a clever improvement
 of the ordinary Martian air compass, which, when set for a certain
 destination, will remain constantly fixed thereon, making it only
 necessary to keep a vessel's prow always in the direction of the
@@ -333,24 +333,24 @@ compass was set, brought the craft to a standstill and lowered it,
 also automatically, to the ground.
 
 "You readily discern the advantages of this invention," he was saying
-to Thuvan Dihn, who had accompanied him to the landing-stage upon
+to Thuvan Dihn, who had accompanied him to the landing stage upon
 the palace roof to inspect the compass and bid his young friend
 farewell.
 
 A dozen officers of the court with several body servants were
 grouped behind the jeddak and his guest, eager listeners to the
-conversation--so eager on the part of one of the servants that he
+conversation so eager on the part of one of the servants that he
 was twice rebuked by a noble for his forwardness in pushing himself
 ahead of his betters to view the intricate mechanism of the wonderful
 "controlling destination compass," as the thing was called.
 
-"For example," continued Carthoris, "I have an all-night trip before
-me, as to-night.  I set the pointer here upon the right-hand dial
+"For example," continued Carthoris, "I have an all night trip before
+me, as to night.  I set the pointer here upon the right hand dial
 which represents the eastern hemisphere of Barsoom, so that the
 point rests upon the exact latitude and longitude of Helium.  Then
 I start the engine, roll up in my sleeping silks and furs, and with
 lights burning, race through the air toward Helium, confident that
-at the appointed hour I shall drop gently toward the landing-stage
+at the appointed hour I shall drop gently toward the landing stage
 upon my own palace, whether I am still asleep or no."
 
 "Provided," suggested Thuvan Dihn, "you do not chance to collide
@@ -364,22 +364,22 @@ itself is below deck, geared both to the steering apparatus and
 the control levers.
 
 "It is quite simple, being nothing more than a radium generator
-diffusing radio-activity in all directions to a distance of a
+diffusing radio activity in all directions to a distance of a
 hundred yards or so from the flier.  Should this enveloping force
 be interrupted in any direction a delicate instrument immediately
 apprehends the irregularity, at the same time imparting an impulse
 to a magnetic device which in turn actuates the steering mechanism,
 diverting the bow of the flier away from the obstacle until the craft's
-radio-activity sphere is no longer in contact with the obstruction,
+radio activity sphere is no longer in contact with the obstruction,
 then she falls once more into her normal course.  Should the
-disturbance approach from the rear, as in case of a faster-moving
+disturbance approach from the rear, as in case of a faster moving
 craft overhauling me, the mechanism actuates the speed control as
 well as the steering gear, and the flier shoots ahead and either
 up or down, as the oncoming vessel is upon a lower or higher plane
 than herself.
 
 "In aggravated cases, that is when the obstructions are many, or
-of such a nature as to deflect the bow more than forty-five degrees
+of such a nature as to deflect the bow more than forty five degrees
 in any direction, or when the craft has reached its destination
 and dropped to within a hundred yards of the ground, the mechanism
 brings her to a full stop, at the same time sounding a loud alarm
@@ -396,7 +396,7 @@ The nobles looked at him in astonishment, and one of them grasped
 the fellow none too gently by the shoulder to push him back to his
 proper place.  Carthoris raised his hand.
 
-"Wait," he urged.  "Let us hear what the man has to say--no creation
+"Wait," he urged.  "Let us hear what the man has to say no creation
 of mortal mind is perfect.  Perchance he has detected a weakness
 that it will be well to know at once.  Come, my good fellow, and
 what may be the one contingency I have overlooked?"
@@ -405,7 +405,7 @@ As he spoke Carthoris observed the servant closely for the first
 time.  He saw a man of giant stature and handsome, as are all those
 of the race of Martian red men; but the fellow's lips were thin
 and cruel, and across one cheek was the faint, white line of a
-sword-cut from the right temple to the corner of the mouth.
+sword cut from the right temple to the corner of the mouth.
 
 "Come," urged the Prince of Helium.  "Speak!"
 
@@ -415,7 +415,7 @@ last, seeing no alternative, he spoke.
 
 "It might be tampered with," he said, "by an enemy."
 
-Carthoris drew a small key from his leathern pocket-pouch.
+Carthoris drew a small key from his leathern pocket pouch.
 
 "Look at this," he said, handing it to the man.  "If you know aught
 of locks, you will know that the mechanism which this unlooses is
@@ -434,7 +434,7 @@ it, and returned it to the Heliumite.  Then he dropped back to his
 station behind the nobles and was forgotten.
 
 A moment later Carthoris had made his adieux to Thuvan Dihn and
-his nobles, and with lights twinkling had risen into the star-shot
+his nobles, and with lights twinkling had risen into the star shot
 void of the Martian night.
 
 
@@ -446,10 +446,10 @@ SLAVERY
 
 
 As the ruler of Ptarth, followed by his courtiers, descended from
-the landing-stage above the palace, the servants dropped into their
+the landing stage above the palace, the servants dropped into their
 places in the rear of their royal or noble masters, and behind the
 others one lingered to the last.  Then quickly stooping he snatched
-the sandal from his right foot, slipping it into his pocket-pouch.
+the sandal from his right foot, slipping it into his pocket pouch.
 
 When the party had come to the lower levels, and the jeddak had
 dispersed them by a sign, none noticed that the forward fellow who
@@ -472,7 +472,7 @@ in the harness of the house of a great Ptarth noble passed out into
 the city from the palace gates.  Along one broad avenue and then
 another he strode briskly until he had passed beyond the district
 of the nobles and had come to the place of shops.  Here he sought
-a pretentious building that rose spire-like toward the heavens,
+a pretentious building that rose spire like toward the heavens,
 its outer walls elaborately wrought with delicate carvings and
 intricate mosaics.
 
@@ -499,7 +499,7 @@ was cast in a smile of sinister satisfaction.  From the Palace of
 Peace he hurried directly to the palace of the Dusarian minister.
 
 That night two swift fliers left the same palace top.  One sped
-its rapid course toward Helium; the other--
+its rapid course toward Helium; the other -
 
 
 Thuvia of Ptarth strolled in the gardens of her father's palace, as
@@ -525,7 +525,7 @@ She saw it circle lower above the palace until she was positive
 that it but hovered in preparation for a landing.
 
 Presently the powerful rays of its searchlight shot downward from
-the bow.  They fell upon the landing-stage for a brief instant,
+the bow.  They fell upon the landing stage for a brief instant,
 revealing the figures of the Ptarthian guard, picking into brilliant
 points of fire the gems upon their gorgeous harnesses.
 
@@ -550,13 +550,13 @@ What mad caprice could have induced him so to transgress the
 etiquette of nations?  For lesser things great powers had gone to
 war.
 
-The princess in her was shocked and angered--but what of the girl!
+The princess in her was shocked and angered but what of the girl!
 
-And the guard--what of them?  Evidently they, too, had been so much
+And the guard what of them?  Evidently they, too, had been so much
 surprised by the unprecedented action of the stranger that they
 had not even challenged; but that they had no thought to let the
 thing go unnoticed was quickly evidenced by the skirring of motors
-upon the landing-stage and the quick shooting airward of a long-lined
+upon the landing stage and the quick shooting airward of a long lined
 patrol boat.
 
 Thuvia watched it dart swiftly eastward.  So, too, did other eyes
@@ -564,13 +564,13 @@ watch.
 
 Within the dense shadows of the skeel grove, in a wide avenue
 beneath o'erspreading foliage, a flier hung a dozen feet above the
-ground.  From its deck keen eyes watched the far-fanning searchlight
+ground.  From its deck keen eyes watched the far fanning searchlight
 of the patrol boat.  No light shone from the enshadowed craft.  Upon
-its deck was the silence of the tomb.  Its crew of a half-dozen
+its deck was the silence of the tomb.  Its crew of a half dozen
 red warriors watched the lights of the patrol boat diminishing in
 the distance.
 
-"The intellects of our ancestors are with us to-night," said one
+"The intellects of our ancestors are with us to night," said one
 in a low tone.
 
 "No plan ever carried better," returned another.  "They did precisely
@@ -590,13 +590,13 @@ garden wall.  She saw the dim bulk incline gently downward toward
 the scarlet sward of the garden.
 
 She knew that men came not thus with honourable intent.  Yet she
-did not cry aloud to alarm the near-by guardsmen, nor did she flee
+did not cry aloud to alarm the near by guardsmen, nor did she flee
 to the safety of the palace.
 
 Why?
 
 I can see her shrug her shapely shoulders in reply as she voices
-the age-old, universal answer of the woman:  Because!
+the age old, universal answer of the woman:  Because!
 
 Scarce had the flier touched the ground when four men leaped from
 its deck.  They ran forward toward the girl.
@@ -608,7 +608,7 @@ Not until they were quite close to her did she move.  Then the
 nearer moon, rising above the surrounding foliage, touched their
 faces, lighting all with the brilliancy of her silver rays.
 
-Thuvia of Ptarth saw only strangers--warriors in the harness of
+Thuvia of Ptarth saw only strangers warriors in the harness of
 Dusar.  Now she took fright, but too late!
 
 Before she could voice but a single cry, rough hands seized her.
@@ -632,12 +632,12 @@ to one who waited at the opposite side of the table.
 to spring.  Here, take the sketch, Larok, and give all thine own
 genius full and unfettered freedom in reproducing it in metal."
 
-The warrior-artificer bowed.  "Man builds naught," he said, "that
+The warrior artificer bowed.  "Man builds naught," he said, "that
 man may not destroy."  Then he left the cabin with the sketch.
 
 As dawn broke upon the lofty towers which mark the twin cities
-of Helium--the scarlet tower of one and the yellow tower of its
-sister--a flier floated lazily out of the north.
+of Helium the scarlet tower of one and the yellow tower of its
+sister a flier floated lazily out of the north.
 
 Upon its bow was emblazoned the signia of a lesser noble of a
 far city of the empire of Helium.  Its leisurely approach and the
@@ -655,8 +655,8 @@ upon her deck hailed the incoming craft.
 
 The cheery "Kaor!" and the plausible explanation that the owner had
 come from distant parts for a few days of pleasure in gay Helium
-sufficed.  The air-patrol boat sheered off, passing again upon its
-way.  The stranger continued toward a public landing-stage, where
+sufficed.  The air patrol boat sheered off, passing again upon its
+way.  The stranger continued toward a public landing stage, where
 she dropped into the ways and came to rest.
 
 At about the same time a warrior entered her cabin.
@@ -691,10 +691,10 @@ adult from the snowy shell that has encompassed his development
 for five long years, knows so little of life without a sword at
 his hip that he would feel the same discomfiture at going abroad
 unarmed that an Earth boy would experience in walking the streets
-knicker-bockerless.
+knicker bockerless.
 
 Vas Kor's destination lay in Greater Helium, which lies some
-seventy-five miles across the level plain from Lesser Helium.  He
+seventy five miles across the level plain from Lesser Helium.  He
 had landed at the latter city because the air patrol is less
 suspicious and alert than that above the larger metropolis where
 lies the palace of the jeddak.
@@ -711,11 +711,11 @@ The pleasant "kaor" of the Barsoomian greeting fell continually
 upon the ears of the stranger as friends and neighbours took up
 the duties of a new day.
 
-The district in which he had landed was residential--a district of
+The district in which he had landed was residential a district of
 merchants of the more prosperous sort.  Everywhere were evidences
 of luxury and wealth.  Slaves appeared upon every housetop with
 gorgeous silks and costly furs, laying them in the sun for airing.
-Jewel-encrusted women lolled even thus early upon the carven
+Jewel encrusted women lolled even thus early upon the carven
 balconies before their sleeping apartments.  Later in the day they
 would repair to the roofs when the slaves had arranged couches and
 pitched silken canopies to shade them from the sun.
@@ -726,18 +726,18 @@ pleasantly to the sudden transition from sleep to waking that proves
 so difficult a thing for most Earth folk.
 
 Above him raced the long, light passenger fliers, plying, each in
-its proper plane, between the numerous landing-stages for internal
-passenger traffic.  Landing-stages that tower high into the heavens
+its proper plane, between the numerous landing stages for internal
+passenger traffic.  Landing stages that tower high into the heavens
 are for the great international passenger liners.  Freighters have
-other landing-stages at various lower levels, to within a couple
+other landing stages at various lower levels, to within a couple
 of hundred feet of the ground; nor dare any flier rise or drop from
 one plane to another except in certain restricted districts where
 horizontal traffic is forbidden.
 
-Along the close-cropped sward which paves the avenue ground fliers
+Along the close cropped sward which paves the avenue ground fliers
 were moving in continuous lines in opposite directions.  For the
 greater part they skimmed along the surface of the sward, soaring
-gracefully into the air at times to pass over a slower-going driver
+gracefully into the air at times to pass over a slower going driver
 ahead, or at intersections, where the north and south traffic has
 the right of way and the east and west must rise above it.
 
@@ -760,7 +760,7 @@ Here he paid before a little wicket the fare to his destination
 with a couple of the dull, oval coins of Helium.
 
 Beyond the gatekeeper he came to a slowly moving line of what to
-Earthly eyes would have appeared to be conical-nosed, eight-foot
+Earthly eyes would have appeared to be conical nosed, eight foot
 projectiles for some giant gun.  In slow procession the things
 moved in single file along a grooved track.  A half dozen attendants
 assisted passengers to enter, or directed these carriers to their
@@ -773,14 +773,14 @@ upon the upholstered bottom.  An attendant closed the lid, which
 locked with a little click, and the carrier continued its slow way.
 
 Presently it switched itself automatically to another track, to
-enter, a moment later, one of the series of dark-mouthed tubes.
+enter, a moment later, one of the series of dark mouthed tubes.
 
 The instant that its entire length was within the black aperture
 it sprang forward with the speed of a rifle ball.  There was an
-instant of whizzing--a soft, though sudden, stop, and slowly the
+instant of whizzing a soft, though sudden, stop, and slowly the
 carrier emerged upon another platform, another attendant raised
 the lid and Vas Kor stepped out at the station beneath the centre
-of Greater Helium, seventy-five miles from the point at which he
+of Greater Helium, seventy five miles from the point at which he
 had embarked.
 
 Here he sought the street level, stepping immediately into a waiting
@@ -789,20 +789,20 @@ seat.  It was evident that he had been expected, and that the fellow
 had received his instructions before his coming.
 
 Scarcely had Vas Kor taken his seat when the flier went quickly
-into the fast-moving procession, turning presently from the broad
+into the fast moving procession, turning presently from the broad
 and crowded avenue into a less congested street.  Presently it left
 the thronged district behind to enter a section of small shops,
 where it stopped before the entrance to one which bore the sign of
 a dealer in foreign silks.
 
-Vas Kor entered the low-ceiling room.  A man at the far end
+Vas Kor entered the low ceiling room.  A man at the far end
 motioned him toward an inner apartment, giving no further sign of
 recognition until he had passed in after the caller and closed the
 door.
 
 Then he faced his visitor, saluting deferentially.
 
-"Most noble--" he commenced, but Vas Kor silenced him with a gesture.
+"Most noble " he commenced, but Vas Kor silenced him with a gesture.
 
 "No formalities," he said.  "We must forget that I am aught other
 than your slave.  If all has been as carefully carried out as it
@@ -819,19 +819,19 @@ Five minutes later the merchant was leading his slave to the public
 market, where a great concourse of people filled the great open
 space in the centre of which stood the slave block.
 
-The crowds were enormous to-day, for Carthoris, Prince of Helium,
+The crowds were enormous to day, for Carthoris, Prince of Helium,
 was to be the principal bidder.
 
 One by one the masters mounted the rostrum beside the slave block
 upon which stood their chattels.  Briefly and clearly each recounted
 the virtues of his particular offering.
 
-When all were done, the major-domo of the Prince of Helium recalled
+When all were done, the major domo of the Prince of Helium recalled
 to the block such as had favourably impressed him.  For such he
 had made a fair offer.
 
 There was little haggling as to price, and none at all when Vas
-Kor was placed upon the block.  His merchant-master accepted the
+Kor was placed upon the block.  His merchant master accepted the
 first offer that was made for him, and thus a Dusarian noble entered
 the household of Carthoris.
 
@@ -889,16 +889,16 @@ come quite close he spoke.
 "What strange craft is that?" he asked.
 
 The other turned about quickly to gaze heavenward.  Scarce was his
-back turned toward the giant than the short-sword of the latter
+back turned toward the giant than the short sword of the latter
 was plunged beneath his left shoulder blade, straight through his
 heart.
 
-Voiceless, the soldier sank in his tracks--stone dead.  Quickly
+Voiceless, the soldier sank in his tracks stone dead.  Quickly
 the murderer dragged the corpse into the black shadows within the
 hangar.  Then he returned to the flier.
 
-Drawing a cunningly wrought key from his pocket-pouch, he removed
-the cover of the right-hand dial of the controlling destination
+Drawing a cunningly wrought key from his pocket pouch, he removed
+the cover of the right hand dial of the controlling destination
 compass.  For a moment he studied the construction of the mechanism
 beneath.  Then he returned the dial to its place, set the pointer,
 and removed it again to note the resultant change in the position
@@ -906,7 +906,7 @@ of the parts affected by the act.
 
 A smile crossed his lips.  With a pair of cutters he snipped off
 the projection which extended through the dial from the external
-pointer--now the latter might be moved to any point upon the dial
+pointer now the latter might be moved to any point upon the dial
 without affecting the mechanism below.  In other words, the eastern
 hemisphere dial was useless.
 
@@ -919,14 +919,14 @@ As quickly as possible he replaced the second dial cover, and resumed
 his place on guard.  To all intents and purposes the compass was
 as efficient as before; but, as a matter of fact, the moving of the
 pointers upon the dials resulted now in no corresponding shift of
-the mechanism beneath--and the device was set, immovably, upon a
+the mechanism beneath and the device was set, immovably, upon a
 destination of the slave's own choosing.
 
 Presently came Carthoris, accompanied by but a handful of his
 gentlemen.  He cast but a casual glance upon the single slave who
-stood guard.  The fellow's thin, cruel lips, and the sword-cut that
+stood guard.  The fellow's thin, cruel lips, and the sword cut that
 ran from temple to mouth aroused the suggestion of an unpleasant
-memory within him.  He wondered where Saran Tal had found the man--
+memory within him.  He wondered where Saran Tal had found the man -
 then the matter faded from his thoughts, and in another moment the
 Prince of Helium was laughing and chatting with his companions,
 though below the surface his heart was cold with dread, for what
@@ -939,7 +939,7 @@ at Dusar in honour of the return of the jeddak's son to the court
 of his father.
 
 It could not have been he, thought Carthoris, for on the very night
-that Thuvia was taken Astok had been in Dusar, and yet--
+that Thuvia was taken Astok had been in Dusar, and yet -
 
 He entered the flier, exchanging casual remarks with his companions
 as he unlocked the mechanism of the compass and set the pointer
@@ -973,7 +973,7 @@ But what assurance was there that the other was Carthoris of Helium?
 The more he thought upon it the more positive he became that not
 only was there no assurance in her words that she loved him, but
 none either in any act of hers.  No, the fact was, she did not love
-him.  She loved another.  She had not been abducted--she had fled
+him.  She loved another.  She had not been abducted she had fled
 willingly with her lover.
 
 With such pleasant thoughts filling him alternately with despair
@@ -981,23 +981,23 @@ and rage, Carthoris at last dropped into the sleep of utter mental
 exhaustion.
 
 The breaking of the sudden dawn found him still asleep.  His flier
-was rushing swiftly above a barren, ochre plain--the world-old
-bottom of a long-dead Martian sea.
+was rushing swiftly above a barren, ochre plain the world old
+bottom of a long dead Martian sea.
 
 In the distance rose low hills.  Toward these the craft was headed.
 As it approached them, a great promontory might have been seen from
 its deck, stretching out into what had once been a mighty ocean,
 and circling back once more to enclose the forgotten harbour of a
 forgotten city, which still stretched back from its deserted quays,
-an imposing pile of wondrous architecture of a long-dead past.
+an imposing pile of wondrous architecture of a long dead past.
 
 The countless dismal windows, vacant and forlorn, stared, sightless,
 from their marble walls; the whole sad city taking on the semblance
-of scattered mounds of dead men's sun-bleached skulls--the casements
+of scattered mounds of dead men's sun bleached skulls the casements
 having the appearance of eyeless sockets, the portals, grinning
 jaws.
 
-Closer came the flier, but now its speed was diminishing--yet this
+Closer came the flier, but now its speed was diminishing yet this
 was not Ptarth.
 
 Above the central plaza it stopped, slowly settling Marsward.
@@ -1016,7 +1016,7 @@ its deserted roof tops.  No gorgeous silks, no priceless furs lent
 life and colour to the cold marble and the gleaming ersite.
 
 No patrol boat lay ready with its familiar challenge.  Silent and
-empty lay the great city--empty and silent the surrounding air.
+empty lay the great city empty and silent the surrounding air.
 
 What had happened?
 
@@ -1025,11 +1025,11 @@ upon Ptarth.  Could the creature of his genius have thus betrayed
 him?  He would not believe it.
 
 Quickly he unlocked the cover, turning it back upon its hinge.  A
-single glance showed him the truth, or at least a part of it--the
+single glance showed him the truth, or at least a part of it the
 steel projection that communicated the movement of the pointer upon
 the dial to the heart of the mechanism beneath had been severed.
 
-Who could have done the thing--and why?
+Who could have done the thing and why?
 
 Carthoris could not hazard even a faint guess.  But the thing now
 was to learn in what portion of the world he was, and then take up
@@ -1045,19 +1045,19 @@ other, but the controlling mechanism had first been set for a point
 upon the western hemisphere.
 
 He had just time to judge his location roughly at some place
-south-west of Helium, and at a considerable distance from the twin
+south west of Helium, and at a considerable distance from the twin
 cities, when he was startled by a woman's scream beneath him.
 
 Leaning over the side of the flier, he saw what appeared to be a red
-woman being dragged across the plaza by a huge green warrior--one
-of those fierce, cruel denizens of the dead sea-bottoms and deserted
+woman being dragged across the plaza by a huge green warrior one
+of those fierce, cruel denizens of the dead sea bottoms and deserted
 cities of dying Mars.
 
 Carthoris waited to see no more.  Reaching for the control board,
-he sent his craft racing plummet-like toward the ground.
+he sent his craft racing plummet like toward the ground.
 
 The green man was hurrying his captive toward a huge thoat that
-browsed upon the ochre vegetation of the once scarlet-gorgeous
+browsed upon the ochre vegetation of the once scarlet gorgeous
 plaza.  At the same instant a dozen red warriors leaped from the
 entrance of a nearby ersite palace, pursuing the abductor with
 naked swords and shouts of rageful warning.
@@ -1103,8 +1103,8 @@ to their destination with the girl no wiser as to her abductors or
 their purpose than at first.
 
 Here the flier settled slowly into the plaza of one of those mute
-monuments of Mars' dead and forgotten past--the deserted cities
-that fringe the sad ochre sea-bottoms where once rolled the mighty
+monuments of Mars' dead and forgotten past the deserted cities
+that fringe the sad ochre sea bottoms where once rolled the mighty
 floods upon whose bosoms moved the maritime commerce of the peoples
 that are gone for ever.
 
@@ -1137,8 +1137,8 @@ Just before dawn on the third day she had been aroused by the voices
 of two of her abductors.
 
 "He should be here by dawn," one was saying.  "Have her in readiness
-upon the plaza--else he will never land.  The moment he finds that
-he is in a strange country he will turn about--methinks the prince's
+upon the plaza else he will never land.  The moment he finds that
+he is in a strange country he will turn about methinks the prince's
 plan is weak in this one spot."
 
 "There was no other way," replied the other.  "It is wondrous work
@@ -1146,7 +1146,7 @@ to get them both here at all, and even if we do not succeed in
 luring him to the ground, we shall have accomplished much."
 
 Just then the speaker caught the eyes of Thuvia upon him, revealed
-by the quick-moving patch of light cast by Thuria in her mad race
+by the quick moving patch of light cast by Thuria in her mad race
 through the heavens.
 
 With a quick sign to the other, he ceased speaking, and advancing
@@ -1155,7 +1155,7 @@ the night toward the centre of the great plaza.
 
 "Stand here," he commanded, "until we come for you.  We shall
 be watching, and should you attempt to escape it will go ill with
-you--much worse than death.  Such are the prince's orders."
+you much worse than death.  Such are the prince's orders."
 
 Then he turned and retraced his steps toward the palace, leaving
 her alone in the midst of the unseen terrors of the haunted city,
@@ -1178,7 +1178,7 @@ in the shadow of one of the great monoliths that line the avenue
 where it entered the plaza opposite her!
 
 Thar Ban, jed among the hordes of Torquas, rode swiftly across the
-ochre vegetation of the dead sea-bottom toward the ruins of ancient
+ochre vegetation of the dead sea bottom toward the ruins of ancient
 Aaanthor.
 
 He had ridden far that night, and fast, for he had but come from
@@ -1188,10 +1188,10 @@ which the hordes of Torquas were perpetually warring.
 His giant thoat was far from jaded, yet it would be well, thought
 Thar Ban, to permit him to graze upon the ochre moss which grows to
 greater height within the protected courtyards of deserted cities,
-where the soil is richer than on the sea-bottoms, and the plants
+where the soil is richer than on the sea bottoms, and the plants
 partly shaded from the sun during the cloudless Martian day.
 
-Within the tiny stems of this dry-seeming plant is sufficient
+Within the tiny stems of this dry seeming plant is sufficient
 moisture for the needs of the huge bodies of the mighty thoats,
 which can exist for months without water, and for days without even
 the slight moisture which the ochre moss contains.
@@ -1200,7 +1200,7 @@ As Thar Ban rode noiselessly up the broad avenue which leads from
 the quays of Aaanthor to the great central plaza, he and his mount
 might have been mistaken for spectres from a world of dreams, so
 grotesque the man and beast, so soundless the great thoat's padded,
-nailless feet upon the moss-grown flagging of the ancient pavement.
+nailless feet upon the moss grown flagging of the ancient pavement.
 
 The man was a splendid specimen of his race.  Fully fifteen feet
 towered his great height from sole to pate.  The moonlight glistened
@@ -1210,16 +1210,16 @@ while the upcurving tusks that protruded from his lower jaw gleamed
 white and terrible.
 
 At the side of his thoat were slung his long radium rifle and his
-great, forty-foot, metal-shod spear, while from his own harness
-depended his long-sword and his short-sword, as well as his lesser
+great, forty foot, metal shod spear, while from his own harness
+depended his long sword and his short sword, as well as his lesser
 weapons.
 
-His protruding eyes and antennae-like ears were turning constantly
+His protruding eyes and antennae like ears were turning constantly
 hither and thither, for Thar Ban was yet in the country of the
 enemy, and, too, there was always the menace of the great white
 apes, which, John Carter was wont to say, are the only creatures
 that can arouse in the breasts of these fierce denizens of the dead
-sea-bottoms even the remotest semblance of fear.
+sea bottoms even the remotest semblance of fear.
 
 As the rider neared the plaza, he reined suddenly in.  His slender,
 tubular ears pointed rigidly forward.  An unwonted sound had reached
@@ -1230,7 +1230,7 @@ naught but enemies for the fierce Torquasians.
 Thar Ban dismounted.  Keeping in the shadows of the great monoliths
 that line the Avenue of Quays of sleeping Aaanthor, he approached
 the plaza.  Directly behind him, as a hound at heel, came the
-slate-grey thoat, his white belly shadowed by his barrel, his vivid
+slate grey thoat, his white belly shadowed by his barrel, his vivid
 yellow feet merging into the yellow of the moss beneath them.
 
 In the centre of the plaza Thar Ban saw the figure of a red woman.
@@ -1295,23 +1295,23 @@ They had lost the girl.  That would be a difficult thing to explain
 to Astok; but some leniency might be expected could they carry the
 Prince of Helium to their master instead.
 
-So the three who remained set upon Carthoris with their long-swords,
+So the three who remained set upon Carthoris with their long swords,
 crying to him to surrender; but they might as successfully have cried
 aloud to Thuria to cease her mad hurtling through the Barsoomian
 sky, for Carthoris of Helium was a true son of the Warlord of Mars
 and his incomparable Dejah Thoris.
 
-Carthoris' long-sword had been already in his hand as he leaped from
+Carthoris' long sword had been already in his hand as he leaped from
 the deck of the flier, so the instant that he realized the menace
 of the three red warriors, he wheeled to face them, meeting their
 onslaught as only John Carter himself might have done.
 
-So swift his sword, so mighty and agile his half-earthly muscles,
+So swift his sword, so mighty and agile his half earthly muscles,
 that one of his opponents was down, crimsoning the ochre moss with
-his life-blood, when he had scarce made a single pass at Carthoris.
+his life blood, when he had scarce made a single pass at Carthoris.
 
 Now the two remaining Dusarians rushed simultaneously upon the
-Heliumite.  Three long-swords clashed and sparkled in the moonlight,
+Heliumite.  Three long swords clashed and sparkled in the moonlight,
 until the great white apes, roused from their slumbers, crept
 to the lowering windows of the dead city to view the bloody scene
 beneath them.
@@ -1327,7 +1327,7 @@ then the other, backing away clear of that point of death, turned
 and fled toward the palace at his back.
 
 Carthoris made no step to pursue.  He had other concern than the
-meting of even well-deserved punishment to strange men who masqueraded
+meting of even well deserved punishment to strange men who masqueraded
 in the metal of his own house, for he had seen that these men were
 tricked out in the insignia that marked his personal followers.
 
@@ -1351,7 +1351,7 @@ within the bullet's nose.  There was a sharp explosion.  Carthoris
 felt his craft reel drunkenly beneath him, and the engine stopped.
 
 The momentum the air boat had gained carried her on over the city
-toward the sea-bottom beyond.
+toward the sea bottom beyond.
 
 The red warrior in the plaza fired several more shots, none of
 which scored.  Then a lofty minaret shut the drifting quarry from
@@ -1359,7 +1359,7 @@ his view.
 
 In the distance before him Carthoris could see the green warrior
 bearing Thuvia of Ptarth away upon his mighty thoat.  The direction
-of his flight was toward the north-west of Aaanthor, where lay a
+of his flight was toward the north west of Aaanthor, where lay a
 mountainous country little known to red men.
 
 The Heliumite now gave his attention to his injured craft.  A close
@@ -1371,7 +1371,7 @@ beyond the possibility of repair outside a machine shop; but after
 considerable tinkering, Carthoris was able to propel his wounded
 flier at low speed, a rate which could not approach the rapid gait
 of the thoat, whose eight long, powerful legs carried it over the
-ochre vegetation of the dead sea-bottom at terrific speed.
+ochre vegetation of the dead sea bottom at terrific speed.
 
 The Prince of Helium chafed and fretted at the slowness of his
 pursuit, yet he was thankful that the damage was no worse, for now
@@ -1390,7 +1390,7 @@ a heavy deck ring to keep him from being precipitated to the ground
 below.
 
 His forward movement was now confined to a slow drifting with the
-gentle breeze that blew out of the south-east, and when this died
+gentle breeze that blew out of the south east, and when this died
 down with the setting of the sun, he let the flier sink gently to
 the mossy carpet beneath.
 
@@ -1408,7 +1408,7 @@ an opening through the formidable barrier; yet somewhere into this
 inhospitable world of stone the green warrior had borne the woman
 of the red man's heart's desire.
 
-Across the yielding moss of the sea-bottom there had been no spoor
+Across the yielding moss of the sea bottom there had been no spoor
 to follow, for the soft pads of the thoat but pressed down in his
 swift passage the resilient vegetation which sprang up again behind
 his fleeting feet, leaving no sign.
@@ -1438,7 +1438,7 @@ endeavouring to solve.  This hungry carnivore, keen always for the
 flesh of man, might even now be trailing the two whom Carthoris
 sought.
 
-Cautiously the youth crept out upon the trail of the man-eater.
+Cautiously the youth crept out upon the trail of the man eater.
 Along the foot of the perpendicular cliff the creature moved,
 sniffing at the invisible spoor, and now and then emitting the low
 moan of the hunting banth.
@@ -1454,14 +1454,14 @@ spot at which he last had seen the great, skulking brute.
 Before him loomed the sheer cliff, its face unbroken by any aperture
 into which the huge banth might have wormed its great carcass.
 Beside him was a small, flat boulder, not larger than the deck of
-a ten-man flier, nor standing to a greater height than twice his
+a ten man flier, nor standing to a greater height than twice his
 own stature.
 
 Perhaps the banth was in hiding behind this?  The brute might have
 discovered the man upon his trail, and even now be lying in wait
 for his easy prey.
 
-Cautiously, with drawn long-sword, Carthoris crept around the
+Cautiously, with drawn long sword, Carthoris crept around the
 corner of the rock.  There was no banth there, but something which
 surprised him infinitely more than would the presence of twenty
 banths.
@@ -1535,7 +1535,7 @@ frightful roar and then he charged.
 
 To face that savage mountain of onrushing ferocity, to stand unshaken
 before the hideous fangs that he knew were bared in slavering
-blood-thirstiness, though he could not see them, required nerves
+blood thirstiness, though he could not see them, required nerves
 of steel; but of such were the nerves of Carthoris of Helium.
 
 He had the brute's eyes to guide his point, and, as true as the
@@ -1549,7 +1549,7 @@ upon him.
 
 Again the needle point met its flashing target.  Again the horrid
 cry of the stricken beast reverberated through the rocky tunnel,
-shocking in its torture-laden shrillness, deafening in its terrific
+shocking in its torture laden shrillness, deafening in its terrific
 volume.
 
 But now, as it turned to charge again, the man had no guide whereby
@@ -1591,7 +1591,7 @@ enchantment.
 For only an instant, however, did his gaze rest upon the natural
 beauties outspread before him.  Almost immediately they were riveted
 upon the figure of a great banth standing across the carcass of a
-new-killed thoat.
+new killed thoat.
 
 The huge beast, his tawny mane bristling around his hideous head,
 kept his eyes fixed upon another banth that charged erratically
@@ -1618,17 +1618,17 @@ Two human bodies would have but whetted the creature's appetite,
 and that he had killed and eaten the green man and the red girl
 seemed only too likely to Carthoris.  He had left the carcass
 of the mighty thoat to be devoured after having consumed the more
-tooth-some portion of his banquet.
+tooth some portion of his banquet.
 
 Now the sightless banth, in its savage, aimless charging and
-counter-charging, had passed beyond the kill of its fellow, and
+counter charging, had passed beyond the kill of its fellow, and
 there the light breeze that was blowing wafted the scent of new
 blood to its nostrils.
 
 No longer were its movements erratic.  With outstretched tail and
 foaming jaws it charged straight as an arrow, for the body of the
 thoat and the mighty creature of destruction that stood with forepaws
-upon the slate-grey side, waiting to defend its meat.
+upon the slate grey side, waiting to defend its meat.
 
 When the charging banth was twenty paces from the dead thoat the
 killer gave vent to its hideous challenge, and with a mighty spring
@@ -1636,7 +1636,7 @@ leaped forward to meet it.
 
 The battle that ensued awed even the warlike Barsoomian.  The
 mad rending, the hideous and deafening roaring, the implacable
-savagery of the blood-stained beasts held him in the paralysis
+savagery of the blood stained beasts held him in the paralysis
 of fascination, and when it was over and the two creatures, their
 heads and shoulders torn to ribbons, lay with their dead jaws
 still buried in each other's bodies, Carthoris tore himself from
@@ -1665,7 +1665,7 @@ It was impossible that that radiant creature could have met so
 hideous an end.  It was incredible that the glorious Thuvia should
 ever cease to be.
 
-Upon his already jewel-encrusted harness, to the strap that crossed
+Upon his already jewel encrusted harness, to the strap that crossed
 his great chest beneath which beat his loyal heart, Carthoris,
 Prince of Helium, fastened the gleaming thing that Thuvia of Ptarth
 had worn, and wearing, had made holy to the Heliumite.
@@ -1687,19 +1687,19 @@ treeless plain, in the centre of which a mighty city reared its
 burnished domes and vividly coloured towers.
 
 About the walled city the red man saw a huge encampment of the
-green warriors of the dead sea-bottoms, and as he let his eyes
+green warriors of the dead sea bottoms, and as he let his eyes
 rove carefully over the city he realized that here was no deserted
 metropolis of a dead past.
 
 But what city could it be?  His studies had taught him that in this
-little-explored portion of Barsoom the fierce tribe of Torquasian
+little explored portion of Barsoom the fierce tribe of Torquasian
 green men ruled supreme, and that as yet no red man had succeeded
 in piercing to the heart of their domain to return again to the
 world of civilization.
 
 The men of Torquas had perfected huge guns with which their uncanny
 marksmanship had permitted them to repulse the few determined
-efforts that near-by red nations had made to explore their country
+efforts that near by red nations had made to explore their country
 by means of battle fleets of airships.
 
 That he was within the boundary of Torquas, Carthoris was sure, but
@@ -1708,7 +1708,7 @@ nor had the chronicles of the past even hinted at such a possibility,
 for the Torquasians were known to live, as did the other green men
 of Mars, within the deserted cities that dotted the dying planet,
 nor ever had any green horde built so much as a single edifice,
-other than the low-walled incubators where their young are hatched
+other than the low walled incubators where their young are hatched
 by the sun's heat.
 
 The encircling camp of green warriors lay about five hundred yards
@@ -1744,7 +1744,7 @@ Here a great platform had been erected whereon Carthoris could see
 squatting a huge green warrior, surrounded by others of his kind.
 
 This, then, must be the notorious Hortan Gur, Jeddak of Torquas,
-the fierce old ogre of the south-western hemisphere, as only for
+the fierce old ogre of the south western hemisphere, as only for
 a jeddak are platforms raised in temporary camps or upon the march
 by the green hordes of Barsoom.
 
@@ -1765,13 +1765,13 @@ He saw her dragged to the foot of the rostrum.  He saw Hortan Gur
 address her.  He could not hear the creature's words, nor Thuvia's
 reply; but it must have angered the green monster, for Carthoris
 saw him leap toward the prisoner, striking her a cruel blow across
-the face with his metal-banded arm.
+the face with his metal banded arm.
 
 Then the son of John Carter, Jeddak of Jeddaks, Warlord of Barsoom,
-went mad.  The old, blood-red haze through which his sire had glared
+went mad.  The old, blood red haze through which his sire had glared
 at countless foes, floated before his eyes.
 
-His half-Earthly muscles, responding quickly to his will, sent
+His half Earthly muscles, responding quickly to his will, sent
 him in enormous leaps and bounds toward the green monster that had
 struck the woman he loved.
 
@@ -1800,7 +1800,7 @@ until the world seemed to tremble to their reverberations.
 
 The green warriors looked nervously this way and that.  They knew
 not fear, as Earth men may know it; but in the face of the unusual
-their wonted self-assurance deserted them.
+their wonted self assurance deserted them.
 
 And then the great gate in the city wall opposite the platform of
 Hortan Gur swung suddenly wide.  From it issued as strange a sight
@@ -1811,7 +1811,7 @@ flowing auburn hair; and to realize that the growling things at
 their side were fierce Barsoomian lions.
 
 Then he was in the midst of the astonished Torquasians.  With
-drawn long-sword he was among them, and to Thuvia of Ptarth, whose
+drawn long sword he was among them, and to Thuvia of Ptarth, whose
 startled eyes were the first to fall upon him, it seemed that she
 was looking upon John Carter himself, so strangely similar to the
 fighting of the father was that of the son.
@@ -1840,7 +1840,7 @@ to leap from it to the back of his thoat.
 
 The attention of the green warriors turned principally upon
 the bowmen advancing upon them from the city, and upon the savage
-banths that paced beside them--cruel beasts of war, infinitely more
+banths that paced beside them cruel beasts of war, infinitely more
 terrible than their own savage calots.
 
 As Carthoris leaped to the rostrum he drew Thuvia up beside him,
@@ -1850,7 +1850,7 @@ and a sword thrust.
 As the Heliumite's point pricked his green hide, Hortan Gur turned
 upon his adversary with a snarl, but at the same instant two
 of his chieftains called to him to hasten, for the charge of the
-fair-skinned inhabitants of the city was developing into a more
+fair skinned inhabitants of the city was developing into a more
 serious matter than the Torquasians had anticipated.
 
 Instead of remaining to battle with the red man, Hortan Gur promised
@@ -1861,16 +1861,16 @@ to meet the rapidly advancing bowmen.
 The other warriors quickly followed their jeddak, leaving Thuvia
 and Carthoris alone upon the platform.
 
-Between them and the city raged a terrific battle.  The fair-skinned
-warriors, armed only with their long bows and a kind of short-handled
-war-axe, were almost helpless beneath the savage mounted green men
+Between them and the city raged a terrific battle.  The fair skinned
+warriors, armed only with their long bows and a kind of short handled
+war axe, were almost helpless beneath the savage mounted green men
 at close quarters; but at a distance their sharp arrows did fully
 as much execution as the radium projectiles of the green men.
 
 But if the warriors themselves were outclassed, not so their savage
 companions, the fierce banths.  Scarce had the two lines come
 together when hundreds of these appalling creatures had leaped
-among the Torquasians, dragging warriors from their thoats--dragging
+among the Torquasians, dragging warriors from their thoats dragging
 down the huge thoats themselves, and bringing consternation to all
 before them.
 
@@ -1898,7 +1898,7 @@ corpses of their dead lay thick upon the field of battle.
 
 Death seemed to follow instantly the slightest pinprick of a bowman's
 arrow, nor apparently did one ever miss its goal.  There could be
-but one explanation: the missiles were poison-tipped.
+but one explanation: the missiles were poison tipped.
 
 Presently the sounds of conflict died in the distant forest.
 Quiet reigned, broken only by the growling of the devouring banths.
@@ -1937,14 +1937,14 @@ minions return to their own harness."
 "You believe that I did this thing, Thuvia?" he asked.
 
 "Ah, Carthoris," she replied sadly, "I did not wish to believe it;
-but when everything pointed to you--even then I would not believe
+but when everything pointed to you even then I would not believe
 it."
 
 "I did not do it, Thuvia," he said.  "But let me be entirely honest
 with you.  As much as I love your father, as much as I respect Kulan
 Tith, to whom you are betrothed, as well as I know the frightful
 consequences that must have followed such an act of mine, hurling
-into war, as it would, three of the greatest nations of Barsoom--yet,
+into war, as it would, three of the greatest nations of Barsoom yet,
 notwithstanding all this, I should not have hesitated to take you
 thus, Thuvia of Ptarth, had you even hinted that it would not have
 displeased YOU.
@@ -1957,7 +1957,7 @@ man to do so," he concluded, almost bitterly.
 Thuvia of Ptarth looked into his face for several moments.  Her
 breast was rising and falling as though to some resistless emotion.
 She half took a step toward him.  Her lips parted as though to
-speak--swiftly and impetuously.
+speak swiftly and impetuously.
 
 And then she conquered whatever had moved her.
 
@@ -1968,7 +1968,7 @@ Carthoris was hurt by the girl's tone, as much as by the doubt as
 to his integrity which her words implied.
 
 He had half hoped that she might hint that his love would be
-acceptable--certainly there was due him at least a little gratitude
+acceptable certainly there was due him at least a little gratitude
 for his recent acts in her behalf; but the best he received was
 cold skepticism.
 
@@ -1979,7 +1979,7 @@ her turn to be hurt.
 Of course she had not meant to hurt him.  He might have known that
 after what he had said she could not do anything to encourage him!
 But he need not have made his indifference quite so palpable.  The
-men of Helium were noted for their gallantry--not for boorishness.
+men of Helium were noted for their gallantry not for boorishness.
 Possibly it was the Earth blood that flowed in his veins.
 
 How could she know that the shrug was but Carthoris' way of
@@ -2003,7 +2003,7 @@ where we may be now I have no idea."
 to know," said Carthoris.  "Let us hope that they prove friendly.
 What race may they be?  Only in the most ancient of our legends
 and in the mural paintings of the deserted cities of the dead
-sea-bottoms are depicted such a race of auburn-haired, fair-skinned
+sea bottoms are depicted such a race of auburn haired, fair skinned
 people.  Can it be that we have stumbled upon a surviving city of
 the past which all Barsoom believes buried beneath the ages?"
 
@@ -2052,7 +2052,7 @@ there upon the field but a moment since.  It would have required
 many hours to have removed them.  The thing is uncanny."
 
 "I had hoped," said Thuvia, "that we might find an asylum with
-these fair-skinned people.  Notwithstanding their valour upon the
+these fair skinned people.  Notwithstanding their valour upon the
 field of battle, they did not strike me as a ferocious or warlike
 people.  I had been about to suggest that we seek entrance to the
 city, but now I scarce know if I care to venture among people whose
@@ -2079,11 +2079,11 @@ from its gory feast, descried them.  With an angry roar the beast
 walked quickly in their direction, and at the sound of its voice
 a score of others followed its example.
 
-Carthoris drew his long-sword.  The girl stole a quick glance
+Carthoris drew his long sword.  The girl stole a quick glance
 at his face.  She saw the smile upon his lips, and it was as wine
 to sick nerves; for even upon warlike Barsoom where all men are
-brave, woman reacts quickly to quiet indifference to danger--to
-dare-deviltry that is without bombast.
+brave, woman reacts quickly to quiet indifference to danger to
+dare deviltry that is without bombast.
 
 "You may return your sword," she said.  "I told you that the banths
 would not harm us.  Look!" and as she spoke she stepped quickly
@@ -2141,7 +2141,7 @@ them from the bodies of the slain?
 Despite himself Carthoris could scarce repress a shudder of
 apprehension as he glanced toward the silent city before them.  No
 longer was sign of life visible upon wall or roof top.  All was
-quiet--brooding, ominous quiet.
+quiet brooding, ominous quiet.
 
 Yet he was sure that eyes watched them from somewhere behind that
 blank wall.
@@ -2169,14 +2169,14 @@ It was circular, closing a circular aperture, and the Heliumite knew
 from his study of ancient Barsoomian architecture that it rolled
 to one side, like a huge wheel, into an aperture in the wall.
 
-Even such world-old cities as ancient Aaanthor were as yet undreamed
+Even such world old cities as ancient Aaanthor were as yet undreamed
 of when the races lived that built such gates as these.
 
 As he stood speculating upon the identity of this forgotten city,
 a voice spoke to them from above.  Both looked up.  There, leaning
 over the edge of the high wall, was a man.
 
-His hair was auburn, his skin fair--fairer even than that of John
+His hair was auburn, his skin fair fairer even than that of John
 Carter, the Virginian.  His forehead was high, his eyes large and
 intelligent.
 
@@ -2199,11 +2199,11 @@ upon Barsoom a race of thy strange colour.  Where may these cities
 lie, of which you speak?  From our loftiest tower we have never
 seen another city than Lothar."
 
-Carthoris pointed toward the north-east.
+Carthoris pointed toward the north east.
 
 "In that direction lie Helium and Ptarth," he said.  "Helium is over
 eight thousand haads from Lothar, while Ptarth lies nine thousand
-five hundred haads north-east of Helium."[1]
+five hundred haads north east of Helium."[1]
 
 
 [1]On Barsoom the AD is the basis of linear measurement.  It is
@@ -2244,14 +2244,14 @@ of Lothar other than a trackless waste peopled by the ferocious
 green hordes of Torquas.
 
 After considerable parleying he consented to admit them to the
-city, and a moment later the wheel-like gate rolled back within
+city, and a moment later the wheel like gate rolled back within
 its niche, and Thuvia and Carthoris entered the city of Lothar.
 
 All about them were evidences of fabulous wealth.  The facades of
 the buildings fronting upon the avenue within the wall were richly
-carven, and about the windows and doors were ofttimes set foot-wide
+carven, and about the windows and doors were ofttimes set foot wide
 borders of precious stones, intricate mosaics, or tablets of beaten
-gold bearing bas-reliefs depicting what may have been bits of the
+gold bearing bas reliefs depicting what may have been bits of the
 history of this forgotten people.
 
 He with whom they had conversed across the wall was in the avenue
@@ -2259,7 +2259,7 @@ to receive them.  About him were a hundred or more men of the same
 race.  All were clothed in flowing robes and all were beardless.
 
 Their attitude was more of fearful suspicion than antagonism.  They
-followed the new-comers with their eyes; but spoke no word to them.
+followed the new comers with their eyes; but spoke no word to them.
 
 Carthoris could not but notice the fact that though the city had
 been but a short time before surrounded by a horde of bloodthirsty
@@ -2273,9 +2273,9 @@ their host.
 The man smiled.
 
 "No creature other than a score or so of our sacred banths has left
-Lothar to-day," he replied.
+Lothar to day," he replied.
 
-"But the soldiers--the bowmen!" exclaimed Carthoris.  "We saw
+"But the soldiers the bowmen!" exclaimed Carthoris.  "We saw
 thousands emerge from this very gate, overwhelming the hordes of
 Torquas and putting them to rout with their deadly arrows and their
 fierce banths."
@@ -2300,7 +2300,7 @@ and now as they turned back again toward the advancing regiments
 their eyes went wide in astonishment, for the broad avenue before
 them was as deserted as the tomb.
 
-"And those who marched out upon the hordes to-day?" whispered
+"And those who marched out upon the hordes to day?" whispered
 Carthoris.  "They, too, were unreal?"
 
 The man nodded.
@@ -2372,7 +2372,7 @@ head to and fro and wiggling his body as you have seen a hound do
 when approaching its master.
 
 Thuvia glanced quickly toward Carthoris.  He was standing erect,
-with high-held head and arms folded across his broad chest.  A
+with high held head and arms folded across his broad chest.  A
 haughty smile curved his lips.
 
 The man upon the dais was eyeing him intently, and Carthoris of
@@ -2404,7 +2404,7 @@ THE PHANTOM BOWMEN
 
 
 As Jav leaped toward him Carthoris laid his hand upon the hilt of
-his long-sword.  The Lotharian halted.  The great apartment was
+his long sword.  The Lotharian halted.  The great apartment was
 empty save for the four at the dais, yet as Jav stepped back from
 the menace of the Heliumite's threatening attitude the latter found
 himself surrounded by a score of bowmen.
@@ -2426,7 +2426,7 @@ nearest antagonist.
 As the keen edge reached its goal Carthoris let the point fall to
 the floor, as with wide eyes he stepped backward in consternation,
 throwing the back of his left hand across his brow.  His steel
-had cut but empty air--his antagonist had vanished--there were no
+had cut but empty air his antagonist had vanished there were no
 bowmen in the room!
 
 "It is evident that these are strangers," said Tario to Jav.  "Let
@@ -2467,7 +2467,7 @@ to trifle with the good nature of your jeddak.
 
 "Remove the man.  Leave the woman.  We shall see if both be lies.
 And later, Jav, you shall suffer for your temerity.  There be few
-of us left, but--Komal must be fed.  Go!"
+of us left, but Komal must be fed.  Go!"
 
 Carthoris could see that Jav trembled as he prostrated himself once
 more before his ruler, and then, rising, turned toward the Prince
@@ -2479,8 +2479,8 @@ of Helium.
 
 Jav brushed closely past him, whispering:
 
-"Follow me--he cannot harm her, except to kill; and that he can do
-whether you remain or not.  We had best go now--trust me."
+"Follow me he cannot harm her, except to kill; and that he can do
+whether you remain or not.  We had best go now trust me."
 
 Carthoris did not understand, but something in the urgency of the
 other's tone assured him, and so he turned away, but not without a
@@ -2508,7 +2508,7 @@ that thin air may kill me?"
 Carthoris nodded.
 
 "So would you fall before them, and without one single chance for
-self-defence or revenge."
+self defence or revenge."
 
 As they talked Jav led Carthoris to a small room in one of the
 numerous towers of the palace.  Here were couches, and Jav bid the
@@ -2528,7 +2528,7 @@ you not see me, feel me?"
 know that they, at least, are not real."
 
 Carthoris showed by the expression of his face his puzzlement at
-each new reference to the mysterious bowmen--the vanishing soldiery
+each new reference to the mysterious bowmen the vanishing soldiery
 of Lothar.
 
 "What, then, may they be?" he asked.
@@ -2552,14 +2552,14 @@ We defend ourselves."
 "Certainly," replied Carthoris.  "How do the Lotharians?"
 
 "You have seen," replied the other.  "We send out our deathless
-archers--deathless because they are lifeless, existing only in the
+archers deathless because they are lifeless, existing only in the
 imaginations of our enemies.  It is really our giant minds that
 defend us, sending out legions of imaginary warriors to materialize
 before the mind's eye of the foe.
 
-"They see them--they see their bows drawn back--they see their
+"They see them they see their bows drawn back they see their
 slender arrows speed with unerring precision toward their hearts.
-And they die--killed by the power of suggestion."
+And they die killed by the power of suggestion."
 
 "But the archers that are slain?" exclaimed Carthoris.  "You call
 them deathless, and yet I saw their dead bodies piled high upon
@@ -2572,7 +2572,7 @@ that there are really no flesh and blood creatures opposing them.
 "Once that truth became implanted in their minds, it is the theory
 of many of us, no longer would they fall prey to the suggestion
 of the deadly arrows, for greater would be the suggestion of the
-truth, and the more powerful suggestion would prevail--it is law."
+truth, and the more powerful suggestion would prevail it is law."
 
 "And the banths?" questioned Carthoris.  "They, too, were but
 creatures of suggestion?"
@@ -2588,7 +2588,7 @@ thing is demanded by the realists among us.  I am a realist.  Tario
 is an etherealist.
 
 "The etherealists maintain that there is no such thing as
-matter--that all is mind.  They say that none of us exists, except
+matter that all is mind.  They say that none of us exists, except
 in the imagination of his fellows, other than as an intangible,
 invisible mentality.
 
@@ -2609,7 +2609,7 @@ that no food is necessary, nor do they eat; but any one of the most
 rudimentary intelligence must realize that food is a necessity to
 creatures having actual existence."
 
-"Yes," agreed Carthoris, "not having eaten to-day I can readily
+"Yes," agreed Carthoris, "not having eaten to day I can readily
 agree with you."
 
 "Ah, pardon me," exclaimed Jav.  "Pray be seated and satisfy your
@@ -2621,7 +2621,7 @@ with his eyes several times.
 "It is well," continued Jav, "that you did not fall into the hands
 of an etherealist.  Then, indeed, would you have gone hungry."
 
-"But," exclaimed Carthoris, "this is not real food--it was not here
+"But," exclaimed Carthoris, "this is not real food it was not here
 an instant since, and real food does not materialize out of thin
 air."
 
@@ -2651,11 +2651,11 @@ the substanceless matter of the brain.
 
 "We realists, however, know better.  We know that mind has the
 power to maintain substance even though it may not be able to create
-substance--the latter is still an open question.  And so we know
+substance the latter is still an open question.  And so we know
 that in order to maintain our physical bodies we must cause all
 our organs properly to function.
 
-"This we accomplish by materializing food-thoughts, and by partaking
+"This we accomplish by materializing food thoughts, and by partaking
 of the food thus created.  We chew, we swallow, we digest.  All our
 organs function precisely as if we had partaken of material food.
 And what is the result?  What must be the result?  The chemical
@@ -2677,7 +2677,7 @@ is unnecessary?"
 Jav scratched his head.
 
 "That is a question we often discuss," he replied.  "It is the
-strongest evidence we have of the non-existence of the etherealists;
+strongest evidence we have of the non existence of the etherealists;
 but who may know other than Komal?"
 
 "Who is Komal?" asked Carthoris.  "I heard your jeddak speak of
@@ -2689,7 +2689,7 @@ about before he spoke.
 "Komal is the essence," he whispered.  "Even the etherealists
 admit that mind itself must have substance in order to transmit to
 imaginings the appearance of substance.  For if there really was
-no such thing as substance it could not be suggested--what never
+no such thing as substance it could not be suggested what never
 has been cannot be imagined.  Do you follow me?"
 
 "I am groping," replied Carthoris dryly.
@@ -2701,7 +2701,7 @@ That is Tario's work.
 
 "He says that inasmuch as we maintain that we alone are real we
 should, to be consistent, admit that we alone are proper food for
-Komal.  Sometimes, as to-day, we find other food for him.  He is
+Komal.  Sometimes, as to day, we find other food for him.  He is
 very fond of Torquasians."
 
 "And Komal is a man?" asked Carthoris.
@@ -2718,9 +2718,9 @@ He cannot die, but he might cease to eat, and, thus, to radiate."
 
 "Women!" exclaimed Jav.  "There are no women in Lothar.  The last
 of the Lotharian females perished ages since, upon that cruel and
-terrible journey across the muddy plains that fringed the half-dried
+terrible journey across the muddy plains that fringed the half dried
 seas, when the green hordes scourged us across the world to this
-our last hiding-place--our impregnable fortress of Lothar.
+our last hiding place our impregnable fortress of Lothar.
 
 "Scarce twenty thousand men of all the countless millions of our
 race lived to reach Lothar.  Among us were no women and no children.
@@ -2732,7 +2732,7 @@ all.  Many more died before we perfected our powers, but at last
 we were able to defy death when we fully understood that death was
 merely a state of mind.
 
-"Then came the creation of mind-people, or rather the materialization
+"Then came the creation of mind people, or rather the materialization
 of imaginings.  We first put these to practical use when the
 Torquasians discovered our retreat, and fortunate for us it was
 that it required ages of search upon their part before they found
@@ -2744,17 +2744,17 @@ we could muster upon our walls.  All Lothar bristled with the bows
 and arrows of our ethereal host.
 
 "But the Torquasians did not frighten.  They are lower than the
-beasts--they know no fear.  They rushed upon our walls, and standing
+beasts they know no fear.  They rushed upon our walls, and standing
 upon the shoulders of others they built human approaches to the
 wall tops, and were on the very point of surging in upon us and
 overwhelming us.
 
-"Not an arrow had been discharged by our bowmen--we did but cause
+"Not an arrow had been discharged by our bowmen we did but cause
 them to run to and fro along the wall top, screaming taunts and
 threats at the enemy.
 
-"Presently I thought to attempt the thing--THE GREAT THING.  I centred
-all my mighty intellect upon the bowmen of my own creation--each
+"Presently I thought to attempt the thing THE GREAT THING.  I centred
+all my mighty intellect upon the bowmen of my own creation each
 of us produces and directs as many bowmen as his mentality and
 imagination is capable of.
 
@@ -2769,7 +2769,7 @@ to follow my example, so that presently the hordes of Torquas had
 retreated beyond the range of our arrows.
 
 "We might have killed them at any distance, but one rule of war we
-have maintained from the first--the rule of realism.  We do nothing,
+have maintained from the first the rule of realism.  We do nothing,
 or rather we cause our bowmen to do nothing within sight of the
 enemy that is beyond the understanding of the foe.  Otherwise they
 might guess the truth, and that would be the end of us.
@@ -2819,7 +2819,7 @@ you may not return until he sends for you."
 
 "I do not forget them," replied Carthoris, but he did not tell
 Jav that he remembered something else that the Lotharian had let
-drop--something that was but a conjecture, possibly, and yet one
+drop something that was but a conjecture, possibly, and yet one
 well worth pinning a forlorn hope to, should necessity arise.
 
 Carthoris started to leave the room.  Jav stepped before him,
@@ -2854,7 +2854,7 @@ functions which filled it to its capacity.
 
 And yet nowhere about her, in antechamber or corridor, was there
 sign of any other being than herself and the recumbent figure of
-Tario, the jeddak, who watched her through half-closed eyes from
+Tario, the jeddak, who watched her through half closed eyes from
 the gorgeous trappings of his regal couch.
 
 For a time after the departure of Jav and Carthoris the man eyed
@@ -2866,20 +2866,20 @@ contrary to the customs and the royal edicts of Lothar.  Tell me,
 woman, from whose brain have you sprung?  Jav's?  No, do not deny
 it.  I know that it could be no other than that envious realist.  He
 seeks to tempt me.  He would see me fall beneath the spell of your
-charms, and then he, your master, would direct my destiny and--my
+charms, and then he, your master, would direct my destiny and my
 end.  I see it all!  I see it all!"
 
 The blood of indignation and anger had been rising to Thuvia's
 face.  Her chin was up, a haughty curve upon her perfect lips.
 
 "I know naught," she cried, "of what you are prating!  I am Thuvia,
-Princess of Ptarth.  I am no man's 'creature.'  Never before to-day
+Princess of Ptarth.  I am no man's 'creature.'  Never before to day
 did I lay eyes upon him you call Jav, nor upon your ridiculous city,
 of which even the greatest nations of Barsoom have never dreamed.
 
 "My charms are not for you, nor such as you.  They are not for
 sale or barter, even though the price were a real throne.  And as
-for using them to win your worse than futile power--"  She ended
+for using them to win your worse than futile power "  She ended
 her sentence with a shrug of her shapely shoulders, and a little
 scornful laugh.
 
@@ -2918,7 +2918,7 @@ came closer.  He spoke gentle, friendly words, and she answered
 him in a voice that seemed hers and yet another's.
 
 He was beside her now.  His hand was up her shoulder.  His eyes
-were down-bent toward hers.  She looked up into his face.  His
+were down bent toward hers.  She looked up into his face.  His
 gaze seemed to bore straight through her to some hidden spring of
 sentiment within her.
 
@@ -2943,7 +2943,7 @@ common upon Barsoom, she quickly guessed enough of the truth to
 know that she was in grave danger.
 
 Quickly she took a step backward, tearing herself from his grasp.
-But the momentary contact had aroused within Tario all the long-buried
+But the momentary contact had aroused within Tario all the long buried
 passions of his loveless existence.
 
 With a muffled cry he sprang upon her, throwing his arms about her
@@ -2970,8 +2970,8 @@ offered affront to Thuvia of Ptarth!"
 
 "Who, Jav?" asked Tario.
 
-"Not Jav, nor any other soft-skinned Lotharian," she replied; "but
-a real man, a real warrior--Carthoris of Helium!"
+"Not Jav, nor any other soft skinned Lotharian," she replied; "but
+a real man, a real warrior Carthoris of Helium!"
 
 Again the man laughed at her.
 
@@ -3021,11 +3021,11 @@ the apartment behind her.
 
 Ah, if she had but an instant more of time she could have reached
 that screening arras and, perchance, have found some avenue of
-escape behind it; but now it was too late--she had been discovered!
+escape behind it; but now it was too late she had been discovered!
 
 With a feeling that was akin to apathy she turned to meet her fate,
 and there, before her, running swiftly across the broad chamber to
-her side, was Carthoris, his naked long-sword gleaming in his hand.
+her side, was Carthoris, his naked long sword gleaming in his hand.
 
 For days she had doubted the intentions of the Heliumite.  She
 had thought him a party to her abduction.  Since Fate had thrown
@@ -3056,8 +3056,8 @@ promised to Kulan Tith.  Not even might she trust herself to show
 too great gratitude to the Heliumite, lest he misunderstand.
 
 Carthoris was by her side now.  His quick glance had taken in the
-scene within the room--the still figure of the jeddak sprawled upon
-the floor--the girl hastening toward a shrouded exit.
+scene within the room the still figure of the jeddak sprawled upon
+the floor the girl hastening toward a shrouded exit.
 
 "Did he harm you, Thuvia?" he asked.
 
@@ -3092,10 +3092,10 @@ we have safely passed the outer portals of thy ghostly city."
 
 "You have killed Tario!" exclaimed Jav, ignoring the other's
 challenge.  "You have killed Tario!  I see his blood upon the
-floor--real blood--real death.  Tario was, after all, as real as I.
+floor real blood real death.  Tario was, after all, as real as I.
 Yet he was an etherealist.  He would not materialize his sustenance.
 Can it be that they are right?  Well, we, too, are right.  And all
-these ages we have been quarrelling--each saying that the other
+these ages we have been quarrelling each saying that the other
 was wrong!
 
 "However, he is dead now.  Of that I am glad.  Now shall Jav come
@@ -3121,7 +3121,7 @@ Now shall Jav be Jeddak of Lothar.'
 
 "At last, traitor, I have found you out.  Your own words have
 condemned you as surely as the acts of these red creatures have
-sealed their fates--unless--" He paused.  "Unless the woman--"
+sealed their fates unless " He paused.  "Unless the woman "
 
 But he got no further.  Carthoris guessed what he would have said,
 and before the words could be uttered he had sprung forward and
@@ -3130,7 +3130,7 @@ struck the man across the mouth with his open palm.
 Tario frothed in rage and mortification.
 
 "And should you again affront the Princess of Ptarth," warned the
-Heliumite, "I shall forget that you wear no sword--not for ever
+Heliumite, "I shall forget that you wear no sword not for ever
 may I control my itching sword hand."
 
 Tario shrank back toward the little doorways behind the dais.  He
@@ -3177,13 +3177,13 @@ but, alas, he was too quick for us."
 
 "Well, well," exclaimed Carthoris impatiently.  "What if he did
 call the guards?  There will be time enough to worry about that
-after they come--at present I see no indication that they have any
-idea of over-exerting themselves to obey their jeddak's summons."
+after they come at present I see no indication that they have any
+idea of over exerting themselves to obey their jeddak's summons."
 
 Jav shook his head mournfully.
 
 "You do not understand," he said.  "The guards have already
-come--and gone.  They have done their work and we are lost.  Look
+come and gone.  They have done their work and we are lost.  Look
 to the various exits."
 
 Carthoris and Thuvia turned their eyes in the direction of the
@@ -3212,7 +3212,7 @@ upon him grievously.
 
 Thuvia of Ptarth drew quite close to him.  She felt safer with the
 feel of his arm against hers, and with the contact of her the man
-took a new grip upon himself.  With his old-time smile he turned
+took a new grip upon himself.  With his old time smile he turned
 toward her.
 
 "It would seem that they are trying to frighten us to death," he
@@ -3236,13 +3236,13 @@ one might stand easily only by bending one knee considerably.
 Jav was shrieking still, and clawing at the royal couch that had
 already commenced to slide toward the centre of the room, where both
 Thuvia and Carthoris suddenly noted a small orifice which grew in
-diameter as the floor assumed more closely a funnel-like contour.
+diameter as the floor assumed more closely a funnel like contour.
 
 Now it became more and more difficult to cling to the dizzy
 inclination of the smooth and polished marble.
 
 Carthoris tried to support Thuvia, but himself commenced to slide
-and slip toward the ever-enlarging aperture.
+and slip toward the ever enlarging aperture.
 
 Better to cling to the smooth stone he kicked off his sandals
 of zitidar hide and with his bare feet braced himself against the
@@ -3307,7 +3307,7 @@ at one end of the chamber.
 "From thence will he come upon us.  Lay aside your puny sword, fool.
 It will but enrage him the more and make our sufferings the worse."
 
-Carthoris smiled, gripping his long-sword the more firmly.
+Carthoris smiled, gripping his long sword the more firmly.
 
 Presently Jav gave a horrified moan, at the same time pointing
 toward the door.
@@ -3317,7 +3317,7 @@ toward the door.
 Carthoris and Thuvia looked in the direction the Lotharian had
 indicated, expecting to see some strange and fearful creature in
 human form; but to their astonishment they saw the broad head and
-great-maned shoulders of a huge banth, the largest that either ever
+great maned shoulders of a huge banth, the largest that either ever
 had seen.
 
 Slowly and with dignity the mighty beast advanced into the room.
@@ -3345,9 +3345,9 @@ it came slinking to the girl's feet.  Thuvia turned toward Carthoris.
 Carthoris smiled.
 
 "I did not fear it," he replied, "for I, too, believed it to be
-only a banth, and I have my long-sword."
+only a banth, and I have my long sword."
 
-Jav sat up and gazed at the spectacle before him--the slender girl
+Jav sat up and gazed at the spectacle before him the slender girl
 weaving her fingers in the tawny mane of the huge creature that he
 had thought divine, while Komal rubbed his hideous snout against
 her side.
@@ -3357,7 +3357,7 @@ her side.
 Jav looked bewildered.  He scarce knew whether he dare chance
 offending Komal or not, for so strong is the power of superstition
 that even though we know that we have been reverencing a sham, yet
-still we hesitate to admit the validity of our new-found convictions.
+still we hesitate to admit the validity of our new found convictions.
 
 "Yes," he said, "this is Komal.  For ages the enemies of Tario have
 been hurled to this pit to fill his maw, for Komal must be fed."
@@ -3375,7 +3375,7 @@ out."
 
 Together the three approached the doorway through which Komal had
 entered the apartment that was to have witnessed their deaths.
-Beyond was a low-roofed lair, with a small door at the far end.
+Beyond was a low roofed lair, with a small door at the far end.
 
 This, to their delight, opened to the lifting of an ordinary latch,
 letting them into a circular arena, surrounded by tiers of seats.
@@ -3396,7 +3396,7 @@ the palace to the gardens at the side.
 No one appeared to question them as they advanced, mighty Komal
 pacing by the girl's side.
 
-"Where are the people of the palace--the jeddak's retinue?" asked
+"Where are the people of the palace the jeddak's retinue?" asked
 Carthoris.  "Even in the city streets as we came through I scarce
 saw sign of a human being, yet all about are evidences of a mighty
 population."
@@ -3411,9 +3411,9 @@ peoples of our brain, yet they are apparent to us.
 
 "Even now I see great throngs lining the avenue, hastening to and
 fro in the round of their duties.  I see women and children laughing
-on the balconies--these we are forbidden to materialize; but yet
-I see them--they are here. . . .  But why not?" he mused.  "No
-longer need I fear Tario--he has done his worst, and failed.  Why
+on the balconies these we are forbidden to materialize; but yet
+I see them they are here. . . .  But why not?" he mused.  "No
+longer need I fear Tario he has done his worst, and failed.  Why
 not indeed?
 
 "Stay, friends," he continued.  "Would you see Lothar in all her
@@ -3425,13 +3425,13 @@ because they fully grasped the import of his mutterings.
 Jav gazed at them penetratingly for an instant, then, with a wave
 of his hand, cried:  "Look!"
 
-The sight that met them was awe-inspiring.  Where before there
+The sight that met them was awe inspiring.  Where before there
 had been naught but deserted pavements and scarlet swards, yawning
 windows and tenantless doors, now swarmed a countless multitude of
 happy, laughing people.
 
-"It is the past," said Jav in a low voice.  "They do not see us--they
-but live the old dead past of ancient Lothar--the dead and crumbled
+"It is the past," said Jav in a low voice.  "They do not see us they
+but live the old dead past of ancient Lothar the dead and crumbled
 Lothar of antiquity, which stood upon the shore of Throxus, mightiest
 of the five oceans.
 
@@ -3440,7 +3440,7 @@ See the young girls and the women smile upon them?  See the men
 greet them with love and respect?  Those be seafarers coming up
 from their ships which lie at the quays at the city's edge.
 
-"Brave men, they--ah, but the glory of Lothar has faded!  See their
+"Brave men, they ah, but the glory of Lothar has faded!  See their
 weapons.  They alone bore arms, for they crossed the five seas to
 strange places where dangers were.  With their passing passed the
 martial spirit of the Lotharians, leaving, as the ages rolled by,
@@ -3449,7 +3449,7 @@ a race of spineless cowards.
 "We hated war, and so we trained not our youth in warlike ways.
 Thus followed our undoing, for when the seas dried and the green
 hordes encroached upon us we could do naught but flee.  But we
-remembered the seafaring bowmen of the days of our glory--it is
+remembered the seafaring bowmen of the days of our glory it is
 the memory of these which we hurl upon our enemies."
 
 As Jav ceased speaking, the picture faded, and once more, the three
@@ -3465,12 +3465,12 @@ correct, and that their shafts are powerless against minds cognizant
 of their unreality.  Otherwise we are doomed.
 
 "Explain, red man, to the woman the truths that I have explained to
-you, that she may meet the arrows with a stronger counter-suggestion
+you, that she may meet the arrows with a stronger counter suggestion
 of immunity."
 
 Carthoris did as Jav bid him; but they came to the great gates
 without sign of pursuit developing.  Here Jav set in motion the
-mechanism that rolled the huge, wheel-like gate aside, and a moment
+mechanism that rolled the huge, wheel like gate aside, and a moment
 later the three, accompanied by the banth, stepped out into the
 plain before Lothar.
 
@@ -3526,7 +3526,7 @@ The wood loomed close behind Thuvia and Carthoris.  The latter cast
 a glance toward Jav.
 
 "Come!" he whispered to the girl.  "Let them fight out their empty
-battle--neither, evidently, has power to harm the other.  They are
+battle neither, evidently, has power to harm the other.  They are
 like two controversialists hurling words at one another.  While they
 are engaged we may as well be devoting our energies to an attempt
 to find the passage through the cliffs to the plain beyond."
@@ -3597,13 +3597,13 @@ futile service?"
 are real.  I do but call them into being now, and in a way direct
 their general actions.  But thereafter, until I dissolve them, they
 are as actual as you or I.  Their officers command them, under my
-guidance.  I am the general--that is all.  And the psychological
+guidance.  I am the general that is all.  And the psychological
 effect upon the enemy is far greater than were I to treat them
 merely as substanceless vagaries.
 
 "Then, too," continued the Lotharian, "there is always the hope,
 which with us is little short of belief, that some day these
-materializations will merge into the real--that they will remain,
+materializations will merge into the real that they will remain,
 some of them, after we have dissolved their fellows, and that thus
 we shall have discovered a means for perpetuating our dying race.
 
@@ -3621,12 +3621,12 @@ rather incline toward this belief myself.
 "It seems well and sensibly based upon the belief that our ancient
 forbears developed before their extinction such wondrous mentalities
 that some of the stronger minds among them lived after the death
-of their bodies--that we are but the deathless minds of individuals
+of their bodies that we are but the deathless minds of individuals
 long dead.
 
 "It would appear possible, and yet in so far as I am concerned I
-have all the attributes of corporeal existence.  I eat, I sleep"--he
-paused, casting a meaning look upon the girl--"I love!"
+have all the attributes of corporeal existence.  I eat, I sleep" he
+paused, casting a meaning look upon the girl "I love!"
 
 Thuvia could not mistake the palpable meaning of his words and
 expression.  She turned away with a little shrug of disgust that
@@ -3648,7 +3648,7 @@ young."
 
 "Then where is he?" taunted the Lotharian.  "I tell you he has fled
 the valley.  He has left you to your fate.  But Jav will see that
-it is a pleasant one.  To-morrow we shall return into Lothar at the
+it is a pleasant one.  To morrow we shall return into Lothar at the
 head of my victorious army, and I shall be jeddak and you shall be
 my consort.  Come!" And he attempted to crush her to his breast.
 
@@ -3669,7 +3669,7 @@ As Carthoris moved through the forest toward the distant cliffs
 with Thuvia's hand still tight pressed in his, he wondered a little
 at the girl's continued silence, yet the contact of her cool palm
 against his was so pleasant that he feared to break the spell of
-her new-found reliance in him by speaking.
+her new found reliance in him by speaking.
 
 Onward through the dim wood they passed until the shadows of the
 quick coming Martian night commenced to close down upon them.  Then
@@ -3727,7 +3727,7 @@ me, man, or I complete the work that another has so well begun."
 
 "Komal," muttered Jav.  "He sprang upon me . . . and would have
 devoured me but for the girl.  Then they went away together into
-the wood--the girl and the great banth . . . her fingers twined in
+the wood the girl and the great banth . . . her fingers twined in
 his tawny mane."
 
 "Which way went they?" asked Carthoris.
@@ -3777,14 +3777,14 @@ that he might have stolen the Ptarthian princess.
 
 He did not know of the lengths to which the Dusarians had gone to
 disrupt the friendship and alliance which existed between the three
-great powers of the eastern hemisphere--Helium, Ptarth and Kaol.
+great powers of the eastern hemisphere Helium, Ptarth and Kaol.
 
 How Dusarian emissaries had found employment in important posts in
 the foreign offices of the three great nations, and how, through these
 men, messages from one jeddak to another were altered and garbled
 until the patience and pride of the three rulers and former friends
 could no longer endure the humiliations and insults contained in
-these falsified papers--not any of this he knew.
+these falsified papers not any of this he knew.
 
 Nor did he know how even to the last John Carter, Warlord of Mars,
 had refused to permit the jeddak of Helium to declare war against
@@ -3810,10 +3810,10 @@ at present was the finding of Thuvia of Ptarth.  Her trail beside
 that of the huge banth had been well marked to the tunnel, and was
 once more visible leading southward into the foothills.
 
-As he followed rapidly downward toward the dead sea-bottom, where
+As he followed rapidly downward toward the dead sea bottom, where
 he knew he must lose the spoor in the resilient ochre vegetation,
 he was suddenly surprised to see a naked man approaching him from
-the north-east.
+the north east.
 
 As the fellow drew closer, Carthoris halted to await his coming.
 He knew that the man was unarmed, and that he was apparently a
@@ -3834,7 +3834,7 @@ materialized.
 permanent materialization.  It has been an obsession with him that
 some day this thing could be accomplished and the future of Lothar
 assured.  He asserted that matter was nonexistent except in the
-imagination of man--that all was mental, and so he believed that
+imagination of man that all was mental, and so he believed that
 by persisting in his suggestion he could eventually make of me a
 permanent suggestion in the minds of all creatures.
 
@@ -3848,7 +3848,7 @@ into thin air, I suddenly found myself alone upon the edge of the
 great plain which lies yonder at the foot of the low hills.
 
 "My men were gone back to the nothingness from which they had
-sprung, but I remained--naked and unarmed.
+sprung, but I remained naked and unarmed.
 
 "At first I could not understand, but at last came a realization of
 what had occurred.  Tario's long suggestions had at last prevailed,
@@ -3860,7 +3860,7 @@ naked and unarmed in a hostile country far from Lothar."
 
 "No!" replied Kar Komak quickly.  "I have no love for Tario.  Being
 a creature of his mind, I know him too well.  He is cruel and
-tyrannical--a master I have no desire to serve.  Now that he has
+tyrannical a master I have no desire to serve.  Now that he has
 succeeded in accomplishing my permanent materialization, he will
 be unbearable, and he will go on until he has filled Lothar with
 his creatures.  I wonder if he has succeeded as well with the maid
@@ -3874,11 +3874,11 @@ that some day she would become permanent.  I have seen her there.
 She is wonderful!  But for her sake I hope that Tario succeeds not
 so well with her as he has with me.
 
-"Now, red man, I have told you of myself--what of you?"
+"Now, red man, I have told you of myself what of you?"
 
 Carthoris liked the face and manner of the bowman.  There had been
 no sign of doubt or fear in his expression as he had approached
-the heavily-armed Heliumite, and he had spoken directly and to the
+the heavily armed Heliumite, and he had spoken directly and to the
 point.
 
 So the Prince of Helium told the bowman of Lothar who he was and
@@ -3886,8 +3886,8 @@ what adventure had brought him to this far country.
 
 "Good!" exclaimed the other, when he had done.  "Kar Komak will
 accompany you.  Together we shall find the Princess of Ptarth and
-with you Kar Komak will return to the world of men--such a world
-as he knew in the long-gone past when the ships of mighty Lothar
+with you Kar Komak will return to the world of men such a world
+as he knew in the long gone past when the ships of mighty Lothar
 ploughed angry Throxus, and the roaring surf beat against the
 barrier of these parched and dreary hills."
 
@@ -3895,17 +3895,17 @@ barrier of these parched and dreary hills."
 existence?"
 
 "Most assuredly," replied Kar Komak.  "In my day I commanded the
-fleets of Lothar--mightiest of all the fleets that sailed the five
+fleets of Lothar mightiest of all the fleets that sailed the five
 salt seas.
 
 "Wherever men lived upon Barsoom there was the name of Kar Komak
 known and respected.  Peaceful were the land races in those distant
-days--only the seafarers were warriors; but now has the glory of
+days only the seafarers were warriors; but now has the glory of
 the past faded, nor did I think until I met you that there remained
 upon Barsoom a single person of our own mould who lived and loved
 and fought as did the ancient seafarers of my time.
 
-"Ah, but it will seem good to see men once again--real men!  Never
+"Ah, but it will seem good to see men once again real men!  Never
 had I much respect for the landsmen of my day.  They remained in
 their walled cities wasting their time in play, depending for their
 protection entirely upon the sea race.  And the poor creatures who
@@ -3924,7 +3924,7 @@ The outcome of the matter was that he gave the naked odwar leave to
 accompany him, and together they set out upon the spoor of Thuvia
 and Komal.
 
-Down to the ochre sea-bottom the trail led.  There it disappeared,
+Down to the ochre sea bottom the trail led.  There it disappeared,
 as Carthoris had known that it would; but where it entered the plain
 its direction had been toward Aaanthor and so toward Aaanthor the
 two turned their faces.
@@ -3935,7 +3935,7 @@ carried him with great rapidity over the face of the small planet,
 the force of gravity of which exerts so much less retarding power
 than that of the Earth.  Fifty miles a day is a fair average for
 a Barsoomian, but the son of John Carter might easily have covered
-a hundred or more miles had he cared to desert his new-found comrade.
+a hundred or more miles had he cared to desert his new found comrade.
 
 All the way they were in constant danger of discovery by roving
 bands of Torquasians, and especially was this true before they
@@ -3950,14 +3950,14 @@ Carthoris had ever strained his eyes ahead in search of Thuvia and
 the great banth; but not till now had he seen aught to give him
 hope.
 
-This morning, far ahead, half-way between themselves and Aaanthor,
+This morning, far ahead, half way between themselves and Aaanthor,
 the men saw two tiny figures moving toward the city.  For a moment
 they watched them intently.  Then Carthoris, convinced, leaped
 forward at a rapid run, Kar Komak following as swiftly as he could.
 
 The Heliumite shouted to attract the girl's attention, and presently
 he was rewarded by seeing her turn and stand looking toward him.
-At her side the great banth stood with up-pricked ears, watching
+At her side the great banth stood with up pricked ears, watching
 the approaching man.
 
 Not yet could Thuvia of Ptarth have recognized Carthoris, though
@@ -3975,7 +3975,7 @@ mighty thoats.
 To their right was Kar Komak, naked and unarmed, yet running
 valiantly toward Carthoris and shouting warning as though he, too,
 had but just discovered the silent, menacing company that moved so
-swiftly forward with couched spears and ready long-swords.
+swiftly forward with couched spears and ready long swords.
 
 Carthoris shouted to the Lotharian, warning him back, for he knew
 that he could but uselessly sacrifice his life by placing himself,
@@ -3984,7 +3984,7 @@ all unarmed, in the path of the cruel and relentless savages.
 But Kar Komak never hesitated.  With shouts of encouragement to
 his new friend, he hurried onward toward the Prince of Helium.  The
 red man's heart leaped in response to this exhibition of courage
-and self-sacrifice.  He regretted now that he had not thought to
+and self sacrifice.  He regretted now that he had not thought to
 give Kar Komak one of his swords; but it was too late to attempt
 it, for should he wait for the Lotharian to overtake him or return
 to meet him, the Torquasians would reach Thuvia of Ptarth before
@@ -3994,8 +3994,8 @@ Even as it was, it would be nip and tuck as to who came first to
 her side.
 
 Again he turned his face in her direction, and now, from Aaanthor
-way, he saw a new force hastening toward them--two medium-sized
-war craft--and even at the distance they still were from him he
+way, he saw a new force hastening toward them two medium sized
+war craft and even at the distance they still were from him he
 discerned the device of Dusar upon their bows.
 
 Now, indeed, seemed little hope for Thuvia of Ptarth.  With
@@ -4012,7 +4012,7 @@ had experienced upon a former occasion.  Nor could she account for
 it while her mind still tried to convince her heart that the Prince
 of Helium had been instrumental in her abduction from her father's
 court.  She only knew that she was glad when he was by her side,
-and that with him there all things seemed possible--even such
+and that with him there all things seemed possible even such
 impossible things as escape from her present predicament.
 
 Now had he stopped, panting, before her.  A brave smile of
@@ -4021,13 +4021,13 @@ encouragement lit his face.
 "Courage, my princess," he whispered.
 
 To the girl's memory flashed the occasion upon which he had used
-those same words--in the throne-room of Tario of Lothar as they had
+those same words in the throne room of Tario of Lothar as they had
 commenced to slip down the sinking marble floor toward an unknown
 fate.
 
 Then she had not chidden him for the use of that familiar salutation,
 nor did she chide him now, though she was promised to another.
-She wondered at herself--flushing at her own turpitude; for upon
+She wondered at herself flushing at her own turpitude; for upon
 Barsoom it is a shameful thing for a woman to listen to those two
 words from another than her husband or her betrothed.
 
@@ -4036,20 +4036,20 @@ his words.  There was but a moment before the green warriors would
 be upon them.
 
 "Forgive me!" said the man in a low voice.  "Let my great love be
-my excuse--that, and the belief that I have but a moment more of
+my excuse that, and the belief that I have but a moment more of
 life," and with the words he turned to meet the foremost of the
 green warriors.
 
 The fellow was charging with couched spear, but Carthoris leaped to
 one side, and as the great thoat and its rider hurtled harmlessly
-past him he swung his long-sword in a mighty cut that clove the
+past him he swung his long sword in a mighty cut that clove the
 green carcass in twain.
 
 At the same moment Kar Komak leaped with bare hands clawing at the
 leg of another of the huge riders; the balance of the horde raced
 in to close quarters, dismounting the better to wield their favourite
-long-swords; the Dusarian fliers touched the soft carpet of the
-ochre-clad sea-bottom, disgorging fifty fighting men from their
+long swords; the Dusarian fliers touched the soft carpet of the
+ochre clad sea bottom, disgorging fifty fighting men from their
 bowels; and into the swirling sea of cutting, slashing swords sprang
 Komal, the great banth.
 
@@ -4077,20 +4077,20 @@ Aaanthor, reaching its outskirts at dark.
 
 He wanted water more than any other thing, and so he kept on up
 a broad avenue toward the great central plaza, where he knew the
-precious fluid was to be found in a half-ruined building opposite
+precious fluid was to be found in a half ruined building opposite
 the great palace of the ancient jeddak, who once had ruled this
 mighty city.
 
 Disheartened and discouraged by the strange sequence of events
-that seemed fore-ordained to thwart his every attempt to serve
+that seemed fore ordained to thwart his every attempt to serve
 the Princess of Ptarth, he paid little or no attention to his
 surroundings, moving through the deserted city as though no great
-white apes lurked in the black shadows of the mystery-haunted piles
+white apes lurked in the black shadows of the mystery haunted piles
 that flanked the broad avenues and the great plaza.
 
 But if Carthoris was careless of his surroundings, not so other
 eyes that watched his entrance into the plaza, and followed his slow
-footsteps toward the marble pile that housed the tiny, half-choked
+footsteps toward the marble pile that housed the tiny, half choked
 spring whose water one might gain only by scratching a deep hole
 in the red sand that covered it.
 
@@ -4099,12 +4099,12 @@ grotesque figures emerged from the doorway of the palace to speed
 noiselessly across the plaza toward him.
 
 For half an hour Carthoris remained in the building, digging for
-water and gaining the few much-needed drops which were the fruits
+water and gaining the few much needed drops which were the fruits
 of his labour.  Then he rose and slowly left the structure.  Scarce
 had he stepped beyond the threshold than twelve Torquasian warriors
 leaped upon him.
 
-No time then to draw long-sword; but swift from his harness flew
+No time then to draw long sword; but swift from his harness flew
 his long, slim dagger, and as he went down beneath them more than
 a single green heart ceased beating at the bite of that keen point.
 
@@ -4116,9 +4116,9 @@ They dragged their prisoner roughly to the palace pits, where
 in utter darkness they chained him with rusty links to the solid
 masonry of the wall.
 
-"To-morrow Thar Ban will speak with you," they said.  "Now
+"To morrow Thar Ban will speak with you," they said.  "Now
 he sleeps.  But great will be his pleasure when he learns who has
-wandered amongst us--and great will be the pleasure of Hortan Gur
+wandered amongst us and great will be the pleasure of Hortan Gur
 when Thar Ban drags before him the mad fool who dared prick the
 great jeddak with his sword."
 
@@ -4126,14 +4126,14 @@ Then they left him to the silence and the darkness.
 
 For what seemed hours Carthoris squatted upon the stone floor of
 his prison, his back against the wall in which was sunk the heavy
-eye-bolt that secured the chain which held him.
+eye bolt that secured the chain which held him.
 
 Then, from out of the mysterious blackness before him, there
 came to his ears the sound of naked feet moving stealthily upon
-stone--approaching nearer and nearer to where he lay, unarmed and
+stone approaching nearer and nearer to where he lay, unarmed and
 defenceless.
 
-Minutes passed--minutes that seemed hours--during which time
+Minutes passed minutes that seemed hours during which time
 periods of sepulchral silence would be followed by a repetition of
 the uncanny scraping of naked feet slinking warily upon him.
 
@@ -4171,11 +4171,11 @@ sink into his flesh he could not guess.
 At last he became aware of the mighty surging of a number of his
 antagonists back and forth upon the great chain that held him, and
 presently came the same sound that he had heard at a little distance
-from him a short time before he had been attacked--his chain had
+from him a short time before he had been attacked his chain had
 parted and the broken end snapped back against the stone wall.
 
 Now he was seized upon either side and dragged at a rapid pace through
-the dark corridors--toward what fate he could not even guess.
+the dark corridors toward what fate he could not even guess.
 
 At first he had thought his foes might be of the tribe of Torquas,
 but their hairy bodies belied that belief.  Now he was at last
@@ -4193,21 +4193,21 @@ before as to the identity of his attackers was the hairiness of
 their breasts, for the white apes are entirely hairless except for
 a great shock bristling from their heads.
 
-Now he saw the cause of that which had deceived him--across the
+Now he saw the cause of that which had deceived him across the
 chest of each of them were strips of hairy hide, usually of banth,
 in imitation of the harness of the green warriors who so often
 camped at their deserted city.
 
 Carthoris had read of the existence of tribes of apes that seemed
 to be progressing slowly toward higher standards of intelligence.
-Into the hands of such, he realized, he had fallen; but--what were
+Into the hands of such, he realized, he had fallen; but what were
 their intentions toward him?
 
 As he glanced about the courtyard, he saw fully fifty of the hideous
 beasts, squatting on their haunches, and at a little distance from
 him another human being, closely guarded.
 
-As his eyes met those of his fellow-captive a smile lit the other's
+As his eyes met those of his fellow captive a smile lit the other's
 face, and:  "Kaor, red man!" burst from his lips.  It was Kar Komak,
 the bowman.
 
@@ -4232,8 +4232,8 @@ talked the great apes squatted about them watching them intently.
 "What are we to do now?" asked the bowman.
 
 "Our case looks rather hopeless," replied Carthoris ruefully.
-"These creatures are born man-eaters.  Why they have not already
-devoured us I cannot imagine--there!" he whispered.  "See?  The
+"These creatures are born man eaters.  Why they have not already
+devoured us I cannot imagine there!" he whispered.  "See?  The
 end is coming."
 
 Kar Komak looked in the direction Carthoris indicated to see a huge
@@ -4244,7 +4244,7 @@ ape advancing with a mighty bludgeon.
 "Must we die without a struggle?" asked Kar Komak.
 
 "Not I," replied Carthoris, "though I know how futile our best
-defence must be against these mighty brutes!  Oh, for a long-sword!"
+defence must be against these mighty brutes!  Oh, for a long sword!"
 
 "Or a good bow," added Kar Komak, "and a utan of bowmen."
 
@@ -4256,7 +4256,7 @@ They had no bowmen other than those of their own creation.  You
 must know the secret of their power.  Call forth your own utan,
 Kar Komak!"
 
-The Lotharian looked at Carthoris in wide-eyed astonishment as the
+The Lotharian looked at Carthoris in wide eyed astonishment as the
 full purport of the suggestion bore in upon his understanding.
 
 "Why not?" he murmured.
@@ -4271,13 +4271,13 @@ The creature that was to slay the red man was almost within arm's
 reach of his prey when Carthoris heard a hoarse shout from the opposite
 side of the courtyard.  In common with the squatting apes and the
 demon with the club he turned in the direction of the sound, to see
-a company of sturdy bowmen rushing from the doorway of a near-by
+a company of sturdy bowmen rushing from the doorway of a near by
 building.
 
 With screams of rage the apes leaped to their feet to meet the
-charge.  A volley of arrows met them half-way, sending a dozen
+charge.  A volley of arrows met them half way, sending a dozen
 rolling lifeless to the ground.  Then the apes closed with their
-adversaries.  All their attention was occupied by the attackers--even
+adversaries.  All their attention was occupied by the attackers even
 the guard had deserted the prisoners to join in the battle.
 
 "Come!" whispered Kar Komak.  "Now may we escape while their
@@ -4288,7 +4288,7 @@ loyal nature revolted at the merest suggestion of such a thing.
 
 Kar Komak laughed.
 
-"You forget," he said, "that they are but thin air--figments of my
+"You forget," he said, "that they are but thin air figments of my
 brain.  They will vanish, unscathed, when we have no further need
 for them.  Praised be your first ancestor, redman, that you thought
 of this chance in time!  It would never have occurred to me to imagine
@@ -4331,14 +4331,14 @@ warriors seemed almost equally beyond the pale of possibility.
 
 Carthoris shrugged his broad shoulders and chose the lesser evil.
 Warily he entered the room.  At his right, against the wall,
-leaned several swords and rifles and spears--extra weapons which
+leaned several swords and rifles and spears extra weapons which
 the warriors had stacked here ready to their hands should there
 be a night alarm calling them suddenly from slumber.  Beside each
-sleeper lay his weapon--these were never far from their owners from
+sleeper lay his weapon these were never far from their owners from
 childhood to death.
 
 The sight of the swords made the young man's palm itch.  He stepped
-quickly to them, selecting two short-swords--one for Kar Komak,
+quickly to them, selecting two short swords one for Kar Komak,
 the other for himself; also some trappings for his naked comrade.
 
 Then he started directly across the centre of the apartment among
@@ -4348,7 +4348,7 @@ Not a man of them moved until Carthoris had completed more than half
 of the short though dangerous journey.  Then a fellow directly in
 his path turned restlessly upon his sleeping silks and furs.
 
-The Heliumite paused above him, one of the short-swords in readiness
+The Heliumite paused above him, one of the short swords in readiness
 should the warrior awaken.  For what seemed an eternity to the young
 prince the green man continued to move uneasily upon his couch,
 then, as though actuated by springs, he leaped to his feet and
@@ -4361,8 +4361,8 @@ shouting to one another for an explanation of the disturbance.
 
 To Carthoris all within the room was plainly visible in the dim
 light reflected from without, for the further moon stood directly
-at zenith; but to the eyes of the newly-awakened green men objects
-as yet had not taken on familiar forms--they but saw vaguely the
+at zenith; but to the eyes of the newly awakened green men objects
+as yet had not taken on familiar forms they but saw vaguely the
 figures of warriors moving about their apartment.
 
 Now one stumbled against the corpse of him whom Carthoris had
@@ -4416,7 +4416,7 @@ at one end into an avenue beyond.
 
 The other bull, still squealing and enraged, followed after his
 fellow.  There was no bridle upon either, for these strange creatures
-are controlled entirely by suggestion--when they are controlled at
+are controlled entirely by suggestion when they are controlled at
 all.
 
 Even in the hands of the giant green men bridle reins would be
@@ -4427,7 +4427,7 @@ crude way with the lower orders of their planet.
 
 With difficulty Carthoris urged the two beasts to the gate, where,
 leaning down, he raised the latch.  Then the thoat that he was
-riding placed his great shoulder to the skeel-wood planking, pushed
+riding placed his great shoulder to the skeel wood planking, pushed
 through, and a moment later the man and the two beasts were swinging
 silently down the avenue to the edge of the plaza, where Kar Komak
 hid.
@@ -4436,14 +4436,14 @@ Here Carthoris found considerable difficulty in subduing the second
 thoat, and as Kar Komak had never before ridden one of the beasts,
 it seemed a most hopeless job; but at last the bowman managed to
 scramble to the sleek back, and again the two beasts fled softly
-down the moss-grown avenues toward the open sea-bottom beyond the
+down the moss grown avenues toward the open sea bottom beyond the
 city.
 
 All that night and the following day and the second night they
-rode toward the north-east.  No indication of pursuit developed,
+rode toward the north east.  No indication of pursuit developed,
 and at dawn of the second day Carthoris saw in the distance the
 waving ribbon of great trees that marked one of the long Barsoomian
-water-ways.
+water ways.
 
 Immediately they abandoned their thoats and approached the cultivated
 district on foot.  Carthoris also discarded the metal from his
@@ -4452,11 +4452,11 @@ or of royal blood, for he did not know to what nation belonged this
 waterway, and upon Mars it is always well to assume every man and
 nation your enemy until you have learned the contrary.
 
-It was mid-forenoon when the two at last entered one of the roads
+It was mid forenoon when the two at last entered one of the roads
 that cut through the cultivated districts at regular intervals,
 joining the arid wastes on either side with the great, white,
 central highway that follows through the centre from end to end of
-the far-reaching, threadlike farm lands.
+the far reaching, threadlike farm lands.
 
 The high wall surrounding the fields served as a protection against
 surprise by raiding green hordes, as well as keeping the savage
@@ -4472,7 +4472,7 @@ After he had listened for a moment to a partial narration of their
 escape from the Torquasians, he invited them within, took them to
 his house and bade the servants there prepare food for them.
 
-As they waited in the low-ceiled, pleasant living room of the
+As they waited in the low ceiled, pleasant living room of the
 farmhouse until the meal should be ready, Carthoris drew his host
 into conversation that he might learn his nationality, and thus
 the nation under whose dominion lay the waterway where circumstance
@@ -4502,7 +4502,7 @@ wilder portions of the globe.
 
 When their service is over they discard the metal of the nation
 they have been serving until they shall have found a new master.
-In the intervals they wear no insignia, their war-worn harness and
+In the intervals they wear no insignia, their war worn harness and
 grim weapons being sufficient to attest their calling.
 
 The suggestion was a happy one, and Carthoris embraced the chance
@@ -4539,7 +4539,7 @@ Jav, cast a quick glance over her shoulder toward the forest from
 which had rumbled the fierce growl.  Jav looked, too.
 
 What they saw filled each with apprehension.  It was Komal, the
-banth-god, rushing wide-jawed upon them!
+banth god, rushing wide jawed upon them!
 
 Which had he chosen for his prey?  Or was it to be both?
 
@@ -4548,7 +4548,7 @@ hold the girl between himself and the terrible fangs, the great
 beast found him at last.
 
 Then, shrieking, he attempted to fly toward Lothar, after pushing
-Thuvia bodily into the face of the man-eater.  But his flight was
+Thuvia bodily into the face of the man eater.  But his flight was
 of short duration.  In a moment Komal was upon him, rending his
 throat and chest with demoniacal fury.
 
@@ -4559,7 +4559,7 @@ itself to be led away into the wood.
 
 With her giant protector by her side Thuvia set forth to find the
 passage through the cliffs, that she might attempt the seemingly
-impossible feat of reaching far-distant Ptarth across the more than
+impossible feat of reaching far distant Ptarth across the more than
 seventeen thousand haads of savage Barsoom.
 
 She could not believe that Carthoris had deliberately deserted her,
@@ -4572,7 +4572,7 @@ status of the Prince of Helium in her heart.  She could not admit
 even to herself that she loved him, and yet she had permitted him
 to apply to her that term of endearment and possession to which
 a Barsoomian maid should turn deaf ears when voiced by other lips
-than those of her husband or fiance--"my princess."
+than those of her husband or fiance "my princess."
 
 Kulan Tith, Jeddak of Kaol, to whom she was affianced, commanded
 her respect and admiration.  Had it been that she had surrendered
@@ -4585,8 +4585,8 @@ graced the inner courtyard of the palace of Salensus Oll at Kadabra?
 
 Did she love Kulan Tith?  Bravely she tried to believe that she
 did; but all the while her eyes wandered through the coming darkness
-for the figure of a clean-limbed fighting man--black-haired and
-grey-eyed.  Black was the hair of Kulan Tith; but his eyes were
+for the figure of a clean limbed fighting man black haired and
+grey eyed.  Black was the hair of Kulan Tith; but his eyes were
 brown.
 
 It was almost dark when she found the entrance to the tunnel.  Safely
@@ -4594,11 +4594,11 @@ she passed through to the hills beyond, and here, under the bright
 light of Mars' two moons, she halted to plan her future action.
 
 Should she wait here in the hope that Carthoris would return in
-search of her?  Or should she continue her way north-east toward
+search of her?  Or should she continue her way north east toward
 Ptarth?  Where, first, would Carthoris have gone after leaving the
 valley of Lothar?
 
-Her parched throat and dry tongue gave her the answer--toward
+Her parched throat and dry tongue gave her the answer toward
 Aaanthor and water.  Well, she, too, would go first to Aaanthor,
 where she might find more than the water she needed.
 
@@ -4609,17 +4609,17 @@ must take this and many other chances before she could hope to
 reach her father's court again.
 
 When at last Carthoris found her, only to be struck down by the
-long-sword of a green man, Thuvia prayed that the same fate might
+long sword of a green man, Thuvia prayed that the same fate might
 overtake her.
 
 The sight of the red warriors leaping from their fliers had, for a
-moment, filled her with renewed hope--hope that Carthoris of Helium
+moment, filled her with renewed hope hope that Carthoris of Helium
 might be only stunned and that they would rescue him; but when she
 saw the Dusarian metal upon their harness, and that they sought
 only to escape with her alone from the charging Torquasians, she
 gave up.
 
-Komal, too, was dead--dead across the body of the Heliumite.  She
+Komal, too, was dead dead across the body of the Heliumite.  She
 was, indeed, alone now.  There was none to protect her.
 
 The Dusarian warriors dragged her to the deck of the nearest flier.
@@ -4627,13 +4627,13 @@ All about them the green warriors surged in an attempt to wrest
 her from the red.
 
 At last those who had not died in the conflict gained the decks
-of the two craft.  The engines throbbed and purred--the propellers
+of the two craft.  The engines throbbed and purred the propellers
 whirred.  Quickly the swift boats shot heavenward.
 
 Thuvia of Ptarth glanced about her.  A man stood near, smiling down
 into her face.  With a gasp of recognition she looked full into
 his eyes, and then with a little moan of terror and understanding
-she buried her face in her hands and sank to the polished skeel-wood
+she buried her face in her hands and sank to the polished skeel wood
 deck.  It was Astok, Prince of Dusar, who bent above her.
 
 Swift were the fliers of Astok of Dusar, and great the need for
@@ -4655,7 +4655,7 @@ her mind for many days.  Scarce had they risen above Aaanthor than
 she recognized one of the crew as a member of the crew of that other
 flier that had borne her from her father's gardens to Aaanthor.
 The presence of Astok upon the craft settled the whole question.
-She had been stolen by emissaries of the Dusarian prince--Carthoris
+She had been stolen by emissaries of the Dusarian prince Carthoris
 of Helium had had nothing to do with it.
 
 Nor did Astok deny the charge when she accused him.  He only smiled
@@ -4667,7 +4667,7 @@ have urged his suit.
 Astok glowered sullenly upon her.
 
 "You shall mate with me, Thuvia of Ptarth," he growled, "or, by
-your first ancestor, you shall have your preference--and mate with
+your first ancestor, you shall have your preference and mate with
 a white ape."
 
 The girl made no reply, nor could he draw her into conversation
@@ -4691,14 +4691,14 @@ for until he had seen his father, Nutus, Jeddak of Dusar, he dared
 not let any one know whom he had brought with him from the south.
 
 But when he appeared in the great audience chamber before the
-cruel-lipped man who was his sire, he found his courage oozing,
+cruel lipped man who was his sire, he found his courage oozing,
 and he dared not speak of the princess hid within his palace.  It
 occurred to him to test his father's sentiments upon the subject,
 and so he told a tale of capturing one who claimed to know the
 whereabouts of Thuvia of Ptarth.
 
 "And if you command it, Sire," he said, "I will go and capture
-her--fetching her here to Dusar."
+her fetching her here to Dusar."
 
 Nutus frowned and shook his head.
 
@@ -4712,7 +4712,7 @@ have her here a prisoner amongst us would be an admission of guilt
 from the consequences of which naught could save us.  It would cost
 me my throne, Astok, and that I have no mind to lose.
 
-"If we had her here--" the elder man suddenly commenced to muse,
+"If we had her here " the elder man suddenly commenced to muse,
 repeating the phrase again and again.  "If we had her here, Astok,"
 he exclaimed fiercely.  "Ah, if we but had her here and none knew
 that she was here!  Can you not guess, man?  The guilt of Dusar
@@ -4731,7 +4731,7 @@ so unthinkable that even the most hardened of the paid assassins
 would shrink from you in horror should you suggest such a thing to
 him.
 
-Nutus was apparently oblivious to his son's all-too-patent terror
+Nutus was apparently oblivious to his son's all too patent terror
 at his suggestion.  Presently he continued:
 
 "You say that you know where the girl lies hid, since she was stolen
@@ -4740,7 +4740,7 @@ the three powers, her unsupported story would be sufficient to turn
 them all against us.
 
 "There is but one way, Astok," cried the older man.  "You must return
-at once to her hiding-place and fetch her hither in all secrecy.
+at once to her hiding place and fetch her hither in all secrecy.
 And, look you here!  Return not to Dusar without her, upon pain of
 death!"
 
@@ -4753,7 +4753,7 @@ He had never loved another.  In youth he had tried to find a bride
 at the courts of several of his powerful neighbours, but their
 women would have none of him.
 
-After a dozen daughters of his own nobility had sought self-destruction
+After a dozen daughters of his own nobility had sought self destruction
 rather than wed him he had given up.  And then it had been that
 he had legally wed one of his slaves that he might have a son to
 stand among the jeds when Nutus died and a new jeddak was chosen.
@@ -4774,9 +4774,9 @@ him!
 
 But had it done so?  He recalled the haughty contempt with which his
 protestations of love had been received.  He went cold and then hot
-to the memory of it.  His compunctions cooled as the self-satisfaction
+to the memory of it.  His compunctions cooled as the self satisfaction
 of a near revenge crowded out the finer instincts that had for
-a moment asserted themselves--the good that he had inherited from
+a moment asserted themselves the good that he had inherited from
 the slave woman was once again submerged in the bad blood that had
 come down to him from his royal sire; as, in the end, it always
 was.
@@ -4797,12 +4797,12 @@ with rage.  Why not finish her now and have it done with?
 At the sound of his step she turned quickly toward him.  Ah, how
 beautiful she was!  His sudden determination faded beneath the
 glorious light of her wondrous beauty.  He would wait until he had
-returned from his little journey of deception--maybe there might
-be some other way then.  Some other hand to strike the blow--with
+returned from his little journey of deception maybe there might
+be some other way then.  Some other hand to strike the blow with
 that face, with those eyes before him, he could never do it.  Of
 that he was positive.  He had always gloried in the cruelty of his
 nature, but, Issus! he was not that cruel.  No, another must be
-found--one whom he could trust.
+found one whom he could trust.
 
 He was still looking at her as she stood there before him meeting
 his gaze steadily and unafraid.  He felt the hot passion of his
@@ -4833,16 +4833,16 @@ to the frozen south, hunting them down and slaying them, until this
 great nation remained only as a hated memory in the minds of men.
 
 "But while they are exterminating the Dusarians, countless thousands
-of their own warriors must perish--and all because of the stubbornness
+of their own warriors must perish and all because of the stubbornness
 of a single woman who would not wed the prince who loves her.
 
 "Refuse, Thuvia of Ptarth, and there remains but a single
-alternative--no man must ever know your fate.  Only a handful of
+alternative no man must ever know your fate.  Only a handful of
 loyal servitors besides my royal father and myself know that you
 were stolen from the gardens of Thuvan Dihn by Astok, Prince of
-Dusar, or that to-day you be imprisoned in my palace.
+Dusar, or that to day you be imprisoned in my palace.
 
-"Refuse, Thuvia of Ptarth, and you must die to save Dusar--there
+"Refuse, Thuvia of Ptarth, and you must die to save Dusar there
 is no other way.  Nutus, the jeddak, has so decreed.  I have spoken."
 
 For a long moment the girl let her level gaze rest full upon the
@@ -4874,7 +4874,7 @@ of Dusar.
 other.  "His son, Hal Vas, is Dwar of the Road there, and thither
 has Vas Kor gone to enlist recruits among the workers on the farms."
 
-"Good," said Astok, and a half-hour more found him rising above
+"Good," said Astok, and a half hour more found him rising above
 Dusar in his swiftest flier.
 
 
@@ -4911,7 +4911,7 @@ few hours he would be blessing the fate that had thrown him into
 the service of Dusar.
 
 "Ah!" exclaimed Hal Vas.  "Here is my father now.  Kaor! Vas Kor.
-Here is one you will be glad to meet--a doughty panthan--"  He
+Here is one you will be glad to meet a doughty panthan "  He
 hesitated.
 
 "Turjun," interjected Carthoris, seizing upon the first appellation
@@ -4919,17 +4919,17 @@ that occurred to him.
 
 As he spoke his eyes crossed quickly to the tall warrior who was
 entering the room.  Where before had he seen that giant figure,
-that taciturn countenance, and the livid sword-cut from temple to
+that taciturn countenance, and the livid sword cut from temple to
 mouth?
 
 "Vas Kor," repeated Carthoris mentally.  "Vas Kor!" Where had he
 seen the man before?
 
 And then the noble spoke, and like a flash it all came back to
-Carthoris--the forward servant upon the landing-stage at Ptarth
+Carthoris the forward servant upon the landing stage at Ptarth
 that time that he had been explaining the intricacies of his new
 compass to Thuvan Dihn; the lone slave that had guarded his own hangar
-that night he had left upon his ill-fated journey for Ptarth--the
+that night he had left upon his ill fated journey for Ptarth the
 journey that had brought him so mysteriously to far Aaanthor.
 
 "Vas Kor," he repeated aloud, "blessed be your ancestors for this
@@ -4970,8 +4970,8 @@ During the evening Vas Kor announced that on the morrow they should
 depart north toward Dusar, picking up recruits at various stations
 along the way.
 
-In a great field behind the house a flier lay--a fair-sized
-cruiser-transport that would accommodate many men, yet swift and
+In a great field behind the house a flier lay a fair sized
+cruiser transport that would accommodate many men, yet swift and
 well armed also.  Here Carthoris slept, and Kar Komak, too, with
 the other recruits, under guard of the regular Dusarian warriors
 that manned the craft.
@@ -4980,15 +4980,15 @@ Toward midnight Vas Kor returned to the vessel from his son's
 house, repairing at once to his cabin.  Carthoris, with one of the
 Dusarians, was on watch.  It was with difficulty that the Heliumite
 repressed a cold smile as the noble passed within a foot of
-him--within a foot of the long, slim, Heliumitic blade that swung
+him within a foot of the long, slim, Heliumitic blade that swung
 in his harness.
 
 How easy it would have been!  How easy to avenge the cowardly
-trick that had been played upon him--to avenge Helium and Ptarth
+trick that had been played upon him to avenge Helium and Ptarth
 and Thuvia!
 
 But his hand moved not toward the dagger's hilt, for first Vas Kor
-must serve a better purpose--he might know where Thuvia of Ptarth
+must serve a better purpose he might know where Thuvia of Ptarth
 lay hidden now, if it had truly been Dusarians that had spirited
 her away during the fight before Aaanthor.
 
@@ -5013,7 +5013,7 @@ Presently the fellow discovered the oncoming craft, and sounded
 the low alarm which brought the balance of the watch and an officer
 from their sleeping silks and furs upon the deck near by.
 
-The cruiser-transport lay without lights, and, resting as she was
+The cruiser transport lay without lights, and, resting as she was
 upon the ground, must have been entirely invisible to the oncoming
 flier, which all presently recognized as a small craft.
 
@@ -5033,7 +5033,7 @@ he hailed:
 "Kaor!" came presently from above after a brief silence.  Then:
 "What ship?"
 
-"Cruiser-transport Kalksus, Vas Kor of Dusar."
+"Cruiser transport Kalksus, Vas Kor of Dusar."
 
 "Good!" came from above.  "Is there safe landing alongside?"
 
@@ -5046,13 +5046,13 @@ Several figures could be seen slipping over the side of the Thuria
 and advancing toward the Kalksus.  Ever suspicious, the Dusarians
 stood ready to receive the visitors as friends or foes as closer
 inspection might prove them.  Carthoris stood quite near the rail,
-ready to take sides with the new-comers should chance have it that
+ready to take sides with the new comers should chance have it that
 they were Heliumites playing a bold stroke of strategy upon this
 lone Dusarian ship.  He had led like parties himself, and knew that
 such a contingency was quite possible.
 
 But the face of the first man to cross the rail undeceived him
-with a shock that was not at all unpleasurable--it was the face of
+with a shock that was not at all unpleasurable it was the face of
 Astok, Prince of Dusar.
 
 Scarce noticing the others upon the deck of the Kalksus, Astok
@@ -5109,17 +5109,17 @@ she turns those eyes upon me my heart becomes water."
 
 Vas Kor's eyes narrowed.
 
-"And you wish--"  He paused, the interrogation unfinished, yet
+"And you wish "  He paused, the interrogation unfinished, yet
 complete.
 
 Astok nodded.
 
 "YOU do not love her," he said.
 
-"But I love my life--though I am only a lesser noble," he concluded
+"But I love my life though I am only a lesser noble," he concluded
 meaningly.
 
-"You shall be a greater noble--a noble of the first rank!" exclaimed
+"You shall be a greater noble a noble of the first rank!" exclaimed
 Astok.
 
 "I would be a jed," said Vas Kor bluntly.
@@ -5129,7 +5129,7 @@ Astok hesitated.
 "A jed must die before there can be another jed," he pleaded.
 
 "Jeds have died before," snapped Vas Kor.  "It would doubtless be
-not difficult for you to find a jed you do not love, Astok--there
+not difficult for you to find a jed you do not love, Astok there
 are many who do not love you."
 
 Already Vas Kor was commencing to presume upon his power over the
@@ -5143,7 +5143,7 @@ difficult for me to find a jed I do not love."
 
 "When shall we return to Dusar?" asked the noble.
 
-"At once," replied Astok.  "Let us get under way now--there is
+"At once," replied Astok.  "Let us get under way now there is
 naught to keep you here?"
 
 "I had intended sailing on the morrow, picking up such recruits as
@@ -5171,7 +5171,7 @@ entire utan of her enemies in his present state of mind.
 They were almost abreast of him now.  Astok was speaking.
 
 "Bring a couple of your men along, Vas Kor," he said.  "We are
-short-handed upon the Thuria, so quickly did we depart."
+short handed upon the Thuria, so quickly did we depart."
 
 The panthan's fingers dropped from the dagger's hilt.  His quick
 mind had grasped here a chance for succouring Thuvia of Ptarth.
@@ -5207,7 +5207,7 @@ from his harness; but already Astok had left the deck of the Kalksus,
 and he knew that before he could overtake him, should he dispatch
 Vas Kor, he would be killed by the Dusarian warriors, who now were
 thick upon the deck.  With either one of the two alive Thuvia was
-in as great danger as though both lived--it must be both!
+in as great danger as though both lived it must be both!
 
 As Vas Kor descended to the ground Carthoris boldly followed him,
 nor did any attempt to halt him, thinking, doubtless, that he was
@@ -5250,24 +5250,24 @@ The journey to Dusar seemed interminable to the impatient Carthoris,
 though as a matter of fact it was quickly accomplished.  Some
 time before they reached their destination they met and spoke with
 another Dusarian war flier.  From it they learned that a great
-battle was soon to be fought south-east of Dusar.
+battle was soon to be fought south east of Dusar.
 
 The combined navies of Dusar, Ptarth and Kaol had been intercepted
-in their advance toward Helium by the mighty Heliumitic navy--the
+in their advance toward Helium by the mighty Heliumitic navy the
 most formidable upon Barsoom, not alone in numbers and armament,
 but in the training and courage of its officers and warriors, and
 the zitidaric proportions of many of its monster battleships.
 
 Not for many a day had there been the promise of such a battle.
-Four jeddaks were in direct command of their own fleets--Kulan Tith
+Four jeddaks were in direct command of their own fleets Kulan Tith
 of Kaol, Thuvan Dihn of Ptarth, and Nutus of Dusar upon one side;
 while upon the other was Tardos Mors, Jeddak of Helium.  With the
 latter was John Carter, Warlord of Mars.
 
 From the far north another force was moving south across the barrier
-cliffs--the new navy of Talu, Jeddak of Okar, coming in response
+cliffs the new navy of Talu, Jeddak of Okar, coming in response
 to the call from the warlord.  Upon the decks of the sullen ships
-of war black-bearded yellow men looked over eagerly toward the
+of war black bearded yellow men looked over eagerly toward the
 south.  Gorgeous were they in their splendid cloaks of orluk and
 apt.  Fierce, formidable fighters from the hothouse cities of the
 frozen north.
@@ -5296,7 +5296,7 @@ Carthoris, too, loyal son of Helium that he was, felt that even
 his beloved navy might not be able to cope successfully with the
 combined forces of three great powers.
 
-Now the Thuria touched the landing-stage above the palace of Astok.
+Now the Thuria touched the landing stage above the palace of Astok.
 Hurriedly the prince and Vas Kor disembarked and entered the drop
 that would carry them to the lower levels of the palace.
 
@@ -5374,7 +5374,7 @@ witnessing her last moments.
 
 When would they come?  Would Astok do the deed with his own hands?
 She doubted that he had the courage for it.  At heart he was a
-coward--she had known it since first she had heard him brag as, a
+coward she had known it since first she had heard him brag as, a
 visitor at the court of her father, he had sought to impress her
 with his valour.
 
@@ -5390,16 +5390,16 @@ therefrom all other images.
 
 She dreamed of his noble face, the quiet dignity of his bearing,
 the smile that lit his eyes as he conversed with his friends, and
-the smile that touched his lips as he fought with his enemies--the
+the smile that touched his lips as he fought with his enemies the
 fighting smile of his Virginian sire.
 
 And Thuvia of Ptarth, true daughter of Barsoom, found her breath
-quickening and heart leaping to the memory of this other smile--the
-smile that she would never see again.  With a little half-sob
+quickening and heart leaping to the memory of this other smile the
+smile that she would never see again.  With a little half sob
 the girl sank to the pile of silks and furs that were tumbled in
 confusion beneath the east windows, burying her face in her arms.
 
-In the corridor outside her prison-room two men had paused in heated
+In the corridor outside her prison room two men had paused in heated
 argument.
 
 "I tell you again, Astok," one was saying, "that I shall not do
@@ -5432,7 +5432,7 @@ tilt of her firm little chin was eloquent of loathing and contempt.
 "To YOU, yes," replied the girl coldly.
 
 The Prince of Dusar turned to Vas Kor and nodded.  The noble drew
-his short-sword and crossed the room toward Thuvia.
+his short sword and crossed the room toward Thuvia.
 
 "Kneel!" he commanded.
 
@@ -5447,7 +5447,7 @@ from the doorway.
 
 Vas Kor turned to see the panthan he had recruited at his son's
 house leaping across the floor toward him. The fellow brushed past
-Astok with an:  "After him, you--calot!"
+Astok with an:  "After him, you calot!"
 
 Vas Kor wheeled to meet the charging man.
 
@@ -5467,7 +5467,7 @@ him.
 
 Until it was too late neither Vas Kor nor Astok dreamed of that
 which lay in the panthan's mind; but at last as the fellow stood
-with his back toward the door, both understood--they were penned in
+with his back toward the door, both understood they were penned in
 their own prison, and now the intruder could slay them at his will,
 for Thuvia of Ptarth was bolting the door at the man's direction,
 first taking the key from the opposite side, where Astok had left
@@ -5511,9 +5511,9 @@ have explained away the facts that the jeddak's investigation would
 have brought to light.
 
 Instead Astok was racing madly through a long corridor to reach
-the door of the tower-room before Carthoris and Thuvia left the
+the door of the tower room before Carthoris and Thuvia left the
 apartment.  He had seen the girl remove the key and place it in
-her pocket-pouch, and he knew that a dagger point driven into the
+her pocket pouch, and he knew that a dagger point driven into the
 keyhole from the opposite side would imprison them in the secret
 chamber till eight dead worlds circled a cold, dead sun.
 
@@ -5529,11 +5529,11 @@ was still holding the Heliumite!
 
 Astok could scarce repress a grin at the clever manner in which he
 had outwitted the noble and disposed of him at the same time.  And
-then he rounded the turn and came face to face with an auburn-haired,
+then he rounded the turn and came face to face with an auburn haired,
 white giant.
 
 The fellow did not wait to ask the reason for his coming; instead
-he leaped upon him with a long-sword, so that Astok had to parry a
+he leaped upon him with a long sword, so that Astok had to parry a
 dozen vicious cuts before he could disengage himself and flee back
 down the runway.
 
@@ -5543,8 +5543,8 @@ secret chamber.
 "Well, Kar Komak?" asked the Heliumite.
 
 "It is fortunate that you left me here, red man," said the bowman.
-"I but just now intercepted one who seemed over-anxious to reach
-this door--it was he whom they call Astok, Prince of Dusar."
+"I but just now intercepted one who seemed over anxious to reach
+this door it was he whom they call Astok, Prince of Dusar."
 
 Carthoris smiled.
 
@@ -5559,7 +5559,7 @@ the guard upon us yet!"
 Together the three hastened along the winding passages through which
 Carthoris and Kar Komak had tracked the Dusarians by the marks of
 the latter's sandals in the thin dust that overspread the floors
-of these seldom-used passage-ways.
+of these seldom used passage ways.
 
 They had come to the chamber at the entrances to the lifts before
 they met with opposition.  Here they found a handful of guardsmen,
@@ -5570,7 +5570,7 @@ Once more Carthoris and Kar Komak had recourse to their blades,
 and before they had won their way to one of the lifts the noise of
 the conflict must have aroused the entire palace, for they heard
 men shouting, and as they passed the many levels on their quick
-passage to the landing-stage they saw armed men running hither and
+passage to the landing stage they saw armed men running hither and
 thither in search of the cause of the commotion.
 
 Beside the stage lay the Thuria, with three warriors on guard.
@@ -5579,20 +5579,20 @@ but the battle was soon over, for the Prince of Helium alone would
 have been a match for any three that Dusar could produce.
 
 Scarce had the Thuria risen from the ways ere a hundred or more
-fighting men leaped to view upon the landing-stage.  At their head
+fighting men leaped to view upon the landing stage.  At their head
 was Astok of Dusar, and as he saw the two he had thought so safely
 in his power slipping from his grasp, he danced with rage and
 chagrin, shaking his fists and hurling abuse and vile insults at
 them.
 
 With her bow inclined upward at a dizzy angle, the Thuria shot
-meteor-like into the sky.  From a dozen points swift patrol boats
-darted after her, for the scene upon the landing-stage above the
+meteor like into the sky.  From a dozen points swift patrol boats
+darted after her, for the scene upon the landing stage above the
 palace of the Prince of Dusar had not gone unnoticed.
 
 A dozen times shots grazed the Thuria's side, and as Carthoris could
 not leave the control levers, Thuvia of Ptarth turned the muzzles
-of the craft's rapid-fire guns upon the enemy as she clung to the
+of the craft's rapid fire guns upon the enemy as she clung to the
 steep and slippery surface of the deck.
 
 It was a noble race and a noble fight.  One against a score now, for
@@ -5606,8 +5606,8 @@ fell out of range behind, Carthoris dropped the Thuria's nose to a
 horizontal plane, as with lever drawn to the last notch, she tore
 through the thin air of dying Mars toward the east and Ptarth.
 
-Thirteen and a half thousand haads away lay Ptarth--a stiff
-thirty-hour journey for the swiftest of fliers, and between Dusar
+Thirteen and a half thousand haads away lay Ptarth a stiff
+thirty hour journey for the swiftest of fliers, and between Dusar
 and Ptarth might lie half the navy of Dusar, for in this direction
 was the reported seat of the great naval battle that even now might
 be in progress.
@@ -5619,7 +5619,7 @@ hope of peace.
 
 Half the distance they covered without sighting a single warship,
 and then Kar Komak called Carthoris's attention to a distant craft
-that rested upon the ochre vegetation of the great dead sea-bottom,
+that rested upon the ochre vegetation of the great dead sea bottom,
 above which the Thuria was speeding.
 
 About the vessel many figures could be seen swarming.  With the
@@ -5636,7 +5636,7 @@ view.
 If the ship was of a friendly power, he could do no less than stop
 and direct his guns upon her enemies, though with the precious
 freight he carried he scarcely felt justified in landing, for
-he could offer but two swords in reinforcement--scarce enough to
+he could offer but two swords in reinforcement scarce enough to
 warrant jeopardizing the safety of the Princess of Ptarth.
 
 As they came close above the stricken ship, they could see that
@@ -5645,7 +5645,7 @@ swarm across the armoured bulwarks to glut the ferocity of their
 bloodlust upon the defenders.
 
 "It would be futile to descend," said Carthoris to Thuvia.  "The
-craft may even be of Dusar--she shows no insignia.  All that we
+craft may even be of Dusar she shows no insignia.  All that we
 may do is fire upon the hordesmen"; and as he spoke he stepped to
 one of the guns and deflected its muzzle toward the green warriors
 at the ship's side.
@@ -5655,7 +5655,7 @@ evidently discovered her for the first time.  Immediately a device
 fluttered from the bow of the warship on the ground.  Thuvia of
 Ptarth caught her breath quickly, glancing at Carthoris.
 
-The device was that of Kulan Tith, Jeddak of Kaol--the man to whom
+The device was that of Kulan Tith, Jeddak of Kaol the man to whom
 the Princess of Ptarth was betrothed!
 
 How easy for the Heliumite to pass on, leaving his rival to the fate
@@ -5697,7 +5697,7 @@ himself stepped to the gun upon the starboard bow.
 
 They could now feel the sharp shock of the explosions of the green
 warriors' projectiles against the armoured sides of the staunch
- Thuria .
+_Thuria_.
 
 It was a forlorn hope at best.  At any moment the repulsive ray
 tanks might be pierced.  The men upon the Kaolian ship were battling
@@ -5721,14 +5721,14 @@ while an answering groan broke from the lips of the Kaolians.
 
 The former now turned their attention upon the new arrival, for
 they saw her defenders could soon be overcome and that from her
-deck they could command the deck of the better-manned ship.
+deck they could command the deck of the better manned ship.
 
 As they charged a shout of warning came from Kulan Tith, upon the
 bridge of his own ship, and with it an appreciation of the valour
 of the act that had put the smaller vessel in these sore straits.
 
 "Who is it," he cried, "that offers his life in the service of
-Kulan Tith?  Never was wrought a nobler deed of self-sacrifice upon
+Kulan Tith?  Never was wrought a nobler deed of self sacrifice upon
 Barsoom!"
 
 The green horde was scrambling over the Thuria's side as there
@@ -5744,7 +5744,7 @@ seeing him thus, felt a pang of regret that, after all, this man
 that he had thought so valorous should prove, in the hour of need,
 as spineless as Jav or Tario.
 
-"Kar Komak--the man!" he shouted.  "Grip yourself!  Remember the
+"Kar Komak the man!" he shouted.  "Grip yourself!  Remember the
 days of the glory of the seafarers of Lothar.  Fight!  Fight, man!
 Fight as never man fought before.  All that remains to us is to
 die fighting."
@@ -5752,19 +5752,19 @@ die fighting."
 Kar Komak turned toward the Heliumite, a grim smile upon his lips.
 
 "Why should we fight," he asked.  "Against such fearful odds?
-There is another way--a better way.  Look!"  He pointed toward the
-companion-way that led below deck.
+There is another way a better way.  Look!"  He pointed toward the
+companion way that led below deck.
 
 The green men, a handful of them, had already reached the Thuria's
 deck, as Carthoris glanced in the direction the Lotharian had
 indicated.  The sight that met his eyes set his heart to thumping
-in joy and relief--Thuvia of Ptarth might yet be saved?  For from
+in joy and relief Thuvia of Ptarth might yet be saved?  For from
 below there poured a stream of giant bowmen, grim and terrible.
 Not the bowmen of Tario or Jav, but the bowmen of an odwar of
-bowmen--savage fighting men, eager for the fray.
+bowmen savage fighting men, eager for the fray.
 
 The green warriors paused in momentary surprise and consternation,
-but only for a moment.  Then with horrid war-cries they leaped
+but only for a moment.  Then with horrid war cries they leaped
 forward to meet these strange, new foemen.
 
 A volley of arrows stopped them in their tracks.  In a moment the
@@ -5774,9 +5774,9 @@ to charge the hordesmen upon the ground.
 
 Utan after utan tumbled from the bowels of the Thuria to launch
 themselves upon the unfortunate green men.  Kulan Tith and his
-Kaolians stood wide-eyed and speechless with amazement as they
+Kaolians stood wide eyed and speechless with amazement as they
 saw thousands of these strange, fierce warriors emerge from the
-companion-way of the small craft that could not comfortably have
+companion way of the small craft that could not comfortably have
 accommodated more than fifty.
 
 At last the green men could withstand the onslaught of overwhelming
@@ -5784,20 +5784,20 @@ numbers no longer.  Slowly, at first, they fell back across the
 ochre plain.  The bowmen pursued them.  Kar Komak, standing upon
 the deck of the Thuria, trembled with excitement.
 
-At the top of his lungs he voiced the savage war-cry of his forgotten
+At the top of his lungs he voiced the savage war cry of his forgotten
 day.  He roared encouragement and commands at his battling utans,
 and then, as they charged further and further from the Thuria, he
 could no longer withstand the lure of battle.
 
 Leaping over the ship's side to the ground, he joined the last of
-his bowmen as they raced off over the dead sea-bottom in pursuit
+his bowmen as they raced off over the dead sea bottom in pursuit
 of the fleeing green horde.
 
 Beyond a low promontory of what once had been an island the green
 men were disappearing toward the west.  Close upon their heels
 raced the fleet bowmen of a bygone day, and forging steadily ahead
 among them Carthoris and Thuvia could see the mighty figure of Kar
-Komak, brandishing aloft the Torquasian short-sword with which he
+Komak, brandishing aloft the Torquasian short sword with which he
 was armed, as he urged his creatures after the retreating enemy.
 
 As the last of them disappeared behind the promontory, Carthoris
@@ -5807,7 +5807,7 @@ turned toward Thuvia of Ptarth.
 he said.  "When they have served their purpose they remain not
 to embarrass their masters by their presence.  Kulan Tith and his
 warriors are here to protect you.  My acts have constituted the
-proof of my honesty of purpose.  Good-bye," and he knelt at her
+proof of my honesty of purpose.  Good bye," and he knelt at her
 feet, raising a bit of her harness to his lips.
 
 The girl reached out a hand and laid it upon the thick black hair
@@ -5823,7 +5823,7 @@ mighty temptation from her sight.
 
 "May my ancestors have mercy upon me," she cried, "if I say the
 thing I have no right to say; but I cannot see you cast your life
-away, Carthoris, Prince of Helium!  Stay, my chieftain.  Stay--I
+away, Carthoris, Prince of Helium!  Stay, my chieftain.  Stay I
 love you!"
 
 A cough behind them brought both about, and there they saw standing,

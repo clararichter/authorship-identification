@@ -1,20 +1,20 @@
 HÉLAS!
 
 
-   TO  drift with every passion till my soul 
-    Is a stringed lute on which all winds can play ,
-    Is it for this that I have given away 
-    Mine ancient wisdom, and austere control ?
-    Methinks my life is a twice-written scroll 
-    Scrawled over on some boyish holiday 
-    With idle songs for pipe and virelay ,
-    Which do but mar the secret of the whole .
-    Surely there was a time I might have trod 
-    The sunlit heights, and from life’s dissonance 
-    Struck one clear chord to reach the ears of God :
-    Is that time dead ?  lo !  with a little rod 
-    I did but touch the honey of romance 
-    And must I lose a soul’s inheritance ?
+   TO _drift with every passion till my soul_
+   _Is a stringed lute on which all winds can play_,
+   _Is it for this that I have given away_
+   _Mine ancient wisdom, and austere control_?
+   _Methinks my life is a twice written scroll_
+   _Scrawled over on some boyish holiday_
+   _With idle songs for pipe and virelay_,
+   _Which do but mar the secret of the whole_.
+   _Surely there was a time I might have trod_
+   _The sunlit heights, and from life’s dissonance_
+   _Struck one clear chord to reach the ears of God_:
+   _Is that time dead_? _lo_! _with a little rod_
+   _I did but touch the honey of romance_—
+   _And must I lose a soul’s inheritance_?
 
 
 
@@ -26,16 +26,16 @@ SONNET TO LIBERTY
 
    NOT that I love thy children, whose dull eyes
    See nothing save their own unlovely woe,
-   Whose minds know nothing, nothing care to know, 
+   Whose minds know nothing, nothing care to know,—
    But that the roar of thy Democracies,
    Thy reigns of Terror, thy great Anarchies,
    Mirror my wildest passions like the sea
-   And give my rage a brother !  Liberty!
+   And give my rage a brother—!  Liberty!
    For this sake only do thy dissonant cries
    Delight my discreet soul, else might all kings
    By bloody knout or treacherous cannonades
    Rob nations of their rights inviolate
-   And I remain unmoved and yet, and yet,
+   And I remain unmoved—and yet, and yet,
    These Christs that die upon the barricades,
    God knows it I am with them, in some things.
 
@@ -53,8 +53,8 @@ AVE IMPERATRIX
    And through its heart of crystal pass,
       Like shadows through a twilight land,
 
-   The spears of crimson-suited war,
-      The long white-crested waves of fight,
+   The spears of crimson suited war,
+      The long white crested waves of fight,
    And all the deadly fires which are
       The torches of the lords of Night.
 
@@ -63,22 +63,22 @@ AVE IMPERATRIX
    With gaping blackened jaws are seen
       Leap through the hail of screaming shell.
 
-   The strong sea-lion of England’s wars
+   The strong sea lion of England’s wars
       Hath left his sapphire cave of sea,
    To battle with the storm that mars
       The stars of England’s chivalry.
 
-   The brazen-throated clarion blows
+   The brazen throated clarion blows
       Across the Pathan’s reedy fen,
    And the high steeps of Indian snows
       Shake to the tread of armèd men.
 
    And many an Afghan chief, who lies
-      Beneath his cool pomegranate-trees,
+      Beneath his cool pomegranate trees,
    Clutches his sword in fierce surmise
-      When on the mountain-side he sees
+      When on the mountain side he sees
 
-   The fleet-foot Marri scout, who comes
+   The fleet foot Marri scout, who comes
       To tell how he hath heard afar
    The measured roll of English drums
       Beat at the gates of Kandahar.
@@ -93,10 +93,10 @@ AVE IMPERATRIX
    Where saw’st thou last in clanging flight
       Our wingèd dogs of Victory?
 
-   The almond-groves of Samarcand,
+   The almond groves of Samarcand,
       Bokhara, where red lilies blow,
    And Oxus, by whose yellow sand
-      The grave white-turbaned merchants go:
+      The grave white turbaned merchants go:
 
    And on from thence to Ispahan,
       The gilded garden of the sun,
@@ -111,15 +111,15 @@ AVE IMPERATRIX
    Where through the narrow straight Bazaar
       A little maid Circassian
    Is led, a present from the Czar
-      Unto some old and bearded khan, 
+      Unto some old and bearded khan,—
 
-   Here have our wild war-eagles flown,
+   Here have our wild war eagles flown,
       And flapped wide wings in fiery fight;
    But the sad dove, that sits alone
-      In England she hath no delight.
+      In England—she hath no delight.
 
    In vain the laughing girl will lean
-      To greet her love with love-lit eyes:
+      To greet her love with love lit eyes:
    Down in some treacherous black ravine,
       Clutching his flag, the dead boy lies.
 
@@ -129,8 +129,8 @@ AVE IMPERATRIX
       And in each house made desolate
 
    Pale women who have lost their lord
-      Will kiss the relics of the slain 
-   Some tarnished epaulette some sword 
+      Will kiss the relics of the slain—
+   Some tarnished epaulette—some sword—
       Poor toys to soothe such anguished pain.
 
    For not in quiet English fields
@@ -146,7 +146,7 @@ AVE IMPERATRIX
    And some in Russian waters lie,
       And others in the seas which are
    The portals to the East, or by
-      The wind-swept heights of Trafalgar.
+      The wind swept heights of Trafalgar.
 
    O wandering graves!  O restless sleep!
       O silence of the sunless day!
@@ -158,13 +158,13 @@ AVE IMPERATRIX
    O Cromwell’s England! must thou yield
       For every inch of ground a son?
 
-   Go! crown with thorns thy gold-crowned head,
+   Go! crown with thorns thy gold crowned head,
       Change thy glad song to song of pain;
    Wind and wild wave have got thy dead,
       And will not yield them back again.
 
    Wave and wild wind and foreign shore
-      Possess the flower of English land 
+      Possess the flower of English land—
    Lips that thy lips shall kiss no more,
       Hands that shall never clasp thy hand.
 
@@ -174,13 +174,13 @@ AVE IMPERATRIX
       The care that groweth never old?
 
    What profit that our galleys ride,
-      Pine-forest-like, on every main?
+      Pine forest like, on every main?
    Ruin and wreck are at our side,
       Grim warders of the House of Pain.
 
    Where are the brave, the strong, the fleet?
       Where is our English chivalry?
-   Wild grasses are their burial-sheet,
+   Wild grasses are their burial sheet,
       And sobbing waves their threnody.
 
    O loved ones lying far away,
@@ -190,7 +190,7 @@ AVE IMPERATRIX
 
    Peace, peace! we wrong the noble dead
       To vex their solemn slumber so;
-   Though childless, and with thorn-crowned head,
+   Though childless, and with thorn crowned head,
       Up the steep road must England go,
 
    Yet when this fiery web is spun,
@@ -203,15 +203,15 @@ TO MILTON
 
 
    MILTON!  I think thy spirit hath passed away
-   From these white cliffs and high-embattled towers;
-      This gorgeous fiery-coloured world of ours
+   From these white cliffs and high embattled towers;
+      This gorgeous fiery coloured world of ours
    Seems fallen into ashes dull and grey,
    And the age changed unto a mimic play
-      Wherein we waste our else too-crowded hours:
+      Wherein we waste our else too crowded hours:
       For all our pomp and pageantry and powers
    We are but fit to delve the common clay,
    Seeing this little isle on which we stand,
-      This England, this sea-lion of the sea,
+      This England, this sea lion of the sea,
       By ignorant demagogues is held in fee,
    Who love her not: Dear God! is this the land
       Which bare a triple empire in her hand
@@ -248,7 +248,7 @@ SONNET
               ON THE MASSACRE OF THE CHRISTIANS IN BULGARIA
 
    CHRIST, dost Thou live indeed? or are Thy bones
-   Still straitened in their rock-hewn sepulchre?
+   Still straitened in their rock hewn sepulchre?
    And was Thy Rising only dreamed by her
    Whose love of Thee for all her sin atones?
    For here the air is horrid with men’s groans,
@@ -294,7 +294,7 @@ LIBERTATIS SACRA FAMES
       Than to let clamorous demagogues betray
    Our freedom with the kiss of anarchy.
    Wherefore I love them not whose hands profane
-      Plant the red flag upon the piled-up street
+      Plant the red flag upon the piled up street
       For no right cause, beneath whose ignorant reign
    Arts, Culture, Reverence, Honour, all things fade,
       Save Treason and the dagger of her trade,
@@ -311,7 +311,7 @@ THEORETIKOS
    And from its hills that voice hath passed away
       Which spake of Freedom: O come out of it,
       Come out of it, my Soul, thou art not fit
-   For this vile traffic-house, where day by day
+   For this vile traffic house, where day by day
       Wisdom and reverence are sold at mart,
       And the rude people rage with ignorant cries
    Against an heritage of centuries.
@@ -332,18 +332,18 @@ THE GARDEN OF EROS
    And see his treasure scattered by the wild and spendthrift breeze.
 
    Too soon indeed! yet here the daffodil,
-      That love-child of the Spring, has lingered on
+      That love child of the Spring, has lingered on
    To vex the rose with jealousy, and still
       The harebell spreads her azure pavilion,
    And like a strayed and wandering reveller
    Abandoned of its brothers, whom long since June’s messenger
 
-   The missel-thrush has frighted from the glade,
+   The missel thrush has frighted from the glade,
       One pale narcissus loiters fearfully
    Close to a shadowy nook, where half afraid
       Of their own loveliness some violets lie
    That will not look the gold sun in the face
-   For fear of too much splendour, ah! methinks it is a place
+   For fear of too much splendour,—ah! methinks it is a place
 
    Which should be trodden by Persephone
       When wearied of the flowerless fields of Dis!
@@ -354,38 +354,38 @@ THE GARDEN OF EROS
 
    There are the flowers which mourning Herakles
       Strewed on the tomb of Hylas, columbine,
-   Its white doves all a-flutter where the breeze
+   Its white doves all a flutter where the breeze
       Kissed them too harshly, the small celandine,
-   That yellow-kirtled chorister of eve,
-   And lilac lady’s-smock, but let them bloom alone, and leave
+   That yellow kirtled chorister of eve,
+   And lilac lady’s smock,—but let them bloom alone, and leave
 
-   Yon spirèd hollyhock red-crocketed
+   Yon spirèd hollyhock red crocketed
       To sway its silent chimes, else must the bee,
    Its little bellringer, go seek instead
       Some other pleasaunce; the anemone
    That weeps at daybreak, like a silly girl
    Before her love, and hardly lets the butterflies unfurl
 
-   Their painted wings beside it, bid it pine
+   Their painted wings beside it,—bid it pine
       In pale virginity; the winter snow
    Will suit it better than those lips of thine
       Whose fires would but scorch it, rather go
    And pluck that amorous flower which blooms alone,
    Fed by the pander wind with dust of kisses not its own.
 
-   The trumpet-mouths of red convolvulus
-      So dear to maidens, creamy meadow-sweet
+   The trumpet mouths of red convolvulus
+      So dear to maidens, creamy meadow sweet
    Whiter than Juno’s throat and odorous
       As all Arabia, hyacinths the feet
    Of Huntress Dian would be loth to mar
-   For any dappled fawn, pluck these, and those fond flowers which are
+   For any dappled fawn,—pluck these, and those fond flowers which are
 
    Fairer than what Queen Venus trod upon
       Beneath the pines of Ida, eucharis,
    That morning star which does not dread the sun,
       And budding marjoram which but to kiss
    Would sweeten Cytheræa’s lips and make
-   Adonis jealous, these for thy head, and for thy girdle take
+   Adonis jealous,—these for thy head,—and for thy girdle take
 
    Yon curving spray of purple clematis
       Whose gorgeous dye outflames the Tyrian King,
@@ -398,19 +398,19 @@ THE GARDEN OF EROS
       Of those sweet tremulous days of rain and sun,
    When April laughed between her tears to see
       The early primrose with shy footsteps run
-   From the gnarled oak-tree roots till all the wold,
+   From the gnarled oak tree roots till all the wold,
    Spite of its brown and trampled leaves, grew bright with shimmering
    gold.
 
    Nay, pluck it too, it is not half so sweet
       As thou thyself, my soul’s idolatry!
-   And when thou art a-wearied at thy feet
+   And when thou art a wearied at thy feet
       Shall oxlips weave their brightest tapestry,
    For thee the woodbine shall forget its pride
    And veil its tangled whorls, and thou shalt walk on daisies pied.
 
    And I will cut a reed by yonder spring
-      And make the wood-gods jealous, and old Pan
+      And make the wood gods jealous, and old Pan
    Wonder what young intruder dares to sing
       In these still haunts, where never foot of man
    Should tread at evening, lest he chance to spy
@@ -425,7 +425,7 @@ THE GARDEN OF EROS
 
    And I will sing how sad Proserpina
       Unto a grave and gloomy Lord was wed,
-   And lure the silver-breasted Helena
+   And lure the silver breasted Helena
       Back from the lotus meadows of the dead,
    So shalt thou see that awful loveliness
    For which two mighty Hosts met fearfully in war’s abyss!
@@ -456,14 +456,14 @@ THE GARDEN OF EROS
    Have done so, made thy lips my daily food,
       And in thy temples found a goodlier feast
    Than this starved age can give me, spite of all
-   Its new-found creeds so sceptical and so dogmatical.
+   Its new found creeds so sceptical and so dogmatical.
 
    Here not Cephissos, not Ilissos flows,
       The woods of white Colonos are not here,
    On our bleak hills the olive never blows,
       No simple priest conducts his lowing steer
    Up the steep marble way, nor through the town
-   Do laughing maidens bear to thee the crocus-flowered gown.
+   Do laughing maidens bear to thee the crocus flowered gown.
 
    Yet tarry! for the boy who loved thee best,
       Whose very name should be a memory
@@ -480,7 +480,7 @@ THE GARDEN OF EROS
    And slew the mouth that praised her; since which time we walk alone,
 
    Save for that fiery heart, that morning star
-      Of re-arisen England, whose clear eye
+      Of re arisen England, whose clear eye
    Saw from our tottering throne and waste of war
       The grand Greek limbs of young Democracy
    Rise mightily like Hesperus and bring
@@ -504,7 +504,7 @@ THE GARDEN OF EROS
       It is not quenched the torch of poesy,
    The star that shook above the Eastern hill
       Holds unassailed its argent armoury
-   From all the gathering gloom and fretful fight 
+   From all the gathering gloom and fretful fight—
    O tarry with us still! for through the long and common night,
 
    Morris, our sweet and simple Chaucer’s child,
@@ -526,9 +526,9 @@ THE GARDEN OF EROS
    Forgets to journey westward, till the moon
       The pale usurper of its tribute grows
    From a thin sickle to a silver shield
-   And chides its loitering car how oft, in some cool grassy field
+   And chides its loitering car—how oft, in some cool grassy field
 
-   Far from the cricket-ground and noisy eight,
+   Far from the cricket ground and noisy eight,
       At Bagley, where the rustling bluebells come
    Almost before the blackbird finds a mate
       And overstay the swallow, and the hum
@@ -546,7 +546,7 @@ THE GARDEN OF EROS
       Is not so musical, the clammy gold
    Close hoarded in the tiny waxen town
       Has less of sweetness in it, and the old
-   Half-withered reeds that waved in Arcady
+   Half withered reeds that waved in Arcady
    Touched by his lips break forth again to fresher harmony.
 
    Spirit of Beauty, tarry yet awhile!
@@ -556,19 +556,19 @@ THE GARDEN OF EROS
    Ay! though the crowded factories beget
    The blindworm Ignorance that slays the soul, O tarry yet!
 
-   For One at least there is, He bears his name
-      From Dante and the seraph Gabriel, 
+   For One at least there is,—He bears his name
+      From Dante and the seraph Gabriel,—
    Whose double laurels burn with deathless flame
       To light thine altar; He too loves thee well,
    Who saw old Merlin lured in Vivien’s snare,
    And the white feet of angels coming down the golden stair,
 
    Loves thee so well, that all the World for him
-      A gorgeous-coloured vestiture must wear,
+      A gorgeous coloured vestiture must wear,
    And Sorrow take a purple diadem,
       Or else be no more Sorrow, and Despair
    Gild its own thorns, and Pain, like Adon, be
-   Even in anguish beautiful; such is the empery
+   Even in anguish beautiful;—such is the empery
 
    Which Painters hold, and such the heritage
       This gentle solemn Spirit doth possess,
@@ -579,7 +579,7 @@ THE GARDEN OF EROS
 
    But they are few, and all romance has flown,
       And men can prophesy about the sun,
-   And lecture on his arrows how, alone,
+   And lecture on his arrows—how, alone,
       Through a waste void the soulless atoms run,
    How from each tree its weeping nymph has fled,
    And that no more ’mid English reeds a Naiad shows her head.
@@ -614,14 +614,14 @@ THE GARDEN OF EROS
 
    Lo! while we spake the earth did turn away
       Her visage from the God, and Hecate’s boat
-   Rose silver-laden, till the jealous day
+   Rose silver laden, till the jealous day
       Blew all its torches out: I did not note
    The waning hours, to young Endymions
    Time’s palsied fingers count in vain his rosary of suns!
 
    Mark how the yellow iris wearily
       Leans back its throat, as though it would be kissed
-   By its false chamberer, the dragon-fly,
+   By its false chamberer, the dragon fly,
       Who, like a blue vein on a girl’s white wrist,
    Sleeps on that snowy primrose of the night,
    Which ’gins to flush with crimson shame, and die beneath the light.
@@ -636,14 +636,14 @@ THE GARDEN OF EROS
    Scatters the pearlèd dew from off the grass,
       In tremulous ecstasy to greet the sun,
    Who soon in gilded panoply will pass
-      Forth from yon orange-curtained pavilion
+      Forth from yon orange curtained pavilion
    Hung in the burning east: see, the red rim
    O’ertops the expectant hills! it is the God! for love of him
 
    Already the shrill lark is out of sight,
-      Flooding with waves of song this silent dell, 
+      Flooding with waves of song this silent dell,—
    Ah! there is something more in that bird’s flight
-      Than could be tested in a crucible! 
+      Than could be tested in a crucible!—
    But the air freshens, let us go, why soon
    The woodmen will be here; how we have lived this night of June!
 
@@ -665,12 +665,12 @@ REQUIESCAT
    She that was young and fair
       Fallen to dust.
 
-   Lily-like, white as snow,
+   Lily like, white as snow,
       She hardly knew
    She was a woman, so
       Sweetly she grew.
 
-   Coffin-board, heavy stone,
+   Coffin board, heavy stone,
       Lie on her breast,
    I vex my heart alone,
       She is at rest.
@@ -694,7 +694,7 @@ SONNET ON APPROACHING ITALY
       And musing on the marvel of thy fame
       I watched the day, till marked with wounds of flame
    The turquoise sky to burnished gold was turned.
-   The pine-trees waved as waves a woman’s hair,
+   The pine trees waved as waves a woman’s hair,
       And in the orchards every twining spray
       Was breaking into flakes of blossoming foam:
    But when I knew that far away at Rome
@@ -709,18 +709,18 @@ SAN MINIATO
 
       SEE, I have climbed the mountain side
       Up to this holy house of God,
-      Where once that Angel-Painter trod
+      Where once that Angel Painter trod
    Who saw the heavens opened wide,
 
       And throned upon the crescent moon
-      The Virginal white Queen of Grace, 
+      The Virginal white Queen of Grace,—
       Mary! could I but see thy face
    Death could not come at all too soon.
 
       O crowned by God with thorns and pain!
       Mother of Christ!  O mystic wife!
       My heart is weary of this life
-   And over-sad to sing again.
+   And over sad to sing again.
 
       O crowned by God with love and flame!
       O crowned by Christ the Holy One!
@@ -753,18 +753,18 @@ ITALIA
 
 
    ITALIA! thou art fallen, though with sheen
-      Of battle-spears thy clamorous armies stride
+      Of battle spears thy clamorous armies stride
       From the north Alps to the Sicilian tide!
    Ay! fallen, though the nations hail thee Queen
    Because rich gold in every town is seen,
-      And on thy sapphire-lake in tossing pride
-      Of wind-filled vans thy myriad galleys ride
+      And on thy sapphire lake in tossing pride
+      Of wind filled vans thy myriad galleys ride
    Beneath one flag of red and white and green.
    O Fair and Strong!  O Strong and Fair in vain!
       Look southward where Rome’s desecrated town
-      Lies mourning for her God-anointed King!
-   Look heaven-ward! shall God allow this thing?
-      Nay! but some flame-girt Raphael shall come down,
+      Lies mourning for her God anointed King!
+   Look heaven ward! shall God allow this thing?
+      Nay! but some flame girt Raphael shall come down,
       And smite the Spoiler with the sword of pain.
 
 VENICE.
@@ -783,7 +783,7 @@ SONNET
       Like silver moons the pale narcissi lay:
       And the curved waves that streaked the great green bay
    Laughed i’ the sun, and life seemed very sweet.
-   Outside the young boy-priest passed singing clear,
+   Outside the young boy priest passed singing clear,
       ‘Jesus the son of Mary has been slain,
       O come and fill His sepulchre with flowers.’
    Ah, God!  Ah, God! those dear Hellenic hours
@@ -803,7 +803,7 @@ ROME UNVISITED
 
    And here I set my face towards home,
       For all my pilgrimage is done,
-      Although, methinks, yon blood-red sun
+      Although, methinks, yon blood red sun
    Marshals the way to Holy Rome.
 
    O Blessed Lady, who dost hold
@@ -828,14 +828,14 @@ ROME UNVISITED
       To see the purple mist and gleam
    Of morning on the Apennines
 
-   By many a vineyard-hidden home,
-      Orchard and olive-garden grey,
+   By many a vineyard hidden home,
+      Orchard and olive garden grey,
       Till from the drear Campagna’s way
    The seven hills bear up the dome!
 
                                     III.
 
-   A PILGRIM from the northern seas 
+   A PILGRIM from the northern seas—
       What joy for me to seek alone
       The wondrous temple and the throne
    Of him who holds the awful keys!
@@ -846,11 +846,11 @@ ROME UNVISITED
    The gentle Shepherd of the Fold.
 
    O joy to see before I die
-      The only God-anointed king,
+      The only God anointed king,
       And hear the silver trumpets ring
    A triumph as he passes by!
 
-   Or at the brazen-pillared shrine
+   Or at the brazen pillared shrine
       Holds high the mystic sacrifice,
       And shows his God to human eyes
    Beneath the veil of bread and wine.
@@ -902,7 +902,7 @@ SONNET
             ON HEARING THE DIES IRÆ SUNG IN THE SISTINE CHAPEL
 
    NAY, Lord, not thus! white lilies in the spring,
-   Sad olive-groves, or silver-breasted dove,
+   Sad olive groves, or silver breasted dove,
       Teach me more clearly of Thy life and love
    Than terrors of red flame and thundering.
    The hillside vines dear memories of Thee bring:
@@ -924,8 +924,8 @@ EASTER DAY
       The people knelt upon the ground with awe:
       And borne upon the necks of men I saw,
    Like some great God, the Holy Lord of Rome.
-   Priest-like, he wore a robe more white than foam,
-      And, king-like, swathed himself in royal red,
+   Priest like, he wore a robe more white than foam,
+      And, king like, swathed himself in royal red,
       Three crowns of gold rose high upon his head:
    In splendour and in light the Pope passed home.
    My heart stole back across wide wastes of years
@@ -943,7 +943,7 @@ E TENEBRIS
       For I am drowning in a stormier sea
       Than Simon on Thy lake of Galilee:
    The wine of life is spilt upon the sand,
-   My heart is as some famine-murdered land
+   My heart is as some famine murdered land
       Whence all good things have perished utterly,
       And well I know my soul in Hell must lie
    If I this night before God’s throne should stand.
@@ -977,7 +977,7 @@ VITA NUOVA
 MADONNA MIA
 
 
-   A LILY-GIRL, not made for this world’s pain,
+   A LILY GIRL, not made for this world’s pain,
       With brown, soft hair close braided by her ears,
       And longing eyes half veiled by slumberous tears
    Like bluest water seen through mists of rain:
@@ -1007,21 +1007,21 @@ THE NEW HELEN
       Didst lure the Old World’s chivalry and might
    Into the clamorous crimson waves of war!
 
-   Or didst thou rule the fire-laden moon?
+   Or didst thou rule the fire laden moon?
       In amorous Sidon was thy temple built
          Over the light and laughter of the sea
-      Where, behind lattice scarlet-wrought and gilt,
-         Some brown-limbed girl did weave thee tapestry,
+      Where, behind lattice scarlet wrought and gilt,
+         Some brown limbed girl did weave thee tapestry,
    All through the waste and wearied hours of noon;
    Till her wan cheek with flame of passion burned,
-      And she rose up the sea-washed lips to kiss
+      And she rose up the sea washed lips to kiss
    Of some glad Cyprian sailor, safe returned
       From Calpé and the cliffs of Herakles!
 
    No! thou art Helen, and none other one!
       It was for thee that young Sarpedôn died,
          And Memnôn’s manhood was untimely spent;
-      It was for thee gold-crested Hector tried
+      It was for thee gold crested Hector tried
    With Thetis’ child that evil race to run,
          In the last year of thy beleaguerment;
    Ay! even now the glory of thy fame
@@ -1038,20 +1038,20 @@ THE NEW HELEN
    Didst thou lie there by some Lethæan stream
       Deep brooding on thine ancient memory,
       The crash of broken spears, the fiery gleam
-   From shivered helm, the Grecian battle-cry?
+   From shivered helm, the Grecian battle cry?
 
    Nay, thou wert hidden in that hollow hill
       With one who is forgotten utterly,
          That discrowned Queen men call the Erycine;
       Hidden away that never mightst thou see
    The face of Her, before whose mouldering shrine
-         To-day at Rome the silent nations kneel;
+         To day at Rome the silent nations kneel;
    Who gat from Love no joyous gladdening,
       But only Love’s intolerable pain,
       Only a sword to pierce her heart in twain,
-   Only the bitterness of child-bearing.
+   Only the bitterness of child bearing.
 
-   The lotus-leaves which heal the wounds of Death
+   The lotus leaves which heal the wounds of Death
       Lie in thy hand; O, be thou kind to me,
          While yet I know the summer of my days;
       For hardly can my tremulous lips draw breath
@@ -1069,8 +1069,8 @@ THE NEW HELEN
    Back to the tower of thine old delight,
          And the red lips of young Euphorion;
    Nor shall I ever see thy face again,
-      But in this poisonous garden-close must stay,
-      Crowning my brows with the thorn-crown of pain,
+      But in this poisonous garden close must stay,
+      Crowning my brows with the thorn crown of pain,
    Till all my loveless life shall pass away.
 
    O Helen!  Helen! Helen! yet a while,
@@ -1089,21 +1089,21 @@ THE NEW HELEN
          Didst from the depths of sapphire seas arise!
       And at thy coming some immortal star,
    Bearded with flame, blazed in the Eastern skies,
-         And waked the shepherds on thine island-home.
+         And waked the shepherds on thine island home.
    Thou shalt not die: no asps of Egypt creep
       Close at thy heels to taint the delicate air;
-      No sullen-blooming poppies stain thy hair,
+      No sullen blooming poppies stain thy hair,
    Those scarlet heralds of eternal sleep.
 
    Lily of love, pure and inviolate!
       Tower of ivory! red rose of fire!
          Thou hast come down our darkness to illume:
-   For we, close-caught in the wide nets of Fate,
+   For we, close caught in the wide nets of Fate,
       Wearied with waiting for the World’s Desire,
          Aimlessly wandered in the House of gloom,
    Aimlessly sought some slumberous anodyne
       For wasted lives, for lingering wretchedness,
-   Till we beheld thy re-arisen shrine,
+   Till we beheld thy re arisen shrine,
       And the white glory of thy loveliness.
 
 
@@ -1114,16 +1114,16 @@ THE BURDEN OF ITYS
    THIS English Thames is holier far than Rome,
       Those harebells like a sudden flush of sea
    Breaking across the woodland, with the foam
-      Of meadow-sweet and white anemone
-   To fleck their blue waves, God is likelier there
-   Than hidden in that crystal-hearted star the pale monks bear!
+      Of meadow sweet and white anemone
+   To fleck their blue waves,—God is likelier there
+   Than hidden in that crystal hearted star the pale monks bear!
 
-   Those violet-gleaming butterflies that take
+   Those violet gleaming butterflies that take
       Yon creamy lily for their pavilion
    Are monsignores, and where the rushes shake
       A lazy pike lies basking in the sun,
-   His eyes half shut, he is some mitred old
-   Bishop in  partibus ! look at those gaudy scales all green and gold.
+   His eyes half shut,—he is some mitred old
+   Bishop in _partibus_! look at those gaudy scales all green and gold.
 
    The wind the restless prisoner of the trees
       Does well for Palæstrina, one would say
@@ -1139,17 +1139,17 @@ THE BURDEN OF ITYS
    And stretching out weak hands to East and West
    In vain sends peace to peaceless lands, to restless nations rest.
 
-   Is not yon lingering orange after-glow
+   Is not yon lingering orange after glow
       That stays to vex the moon more fair than all
    Rome’s lordliest pageants! strange, a year ago
       I knelt before some crimson Cardinal
    Who bare the Host across the Esquiline,
-   And now those common poppies in the wheat seem twice as fine.
+   And now—those common poppies in the wheat seem twice as fine.
 
-   The blue-green beanfields yonder, tremulous
+   The blue green beanfields yonder, tremulous
       With the last shower, sweeter perfume bring
    Through this cool evening than the odorous
-      Flame-jewelled censers the young deacons swing,
+      Flame jewelled censers the young deacons swing,
    When the grey priest unlocks the curtained shrine,
    And makes God’s body from the common fruit of corn and vine.
 
@@ -1157,43 +1157,43 @@ THE BURDEN OF ITYS
       Were out of tune now, for a small brown bird
    Sings overhead, and through the long cool grass
       I see that throbbing throat which once I heard
-   On starlit hills of flower-starred Arcady,
+   On starlit hills of flower starred Arcady,
    Once where the white and crescent sand of Salamis meets sea.
 
    Sweet is the swallow twittering on the eaves
       At daybreak, when the mower whets his scythe,
-   And stock-doves murmur, and the milkmaid leaves
+   And stock doves murmur, and the milkmaid leaves
       Her little lonely bed, and carols blithe
-   To see the heavy-lowing cattle wait
+   To see the heavy lowing cattle wait
    Stretching their huge and dripping mouths across the farmyard gate.
 
    And sweet the hops upon the Kentish leas,
-      And sweet the wind that lifts the new-mown hay,
+      And sweet the wind that lifts the new mown hay,
    And sweet the fretful swarms of grumbling bees
       That round and round the linden blossoms play;
    And sweet the heifer breathing in the stall,
-   And the green bursting figs that hang upon the red-brick wall,
+   And the green bursting figs that hang upon the red brick wall,
 
    And sweet to hear the cuckoo mock the spring
       While the last violet loiters by the well,
    And sweet to hear the shepherd Daphnis sing
       The song of Linus through a sunny dell
    Of warm Arcadia where the corn is gold
-   And the slight lithe-limbed reapers dance about the wattled fold.
+   And the slight lithe limbed reapers dance about the wattled fold.
 
    And sweet with young Lycoris to recline
       In some Illyrian valley far away,
    Where canopied on herbs amaracine
-      We too might waste the summer-trancèd day
+      We too might waste the summer trancèd day
    Matching our reeds in sportive rivalry,
    While far beneath us frets the troubled purple of the sea.
 
-   But sweeter far if silver-sandalled foot
-      Of some long-hidden God should ever tread
+   But sweeter far if silver sandalled foot
+      Of some long hidden God should ever tread
    The Nuneham meadows, if with reeded flute
       Pressed to his lips some Faun might raise his head
-   By the green water-flags, ah! sweet indeed
-   To see the heavenly herdsman call his white-fleeced flock to feed.
+   By the green water flags, ah! sweet indeed
+   To see the heavenly herdsman call his white fleeced flock to feed.
 
    Then sing to me thou tuneful chorister,
       Though what thou sing’st be thine own requiem!
@@ -1204,7 +1204,7 @@ THE BURDEN OF ITYS
 
    Which Grecian meadows know not, many a rose
       Which all day long in vales Æolian
-   A lad might seek in vain for over-grows
+   A lad might seek in vain for over grows
       Our hedges like a wanton courtesan
    Unthrifty of its beauty; lilies too
    Ilissos never mirrored star our streams, and cockles blue
@@ -1219,7 +1219,7 @@ THE BURDEN OF ITYS
    Sleeps in the reeds that fringe our winding Thames
       Which to awake were sweeter ravishment
    Than ever Syrinx wept for; diadems
-      Of brown bee-studded orchids which were meant
+      Of brown bee studded orchids which were meant
    For Cytheræa’s brows are hidden here
    Unknown to Cytheræa, and by yonder pasturing steer
 
@@ -1233,16 +1233,16 @@ THE BURDEN OF ITYS
    As if Jove’s gorgeous leman Danae
       Hot from his gilded arms had stooped to kiss
    The trembling petals, or young Mercury
-      Low-flying to the dusky ford of Dis
+      Low flying to the dusky ford of Dis
    Had with one feather of his pinions
    Just brushed them! the slight stem which bears the burden of its suns
 
    Is hardly thicker than the gossamer,
-      Or poor Arachne’s silver tapestry, 
+      Or poor Arachne’s silver tapestry,—
    Men say it bloomed upon the sepulchre
       Of One I sometime worshipped, but to me
    It seems to bring diviner memories
-   Of faun-loved Heliconian glades and blue nymph-haunted seas,
+   Of faun loved Heliconian glades and blue nymph haunted seas,
 
    Of an untrodden vale at Tempe where
       On the clear river’s marge Narcissus lies,
@@ -1267,7 +1267,7 @@ THE BURDEN OF ITYS
 
    With sightless eyes beheld, the wall of Troy,
       Queen Helen lying in the ivory room,
-   And at her side an amorous red-lipped boy
+   And at her side an amorous red lipped boy
       Trimming with dainty hand his helmet’s plume,
    And far away the moil, the shout, the groan,
    As Hector shielded off the spear and Ajax hurled the stone;
@@ -1284,26 +1284,26 @@ THE BURDEN OF ITYS
    They are asleep, and when they hear thee call
       Will wake and think ’t is very Thessaly,
    This Thames the Daulian waters, this cool glade
-   The yellow-irised mead where once young Itys laughed and played.
+   The yellow irised mead where once young Itys laughed and played.
 
-   If it was thou dear jasmine-cradled bird
+   If it was thou dear jasmine cradled bird
       Who from the leafy stillness of thy throne
    Sang to the wondrous boy, until he heard
       The horn of Atalanta faintly blown
    Across the Cumnor hills, and wandering
-   Through Bagley wood at evening found the Attic poets’ spring, 
+   Through Bagley wood at evening found the Attic poets’ spring,—
 
-   Ah! tiny sober-suited advocate
+   Ah! tiny sober suited advocate
       That pleadest for the moon against the day!
    If thou didst make the shepherd seek his mate
       On that sweet questing, when Proserpina
    Forgot it was not Sicily and leant
-   Across the mossy Sandford stile in ravished wonderment, 
+   Across the mossy Sandford stile in ravished wonderment,—
 
-   Light-winged and bright-eyed miracle of the wood!
+   Light winged and bright eyed miracle of the wood!
       If ever thou didst soothe with melody
    One of that little clan, that brotherhood
-      Which loved the morning-star of Tuscany
+      Which loved the morning star of Tuscany
    More than the perfect sun of Raphael
    And is immortal, sing to me! for I too love thee well.
 
@@ -1325,13 +1325,13 @@ THE BURDEN OF ITYS
       And steal the moonèd wings of Ashtaroth,
    Upon whose icy chariot we could win
       Cithæron in an hour ere the froth
-   Has over-brimmed the wine-vat or the Faun
+   Has over brimmed the wine vat or the Faun
    Ceased from the treading! ay, before the flickering lamp of dawn
 
    Has scared the hooting owlet to its nest,
       And warned the bat to close its filmy vans,
-   Some Mænad girl with vine-leaves on her breast
-      Will filch their beech-nuts from the sleeping Pans
+   Some Mænad girl with vine leaves on her breast
+      Will filch their beech nuts from the sleeping Pans
    So softly that the little nested thrush
    Will never wake, and then with shrilly laugh and leap will rush
 
@@ -1342,26 +1342,26 @@ THE BURDEN OF ITYS
    And where their hornèd master sits in state
    Bring strawberries and bloomy plums upon a wicker crate!
 
-   Sing on! and soon with passion-wearied face
+   Sing on! and soon with passion wearied face
       Through the cool leaves Apollo’s lad will come,
    The Tyrian prince his bristled boar will chase
-      Adown the chestnut-copses all a-bloom,
-   And ivory-limbed, grey-eyed, with look of pride,
-   After yon velvet-coated deer the virgin maid will ride.
+      Adown the chestnut copses all a bloom,
+   And ivory limbed, grey eyed, with look of pride,
+   After yon velvet coated deer the virgin maid will ride.
 
    Sing on! and I the dying boy will see
       Stain with his purple blood the waxen bell
    That overweighs the jacinth, and to me
       The wretched Cyprian her woe will tell,
    And I will kiss her mouth and streaming eyes,
-   And lead her to the myrtle-hidden grove where Adon lies!
+   And lead her to the myrtle hidden grove where Adon lies!
 
    Cry out aloud on Itys! memory
-      That foster-brother of remorse and pain
-   Drops poison in mine ear, O to be free,
+      That foster brother of remorse and pain
+   Drops poison in mine ear,—O to be free,
       To burn one’s old ships! and to launch again
-   Into the white-plumed battle of the waves
-   And fight old Proteus for the spoil of coral-flowered caves!
+   Into the white plumed battle of the waves
+   And fight old Proteus for the spoil of coral flowered caves!
 
    O for Medea with her poppied spell!
       O for the secret of the Colchian shrine!
@@ -1370,7 +1370,7 @@ THE BURDEN OF ITYS
    And sheds such wondrous dews at eve that she
    Dreams of the fields of Enna, by the far Sicilian sea,
 
-   Where oft the golden-girdled bee she chased
+   Where oft the golden girdled bee she chased
       From lily to lily on the level mead,
    Ere yet her sombre Lord had bid her taste
       The deadly fruit of that pomegranate seed,
@@ -1431,7 +1431,7 @@ THE BURDEN OF ITYS
    With the fond gyves of clinging hands had wooed
       Her wanton from the chase, and Dryope
    Had thrust aside the branches of her oak
-   To see the lusty gold-haired lad rein in his snorting yoke.
+   To see the lusty gold haired lad rein in his snorting yoke.
 
    A moment more, the trees had stooped to kiss
       Pale Daphne just awakening from the swoon
@@ -1443,7 +1443,7 @@ THE BURDEN OF ITYS
    Down leaning from his black and clustering hair,
       To shade those slumberous eyelids’ caverned bliss,
    Or else on yonder grassy slope with bare
-      High-tuniced limbs unravished Artemis
+      High tuniced limbs unravished Artemis
    Had bade her hounds give tongue, and roused the deer
    From his green ambuscade with shrill halloo and pricking spear.
 
@@ -1472,21 +1472,21 @@ THE BURDEN OF ITYS
       No woven web of bloody heraldries,
    But mossy dells for roving comrades made,
       Warm valleys where the tired student lies
-   With half-shut book, and many a winding walk
+   With half shut book, and many a winding walk
    Where rustic lovers stray at eve in happy simple talk.
 
    The harmless rabbit gambols with its young
-      Across the trampled towing-path, where late
+      Across the trampled towing path, where late
    A troop of laughing boys in jostling throng
       Cheered with their noisy cries the racing eight;
    The gossamer, with ravelled silver threads,
-   Works at its little loom, and from the dusky red-eaved sheds
+   Works at its little loom, and from the dusky red eaved sheds
 
    Of the lone Farm a flickering light shines out
       Where the swinked shepherd drives his bleating flock
-   Back to their wattled sheep-cotes, a faint shout
+   Back to their wattled sheep cotes, a faint shout
       Comes from some Oxford boat at Sandford lock,
-   And starts the moor-hen from the sedgy rill,
+   And starts the moor hen from the sedgy rill,
    And the dim lengthening shadows flit like swallows up the hill.
 
    The heron passes homeward to the mere,
@@ -1508,7 +1508,7 @@ THE BURDEN OF ITYS
    Dying in music, else the air is still,
       So still that one might hear the bat’s small wing
    Wander and wheel above the pines, or tell
-   Each tiny dew-drop dripping from the bluebell’s brimming cell.
+   Each tiny dew drop dripping from the bluebell’s brimming cell.
 
    And far away across the lengthening wold,
       Across the willowy flats and thickets brown,
@@ -1527,7 +1527,7 @@ IMPRESSION DU MATIN
 
    THE Thames nocturne of blue and gold
       Changed to a Harmony in grey:
-      A barge with ochre-coloured hay
+      A barge with ochre coloured hay
    Dropt from the wharf: and chill and cold
 
    The yellow fog came creeping down
@@ -1555,18 +1555,18 @@ MAGDALEN WALKS
    Sways and swings as the thrush goes hurrying by.
 
    A delicate odour is borne on the wings of the morning breeze,
-      The odour of deep wet grass, and of brown new-furrowed earth,
+      The odour of deep wet grass, and of brown new furrowed earth,
       The birds are singing for joy of the Spring’s glad birth,
    Hopping from branch to branch on the rocking trees.
 
    And all the woods are alive with the murmur and sound of Spring,
-      And the rose-bud breaks into pink on the climbing briar,
-      And the crocus-bed is a quivering moon of fire
+      And the rose bud breaks into pink on the climbing briar,
+      And the crocus bed is a quivering moon of fire
    Girdled round with the belt of an amethyst ring.
 
-   And the plane to the pine-tree is whispering some tale of love
+   And the plane to the pine tree is whispering some tale of love
       Till it rustles with laughter and tosses its mantle of green,
-      And the gloom of the wych-elm’s hollow is lit with the iris sheen
+      And the gloom of the wych elm’s hollow is lit with the iris sheen
    Of the burnished rainbow throat and the silver breast of a dove.
 
    See! the lark starts up from his bed in the meadow there,
@@ -1586,11 +1586,11 @@ ATHANASIA
    In the dim womb of some black pyramid.
 
    But when they had unloosed the linen band
-      Which swathed the Egyptian’s body, lo! was found
+      Which swathed the Egyptian’s body,—lo! was found
    Closed in the wasted hollow of her hand
       A little seed, which sown in English ground
    Did wondrous snow of starry blossoms bear
-   And spread rich odours through our spring-tide air.
+   And spread rich odours through our spring tide air.
 
    With such strange arts this flower did allure
       That all forgotten was the asphodel,
@@ -1601,10 +1601,10 @@ ATHANASIA
 
    In vain the sad narcissus, wan and white
       At its own beauty, hung across the stream,
-   The purple dragon-fly had no delight
-      With its gold dust to make his wings a-gleam,
-   Ah! no delight the jasmine-bloom to kiss,
-   Or brush the rain-pearls from the eucharis.
+   The purple dragon fly had no delight
+      With its gold dust to make his wings a gleam,
+   Ah! no delight the jasmine bloom to kiss,
+   Or brush the rain pearls from the eucharis.
 
    For love of it the passionate nightingale
       Forgot the hills of Thrace, the cruel king,
@@ -1616,11 +1616,11 @@ ATHANASIA
    While the hot sun blazed in his tower of blue
       A cooling wind crept from the land of snows,
    And the warm south with tender tears of dew
-      Drenched its white leaves when Hesperos up-rose
-   Amid those sea-green meadows of the sky
+      Drenched its white leaves when Hesperos up rose
+   Amid those sea green meadows of the sky
    On which the scarlet bars of sunset lie.
 
-   But when o’er wastes of lily-haunted field
+   But when o’er wastes of lily haunted field
       The tired birds had stayed their amorous tune,
    And broad and glittering like an argent shield
       High in the sapphire heavens hung the moon,
@@ -1638,7 +1638,7 @@ ATHANASIA
       Nor would we pass the ivory gate again,
    As some sad river wearied of its flow
       Through the dull plains, the haunts of common men,
-   Leaps lover-like into the terrible sea!
+   Leaps lover like into the terrible sea!
    And counts it gain to die so gloriously.
 
    We mar our lordly strength in barren strife
@@ -1660,7 +1660,7 @@ SERENADE
       My Tyrian galley waits for thee.
    Come down! the purple sail is spread,
       The watchman sleeps within the town,
-   O leave thy lily-flowered bed,
+   O leave thy lily flowered bed,
       O Lady mine come down, come down!
 
    She will not come, I know her well,
@@ -1675,14 +1675,14 @@ SERENADE
    O noble pilot, tell me true,
       Is that the sheen of golden hair?
    Or is it but the tangled dew
-      That binds the passion-flowers there?
+      That binds the passion flowers there?
    Good sailor come and tell me now
       Is that my Lady’s lily hand?
    Or is it but the gleaming prow,
       Or is it but the silver sand?
 
    No! no! ’tis not the tangled dew,
-      ’Tis not the silver-fretted sand,
+      ’Tis not the silver fretted sand,
    It is my own dear Lady true
       With golden hair and lily hand!
    O noble pilot, steer for Troy,
@@ -1721,17 +1721,17 @@ ENDYMION
       And brown and curly is his hair.
 
    The turtle now has ceased to call
-      Upon her crimson-footed groom,
+      Upon her crimson footed groom,
    The grey wolf prowls about the stall,
    The lily’s singing seneschal
-   Sleeps in the lily-bell, and all
+   Sleeps in the lily bell, and all
       The violet hills are lost in gloom.
    O risen moon!  O holy moon!
       Stand on the top of Helice,
       And if my own true love you see,
    Ah! if you see the purple shoon,
    The hazel crook, the lad’s brown hair,
-      The goat-skin wrapped about his arm,
+      The goat skin wrapped about his arm,
    Tell him that I am waiting where
       The rushlight glimmers in the Farm.
 
@@ -1759,7 +1759,7 @@ LA BELLA DONNA DELLA MIA MENTE
    For, calling on my Lady’s name,
       My lips have now forgot to sing.
 
-   O Linnet in the wild-rose brake
+   O Linnet in the wild rose brake
       Strain for my Love thy melody,
    O Lark sing louder for love’s sake,
       My gentle Lady passeth by.
@@ -1776,7 +1776,7 @@ LA BELLA DONNA DELLA MIA MENTE
 
    Her little lips, more made to kiss
       Than to cry bitterly for pain,
-   Are tremulous as brook-water is,
+   Are tremulous as brook water is,
       Or roses after evening rain.
 
    Her neck is like white melilote
@@ -1785,7 +1785,7 @@ LA BELLA DONNA DELLA MIA MENTE
       Is not so sweet to look upon.
 
    As a pomegranate, cut in twain,
-      White-seeded, is her crimson mouth,
+      White seeded, is her crimson mouth,
    Her cheeks are as the fading stain
       Where the peach reddens to the south.
 
@@ -1798,13 +1798,13 @@ LA BELLA DONNA DELLA MIA MENTE
 CHANSON
 
 
-   A RING of gold and a milk-white dove
+   A RING of gold and a milk white dove
       Are goodly gifts for thee,
    And a hempen rope for your own love
       To hang upon a tree.
 
    For you a House of Ivory,
-      (Roses are white in the rose-bower)!
+      (Roses are white in the rose bower)!
    A narrow bed for me to lie,
       (White, O white, is the hemlock flower)!
 
@@ -1844,7 +1844,7 @@ CHARMIDES
    And with fresh boughs of olive crowned his head,
       And brushed from cheek and throat the hoary spray,
    And washed his limbs with oil, and from the hold
-   Brought out his linen tunic and his sandals brazen-soled,
+   Brought out his linen tunic and his sandals brazen soled,
 
    And a rich robe stained with the fishers’ juice
       Which of some swarthy trader he had bought
@@ -1864,15 +1864,15 @@ CHARMIDES
       His studded crook against the temple wall
    To Her who keeps away the ravenous fang
       Of the base wolf from homestead and from stall;
-   And then the clear-voiced maidens ’gan to sing,
+   And then the clear voiced maidens ’gan to sing,
    And to the altar each man brought some goodly offering,
 
    A beechen cup brimming with milky foam,
       A fair cloth wrought with cunning imagery
-   Of hounds in chase, a waxen honey-comb
+   Of hounds in chase, a waxen honey comb
       Dripping with oozy gold which scarce the bee
    Had ceased from building, a black skin of oil
-   Meet for the wrestlers, a great boar the fierce and white-tusked spoil
+   Meet for the wrestlers, a great boar the fierce and white tusked spoil
 
    Stolen from Artemis that jealous maid
       To please Athena, and the dappled hide
@@ -1890,16 +1890,16 @@ CHARMIDES
    And with stout hands the warder closed the gates of polished brass.
 
    Long time he lay and hardly dared to breathe,
-      And heard the cadenced drip of spilt-out wine,
-   And the rose-petals falling from the wreath
+      And heard the cadenced drip of spilt out wine,
+   And the rose petals falling from the wreath
       As the night breezes wandered through the shrine,
    And seemed to be in some entrancèd swoon
    Till through the open roof above the full and brimming moon
 
    Flooded with sheeny waves the marble floor,
       When from his nook up leapt the venturous lad,
-   And flinging wide the cedar-carven door
-      Beheld an awful image saffron-clad
+   And flinging wide the cedar carven door
+      Beheld an awful image saffron clad
    And armed for battle! the gaunt Griffin glared
    From the huge helm, and the long lance of wreck and ruin flared
 
@@ -1922,7 +1922,7 @@ CHARMIDES
    Deeming they heard dread Dian’s bitter cry;
       And the grim watchmen on their lofty seats
    Ran to their shields in haste precipitate,
-   Or strained black-bearded throats across the dusky parapet.
+   Or strained black bearded throats across the dusky parapet.
 
    For round the temple rolled the clang of arms,
       And the twelve Gods leapt up in marble fear,
@@ -1957,7 +1957,7 @@ CHARMIDES
    To their dull ears so musicless and thin
       That they will have no joy of it, but ye
    To whose wan cheeks now creeps the lingering smile,
-   Ye who have learned who Eros is, O listen yet awhile.
+   Ye who have learned who Eros is,—O listen yet awhile.
 
    A little space he let his greedy eyes
       Rest on the burnished image, till mere sight
@@ -1996,10 +1996,10 @@ CHARMIDES
 
    Down the steep rock with hurried feet and fast
       Clomb the brave lad, and reached the cave of Pan,
-   And heard the goat-foot snoring as he passed,
+   And heard the goat foot snoring as he passed,
       And leapt upon a grassy knoll and ran
    Like a young fawn unto an olive wood
-   Which in a shady valley by the well-built city stood;
+   Which in a shady valley by the well built city stood;
 
    And sought a little stream, which well he knew,
       For oftentimes with boyish careless shout
@@ -2019,10 +2019,10 @@ CHARMIDES
       With his long crook undid the wattled cotes,
    And from the stack a thin blue wreath of smoke
       Curled through the air across the ripening oats,
-   And on the hill the yellow house-dog bayed
+   And on the hill the yellow house dog bayed
    As through the crisp and rustling fern the heavy cattle strayed.
 
-   And when the light-foot mower went afield
+   And when the light foot mower went afield
       Across the meadows laced with threaded dew,
    And the sheep bleated on the misty weald,
       And from its nest the waking corncrake flew,
@@ -2047,10 +2047,10 @@ CHARMIDES
       And told the timid swain how they had seen
    Amid the reeds some woodland god reclined,
       And no man dared to cross the open green,
-   And on that day no olive-tree was slain,
+   And on that day no olive tree was slain,
    Nor rushes cut, but all deserted was the fair domain,
 
-   Save when the neat-herd’s lad, his empty pail
+   Save when the neat herd’s lad, his empty pail
       Well slung upon his back, with leap and bound
    Raced on the other side, and stopped to hail,
       Hoping that he some comrade new had found,
@@ -2066,24 +2066,24 @@ CHARMIDES
 
    Far off he heard the city’s hum and noise,
       And now and then the shriller laughter where
-   The passionate purity of brown-limbed boys
+   The passionate purity of brown limbed boys
       Wrestled or raced in the clear healthful air,
    And now and then a little tinkling bell
    As the shorn wether led the sheep down to the mossy well.
 
    Through the grey willows danced the fretful gnat,
       The grasshopper chirped idly from the tree,
-   In sleek and oily coat the water-rat
+   In sleek and oily coat the water rat
       Breasting the little ripples manfully
-   Made for the wild-duck’s nest, from bough to bough
+   Made for the wild duck’s nest, from bough to bough
    Hopped the shy finch, and the huge tortoise crept across the slough.
 
    On the faint wind floated the silky seeds
       As the bright scythe swept through the waving grass,
-   The ouzel-cock splashed circles in the reeds
+   The ouzel cock splashed circles in the reeds
       And flecked with silver whorls the forest’s glass,
    Which scarce had caught again its imagery
-   Ere from its bed the dusky tench leapt at the dragon-fly.
+   Ere from its bed the dusky tench leapt at the dragon fly.
 
    But little care had he for any thing
       Though up and down the beech the squirrel played,
@@ -2094,14 +2094,14 @@ CHARMIDES
 
    But when the herdsman called his straggling goats
       With whistling pipe across the rocky road,
-   And the shard-beetle with its trumpet-notes
+   And the shard beetle with its trumpet notes
       Boomed through the darkening woods, and seemed to bode
    Of coming storm, and the belated crane
    Passed homeward like a shadow, and the dull big drops of rain
 
-   Fell on the pattering fig-leaves, up he rose,
+   Fell on the pattering fig leaves, up he rose,
       And from the gloomy forest went his way
-   Past sombre homestead and wet orchard-close,
+   Past sombre homestead and wet orchard close,
       And came at last unto a little quay,
    And called his mates aboard, and took his seat
    On the high poop, and pushed from land, and loosed the dripping sheet,
@@ -2123,12 +2123,12 @@ CHARMIDES
    And the moon hid behind a tawny mask
       Of drifting cloud, and from the ocean’s marge
    Rose the red plume, the huge and hornèd casque,
-      The seven-cubit spear, the brazen targe!
+      The seven cubit spear, the brazen targe!
    And clad in bright and burnished panoply
    Athena strode across the stretch of sick and shivering sea!
 
    To the dull sailors’ sight her loosened looks
-      Seemed like the jagged storm-rack, and her feet
+      Seemed like the jagged storm rack, and her feet
    Only the spume that floats on hidden rocks,
       And, marking how the rising waters beat
    Against the rolling ship, the pilot cried
@@ -2159,12 +2159,12 @@ CHARMIDES
       Deeming that he some evil thing had wrought,
    And when they reached the strait Symplegades
       They beached their galley on the shore, and sought
-   The toll-gate of the city hastily,
+   The toll gate of the city hastily,
    And in the market showed their brown and pictured pottery.
 
                                      II.
 
-   BUT some good Triton-god had ruth, and bare
+   BUT some good Triton god had ruth, and bare
       The boy’s drowned body back to Grecian land,
    And mermaids combed his dank and dripping hair
       And smoothed his brow, and loosed his clenching hand;
@@ -2176,7 +2176,7 @@ CHARMIDES
    Upon whose oily back the clotted foam
       Lay diapered in some strange fantasy,
    And clasping him unto its glassy breast
-   Swept landward, like a white-maned steed upon a venturous quest!
+   Swept landward, like a white maned steed upon a venturous quest!
 
    Now where Colonos leans unto the sea
       There lies a long and level stretch of lawn;
@@ -2190,26 +2190,26 @@ CHARMIDES
    The stealthy hunter sees young Hyacinth
       Hurling the polished disk, and draws his hood
    Over his guilty gaze, and creeps away,
-   Nor dares to wind his horn, or else at the first break of day
+   Nor dares to wind his horn, or—else at the first break of day
 
    The Dryads come and throw the leathern ball
       Along the reedy shore, and circumvent
-   Some goat-eared Pan to be their seneschal
+   Some goat eared Pan to be their seneschal
       For fear of bold Poseidon’s ravishment,
    And loose their girdles, with shy timorous eyes,
    Lest from the surf his azure arms and purple beard should rise.
 
    On this side and on that a rocky cave,
-      Hung with the yellow-belled laburnum, stands
+      Hung with the yellow belled laburnum, stands
    Smooth is the beach, save where some ebbing wave
       Leaves its faint outline etched upon the sands,
    As though it feared to be too soon forgot
-   By the green rush, its playfellow, and yet, it is a spot
+   By the green rush, its playfellow,—and yet, it is a spot
 
    So small, that the inconstant butterfly
       Could steal the hoarded money from each flower
    Ere it was noon, and still not satisfy
-      Its over-greedy love, within an hour
+      Its over greedy love,—within an hour
    A sailor boy, were he but rude enow
    To land and pluck a garland for his galley’s painted prow,
 
@@ -2228,13 +2228,13 @@ CHARMIDES
    To kiss those pallid limbs which once with intense fire burned,
 
    Ere the wet seas had quenched that holocaust,
-      That self-fed flame, that passionate lustihead,
+      That self fed flame, that passionate lustihead,
    Ere grisly death with chill and nipping frost
       Had withered up those lilies white and red
    Which, while the boy would through the forest range,
-   Answered each other in a sweet antiphonal counter-change.
+   Answered each other in a sweet antiphonal counter change.
 
-   And when at dawn the wood-nymphs, hand-in-hand,
+   And when at dawn the wood nymphs, hand in hand,
       Threaded the bosky dell, their satyr spied
    The boy’s pale body stretched upon the sand,
       And feared Poseidon’s treachery, and cried,
@@ -2242,7 +2242,7 @@ CHARMIDES
    Each startled Dryad sought some safe and leafy ambuscade.
 
    Save one white girl, who deemed it would not be
-      So dread a thing to feel a sea-god’s arms
+      So dread a thing to feel a sea god’s arms
    Crushing her breasts in amorous tyranny,
       And longed to listen to those subtle charms
    Insidious lovers weave when they would win
@@ -2272,30 +2272,30 @@ CHARMIDES
    Deeper than ever falls the fisher’s line
       Already a huge Triton blows his horn,
    And weaves a garland from the crystalline
-      And drifting ocean-tendrils to adorn
+      And drifting ocean tendrils to adorn
    The emerald pillars of our bridal bed,
    For sphered in foaming silver, and with coral crownèd head,
 
    We two will sit upon a throne of pearl,
       And a blue wave will be our canopy,
-   And at our feet the water-snakes will curl
+   And at our feet the water snakes will curl
       In all their amethystine panoply
    Of diamonded mail, and we will mark
-   The mullets swimming by the mast of some storm-foundered bark,
+   The mullets swimming by the mast of some storm foundered bark,
 
-   Vermilion-finned with eyes of bossy gold
+   Vermilion finned with eyes of bossy gold
       Like flakes of crimson light, and the great deep
-   His glassy-portaled chamber will unfold,
+   His glassy portaled chamber will unfold,
       And we will see the painted dolphins sleep
    Cradled by murmuring halcyons on the rocks
    Where Proteus in quaint suit of green pastures his monstrous flocks.
 
-   And tremulous opal-hued anemones
+   And tremulous opal hued anemones
       Will wave their purple fringes where we tread
    Upon the mirrored floor, and argosies
       Of fishes flecked with tawny scales will thread
    The drifting cordage of the shattered wreck,
-   And honey-coloured amber beads our twining limbs will deck.’
+   And honey coloured amber beads our twining limbs will deck.’
 
    But when that baffled Lord of War the Sun
       With gaudy pennon flying passed away
@@ -2329,8 +2329,8 @@ CHARMIDES
       And every morn a young and ruddy swain
    Woos me with apples and with locks of hair,
       And seeks to soothe my virginal disdain
-   By all the gifts the gentle wood-nymphs love;
-   But yesterday he brought to me an iris-plumaged dove
+   By all the gifts the gentle wood nymphs love;
+   But yesterday he brought to me an iris plumaged dove
 
    With little crimson feet, which with its store
       Of seven spotted eggs the cruel lad
@@ -2340,7 +2340,7 @@ CHARMIDES
    Which most they love; the fretful wasp, that earliest vintager
 
    Of the blue grapes, hath not persistency
-      So constant as this simple shepherd-boy
+      So constant as this simple shepherd boy
    For my poor lips, his joyous purity
       And laughing sunny eyes might well decoy
    A Dryad from her oath to Artemis;
@@ -2349,7 +2349,7 @@ CHARMIDES
    His argent forehead, like a rising moon
       Over the dusky hills of meeting brows,
    Is crescent shaped, the hot and Tyrian noon
-      Leads from the myrtle-grove no goodlier spouse
+      Leads from the myrtle grove no goodlier spouse
    For Cytheræa, the first silky down
    Fringes his blushing cheeks, and his young limbs are strong and brown;
 
@@ -2405,9 +2405,9 @@ CHARMIDES
    The ouzel’s haunt, the wild bee’s pasturage,
       For round its rim great creamy lilies float
    Through their flat leaves in verdant anchorage,
-      Each cup a white-sailed golden-laden boat
-   Steered by a dragon-fly, be not afraid
-   To leave this wan and wave-kissed shore, surely the place was made
+      Each cup a white sailed golden laden boat
+   Steered by a dragon fly,—be not afraid
+   To leave this wan and wave kissed shore, surely the place was made
 
    For lovers such as we; the Cyprian Queen,
       One arm around her boyish paramour,
@@ -2425,12 +2425,12 @@ CHARMIDES
 
    For if my mistress find me lying here
       She will not ruth or gentle pity show,
-   But lay her boar-spear down, and with austere
+   But lay her boar spear down, and with austere
       Relentless fingers string the cornel bow,
    And draw the feathered notch against her breast,
    And loose the archèd cord; aye, even now upon the quest
 
-   I hear her hurrying feet, awake, awake,
+   I hear her hurrying feet,—awake, awake,
       Thou laggard in love’s battle! once at least
    Let me drink deep of passion’s wine, and slake
       My parchèd being with the nectarous feast
@@ -2441,7 +2441,7 @@ CHARMIDES
       Shook, and the leaves divided, and the air
    Grew conscious of a god, and the grey seas
       Crawled backward, and a long and dismal blare
-   Blew from some tasselled horn, a sleuth-hound bayed,
+   Blew from some tasselled horn, a sleuth hound bayed,
    And like a flame a barbèd reed flew whizzing down the glade.
 
    And where the little flowers of her breast
@@ -2469,7 +2469,7 @@ CHARMIDES
       Who with Adonis all night long had lain
    Within some shepherd’s hut in Arcady,
       On team of silver doves and gilded wain
-   Was journeying Paphos-ward, high up afar
+   Was journeying Paphos ward, high up afar
    From mortal ken between the mountains and the morning star,
 
    And when low down she spied the hapless pair,
@@ -2489,14 +2489,14 @@ CHARMIDES
 
    Driving his little flock along the mead
       Treads down two daffodils, which side by aide
-   Have lured the lady-bird with yellow brede
+   Have lured the lady bird with yellow brede
       And made the gaudy moth forget its pride,
    Treads down their brimming golden chalices
    Under light feet which were not made for such rude ravages;
 
    Or as a schoolboy tired of his book
       Flings himself down upon the reedy grass
-   And plucks two water-lilies from the brook,
+   And plucks two water lilies from the brook,
       And for a time forgets the hour glass,
    Then wearies of their sweets, and goes his way,
    And lets the hot sun kill them, even go these lovers lay.
@@ -2505,7 +2505,7 @@ CHARMIDES
       Whose bitter hand hath wrought this cruelty,
    Or else that mightier maid whose care it is
       To guard her strong and stainless majesty
-   Upon the hill Athenian, alas!
+   Upon the hill Athenian,—alas!
    That they who loved so well unloved into Death’s house should pass.’
 
    So with soft hands she laid the boy and girl
@@ -2513,7 +2513,7 @@ CHARMIDES
    (Her white throat whiter than a moony pearl
       Just threaded with a blue vein’s tapestry
    Had not yet ceased to throb, and still her breast
-   Swayed like a wind-stirred lily in ambiguous unrest)
+   Swayed like a wind stirred lily in ambiguous unrest)
 
    And then each pigeon spread its milky van,
       The bright car soared into the dawning sky,
@@ -2532,7 +2532,7 @@ CHARMIDES
    And bade her servants carve a cedar chest
       With all the wonder of this history,
    Within whose scented womb their limbs should rest
-      Where olive-trees make tender the blue sky
+      Where olive trees make tender the blue sky
    On the low hills of Paphos, and the Faun
    Pipes in the noonday, and the nightingale sings on till dawn.
 
@@ -2583,7 +2583,7 @@ CHARMIDES
    And all his hoarded sweets were hers to kiss,
       And all her maidenhood was his to slay,
    And limb to limb in long and rapturous bliss
-      Their passion waxed and waned, O why essay
+      Their passion waxed and waned,—O why essay
    To pipe again of love, too venturous reed!
    Enough, enough that Eros laughed upon that flowerless mead.
 
@@ -2599,7 +2599,7 @@ CHARMIDES
    Could in the loveless land of Hades glean
       One scorching harvest from those fields of flame
    Where passion walks with naked unshod feet
-   And is not wounded, ah! enough that once their lips could meet
+   And is not wounded,—ah! enough that once their lips could meet
 
    In that wild throb when all existences
       Seemed narrowed to one single ecstasy
@@ -2631,7 +2631,7 @@ LES SILHOUETTES
 
       And overhead the curlews cry,
       Where through the dusky upland grass
-      The young brown-throated reapers pass,
+      The young brown throated reapers pass,
    Like silhouettes against the sky.
 
 
@@ -2665,13 +2665,13 @@ THE GRAVE OF KEATS
    Fair as Sebastian, and as early slain.
       No cypress shades his grave, no funeral yew,
       But gentle violets weeping with the dew
-   Weave on his bones an ever-blossoming chain.
+   Weave on his bones an ever blossoming chain.
    O proudest heart that broke for misery!
       O sweetest lips since those of Mitylene!
-      O poet-painter of our English Land!
-   Thy name was writ in water it shall stand:
+      O poet painter of our English Land!
+   Thy name was writ in water—it shall stand:
       And tears like mine will keep thy memory green,
-      As Isabella did her Basil-tree.
+      As Isabella did her Basil tree.
 
 ROME.
 
@@ -2715,7 +2715,7 @@ IN THE GOLD ROOM
    HER ivory hands on the ivory keys
       Strayed in a fitful fantasy,
    Like the silver gleam when the poplar trees
-      Rustle their pale-leaves listlessly,
+      Rustle their pale leaves listlessly,
    Or the drifting foam of a restless sea
    When the waves show their teeth in the flying breeze.
 
@@ -2731,7 +2731,7 @@ IN THE GOLD ROOM
    In the swinging lamp of a crimson shrine,
       Or the bleeding wounds of the pomegranate,
       Or the heart of the lotus drenched and wet
-   With the spilt-out blood of the rose-red wine.
+   With the spilt out blood of the rose red wine.
 
 
 BALLADE DE MARGUERITE
@@ -2740,10 +2740,10 @@ BALLADE DE MARGUERITE
                                 (NORMANDE)
 
    I AM weary of lying within the chase
-   When the knights are meeting in market-place.
+   When the knights are meeting in market place.
 
-   Nay, go not thou to the red-roofed town
-   Lest the hoofs of the war-horse tread thee down.
+   Nay, go not thou to the red roofed town
+   Lest the hoofs of the war horse tread thee down.
 
    But I would not go where the Squires ride,
    I would only walk by my Lady’s side.
@@ -2758,7 +2758,7 @@ BALLADE DE MARGUERITE
    Spindle and loom are not meet for thee.
 
    Ah, if she is working the arras bright
-   I might ravel the threads by the fire-light.
+   I might ravel the threads by the fire light.
 
    Perchance she is hunting of the deer,
    How could you follow o’er hill and mere?
@@ -2782,7 +2782,7 @@ BALLADE DE MARGUERITE
    Who has come unto visit our fair countrie.
 
    But why does the curfew toll sae low?
-   And why do the mourners walk a-row?
+   And why do the mourners walk a row?
 
    O ’t is Hugh of Amiens my sister’s son
    Who is lying stark, for his day is done.
@@ -2793,7 +2793,7 @@ BALLADE DE MARGUERITE
    O ’t is old Dame Jeannette that kept the hall,
    I knew she would die at the autumn fall.
 
-   Dame Jeannette had not that gold-brown hair,
+   Dame Jeannette had not that gold brown hair,
    Old Jeannette was not a maiden fair.
 
    O ’t is none of our kith and none of our kin,
@@ -2820,7 +2820,7 @@ THE DOLE OF THE KING’S DAUGHTER
       Deep in her soul to lie.
 
    Red roses are at her feet,
-      (Roses are red in her red-gold hair)
+      (Roses are red in her red gold hair)
    And O where her bosom and girdle meet
       Red roses are hidden there.
 
@@ -2870,23 +2870,23 @@ AMOR INTELLECTUALIS
       Sordello’s passion, and the honeyed line
    Of young Endymion, lordly Tamburlaine
       Driving his pampered jades, and more than these,
-   The seven-fold vision of the Florentine,
-      And grave-browed Milton’s solemn harmonies.
+   The seven fold vision of the Florentine,
+      And grave browed Milton’s solemn harmonies.
 
 
 SANTA DECCA
 
 
    THE Gods are dead: no longer do we bring
-      To grey-eyed Pallas crowns of olive-leaves!
+      To grey eyed Pallas crowns of olive leaves!
       Demeter’s child no more hath tithe of sheaves,
    And in the noon the careless shepherds sing,
    For Pan is dead, and all the wantoning
       By secret glade and devious haunt is o’er:
-      Young Hylas seeks the water-springs no more;
+      Young Hylas seeks the water springs no more;
    Great Pan is dead, and Mary’s son is King.
 
-   And yet perchance in this sea-trancèd isle,
+   And yet—perchance in this sea trancèd isle,
       Chewing the bitter fruit of memory,
       Some God lies hidden in the asphodel.
    Ah Love! if such there be, then it were well
@@ -2902,12 +2902,12 @@ A VISION
    TWO crownèd Kings, and One that stood alone
       With no green weight of laurels round his head,
       But with sad eyes as one uncomforted,
-   And wearied with man’s never-ceasing moan
+   And wearied with man’s never ceasing moan
    For sins no bleating victim can atone,
       And sweet long lips with tears and kisses fed.
       Girt was he in a garment black and red,
    And at his feet I marked a broken stone
-      Which sent up lilies, dove-like, to his knees.
+      Which sent up lilies, dove like, to his knees.
    Now at their sight, my heart being lit with flame,
    I cried to Beatricé, ‘Who are these?’
    And she made answer, knowing well each name,
@@ -2925,11 +2925,11 @@ IMPRESSION DE VOYAGE
    From the steep prow I marked with quickening eye
       Zakynthos, every olive grove and creek,
       Ithaca’s cliff, Lycaon’s snowy peak,
-   And all the flower-strewn hills of Arcady.
+   And all the flower strewn hills of Arcady.
       The flapping of the sail against the mast,
       The ripple of the water on the side,
    The ripple of girls’ laughter at the stern,
-   The only sounds: when ’gan the West to burn,
+   The only sounds:—when ’gan the West to burn,
       And a red sun upon the seas to ride,
       I stood upon the soil of Greece at last!
 
@@ -2939,13 +2939,13 @@ KATAKOLO.
 THE GRAVE OF SHELLEY
 
 
-   LIKE burnt-out torches by a sick man’s bed
-      Gaunt cypress-trees stand round the sun-bleached stone;
-      Here doth the little night-owl make her throne,
+   LIKE burnt out torches by a sick man’s bed
+      Gaunt cypress trees stand round the sun bleached stone;
+      Here doth the little night owl make her throne,
    And the slight lizard show his jewelled head.
    And, where the chaliced poppies flame to red,
       In the still chamber of yon pyramid
-      Surely some Old-World Sphinx lurks darkly hid,
+      Surely some Old World Sphinx lurks darkly hid,
    Grim warder of this pleasaunce of the dead.
 
    Ah! sweet indeed to rest within the womb
@@ -2953,7 +2953,7 @@ THE GRAVE OF SHELLEY
    But sweeter far for thee a restless tomb
       In the blue cavern of an echoing deep,
    Or where the tall ships founder in the gloom
-      Against the rocks of some wave-shattered steep.
+      Against the rocks of some wave shattered steep.
 
 ROME.
 
@@ -2973,7 +2973,7 @@ BY THE ARNO
 
       Only the leaves are gently stirred
       By the soft breathing of the gale,
-      And in the almond-scented vale
+      And in the almond scented vale
    The lonely nightingale is heard.
 
       The day will make thee silent soon,
@@ -2982,7 +2982,7 @@ BY THE ARNO
    Splinter the arrows of the moon.
 
       Before across the silent lawn
-      In sea-green vest the morning steals,
+      In sea green vest the morning steals,
       And to love’s frightened eyes reveals
    The long white fingers of the dawn
 
@@ -3007,13 +3007,13 @@ FABIEN DEI FRANCHI
    The ghost’s white fingers on thy shoulders laid,
    And then the lonely duel in the glade,
       The broken swords, the stifled scream, the gore,
-      Thy grand revengeful eyes when all is o’er, 
-   These things are well enough, but thou wert made
+      Thy grand revengeful eyes when all is o’er,—
+   These things are well enough,—but thou wert made
       For more august creation! frenzied Lear
       Should at thy bidding wander on the heath
       With the shrill fool to mock him, Romeo
    For thee should lure his love, and desperate fear
-   Pluck Richard’s recreant dagger from its sheath 
+   Pluck Richard’s recreant dagger from its sheath—
    Thou trumpet set for Shakespeare’s lips to blow!
 
 
@@ -3027,7 +3027,7 @@ PHÈDRE
    At Florence with Mirandola, or walked
    Through the cool olives of the Academe:
    Thou should’st have gathered reeds from a green stream
-      For Goat-foot Pan’s shrill piping, and have played
+      For Goat foot Pan’s shrill piping, and have played
       With the white girls in that Phæacian glade
    Where grave Odysseus wakened from his dream.
 
@@ -3056,9 +3056,9 @@ PORTIA
       No woman Veronesé looked upon
    Was half so fair as thou whom I behold.
    Yet fairer when with wisdom as your shield
-      The sober-suited lawyer’s gown you donned,
+      The sober suited lawyer’s gown you donned,
    And would not let the laws of Venice yield
-      Antonio’s heart to that accursèd Jew 
+      Antonio’s heart to that accursèd Jew—
       O Portia! take my heart: it is thy due:
    I think I will not quarrel with the Bond.
 
@@ -3076,7 +3076,7 @@ QUEEN HENRIETTA MARIA
    War’s ruin, and the wreck of chivalry
       To her proud soul no common fear can bring:
       Bravely she tarrieth for her Lord the King,
-   Her soul a-flame with passionate ecstasy.
+   Her soul a flame with passionate ecstasy.
    O Hair of Gold!  O Crimson Lips!  O Face
       Made for the luring and the love of man!
       With thee I do forget the toil and stress,
@@ -3098,11 +3098,11 @@ CAMMA
    And face the obvious day, must I not yearn
       For many a secret moon of indolent bliss,
       When in midmost shrine of Artemis
-   I see thee standing, antique-limbed, and stern?
+   I see thee standing, antique limbed, and stern?
 
-   And yet methinks I’d rather see thee play
+   And yet—methinks I’d rather see thee play
       That serpent of old Nile, whose witchery
-   Made Emperors drunken, come, great Egypt, shake
+   Made Emperors drunken,—come, great Egypt, shake
       Our stage with all thy mimic pageants!  Nay,
       I am grown sick of unreal passions, make
    The world thine Actium, me thine Anthony!
@@ -3113,7 +3113,7 @@ PANTHEA
 
 
    NAY, let us walk from fire unto fire,
-      From passionate pain to deadlier delight, 
+      From passionate pain to deadlier delight,—
    I am too young to live without desire,
       Too young art thou to waste this summer night
    Asking those idle questions which of old
@@ -3121,7 +3121,7 @@ PANTHEA
 
    For, sweet, to feel is better than to know,
       And wisdom is a childless heritage,
-   One pulse of passion youth’s first fiery glow, 
+   One pulse of passion—youth’s first fiery glow,—
       Are worth the hoarded proverbs of the sage:
    Vex not thy soul with dead philosophy,
    Have we not lips to kiss with, hearts to love and eyes to see!
@@ -3130,14 +3130,14 @@ PANTHEA
       Like water bubbling from a silver jar,
    So soft she sings the envious moon is pale,
       That high in heaven she is hung so far
-   She cannot hear that love-enraptured tune, 
+   She cannot hear that love enraptured tune,—
    Mark how she wreathes each horn with mist, yon late and labouring
    moon.
 
    White lilies, in whose cups the gold bees dream,
       The fallen snow of petals where the breeze
    Scatters the chestnut blossom, or the gleam
-      Of boyish limbs in water, are not these
+      Of boyish limbs in water,—are not these
    Enough for thee, dost thou desire more?
    Alas! the Gods will give nought else from their eternal store.
 
@@ -3158,12 +3158,12 @@ PANTHEA
    And far beneath the brazen floor they see
       Like swarming flies the crowd of little men,
    The bustle of small lives, then wearily
-      Back to their lotus-haunts they turn again
+      Back to their lotus haunts they turn again
    Kissing each others’ mouths, and mix more deep
-   The poppy-seeded draught which brings soft purple-lidded sleep.
+   The poppy seeded draught which brings soft purple lidded sleep.
 
-   There all day long the golden-vestured sun,
-      Their torch-bearer, stands with his torch ablaze,
+   There all day long the golden vestured sun,
+      Their torch bearer, stands with his torch ablaze,
    And, when the gaudy web of noon is spun
       By its twelve maidens, through the crimson haze
    Fresh from Endymion’s arms comes forth the moon,
@@ -3171,8 +3171,8 @@ PANTHEA
 
    There walks Queen Juno through some dewy mead,
       Her grand white feet flecked with the saffron dust
-   Of wind-stirred lilies, while young Ganymede
-      Leaps in the hot and amber-foaming must,
+   Of wind stirred lilies, while young Ganymede
+      Leaps in the hot and amber foaming must,
    His curls all tossed, as when the eagle bare
    The frightened boy from Ida through the blue Ionian air.
 
@@ -3181,17 +3181,17 @@ PANTHEA
    Her warm soft body like the briar rose
       Which would be white yet blushes at its pride,
    Laughs low for love, till jealous Salmacis
-   Peers through the myrtle-leaves and sighs for pain of lonely bliss.
+   Peers through the myrtle leaves and sighs for pain of lonely bliss.
 
-   There never does that dreary north-wind blow
+   There never does that dreary north wind blow
       Which leaves our English forests bleak and bare,
-   Nor ever falls the swift white-feathered snow,
-      Nor ever doth the red-toothed lightning dare
-   To wake them in the silver-fretted night
+   Nor ever falls the swift white feathered snow,
+      Nor ever doth the red toothed lightning dare
+   To wake them in the silver fretted night
    When we lie weeping for some sweet sad sin, some dead delight.
 
    Alas! they know the far Lethæan spring,
-      The violet-hidden waters well they know,
+      The violet hidden waters well they know,
    Where one whose feet with tired wandering
       Are faint and broken may take heart and go,
    And from those dark depths cool and crystalline
@@ -3199,7 +3199,7 @@ PANTHEA
 
    But we oppress our natures, God or Fate
       Is our enemy, we starve and feed
-   On vain repentance O we are born too late!
+   On vain repentance—O we are born too late!
       What balm for us in bruisèd poppy seed
    Who crowd into one finite pulse of time
    The joy of infinite love and the fierce pain of infinite crime.
@@ -3209,9 +3209,9 @@ PANTHEA
    Wearied of every temple we have built,
       Wearied of every right, unanswered prayer,
    For man is weak; God sleeps: and heaven is high:
-   One fiery-coloured moment: one great love; and lo! we die.
+   One fiery coloured moment: one great love; and lo! we die.
 
-   Ah! but no ferry-man with labouring pole
+   Ah! but no ferry man with labouring pole
       Nears his black shallop to the flowerless strand,
    No little coin of bronze can bring the soul
       Over Death’s river to the sunless land,
@@ -3221,7 +3221,7 @@ PANTHEA
    We are resolved into the supreme air,
       We are made one with what we touch and see,
    With our heart’s blood each crimson sun is fair,
-      With our young lives each spring-impassioned tree
+      With our young lives each spring impassioned tree
    Flames into green, the wildest beasts that range
    The moor our kinsmen are, all life is one, and all is change.
 
@@ -3237,13 +3237,13 @@ PANTHEA
    We who are godlike now were once a mass
       Of quivering purple flecked with bars of gold,
    Unsentient or of joy or misery,
-   And tossed in terrible tangles of some wild and wind-swept sea.
+   And tossed in terrible tangles of some wild and wind swept sea.
 
    This hot hard flame with which our bodies burn
       Will make some meadow blaze with daffodil,
    Ay! and those argent breasts of thine will turn
-      To water-lilies; the brown fields men till
-   Will be more fruitful for our love to-night,
+      To water lilies; the brown fields men till
+   Will be more fruitful for our love to night,
    Nothing is lost in nature, all things live in Death’s despite.
 
    The boy’s first kiss, the hyacinth’s first bell,
@@ -3251,17 +3251,17 @@ PANTHEA
    That from the lily leaps, the asphodel
       Which will not let its blossoms blow for fear
    Of too much beauty, and the timid shame
-   Of the young bridegroom at his lover’s eyes, these with the same
+   Of the young bridegroom at his lover’s eyes,—these with the same
 
    One sacrament are consecrate, the earth
       Not we alone hath passions hymeneal,
    The yellow buttercups that shake for mirth
       At daybreak know a pleasure not less real
-   Than we do, when in some fresh-blossoming wood,
+   Than we do, when in some fresh blossoming wood,
    We draw the spring into our hearts, and feel that life is good.
 
    So when men bury us beneath the yew
-      Thy crimson-stainèd mouth a rose will be,
+      Thy crimson stainèd mouth a rose will be,
    And thy soft eyes lush bluebells dimmed with dew,
       And when the white narcissus wantonly
    Kisses the wind its playmate some faint joy
@@ -3270,9 +3270,9 @@ PANTHEA
    And thus without life’s conscious torturing pain
       In some sweet flower we will feel the sun,
    And from the linnet’s throat will sing again,
-      And as two gorgeous-mailèd snakes will run
+      And as two gorgeous mailèd snakes will run
    Over our graves, or as two tigers creep
-   Through the hot jungle where the yellow-eyed huge lions sleep
+   Through the hot jungle where the yellow eyed huge lions sleep
 
    And give them battle!  How my heart leaps up
       To think of that grand living after death
@@ -3282,8 +3282,8 @@ PANTHEA
    The soul earth’s earliest conqueror becomes earth’s last great prey.
 
    O think of it!  We shall inform ourselves
-      Into all sensuous life, the goat-foot Faun,
-   The Centaur, or the merry bright-eyed Elves
+      Into all sensuous life, the goat foot Faun,
+   The Centaur, or the merry bright eyed Elves
       That leave their dancing rings to spite the dawn
    Upon the meadows, shall not be more near
    Than you and I to nature’s mysteries, for we shall hear
@@ -3303,7 +3303,7 @@ PANTHEA
    But for the lovers’ lips that kiss, the poets’ lips that sing.
 
    Is the light vanished from our golden sun,
-      Or is this dædal-fashioned earth less fair,
+      Or is this dædal fashioned earth less fair,
    That we are nature’s heritors, and one
       With every pulse of life that beats the air?
    Rather new suns across the sky shall pass,
@@ -3353,9 +3353,9 @@ AT VERONA
 
 
    HOW steep the stairs within Kings’ houses are
-      For exile-wearied feet as mine to tread,
+      For exile wearied feet as mine to tread,
       And O how salt and bitter is the bread
-   Which falls from this Hound’s table, better far
+   Which falls from this Hound’s table,—better far
    That I had died in the red ways of war,
       Or that the gate of Florence bare my head,
       Than to live thus, by all things comraded
@@ -3363,7 +3363,7 @@ AT VERONA
 
    ‘Curse God and die: what better hope than this?
       He hath forgotten thee in all the bliss
-      Of his gold city, and eternal day’ 
+      Of his gold city, and eternal day’—
    Nay peace: behind my prison’s blinded bars
       I do possess what none can take away
       My love, and all the glory of the stars.
@@ -3377,7 +3377,7 @@ APOLOGIA
    And at thy pleasure weave that web of pain
       Whose brightest threads are each a wasted day?
 
-   Is it thy will Love that I love so well 
+   Is it thy will—Love that I love so well—
       That my Soul’s House should be a tortured spot
    Wherein, like evil paramours, must dwell
       The quenchless flame, the worm that dieth not?
@@ -3387,7 +3387,7 @@ APOLOGIA
    And let dull failure be my vestiture,
       And sorrow dig its grave within my heart.
 
-   Perchance it may be better so at least
+   Perchance it may be better so—at least
       I have not made my heart a heart of stone,
    Nor starved my boyhood of its goodly feast,
       Nor walked where Beauty is a thing unknown.
@@ -3403,7 +3403,7 @@ APOLOGIA
       Caught the last tresses of the Sun God’s hair.
 
    Or how the little flower he trod upon,
-      The daisy, that white-feathered shield of gold,
+      The daisy, that white feathered shield of gold,
    Followed with wistful eyes the wandering sun
       Content if once its leaves were aureoled.
 
@@ -3436,16 +3436,16 @@ QUIA MULTUM AMAVI
    I had not now been sorrow’s heritor,
       Or stood a lackey in the House of Pain.
 
-   Yet, though remorse, youth’s white-faced seneschal,
+   Yet, though remorse, youth’s white faced seneschal,
       Tread on my heels with all his retinue,
-   I am most glad I loved thee think of all
+   I am most glad I loved thee—think of all
       The suns that go to make one speedwell blue!
 
 
 SILENTIUM AMORIS
 
 
-   AS often-times the too resplendent sun
+   AS often times the too resplendent sun
       Hurries the pallid and reluctant moon
    Back to her sombre cave, ere she hath won
       A single ballad from the nightingale,
@@ -3472,15 +3472,15 @@ HER VOICE
 
    THE wild bee reels from bough to bough
       With his furry coat and his gauzy wing,
-   Now in a lily-cup, and now
-      Setting a jacinth bell a-swing,
+   Now in a lily cup, and now
+      Setting a jacinth bell a swing,
             In his wandering;
    Sit closer love: it was here I trow
             I made that vow,
 
    Swore that two lives should be like one
-      As long as the sea-gull loved the sea,
-   As long as the sunflower sought the sun, 
+      As long as the sea gull loved the sea,
+   As long as the sunflower sought the sun,—
       It shall be, I said, for eternity
             ’Twixt you and me!
    Dear friend, those times are over and done;
@@ -3492,12 +3492,12 @@ HER VOICE
       Scatters the thistledown, but there
             Great winds blow fair
    From the mighty murmuring mystical seas,
-            And the wave-lashed leas.
+            And the wave lashed leas.
 
    Look upward where the white gull screams,
       What does it see that we do not see?
    Is that a star? or the lamp that gleams
-      On some outward voyaging argosy, 
+      On some outward voyaging argosy,—
             Ah! can it be
    We have lived our lives in a land of dreams!
             How sad it seems.
@@ -3506,14 +3506,14 @@ HER VOICE
       But this, that love is never lost,
    Keen winter stabs the breasts of May
       Whose crimson roses burst his frost,
-            Ships tempest-tossed
+            Ships tempest tossed
    Will find a harbour in some bay,
             And so we may.
 
    And there is nothing left to do
       But to kiss once again, and part,
    Nay, there is nothing we should rue,
-      I have my beauty, you your Art,
+      I have my beauty,—you your Art,
             Nay, do not start,
    One world was not enough for two
             Like me and you.
@@ -3523,7 +3523,7 @@ MY VOICE
 
 
    WITHIN this restless, hurried, modern world
-      We took our hearts’ full pleasure You and I,
+      We took our hearts’ full pleasure—You and I,
    And now the white sails of our ship are furled,
       And spent the lading of our argosy.
 
@@ -3545,7 +3545,7 @@ TÆDIUM VITÆ
    This paltry age’s gaudy livery,
    To let each base hand filch my treasury,
    To mesh my soul within a woman’s hair,
-   And be mere Fortune’s lackeyed groom, I swear
+   And be mere Fortune’s lackeyed groom,—I swear
    I love it not! these things are less to me
    Than the thin foam that frets upon the sea,
    Less than the thistledown of summer air
@@ -3572,15 +3572,15 @@ HUMANITAD
       Lie on the sharp black hedges, where the wain
    Dragged the sweet pillage of a summer’s day
       From the low meadows up the narrow lane;
-   Upon the half-thawed snow the bleating sheep
-   Press close against the hurdles, and the shivering house-dogs creep
+   Upon the half thawed snow the bleating sheep
+   Press close against the hurdles, and the shivering house dogs creep
 
    From the shut stable to the frozen stream
       And back again disconsolate, and miss
    The bawling shepherds and the noisy team;
       And overhead in circling listlessness
    The cawing rooks whirl round the frosted stack,
-   Or crowd the dripping boughs; and in the fen the ice-pools crack
+   Or crowd the dripping boughs; and in the fen the ice pools crack
 
    Where the gaunt bittern stalks among the reeds
       And flaps his wings, and stretches back his neck,
@@ -3594,7 +3594,7 @@ HUMANITAD
    And stamps his feet upon the hearth, and flings
       The sappy billets on the waning fire,
    And laughs to see the sudden lightening scare
-   His children at their play, and yet, the spring is in the air;
+   His children at their play, and yet,—the spring is in the air;
 
    Already the slim crocus stirs the snow,
       And soon yon blanchèd fields will bloom again
@@ -3603,67 +3603,67 @@ HUMANITAD
    The winter’s icy sorrow breaks to tears,
    And the brown thrushes mate, and with bright eyes the rabbit peers
 
-   From the dark warren where the fir-cones lie,
+   From the dark warren where the fir cones lie,
       And treads one snowdrop under foot, and runs
    Over the mossy knoll, and blackbirds fly
       Across our path at evening, and the suns
    Stay longer with us; ah! how good to see
-   Grass-girdled spring in all her joy of laughing greenery
+   Grass girdled spring in all her joy of laughing greenery
 
    Dance through the hedges till the early rose,
       (That sweet repentance of the thorny briar!)
    Burst from its sheathèd emerald and disclose
       The little quivering disk of golden fire
    Which the bees know so well, for with it come
-   Pale boy’s-love, sops-in-wine, and daffadillies all in bloom.
+   Pale boy’s love, sops in wine, and daffadillies all in bloom.
 
    Then up and down the field the sower goes,
       While close behind the laughing younker scares
    With shrilly whoop the black and thievish crows,
-      And then the chestnut-tree its glory wears,
+      And then the chestnut tree its glory wears,
    And on the grass the creamy blossom falls
-   In odorous excess, and faint half-whispered madrigals
+   In odorous excess, and faint half whispered madrigals
 
    Steal from the bluebells’ nodding carillons
       Each breezy morn, and then white jessamine,
-   That star of its own heaven, snap-dragons
+   That star of its own heaven, snap dragons
       With lolling crimson tongues, and eglantine
    In dusty velvets clad usurp the bed
    And woodland empery, and when the lingering rose hath shed
 
    Red leaf by leaf its folded panoply,
-      And pansies closed their purple-lidded eyes,
+      And pansies closed their purple lidded eyes,
    Chrysanthemums from gilded argosy
       Unload their gaudy scentless merchandise,
    And violets getting overbold withdraw
    From their shy nooks, and scarlet berries dot the leafless haw.
 
    O happy field! and O thrice happy tree!
-      Soon will your queen in daisy-flowered smock
-   And crown of flower-de-luce trip down the lea,
+      Soon will your queen in daisy flowered smock
+   And crown of flower de luce trip down the lea,
       Soon will the lazy shepherds drive their flock
    Back to the pasture by the pool, and soon
    Through the green leaves will float the hum of murmuring bees at noon.
 
    Soon will the glade be bright with bellamour,
       The flower which wantons love, and those sweet nuns
-   Vale-lilies in their snowy vestiture
+   Vale lilies in their snowy vestiture
       Will tell their beaded pearls, and carnations
    With mitred dusky leaves will scent the wind,
-   And straggling traveller’s-joy each hedge with yellow stars will bind.
+   And straggling traveller’s joy each hedge with yellow stars will bind.
 
    Dear bride of Nature and most bounteous spring,
-      That canst give increase to the sweet-breath’d kine,
+      That canst give increase to the sweet breath’d kine,
    And to the kid its little horns, and bring
       The soft and silky blossoms to the vine,
    Where is that old nepenthe which of yore
-   Man got from poppy root and glossy-berried mandragore!
+   Man got from poppy root and glossy berried mandragore!
 
    There was a time when any common bird
       Could make me sing in unison, a time
    When all the strings of boyish life were stirred
       To quick response or more melodious rhyme
-   By every forest idyll; do I change?
+   By every forest idyll;—do I change?
    Or rather doth some evil thing through thy fair pleasaunce range?
 
    Nay, nay, thou art the same: ’tis I who seek
@@ -3676,7 +3676,7 @@ HUMANITAD
    Thou art the same: ’tis I whose wretched soul
       Takes discontent to be its paramour,
    And gives its kingdom to the rude control
-      Of what should be its servitor, for sure
+      Of what should be its servitor,—for sure
    Wisdom is somewhere, though the stormy sea
    Contain it not, and the huge deep answer ‘’Tis not in me.’
 
@@ -3694,14 +3694,14 @@ HUMANITAD
    A silent Memnon with blank lidless eyes,
    Wait for the light and music of those suns which never rise.
 
-   The quenched-out torch, the lonely cypress-gloom,
+   The quenched out torch, the lonely cypress gloom,
       The little dust stored in the narrow urn,
-   The gentle ΧΑΙΡΕ of the Attic tomb, 
+   The gentle ΧΑΙΡΕ of the Attic tomb,—
       Were not these better far than to return
    To my old fitful restless malady,
    Or spend my days within the voiceless cave of misery?
 
-   Nay! for perchance that poppy-crownèd god
+   Nay! for perchance that poppy crownèd god
       Is like the watcher by a sick man’s bed
    Who talks of sleep but gives it not; his rod
       Hath lost its virtue, and, when all is said,
@@ -3710,7 +3710,7 @@ HUMANITAD
 
    And Love! that noble madness, whose august
       And inextinguishable might can slay
-   The soul with honeyed drugs, alas! I must
+   The soul with honeyed drugs,—alas! I must
       From such sweet ruin play the runaway,
    Although too constant memory never can
    Forget the archèd splendour of those brows Olympian
@@ -3718,18 +3718,18 @@ HUMANITAD
    Which for a little season made my youth
       So soft a swoon of exquisite indolence
    That all the chiding of more prudent Truth
-      Seemed the thin voice of jealousy, O hence
+      Seemed the thin voice of jealousy,—O hence
    Thou huntress deadlier than Artemis!
    Go seek some other quarry! for of thy too perilous bliss.
 
-   My lips have drunk enough, no more, no more, 
+   My lips have drunk enough,—no more, no more,—
       Though Love himself should turn his gilded prow
    Back to the troubled waters of this shore
       Where I am wrecked and stranded, even now
    The chariot wheels of passion sweep too near,
    Hence!  Hence!  I pass unto a life more barren, more austere.
 
-   More barren ay, those arms will never lean
+   More barren—ay, those arms will never lean
       Down through the trellised vines and draw my soul
    In sweet reluctance through the tangled green;
       Some other head must wear that aureole,
@@ -3740,7 +3740,7 @@ HUMANITAD
       And kiss his mouth, and toss his curly hair,
    With net and spear and hunting equipage
       Let young Adonis to his tryst repair,
-   But me her fond and subtle-fashioned spell
+   But me her fond and subtle fashioned spell
    Delights no more, though I could win her dearest citadel.
 
    Ay, though I were that laughing shepherd boy
@@ -3750,18 +3750,18 @@ HUMANITAD
    In wonder at her feet, not for the sake
    Of a new Helen would I bid her hand the apple take.
 
-   Then rise supreme Athena argent-limbed!
+   Then rise supreme Athena argent limbed!
       And, if my lips be musicless, inspire
    At least my life: was not thy glory hymned
       By One who gave to thee his sword and lyre
-   Like Æschylos at well-fought Marathon,
+   Like Æschylos at well fought Marathon,
    And died to show that Milton’s England still could bear a son!
 
    And yet I cannot tread the Portico
       And live without desire, fear and pain,
    Or nurture that wise calm which long ago
       The grave Athenian master taught to men,
-   Self-poised, self-centred, and self-comforted,
+   Self poised, self centred, and self comforted,
    To watch the world’s vain phantasies go by with unbowed head.
 
    Alas! that serene brow, those eloquent lips,
@@ -3774,14 +3774,14 @@ HUMANITAD
    Nor much with Science do I care to climb,
       Although by strange and subtle witchery
    She drew the moon from heaven: the Muse Time
-      Unrolls her gorgeous-coloured tapestry
+      Unrolls her gorgeous coloured tapestry
    To no less eager eyes; often indeed
    In the great epic of Polymnia’s scroll I love to read
 
    How Asia sent her myriad hosts to war
       Against a little town, and panoplied
    In gilded mail with jewelled scimitar,
-      White-shielded, purple-crested, rode the Mede
+      White shielded, purple crested, rode the Mede
    Between the waving poplars and the sea
    Which men call Artemisium, till he saw Thermopylæ
 
@@ -3797,7 +3797,7 @@ HUMANITAD
    What Sparta held most dear and was the crown
       Of far Eurotas, and passed on, nor knew
    How God had staked an evil net for him
-   In the small bay at Salamis, and yet, the page grows dim,
+   In the small bay at Salamis,—and yet, the page grows dim,
 
    Its cadenced Greek delights me not, I feel
       With such a goodly time too out of tune
@@ -3836,7 +3836,7 @@ HUMANITAD
 
    Of the rude tempest vex his slumber, or
       The Arno with its tawny troubled gold
-   O’er-leap its marge, no mightier conqueror
+   O’er leap its marge, no mightier conqueror
       Clomb the high Capitol in the days of old
    When Rome was indeed Rome, for Liberty
    Walked like a bride beside him, at which sight pale Mystery
@@ -3852,7 +3852,7 @@ HUMANITAD
       He drave the base wolf from the lion’s lair,
    And now lies dead by that empyreal dome
       Which overtops Valdarno hung in air
-   By Brunelleschi O Melpomene
+   By Brunelleschi—O Melpomene
    Breathe through thy melancholy pipe thy sweetest threnody!
 
    Breathe through the tragic stops such melodies
@@ -3860,7 +3860,7 @@ HUMANITAD
    Forget awhile their discreet emperies,
       Mourning for him who on Rome’s lordliest shrine
    Lit for men’s lives the light of Marathon,
-   And bare to sun-forgotten fields the fire of the sun!
+   And bare to sun forgotten fields the fire of the sun!
 
    O guard him, guard him well, my Giotto’s tower!
       Let some young Florentine each eventide
@@ -3870,11 +3870,11 @@ HUMANITAD
    Whose soul is as some mighty orb unseen of mortal eyes;
 
    Some mighty orb whose cycled wanderings,
-      Being tempest-driven to the farthest rim
+      Being tempest driven to the farthest rim
    Where Chaos meets Creation and the wings
       Of the eternal chanting Cherubim
    Are pavilioned on Nothing, passed away
-   Into a moonless void, and yet, though he is dust and clay,
+   Into a moonless void,—and yet, though he is dust and clay,
 
    He is not dead, the immemorial Fates
       Forbid it, and the closing shears refrain.
@@ -3891,7 +3891,7 @@ HUMANITAD
    Not mirroring their beauty; so our lives grow colourless
 
    For lack of our ideals, if one star
-      Flame torch-like in the heavens the unjust
+      Flame torch like in the heavens the unjust
    Swift daylight kills it, and no trump of war
       Can wake to passionate voice the silent dust
    Which was Mazzini once! rich Niobe
@@ -3899,7 +3899,7 @@ HUMANITAD
 
    What Easter Day shall make her children rise,
       Who were not Gods yet suffered? what sure feet
-   Shall find their grave-clothes folded? what clear eyes
+   Shall find their grave clothes folded? what clear eyes
       Shall see them bodily?  O it were meet
    To roll the stone from off the sepulchre
    And kiss the bleeding roses of their wounds, in love of her,
@@ -3915,7 +3915,7 @@ HUMANITAD
       Bind the sweet feet of Mercy: Poverty
    Creeps through our sunless lanes and with sharp knives
       Cuts the warm throats of children stealthily,
-   And no word said: O we are wretched men
+   And no word said:—O we are wretched men
    Unworthy of our great inheritance! where is the pen
 
    Of austere Milton? where the mighty sword
@@ -3944,7 +3944,7 @@ HUMANITAD
    Of wind and beating snow, or renovated
       By more destructful hands: Time’s worst decay
    Will wreathe its ruins with some loveliness,
-   But these new Vandals can but make a rain-proof barrenness.
+   But these new Vandals can but make a rain proof barrenness.
 
    Where is that Art which bade the Angels sing
       Through Lincoln’s lofty choir, till the air
@@ -3976,7 +3976,7 @@ HUMANITAD
 
    Or Titian’s little maiden on the stair
       White as her own sweet lily and as tall,
-   Or Mona Lisa smiling through her hair, 
+   Or Mona Lisa smiling through her hair,—
       Ah! somehow life is bigger after all
    Than any painted angel, could we see
    The God that is within us!  The old Greek serenity
@@ -3986,7 +3986,7 @@ HUMANITAD
    And chastened limbs ride round Athena’s shrine
       And mirror her divine economies,
    And balanced symmetry of what in man
-   Would else wage ceaseless warfare, this at least within the span
+   Would else wage ceaseless warfare,—this at least within the span
 
    Between our mother’s kisses and the grave
       Might so inform our lives, that we could win
@@ -4020,7 +4020,7 @@ HUMANITAD
       Whose cadence being measureless would fly
    Through all the circling spheres, then to its Lord
       Return refreshed with its new empery
-   And more exultant power, this indeed
+   And more exultant power,—this indeed
    Could we but reach it were to find the last, the perfect creed.
 
    Ah! it was easy when the world was young
@@ -4034,13 +4034,13 @@ HUMANITAD
       And of all men we are most wretched who
    Must live each other’s lives and not our own
       For very pity’s sake and then undo
-   All that we lived for it was otherwise
+   All that we lived for—it was otherwise
    When soul and body seemed to blend in mystic symphonies.
 
    But we have left those gentle haunts to pass
       With weary feet to the new Calvary,
    Where we behold, as one who in a glass
-      Sees his own face, self-slain Humanity,
+      Sees his own face, self slain Humanity,
    And in the dumb reproach of that sad gaze
    Learn what an awful phantom the red hand of man can raise.
 
@@ -4067,9 +4067,9 @@ HUMANITAD
 
    Nay, nay, we are but crucified, and though
       The bloody sweat falls from our brows like rain
-   Loosen the nails we shall come down I know,
-      Staunch the red wounds we shall be whole again,
-   No need have we of hyssop-laden rod,
+   Loosen the nails—we shall come down I know,
+      Staunch the red wounds—we shall be whole again,
+   No need have we of hyssop laden rod,
    That which is purely human, that is godlike, that is God.
 
 
@@ -4088,7 +4088,7 @@ FLOWER OF LOVE
    From the wildness of my wasted passion I had
       struck a better, clearer song,
    Lit some lighter light of freer freedom, battled
-      with some Hydra-headed wrong.
+      with some Hydra headed wrong.
 
    Had my lips been smitten into music by the
       kisses that but made them bleed,
@@ -4111,11 +4111,11 @@ FLOWER OF LOVE
       lyre’s strings are ever strung.
 
    Keats had lifted up his hymeneal curls from out
-      the poppy-seeded wine,
+      the poppy seeded wine,
    With ambrosial mouth had kissed my forehead,
       clasped the hand of noble love in mine.
 
-   And at springtide, when the apple-blossoms brush
+   And at springtide, when the apple blossoms brush
       the burnished bosom of the dove,
    Two young lovers lying in an orchard would
       have read the story of our love.
@@ -4130,10 +4130,10 @@ FLOWER OF LOVE
    And no hand can gather up the fallen withered
       petals of the rose of youth.
 
-   Yet I am not sorry that I loved you ah! what
-      else had I a boy to do, 
+   Yet I am not sorry that I loved you—ah! what
+      else had I a boy to do,—
    For the hungry teeth of time devour, and the
-      silent-footed years pursue.
+      silent footed years pursue.
 
    Rudderless, we drift athwart a tempest, and
       when once the storm of youth is past,
@@ -4186,10 +4186,10 @@ FROM SPRING DAYS TO WINTER
 
    But now with snow the tree is grey,
       Ah, sadly now the throstle sings!
-   My love is dead: ah! well-a-day,
+   My love is dead: ah! well a day,
    See at her silent feet I lay
       A dove with broken wings!
-      Ah, Love! ah, Love! that thou wert slain 
+      Ah, Love! ah, Love! that thou wert slain—
    Fond Dove, fond Dove return again!
 
 
@@ -4197,7 +4197,7 @@ FROM SPRING DAYS TO WINTER
 TRISTITÆ
 
 
-                Αἴλινον ,  αἴλινον εἰπέ ,  τὸ δ’ εὖ νικάτω 
+               _Αἴλινον_, _αἴλινον εἰπέ_, _τὸ δ’ εὖ νικάτω_
 
    O WELL for him who lives at ease
       With garnered gold in wide domain,
@@ -4219,12 +4219,12 @@ TRISTITÆ
 THE TRUE KNOWLEDGE
 
 
-   . . .  ἀναyκαίως δ’ ἔχει 
-    Βίον θερίζειν ὥστε κάρπιμον στάχυν ,
-    καὶ τὸν yὲν εἶναι τὸν δὲ yή .
+   . . . _ἀναyκαίως δ’ ἔχει_
+   _Βίον θερίζειν ὥστε κάρπιμον στάχυν_,
+   _καὶ τὸν yὲν εἶναι τὸν δὲ yή_.
 
    THOU knowest all; I seek in vain
-      What lands to till or sow with seed 
+      What lands to till or sow with seed—
       The land is black with briar and weed,
    Nor cares for falling tears or rain.
 
@@ -4249,15 +4249,15 @@ LE JARDIN
 
    THE lily’s withered chalice falls
       Around its rod of dusty gold,
-      And from the beech-trees on the wold
-   The last wood-pigeon coos and calls.
+      And from the beech trees on the wold
+   The last wood pigeon coos and calls.
 
    The gaudy leonine sunflower
       Hangs black and barren on its stalk,
       And down the windy garden walk
-   The dead leaves scatter, hour by hour.
+   The dead leaves scatter,—hour by hour.
 
-   Pale privet-petals white as milk
+   Pale privet petals white as milk
       Are blown into a snowy mass:
       The roses lie upon the grass
    Like little shreds of crimson silk.
@@ -4273,8 +4273,8 @@ LA MER
    Out of a mane of tawny clouds.
 
    The muffled steersman at the wheel
-      Is but a shadow in the gloom; 
-      And in the throbbing engine-room
+      Is but a shadow in the gloom;—
+      And in the throbbing engine room
    Leap the long rods of polished steel.
 
    The shattered storm has left its trace
@@ -4344,7 +4344,7 @@ THE HARLOT’S HOUSE
    To sound of horn and violin,
    Like black leaves wheeling in the wind.
 
-   Like wire-pulled automatons,
+   Like wire pulled automatons,
    Slim silhouetted skeletons
    Went sidling through the slow quadrille,
 
@@ -4364,7 +4364,7 @@ THE HARLOT’S HOUSE
    ‘The dead are dancing with the dead,
    The dust is whirling with the dust.’
 
-   But she she heard the violin,
+   But she—she heard the violin,
    And left my side, and entered in:
    Love passed into the house of lust.
 
@@ -4373,7 +4373,7 @@ THE HARLOT’S HOUSE
    The shadows ceased to wheel and whirl.
 
    And down the long and silent street,
-   The dawn, with silver-sandalled feet,
+   The dawn, with silver sandalled feet,
    Crept like a frightened girl.
 
 
@@ -4388,7 +4388,7 @@ LE JARDIN DES TUILERIES
 
    Sometimes about the painted kiosk
       The mimic soldiers strut and stride,
-      Sometimes the blue-eyed brigands hide
+      Sometimes the blue eyed brigands hide
    In the bleak tangles of the bosk.
 
    And sometimes, while the old nurse cons
@@ -4397,7 +4397,7 @@ LE JARDIN DES TUILERIES
    Huge Triton writhes in greenish bronze.
 
    And now in mimic flight they flee,
-      And now they rush, a boisterous band 
+      And now they rush, a boisterous band—
       And, tiny hand on tiny hand,
    Climb up the black and leafless tree.
 
@@ -4444,7 +4444,7 @@ THE NEW REMORSE
    But who is this who cometh by the shore?
    (Nay, love, look up and wonder!)  Who is this
       Who cometh in dyed garments from the South?
-   It is thy new-found Lord, and he shall kiss
+   It is thy new found Lord, and he shall kiss
       The yet unravished roses of thy mouth,
    And I shall weep and worship, as before.
 
@@ -4457,7 +4457,7 @@ I
 LE PANNEAU
 
 
-   UNDER the rose-tree’s dancing shade
+   UNDER the rose tree’s dancing shade
       There stands a little ivory girl,
       Pulling the leaves of pink and pearl
    With pale green nails of polished jade.
@@ -4485,17 +4485,17 @@ LE PANNEAU
    And now she gives a cry of fear,
       And tiny tears begin to start:
       A thorn has wounded with its dart
-   The pink-veined sea-shell of her ear.
+   The pink veined sea shell of her ear.
 
    And now she laughs a merry note:
       There has fallen a petal of the rose
       Just where the yellow satin shows
-   The blue-veined flower of her throat.
+   The blue veined flower of her throat.
 
    With pale green nails of polished jade,
       Pulling the leaves of pink and pearl,
       There stands a little ivory girl
-   Under the rose-tree’s dancing shade.
+   Under the rose tree’s dancing shade.
 
 
 II
@@ -4528,7 +4528,7 @@ CANZONET
 
 
       I HAVE no store
-   Of gryphon-guarded gold;
+   Of gryphon guarded gold;
       Now, as before,
    Bare is the shepherd’s fold.
       Rubies nor pearls
@@ -4541,7 +4541,7 @@ CANZONET
       For I would feed
    Thine ears with melody,
       Who art more fair
-   Than fairest fleur-de-lys,
+   Than fairest fleur de lys,
       More sweet and rare
    Than sweetest ambergris.
 
@@ -4557,7 +4557,7 @@ CANZONET
       Hylas is dead,
    Nor will he e’er divine
       Those little red
-   Rose-petalled lips of thine.
+   Rose petalled lips of thine.
       On the high hill
    No ivory dryads play,
       Silver and still
@@ -4570,7 +4570,7 @@ SYMPHONY IN YELLOW
 
    AN omnibus across the bridge
       Crawls like a yellow butterfly,
-      And, here and there, a passer-by
+      And, here and there, a passer by
    Shows like a little restless midge.
 
    Big barges full of yellow hay
@@ -4588,9 +4588,9 @@ SYMPHONY IN YELLOW
 IN THE FOREST
 
 
-   OUT of the mid-wood’s twilight
+   OUT of the mid wood’s twilight
       Into the meadow’s dawn,
-   Ivory limbed and brown-eyed,
+   Ivory limbed and brown eyed,
       Flashes my Faun!
 
    He skips through the copses singing,
@@ -4644,7 +4644,7 @@ ROSES AND RUE
 
                                 (To L. L.)
 
-   COULD we dig up this long-buried treasure,
+   COULD we dig up this long buried treasure,
       Were it worth the pleasure,
    We never could learn love’s song,
       We are parted too long.
@@ -4684,8 +4684,8 @@ ROSES AND RUE
    You had wonderful, luminous, fleet,
       Little wings to your feet.
 
-   I remember your hair did I tie it?
-      For it always ran riot 
+   I remember your hair—did I tie it?
+      For it always ran riot—
    Like a tangled sunbeam of gold:
       These things are old.
 
@@ -4695,18 +4695,18 @@ ROSES AND RUE
       In the warm June rain;
 
    And the colour of your gown,
-      It was amber-brown,
+      It was amber brown,
    And two yellow satin bows
       From your shoulders rose.
 
    And the handkerchief of French lace
-      Which you held to your face 
+      Which you held to your face—
    Had a small tear left a stain?
       Or was it the rain?
 
    On your hand as it waved adieu
       There were veins of blue;
-   In your voice as it said good-bye
+   In your voice as it said good bye
       Was a petulant cry,
 
    ‘You have only wasted your life.’
@@ -4759,13 +4759,13 @@ PAN
 
                                       I
 
-   O goat-foot God of Arcady!
+   O goat foot God of Arcady!
    This modern world is grey and old,
    And what remains to us of thee?
 
    No more the shepherd lads in glee
    Throw apples at thy wattled fold,
-   O goat-foot God of Arcady!
+   O goat foot God of Arcady!
 
    Nor through the laurels can one see
    Thy soft brown limbs, thy beard of gold,
@@ -4773,15 +4773,15 @@ PAN
 
    And dull and dead our Thames would be,
    For here the winds are chill and cold,
-   O goat-foot God of Arcady!
+   O goat foot God of Arcady!
 
    Then keep the tomb of Helice,
-   Thine olive-woods, thy vine-clad wold,
+   Thine olive woods, thy vine clad wold,
    And what remains to us of thee?
 
    Though many an unsung elegy
    Sleeps in the reeds our rivers hold,
-   O goat-foot God of Arcady!
+   O goat foot God of Arcady!
    Ah, what remains to us of thee?
 
                                      II
@@ -4795,14 +4795,14 @@ PAN
    Ah, leave the hills of Arcady!
 
    This is the land where liberty
-   Lit grave-browed Milton on his way,
+   Lit grave browed Milton on his way,
    This modern world hath need of thee!
 
    A land of ancient chivalry
    Where gentle Sidney saw the day,
    Ah, leave the hills of Arcady!
 
-   This fierce sea-lion of the sea,
+   This fierce sea lion of the sea,
    This England lacks some stronger lay,
    This modern world hath need of thee!
 
@@ -4837,7 +4837,7 @@ THE SPHINX
    reel.
 
    Red follows grey across the air, the waves of moonlight ebb and flow
-   But with the Dawn she does not go and in the night-time she is there.
+   But with the Dawn she does not go and in the night time she is there.
 
    Dawn follows Dawn and Nights grow old and all the while this curious
    cat
@@ -4868,14 +4868,14 @@ THE SPHINX
    O tell me, were you standing by when Isis to Osiris knelt?
    And did you watch the Egyptian melt her union for Antony
 
-   And drink the jewel-drunken wine and bend her head in mimic awe
+   And drink the jewel drunken wine and bend her head in mimic awe
    To see the huge proconsul draw the salted tunny from the brine?
 
    And did you mark the Cyprian kiss white Adon on his catafalque?
    And did you follow Amenalk, the God of Heliopolis?
 
-   And did you talk with Thoth, and did you hear the moon-horned Io weep?
-   And know the painted kings who sleep beneath the wedge-shaped Pyramid?
+   And did you talk with Thoth, and did you hear the moon horned Io weep?
+   And know the painted kings who sleep beneath the wedge shaped Pyramid?
 
                                 * * * * *
 
@@ -4894,7 +4894,7 @@ THE SPHINX
    hungry stare
    The ivory body of that rare young slave with his pomegranate mouth!
 
-   Sing to me of the Labyrinth in which the twi-formed bull was stalled!
+   Sing to me of the Labyrinth in which the twi formed bull was stalled!
    Sing to me of the night you crawled across the temple’s granite plinth
 
    When through the purple corridors the screaming scarlet Ibis flew
@@ -4917,10 +4917,10 @@ THE SPHINX
    couch?
 
    Did monstrous hippopotami come sidling toward you in the mist?
-   Did gilt-scaled dragons writhe and twist with passion as you passed
+   Did gilt scaled dragons writhe and twist with passion as you passed
    them by?
 
-   And from the brick-built Lycian tomb what horrible Chimera came
+   And from the brick built Lycian tomb what horrible Chimera came
    With fearful heads and fearful flame to breed new wonders from your
    womb?
 
@@ -4932,7 +4932,7 @@ THE SPHINX
    Or did you treading through the froth call to the brown Sidonian
    For tidings of Leviathan, Leviathan or Behemoth?
 
-   Or did you when the sun was set climb up the cactus-covered slope
+   Or did you when the sun was set climb up the cactus covered slope
    To meet your swarthy Ethiop whose body was of polished jet?
 
    Or did you while the earthen skiffs dropped down the grey Nilotic
@@ -4944,7 +4944,7 @@ THE SPHINX
    And slink into the vault and make the Pyramid your lúpanar
 
    Till from each black sarcophagus rose up the painted swathèd dead?
-   Or did you lure unto your bed the ivory-horned Tragelaphos?
+   Or did you lure unto your bed the ivory horned Tragelaphos?
 
    Or did you love the god of flies who plagued the Hebrews and was
    splashed
@@ -4954,22 +4954,22 @@ THE SPHINX
    Of Ashtaroth? or did you love the god of the Assyrian
 
    Whose wings, like strange transparent talc, rose high above his
-   hawk-faced head,
+   hawk faced head,
    Painted with silver and with red and ribbed with rods of Oreichalch?
 
    Or did huge Apis from his car leap down and lay before your feet
-   Big blossoms of the honey-sweet and honey-coloured nenuphar?
+   Big blossoms of the honey sweet and honey coloured nenuphar?
 
                                 * * * * *
 
-   HOW subtle-secret is your smile!  Did you love none then?  Nay, I know
+   HOW subtle secret is your smile!  Did you love none then?  Nay, I know
    Great Ammon was your bedfellow!  He lay with you beside the Nile!
 
-   The river-horses in the slime trumpeted when they saw him come
+   The river horses in the slime trumpeted when they saw him come
    Odorous with Syrian galbanum and smeared with spikenard and with
    thyme.
 
-   He came along the river bank like some tall galley argent-sailed,
+   He came along the river bank like some tall galley argent sailed,
    He strode across the waters, mailed in beauty, and the waters sank.
 
    He strode across the desert sand: he reached the valley where you lay:
@@ -4990,7 +4990,7 @@ THE SPHINX
 
                                 * * * * *
 
-   WITH Syrian oils his brows were bright: and wide-spread as a tent at
+   WITH Syrian oils his brows were bright: and wide spread as a tent at
    noon
    His marble limbs made pale the moon and lent the day a larger light.
 
@@ -4998,7 +4998,7 @@ THE SPHINX
    Which hidden in their garment’s hem the merchants bring from
    Kurdistan.
 
-   His face was as the must that lies upon a vat of new-made wine:
+   His face was as the must that lies upon a vat of new made wine:
    The seas could not insapphirine the perfect azure of his eyes.
 
    His thick soft throat was white as milk and threaded with thin veins
@@ -5008,17 +5008,17 @@ THE SPHINX
                                 * * * * *
 
    ON pearl and porphyry pedestalled he was too bright to look upon:
-   For on his ivory breast there shone the wondrous ocean-emerald,
+   For on his ivory breast there shone the wondrous ocean emerald,
 
    That mystic moonlit jewel which some diver of the Colchian caves
    Had found beneath the blackening waves and carried to the Colchian
    witch.
 
-   Before his gilded galiot ran naked vine-wreathed corybants,
+   Before his gilded galiot ran naked vine wreathed corybants,
    And lines of swaying elephants knelt down to draw his chariot,
 
    And lines of swarthy Nubians bare up his litter as he rode
-   Down the great granite-paven road between the nodding peacock-fans.
+   Down the great granite paven road between the nodding peacock fans.
 
    The merchants brought him steatite from Sidon in their painted ships:
    The meanest cup that touched his lips was fashioned from a chrysolite.
@@ -5030,28 +5030,28 @@ THE SPHINX
 
    Ten hundred shaven priests did bow to Ammon’s altar day and night,
    Ten hundred lamps did wave their light through Ammon’s carven
-   house and now
+   house—and now
 
    Foul snake and speckled adder with their young ones crawl from stone
    to stone
-   For ruined is the house and prone the great rose-marble monolith!
+   For ruined is the house and prone the great rose marble monolith!
 
    Wild ass or trotting jackal comes and couches in the mouldering gates:
    Wild satyrs call unto their mates across the fallen fluted drums.
 
-   And on the summit of the pile the blue-faced ape of Horus sits
-   And gibbers while the fig-tree splits the pillars of the peristyle
+   And on the summit of the pile the blue faced ape of Horus sits
+   And gibbers while the fig tree splits the pillars of the peristyle
 
                                 * * * * *
 
    THE god is scattered here and there: deep hidden in the windy sand
    I saw his giant granite hand still clenched in impotent despair.
 
-   And many a wandering caravan of stately negroes silken-shawled,
+   And many a wandering caravan of stately negroes silken shawled,
    Crossing the desert, halts appalled before the neck that none can
    span.
 
-   And many a bearded Bedouin draws back his yellow-striped burnous
+   And many a bearded Bedouin draws back his yellow striped burnous
    To gaze upon the Titan thews of him who was thy paladin.
 
                                 * * * * *
@@ -5075,8 +5075,8 @@ THE SPHINX
    AWAY to Egypt!  Have no fear.  Only one God has ever died.
    Only one God has let His side be wounded by a soldier’s spear.
 
-   But these, thy lovers, are not dead.  Still by the hundred-cubit gate
-   Dog-faced Anubis sits in state with lotus-lilies for thy head.
+   But these, thy lovers, are not dead.  Still by the hundred cubit gate
+   Dog faced Anubis sits in state with lotus lilies for thy head.
 
    Still from his chair of porphyry gaunt Memnon strains his lidless eyes
    Across the empty land, and cries each yellow morning unto thee.
@@ -5092,7 +5092,7 @@ THE SPHINX
    Set wings upon your argosies!  Set horses to your ebon car!
    Back to your Nile!  Or if you are grown sick of dead divinities
 
-   Follow some roving lion’s spoor across the copper-coloured plain,
+   Follow some roving lion’s spoor across the copper coloured plain,
    Reach out and hale him by the mane and bid him be your paramour!
 
    Couch by his side upon the grass and set your white teeth in his
@@ -5124,16 +5124,16 @@ THE SPHINX
    hole
    Left by some torch or burning coal on Saracenic tapestries.
 
-   Away!  The sulphur-coloured stars are hurrying through the Western
+   Away!  The sulphur coloured stars are hurrying through the Western
    gate!
    Away!  Or it may be too late to climb their silent silver cars!
 
-   See, the dawn shivers round the grey gilt-dialled towers, and the rain
+   See, the dawn shivers round the grey gilt dialled towers, and the rain
    Streams down each diamonded pane and blurs with tears the wannish day.
 
-   What snake-tressed fury fresh from Hell, with uncouth gestures and
+   What snake tressed fury fresh from Hell, with uncouth gestures and
    unclean,
-   Stole from the poppy-drowsy queen and led you to a student’s cell?
+   Stole from the poppy drowsy queen and led you to a student’s cell?
 
                                 * * * * *
 
@@ -5148,7 +5148,7 @@ THE SPHINX
    You wake in me each bestial sense, you make me what I would not be.
 
    You make my creed a barren sham, you wake foul dreams of sensual life,
-   And Atys with his blood-stained knife were better than the thing I am.
+   And Atys with his blood stained knife were better than the thing I am.
 
    False Sphinx!  False Sphinx!  By reedy Styx old Charon, leaning on his
    oar,
@@ -5203,7 +5203,7 @@ THE BALLAD OF READING GAOL
    And was wondering if the man had done
       A great or little thing,
    When a voice behind me whispered low,
-      ‘ That fellow’s got to swing .’
+      ‘_That fellow’s got to swing_.’
 
    Dear Christ! the very prison walls
       Suddenly seemed to reel,
@@ -5266,11 +5266,11 @@ THE BALLAD OF READING GAOL
       With the yellow face of Doom.
 
    He does not rise in piteous haste
-      To put on convict-clothes,
-   While some coarse-mouthed Doctor gloats, and notes
-      Each new and nerve-twitched pose,
+      To put on convict clothes,
+   While some coarse mouthed Doctor gloats, and notes
+      Each new and nerve twitched pose,
    Fingering a watch whose little ticks
-      Are like horrible hammer-blows.
+      Are like horrible hammer blows.
 
    He does not know that sickening thirst
       That sands one’s throat, before
@@ -5341,8 +5341,8 @@ THE BALLAD OF READING GAOL
 
    For oak and elm have pleasant leaves
       That in the springtime shoot:
-   But grim to see is the gallows-tree,
-      With its adder-bitten root,
+   But grim to see is the gallows tree,
+      With its adder bitten root,
    And, green or dry, a man must die
       Before it bears its fruit!
 
@@ -5363,7 +5363,7 @@ THE BALLAD OF READING GAOL
    So with curious eyes and sick surmise
       We watched him day by day,
    And wondered if each one of us
-      Would end the self-same way,
+      Would end the self same way,
    For none can tell to what red Hell
       His sightless soul may stray.
 
@@ -5414,7 +5414,7 @@ THE BALLAD OF READING GAOL
    And twice a day he smoked his pipe,
       And drank his quart of beer:
    His soul was resolute, and held
-      No hiding-place for fear;
+      No hiding place for fear;
    He often said that he was glad
       The hangman’s hands were near.
 
@@ -5456,7 +5456,7 @@ THE BALLAD OF READING GAOL
       Terror was lying still.
 
    So still it lay that every day
-      Crawled like a weed-clogged wave:
+      Crawled like a weed clogged wave:
    And we forgot the bitter lot
       That waits for fool and knave,
    Till once, as we tramped in from work,
@@ -5486,7 +5486,7 @@ THE BALLAD OF READING GAOL
       White faces seemed to peer.
 
    He lay as one who lies and dreams
-      In a pleasant meadow-land,
+      In a pleasant meadow land,
    The watchers watched him as he slept,
       And could not understand
    How one could sleep so sweet a sleep
@@ -5494,7 +5494,7 @@ THE BALLAD OF READING GAOL
 
    But there is no sleep when men must weep
       Who never yet have wept:
-   So we the fool, the fraud, the knave 
+   So we—the fool, the fraud, the knave—
       That endless vigil kept,
    And through each brain on hands of pain
       Another’s terror crept.
@@ -5550,12 +5550,12 @@ THE BALLAD OF READING GAOL
    And loud they sang, and long they sang,
       For they sang to wake the dead.
 
-   ‘ Oho !’  they cried , ‘ The world is wide ,
-       But fettered limbs go lame !
-    And once ,  or twice ,  to throw the dice 
-       Is a gentlemanly game ,
-    But he does not win who plays with Sin 
-       In the secret House of Shame .’
+   ‘_Oho_!’ _they cried_, ‘_The world is wide_,
+      _But fettered limbs go lame_!
+   _And once_, _or twice_, _to throw the dice_
+      _Is a gentlemanly game_,
+   _But he does not win who plays with Sin_
+      _In the secret House of Shame_.’
 
    No things of air these antics were,
       That frolicked with such glee:
@@ -5579,7 +5579,7 @@ THE BALLAD OF READING GAOL
       Of the Justice of the Sun.
 
    The moaning wind went wandering round
-      The weeping prison-wall:
+      The weeping prison wall:
    Till like a wheel of turning steel
       We felt the minutes crawl:
    O moaning wind! what had we done
@@ -5588,7 +5588,7 @@ THE BALLAD OF READING GAOL
    At last I saw the shadowed bars,
       Like a lattice wrought in lead,
    Move right across the whitewashed wall
-      That faced my three-plank bed,
+      That faced my three plank bed,
    And I knew that somewhere in the world
       God’s dreadful dawn was red.
 
@@ -5600,7 +5600,7 @@ THE BALLAD OF READING GAOL
       Had entered in to kill.
 
    He did not pass in purple pomp,
-      Nor ride a moon-white steed.
+      Nor ride a moon white steed.
    Three yards of cord and a sliding board
       Are all the gallows’ need:
    So with rope of shame the Herald came
@@ -5634,7 +5634,7 @@ THE BALLAD OF READING GAOL
    But each man’s heart beat thick and quick,
       Like a madman on a drum!
 
-   With sudden shock the prison-clock
+   With sudden shock the prison clock
       Smote on the shivering air,
    And from all the gaol rose up a wail
       Of impotent despair,
@@ -5727,13 +5727,13 @@ THE BALLAD OF READING GAOL
    For where a grave had opened wide,
       There was no grave at all:
    Only a stretch of mud and sand
-      By the hideous prison-wall,
+      By the hideous prison wall,
    And a little heap of burning lime,
       That the man should have his pall.
 
    For he has a pall, this wretched man,
       Such as few men can claim:
-   Deep down below a prison-yard,
+   Deep down below a prison yard,
       Naked for greater shame,
    He lies, with fetters on each foot,
       Wrapt in a sheet of flame!
@@ -5768,30 +5768,30 @@ THE BALLAD OF READING GAOL
    Since the barren staff the pilgrim bore
       Bloomed in the great Pope’s sight?
 
-   But neither milk-white rose nor red
-      May bloom in prison-air;
+   But neither milk white rose nor red
+      May bloom in prison air;
    The shard, the pebble, and the flint,
       Are what they give us there:
    For flowers have been known to heal
       A common man’s despair.
 
-   So never will wine-red rose or white,
+   So never will wine red rose or white,
       Petal by petal, fall
    On that stretch of mud and sand that lies
-      By the hideous prison-wall,
+      By the hideous prison wall,
    To tell the men who tramp the yard
       That God’s Son died for all.
 
                       [Picture: Decorative graphic]
 
-   Yet though the hideous prison-wall
+   Yet though the hideous prison wall
       Still hems him round and round,
    And a spirit may not walk by night
       That is with fetters bound,
    And a spirit may but weep that lies
       In such unholy ground,
 
-   He is at peace this wretched man 
+   He is at peace—this wretched man—
       At peace, or will be soon:
    There is no thing to make him mad,
       Nor does Terror walk at noon,
@@ -5822,7 +5822,7 @@ THE BALLAD OF READING GAOL
    Yet all is well; he has but passed
       To Life’s appointed bourne:
    And alien tears will fill for him
-      Pity’s long-broken urn,
+      Pity’s long broken urn,
    For his mourners will be outcast men,
       And outcasts always mourn
 
@@ -5842,8 +5842,8 @@ THE BALLAD OF READING GAOL
    But straws the wheat and saves the chaff
       With a most evil fan.
 
-   This too I know and wise it were
-      If each could know the same 
+   This too I know—and wise it were
+      If each could know the same—
    That every prison that men build
       Is built with bricks of shame,
    And bound with bars lest Christ should see
@@ -5859,7 +5859,7 @@ THE BALLAD OF READING GAOL
                       [Picture: Decorative graphic]
 
    The vilest deeds like poison weeds,
-      Bloom well in prison-air;
+      Bloom well in prison air;
    It is only what is good in Man
       That wastes and withers there:
    Pale Anguish keeps the heavy gate,
@@ -5884,7 +5884,7 @@ THE BALLAD OF READING GAOL
    And the bitter bread they weigh in scales
       Is full of chalk and lime,
    And Sleep will not lie down, but walks
-      Wild-eyed, and cries to Time.
+      Wild eyed, and cries to Time.
 
                       [Picture: Decorative graphic]
 
@@ -5919,7 +5919,7 @@ THE BALLAD OF READING GAOL
                       [Picture: Decorative graphic]
 
    And every human heart that breaks,
-      In prison-cell or yard,
+      In prison cell or yard,
    Is as that broken box that gave
       Its treasure to the Lord,
    And filled the unclean leper’s house
@@ -5953,7 +5953,7 @@ THE BALLAD OF READING GAOL
    For only blood can wipe out blood,
       And only tears can heal:
    And the crimson stain that was of Cain
-      Became Christ’s snow-white seal.
+      Became Christ’s snow white seal.
 
                                      VI
 
@@ -5961,7 +5961,7 @@ THE BALLAD OF READING GAOL
       There is a pit of shame,
    And in it lies a wretched man
       Eaten by teeth of flame,
-   In a burning winding-sheet he lies,
+   In a burning winding sheet he lies,
       And his grave has got no name.
 
    And there, till Christ call forth the dead,
@@ -5984,7 +5984,7 @@ THE BALLAD OF READING GAOL
 RAVENNA
 
 
-                           Newdigate Prize Poem 
+                          _Newdigate Prize Poem_
                     Recited in the Sheldonian Theatre
                                   Oxford
                              June 26th, 1878
@@ -5996,8 +5996,8 @@ RAVENNA
                                 AUTHOR OF
                       ‘THE NILE NOVEL’ AND ‘MIRAGE’
 
-                          Ravenna ,  March  1877
-                           Oxford ,  March  1878
+                         _Ravenna_, _March_ 1877
+                          _Oxford_, _March_ 1878
 
 
 
@@ -6006,30 +6006,30 @@ RAVENNA
 
                                      I.
 
-   A YEAR ago I breathed the Italian air, 
-   And yet, methinks this northern Spring is fair, 
+   A YEAR ago I breathed the Italian air,—
+   And yet, methinks this northern Spring is fair,—
    These fields made golden with the flower of March,
    The throstle singing on the feathered larch,
-   The cawing rooks, the wood-doves fluttering by,
+   The cawing rooks, the wood doves fluttering by,
    The little clouds that race across the sky;
    And fair the violet’s gentle drooping head,
    The primrose, pale for love uncomforted,
    The rose that burgeons on the climbing briar,
-   The crocus-bed, (that seems a moon of fire
-   Round-girdled with a purple marriage-ring);
+   The crocus bed, (that seems a moon of fire
+   Round girdled with a purple marriage ring);
    And all the flowers of our English Spring,
-   Fond snowdrops, and the bright-starred daffodil.
+   Fond snowdrops, and the bright starred daffodil.
    Up starts the lark beside the murmuring mill,
-   And breaks the gossamer-threads of early dew;
+   And breaks the gossamer threads of early dew;
    And down the river, like a flame of blue,
-   Keen as an arrow flies the water-king,
+   Keen as an arrow flies the water king,
    While the brown linnets in the greenwood sing.
-   A year ago! it seems a little time
+   A year ago!—it seems a little time
    Since last I saw that lordly southern clime,
    Where flower and fruit to purple radiance blow,
    And like bright lamps the fabled apples glow.
-   Full Spring it was and by rich flowering vines,
-   Dark olive-groves and noble forest-pines,
+   Full Spring it was—and by rich flowering vines,
+   Dark olive groves and noble forest pines,
    I rode at will; the moist glad air was sweet,
    The white road rang beneath my horse’s feet,
    And musing on Ravenna’s ancient name,
@@ -6039,31 +6039,31 @@ RAVENNA
       O how my heart with boyish passion burned,
    When far away across the sedge and mere
    I saw that Holy City rising clear,
-   Crowned with her crown of towers! On and on
+   Crowned with her crown of towers!—On and on
    I galloped, racing with the setting sun,
-   And ere the crimson after-glow was passed,
+   And ere the crimson after glow was passed,
    I stood within Ravenna’s walls at last!
 
                                      II.
 
       How strangely still! no sound of life or joy
-   Startles the air; no laughing shepherd-boy
+   Startles the air; no laughing shepherd boy
    Pipes on his reed, nor ever through the day
    Comes the glad sound of children at their play:
    O sad, and sweet, and silent! surely here
    A man might dwell apart from troublous fear,
    Watching the tide of seasons as they flow
    From amorous Spring to Winter’s rain and snow,
-   And have no thought of sorrow; here, indeed,
+   And have no thought of sorrow;—here, indeed,
    Are Lethe’s waters, and that fatal weed
    Which makes a man forget his fatherland.
 
-      Ay! amid lotus-meadows dost thou stand,
-   Like Proserpine, with poppy-laden head,
+      Ay! amid lotus meadows dost thou stand,
+   Like Proserpine, with poppy laden head,
    Guarding the holy ashes of the dead.
    For though thy brood of warrior sons hath ceased,
-   Thy noble dead are with thee! they at least
-   Are faithful to thine honour: guard them well,
+   Thy noble dead are with thee!—they at least
+   Are faithful to thine honour:—guard them well,
    O childless city! for a mighty spell,
    To wake men’s hearts to dreams of things sublime,
    Are the lone tombs where rest the Great of Time.
@@ -6071,28 +6071,28 @@ RAVENNA
                                     III.
 
       Yon lonely pillar, rising on the plain,
-   Marks where the bravest knight of France was slain, 
+   Marks where the bravest knight of France was slain,—
    The Prince of chivalry, the Lord of war,
    Gaston de Foix: for some untimely star
    Led him against thy city, and he fell,
-   As falls some forest-lion fighting well.
+   As falls some forest lion fighting well.
    Taken from life while life and love were new,
    He lies beneath God’s seamless veil of blue;
-   Tall lance-like reeds wave sadly o’er his head,
+   Tall lance like reeds wave sadly o’er his head,
    And oleanders bloom to deeper red,
    Where his bright youth flowed crimson on the ground.
 
-      Look farther north unto that broken mound, 
+      Look farther north unto that broken mound,—
    There, prisoned now within a lordly tomb
    Raised by a daughter’s hand, in lonely gloom,
-   Huge-limbed Theodoric, the Gothic king,
+   Huge limbed Theodoric, the Gothic king,
    Sleeps after all his weary conquering.
-   Time hath not spared his ruin, wind and rain
+   Time hath not spared his ruin,—wind and rain
    Have broken down his stronghold; and again
    We see that Death is mighty lord of all,
    And king and clown to ashen dust must fall
 
-      Mighty indeed  their  glory! yet to me
+      Mighty indeed _their_ glory! yet to me
    Barbaric king, or knight of chivalry,
    Or the great queen herself, were poor and vain,
    Beside the grave where Dante rests from pain.
@@ -6101,8 +6101,8 @@ RAVENNA
    The calm white brow, as calm as earliest morn,
    The eyes that flashed with passionate love and scorn,
    The lips that sang of Heaven and of Hell,
-   The almond-face which Giotto drew so well,
-   The weary face of Dante; to this day,
+   The almond face which Giotto drew so well,
+   The weary face of Dante;—to this day,
    Here in his place of resting, far away
    From Arno’s yellow waters, rushing down
    Through the wide bridges of that fairy town,
@@ -6110,13 +6110,13 @@ RAVENNA
    A marble lily under sapphire skies!
 
    Alas! my Dante! thou hast known the pain
-   Of meaner lives, the exile’s galling chain,
+   Of meaner lives,—the exile’s galling chain,
    How steep the stairs within kings’ houses are,
    And all the petty miseries which mar
    Man’s nobler nature with the sense of wrong.
    Yet this dull world is grateful for thy song;
-   Our nations do thee homage, even she,
-   That cruel queen of vine-clad Tuscany,
+   Our nations do thee homage,—even she,
+   That cruel queen of vine clad Tuscany,
    Who bound with crown of thorns thy living brow,
    Hath decked thine empty tomb with laurels now,
    And begs in vain the ashes of her son.
@@ -6134,7 +6134,7 @@ RAVENNA
    Here lurks the snake, and here the lizards run
    By the stone lions blinking in the sun.
    Byron dwelt here in love and revelry
-   For two long years a second Anthony,
+   For two long years—a second Anthony,
    Who of the world another Actium made!
    Yet suffered not his royal soul to fade,
    Or lyre to break, or lance to grow less keen,
@@ -6150,22 +6150,22 @@ RAVENNA
    To wrest from off thy limbs the trammelling chain:
    O Salamis!  O lone Platæan plain!
    O tossing waves of wild Euboean sea!
-   O wind-swept heights of lone Thermopylæ!
-   He loved you well ay, not alone in word,
+   O wind swept heights of lone Thermopylæ!
+   He loved you well—ay, not alone in word,
    Who freely gave to thee his lyre and sword,
-   Like Æschylos at well-fought Marathon:
+   Like Æschylos at well fought Marathon:
 
       And England, too, shall glory in her son,
-   Her warrior-poet, first in song and fight.
+   Her warrior poet, first in song and fight.
    No longer now shall Slander’s venomed spite
    Crawl like a snake across his perfect name,
    Or mar the lordly scutcheon of his fame.
 
-      For as the olive-garland of the race,
+      For as the olive garland of the race,
    Which lights with joy each eager runner’s face,
    As the red cross which saveth men in war,
-   As a flame-bearded beacon seen from far
-   By mariners upon a storm-tossed sea, 
+   As a flame bearded beacon seen from far
+   By mariners upon a storm tossed sea,—
    Such was his love for Greece and Liberty!
 
       Byron, thy crowns are ever fresh and green:
@@ -6177,9 +6177,9 @@ RAVENNA
 
                                      V.
 
-      The pine-tops rocked before the evening breeze
+      The pine tops rocked before the evening breeze
    With the hoarse murmur of the wintry seas,
-   And the tall stems were streaked with amber bright; 
+   And the tall stems were streaked with amber bright;—
    I wandered through the wood in wild delight,
    Some startled bird, with fluttering wings and fleet,
    Made snow of all the blossoms; at my feet,
@@ -6192,13 +6192,13 @@ RAVENNA
    Wakes i’ the quickening veins, while once again
    The woods are filled with gods we fancied slain.
    Long time I watched, and surely hoped to see
-   Some goat-foot Pan make merry minstrelsy
-   Amid the reeds! some startled Dryad-maid
+   Some goat foot Pan make merry minstrelsy
+   Amid the reeds! some startled Dryad maid
    In girlish flight! or lurking in the glade,
    The soft brown limbs, the wanton treacherous face
    Of woodland god! Queen Dian in the chase,
-   White-limbed and terrible, with look of pride,
-   And leash of boar-hounds leaping at her side!
+   White limbed and terrible, with look of pride,
+   And leash of boar hounds leaping at her side!
    Or Hylas mirrored in the perfect stream.
 
       O idle heart!  O fond Hellenic dream!
@@ -6222,8 +6222,8 @@ RAVENNA
    Discrowned by man, deserted by the sea,
    Thou sleepest, rocked in lonely misery!
    No longer now upon thy swelling tide,
-   Pine-forest-like, thy myriad galleys ride!
-   For where the brass-beaked ships were wont to float,
+   Pine forest like, thy myriad galleys ride!
+   For where the brass beaked ships were wont to float,
    The weary shepherd pipes his mournful note;
    And the white sheep are free to come and go
    Where Adria’s purple waters used to flow.
@@ -6249,22 +6249,22 @@ RAVENNA
       But thou, Ravenna, better loved than all,
    Thy ruined palaces are but a pall
    That hides thy fallen greatness! and thy name
-   Burns like a grey and flickering candle-flame
+   Burns like a grey and flickering candle flame
    Beneath the noonday splendour of the sun
    Of new Italia! for the night is done,
    The night of dark oppression, and the day
    Hath dawned in passionate splendour: far away
    The Austrian hounds are hunted from the land,
-   Beyond those ice-crowned citadels which stand
+   Beyond those ice crowned citadels which stand
    Girdling the plain of royal Lombardy,
    From the far West unto the Eastern sea.
 
       I know, indeed, that sons of thine have died
-   In Lissa’s waters, by the mountain-side
-   Of Aspromonte, on Novara’s plain, 
+   In Lissa’s waters, by the mountain side
+   Of Aspromonte, on Novara’s plain,—
    Nor have thy children died for thee in vain:
    And yet, methinks, thou hast not drunk this wine
-   From grapes new-crushed of Liberty divine,
+   From grapes new crushed of Liberty divine,
    Thou hast not followed that immortal Star
    Which leads the people forth to deeds of war.
    Weary of life, thou liest in silent sleep,
@@ -6274,9 +6274,9 @@ RAVENNA
    Of Freedom hath not shewn to thee his face,
    And thou hast caught no flambeau in the race.
 
-      Yet wake not from thy slumbers, rest thee well,
+      Yet wake not from thy slumbers,—rest thee well,
    Amidst thy fields of amber asphodel,
-   Thy lily-sprinkled meadows, rest thee there,
+   Thy lily sprinkled meadows,—rest thee there,
    To mock all human greatness: who would dare
    To vent the paltry sorrows of his life
    Before thy ruins, or to praise the strife
@@ -6285,7 +6285,7 @@ RAVENNA
    Of the wild Lord of Adria’s stormy sea!
    The Queen of double Empires! and to thee
    Were not the nations given as thy prey!
-   And now thy gates lie open night and day,
+   And now—thy gates lie open night and day,
    The grass grows green on every tower and hall,
    The ghastly fig hath cleft thy bastioned wall;
    And where thy mailèd warriors stood at rest
@@ -6301,27 +6301,27 @@ RAVENNA
    Or why before the dawn the linnets sing?
    Thou, even thou, mayst wake, as wakes the rose
    To crimson splendour from its grave of snows;
-   As the rich corn-fields rise to red and gold
+   As the rich corn fields rise to red and gold
    From these brown lands, now stiff with Winter’s cold;
-   As from the storm-rack comes a perfect star!
+   As from the storm rack comes a perfect star!
 
-      O much-loved city!  I have wandered far
-   From the wave-circled islands of my home;
+      O much loved city!  I have wandered far
+   From the wave circled islands of my home;
    Have seen the gloomy mystery of the Dome
    Rise slowly from the drear Campagna’s way,
    Clothed in the royal purple of the day:
    I from the city of the violet crown
    Have watched the sun by Corinth’s hill go down,
    And marked the ‘myriad laughter’ of the sea
-   From starlit hills of flower-starred Arcady;
+   From starlit hills of flower starred Arcady;
    Yet back to thee returns my perfect love,
-   As to its forest-nest the evening dove.
+   As to its forest nest the evening dove.
 
       O poet’s city! one who scarce has seen
    Some twenty summers cast their doublets green
    For Autumn’s livery, would seek in vain
    To wake his lyre to sing a louder strain,
-   Or tell thy days of glory; poor indeed
+   Or tell thy days of glory;—poor indeed
    Is the low murmur of the shepherd’s reed,
    Where the loud clarion’s blast should shake the sky,
    And flame across the heavens! and to try
@@ -6341,7 +6341,7 @@ RAVENNA
    Of blood and battle from the dying sun,
    And in the west the circling clouds had spun
    A royal robe, which some great God might wear,
-   While into ocean-seas of purple air
+   While into ocean seas of purple air
    Sank the gold galley of the Lord of Light.
 
       Yet here the gentle stillness of the night
@@ -6352,7 +6352,7 @@ RAVENNA
    And soon the grass with brighter flowers will blow,
    And send up lilies for some boy to mow.
    Then before long the Summer’s conqueror,
-   Rich Autumn-time, the season’s usurer,
+   Rich Autumn time, the season’s usurer,
    Will lend his hoarded gold to all the trees,
    And see it scattered by the spendthrift breeze;
    And after that the Winter cold and drear.

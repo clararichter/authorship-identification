@@ -43,7 +43,7 @@ retrieve my fallen fortunes in a search for gold.
 I spent nearly a year prospecting in company with another Confederate
 officer, Captain James K. Powell of Richmond.  We were extremely
 fortunate, for late in the winter of 1865, after many hardships and
-privations, we located the most remarkable gold-bearing quartz vein
+privations, we located the most remarkable gold bearing quartz vein
 that our wildest dreams had ever pictured.  Powell, who was a mining
 engineer by education, stated that we had uncovered over a million
 dollars worth of ore in a trifle over three months.
@@ -58,7 +58,7 @@ make the trip.  It was agreed that I was to hold down our claim against
 the remote possibility of its being jumped by some wandering prospector.
 
 On March 3, 1866, Powell and I packed his provisions on two of our
-burros, and bidding me good-bye he mounted his horse, and started down
+burros, and bidding me good bye he mounted his horse, and started down
 the mountainside toward the valley, across which led the first stage of
 his journey.
 
@@ -243,7 +243,7 @@ endeavors at resuscitation.
 
 Leaving Powell's body where it lay on the ledge I crept into the cave
 to reconnoiter.  I found a large chamber, possibly a hundred feet in
-diameter and thirty or forty feet in height; a smooth and well-worn
+diameter and thirty or forty feet in height; a smooth and well worn
 floor, and many other evidences that the cave had, at some remote
 period, been inhabited.  The back of the cave was so lost in dense
 shadow that I could not distinguish whether there were openings into
@@ -293,7 +293,7 @@ thought of the innumerable things they might do to me if the spirit
 prompted them.
 
 I had not long to wait before a stealthy sound apprised me of their
-nearness, and then a war-bonneted, paint-streaked face was thrust
+nearness, and then a war bonneted, paint streaked face was thrust
 cautiously around the shoulder of the cliff, and savage eyes looked
 into mine.  That he could see me in the dim light of the cave I was
 sure for the early morning sun was falling full upon me through the
@@ -310,7 +310,7 @@ fact that the leaders passed back whispered word to those behind them.
 
 Suddenly a low but distinct moaning sound issued from the recesses of
 the cave behind me, and, as it reached the ears of the Indians, they
-turned and fled in terror, panic-stricken.  So frantic were their
+turned and fled in terror, panic stricken.  So frantic were their
 efforts to escape from the unseen thing behind me that one of the
 braves was hurled headlong from the cliff to the rocks below.  Their
 wild cries echoed in the canyon for a short time, and then all was
@@ -404,7 +404,7 @@ caused the sounds I heard.
 I decided to investigate, but first I lifted my head to fill my lungs
 with the pure, invigorating night air of the mountains.  As I did so I
 saw stretching far below me the beautiful vista of rocky gorge, and
-level, cacti-studded flat, wrought by the moonlight into a miracle of
+level, cacti studded flat, wrought by the moonlight into a miracle of
 soft splendor and wondrous enchantment.
 
 Few western wonders are more inspiring than the beauties of an Arizona
@@ -419,9 +419,9 @@ As I stood thus meditating, I turned my gaze from the landscape to the
 heavens where the myriad stars formed a gorgeous and fitting canopy for
 the wonders of the earthly scene.  My attention was quickly riveted by
 a large red star close to the distant horizon.  As I gazed upon it I
-felt a spell of overpowering fascination--it was Mars, the god of war,
+felt a spell of overpowering fascination it was Mars, the god of war,
 and for me, the fighting man, it had always held the power of
-irresistible enchantment.  As I gazed at it on that far-gone night it
+irresistible enchantment.  As I gazed at it on that far gone night it
 seemed to call across the unthinkable void, to lure me to it, to draw
 me as the lodestone attracts a particle of iron.
 
@@ -452,7 +452,7 @@ which I could distinguish the irregularities of low hills.
 It was midday, the sun was shining full upon me and the heat of it was
 rather intense upon my naked body, yet no greater than would have been
 true under similar conditions on an Arizona desert.  Here and there
-were slight outcroppings of quartz-bearing rock which glistened in the
+were slight outcroppings of quartz bearing rock which glistened in the
 sunlight; and a little to my left, perhaps a hundred yards, appeared a
 low, walled enclosure about four feet in height.  No water, and no
 other vegetation than the moss was in evidence, and as I was somewhat
@@ -489,7 +489,7 @@ me to see.
 The roof of the enclosure was of solid glass about four or five inches
 in thickness, and beneath this were several hundred large eggs,
 perfectly round and snowy white.  The eggs were nearly uniform in size
-being about two and one-half feet in diameter.
+being about two and one half feet in diameter.
 
 Five or six had already hatched and the grotesque caricatures which sat
 blinking in the sunlight were enough to cause me to doubt my sanity.
@@ -503,12 +503,12 @@ other, thus permitting this queer animal to look in any direction, or
 in two directions at once, without the necessity of turning the head.
 
 The ears, which were slightly above the eyes and closer together, were
-small, cup-shaped antennae, protruding not more than an inch on these
+small, cup shaped antennae, protruding not more than an inch on these
 young specimens.  Their noses were but longitudinal slits in the center
 of their faces, midway between their mouths and ears.
 
 There was no hair on their bodies, which were of a very light
-yellowish-green color.  In the adults, as I was to learn quite soon,
+yellowish green color.  In the adults, as I was to learn quite soon,
 this color deepens to an olive green and is darker in the male than in
 the female.  Further, the heads of the adults are not so out of
 proportion to their bodies as in the case of the young.
@@ -527,7 +527,7 @@ Most of these details I noted later, for I was given but little time to
 speculate on the wonders of my new discovery.  I had seen that the eggs
 were in the process of hatching, and as I stood watching the hideous
 little monsters break from their shells I failed to note the approach
-of a score of full-grown Martians from behind me.
+of a score of full grown Martians from behind me.
 
 Coming, as they did, over the soft and soundless moss, which covers
 practically the entire surface of Mars with the exception of the frozen
@@ -539,7 +539,7 @@ warned me.
 On such a little thing my life hung that I often marvel that I escaped
 so easily.  Had not the rifle of the leader of the party swung from its
 fastenings beside his saddle in such a way as to strike against the
-butt of his great metal-shod spear I should have snuffed out without
+butt of his great metal shod spear I should have snuffed out without
 ever knowing that death was near me.  But the little sound caused me to
 turn, and there upon me, not ten feet from my breast, was the point of
 that huge spear, a spear forty feet long, tipped with gleaming metal,
@@ -570,7 +570,7 @@ nailless, which fact had also contributed to the noiselessness of their
 approach, and, in common with a multiplicity of legs, is a
 characteristic feature of the fauna of Mars.  The highest type of man
 and one other animal, the only mammal existing on Mars, alone have
-well-formed nails, and there are absolutely no hoofed animals in
+well formed nails, and there are absolutely no hoofed animals in
 existence there.
 
 Behind this first charging demon trailed nineteen others, similar in
@@ -644,7 +644,7 @@ wireless finders and sighters is but a trifle over two hundred miles.
 This is quite far enough to imbue me with great respect for the Martian
 firearm, and some telepathic force must have warned me against an
 attempt to escape in broad daylight from under the muzzles of twenty of
-these death-dealing machines.
+these death dealing machines.
 
 The Martians, after conversing for a short time, turned and rode away
 in the direction from which they had come, leaving one of their number
@@ -664,8 +664,8 @@ When he was within about fifty feet of me he unclasped an enormous
 metal armlet, and holding it toward me in the open palm of his hand,
 addressed me in a clear, resonant voice, but in a language, it is
 needless to say, I could not understand.  He then stopped as though
-waiting for my reply, pricking up his antennae-like ears and cocking
-his strange-looking eyes still further toward me.
+waiting for my reply, pricking up his antennae like ears and cocking
+his strange looking eyes still further toward me.
 
 As the silence became painful I concluded to hazard a little
 conversation on my own part, as I had guessed that he was making
@@ -709,7 +709,7 @@ A PRISONER
 
 We had gone perhaps ten miles when the ground began to rise very
 rapidly.  We were, as I was later to learn, nearing the edge of one of
-Mars' long-dead seas, in the bottom of which my encounter with the
+Mars' long dead seas, in the bottom of which my encounter with the
 Martians had taken place.
 
 In a short time we gained the foot of the mountains, and after
@@ -730,7 +730,7 @@ them despite the suave manner in which I had been trapped.
 With the exception of their ornaments all were naked.  The women varied
 in appearance but little from the men, except that their tusks were
 much larger in proportion to their height, in some instances curving
-nearly to their high-set ears.  Their bodies were smaller and lighter
+nearly to their high set ears.  Their bodies were smaller and lighter
 in color, and their fingers and toes bore the rudiments of nails, which
 were entirely lacking among the males.  The adult females ranged in
 height from ten to twelve feet.
@@ -749,13 +749,13 @@ embarking upon its cold, dark waters.
 
 Only about one Martian in a thousand dies of sickness or disease, and
 possibly about twenty take the voluntary pilgrimage.  The other nine
-hundred and seventy-nine die violent deaths in duels, in hunting, in
+hundred and seventy nine die violent deaths in duels, in hunting, in
 aviation and in war; but perhaps by far the greatest death loss comes
 during the age of childhood, when vast numbers of the little Martians
 fall victims to the great white apes of Mars.
 
 The average life expectancy of a Martian after the age of maturity is
-about three hundred years, but would be nearer the one-thousand mark
+about three hundred years, but would be nearer the one thousand mark
 were it not for the various means leading to violent death.  Owing to
 the waning resources of the planet it evidently became necessary to
 counteract the increasing longevity which their remarkable skill in
@@ -787,7 +787,7 @@ On the floor of this chamber, which was dotted with highly carved
 wooden desks and chairs, were assembled about forty or fifty male
 Martians around the steps of a rostrum.  On the platform proper
 squatted an enormous warrior heavily loaded with metal ornaments,
-gay-colored feathers and beautifully wrought leather trappings
+gay colored feathers and beautifully wrought leather trappings
 ingeniously set with precious stones.  From his shoulders depended a
 short cape of white fur lined with brilliant scarlet silk.
 
@@ -800,7 +800,7 @@ chairs, nor was there room beneath the desks for their long legs.
 Evidently, then, there were other denizens on Mars than the wild and
 grotesque creatures into whose hands I had fallen, but the evidences of
 extreme antiquity which showed all around me indicated that these
-buildings might have belonged to some long-extinct and forgotten race
+buildings might have belonged to some long extinct and forgotten race
 in the dim antiquity of Mars.
 
 Our party had halted at the entrance to the building, and at a sign
@@ -816,11 +816,11 @@ At the time, this ceremony and the words they uttered meant nothing to
 me, but later I came to know that this was the customary greeting
 between green Martians.  Had the men been strangers, and therefore
 unable to exchange names, they would have silently exchanged ornaments,
-had their missions been peaceful--otherwise they would have exchanged
+had their missions been peaceful otherwise they would have exchanged
 shots, or have fought out their introduction with some other of their
 various weapons.
 
-My captor, whose name was Tars Tarkas, was virtually the vice-chieftain
+My captor, whose name was Tars Tarkas, was virtually the vice chieftain
 of the community, and a man of great ability as a statesman and
 warrior.  He evidently explained briefly the incidents connected with
 his expedition, including my capture, and when he had concluded the
@@ -880,7 +880,7 @@ he said, "sak!"  I saw what they were after, and gathering myself
 together I "sakked" with such marvelous success that I cleared a good
 hundred and fifty feet; nor did I, this time, lose my equilibrium, but
 landed squarely upon my feet without falling.  I then returned by easy
-jumps of twenty-five or thirty feet to the little group of warriors.
+jumps of twenty five or thirty feet to the little group of warriors.
 
 My exhibition had been witnessed by several hundred lesser Martians,
 and they immediately broke into demands for a repetition, which the
@@ -898,7 +898,7 @@ together we crossed the plaza toward a large building on the far side.
 
 My fair companion was about eight feet tall, having just arrived at
 maturity, but not yet to her full height.  She was of a light
-olive-green color, with a smooth, glossy hide.  Her name, as I
+olive green color, with a smooth, glossy hide.  Her name, as I
 afterward learned, was Sola, and she belonged to the retinue of Tars
 Tarkas.  She conducted me to a spacious chamber in one of the buildings
 fronting on the plaza, and which, from the litter of silks and furs
@@ -909,7 +909,7 @@ The room was well lighted by a number of large windows and was
 beautifully decorated with mural paintings and mosaics, but upon all
 there seemed to rest that indefinable touch of the finger of antiquity
 which convinced me that the architects and builders of these wondrous
-creations had nothing in common with the crude half-brutes which now
+creations had nothing in common with the crude half brutes which now
 occupied them.
 
 Sola motioned me to be seated upon a pile of silks near the center of
@@ -929,9 +929,9 @@ CHAPTER V
 I ELUDE MY WATCH DOG
 
 
-Sola stared into the brute's wicked-looking eyes, muttered a word or
+Sola stared into the brute's wicked looking eyes, muttered a word or
 two of command, pointed to me, and left the chamber.  I could not but
-wonder what this ferocious-looking monstrosity might do when left alone
+wonder what this ferocious looking monstrosity might do when left alone
 in such close proximity to such a relatively tender morsel of meat; but
 my fears were groundless, as the beast, after surveying me intently for
 a moment, crossed the room to the only exit which led to the street,
@@ -945,7 +945,7 @@ life, and never voluntarily being away from me a moment.
 While Sola was away I took occasion to examine more minutely the room
 in which I found myself captive.  The mural painting depicted scenes of
 rare and wonderful beauty; mountains, rivers, lake, ocean, meadow,
-trees and flowers, winding roadways, sun-kissed gardens--scenes which
+trees and flowers, winding roadways, sun kissed gardens scenes which
 might have portrayed earthly views but for the different colorings of
 the vegetation.  The work had evidently been wrought by a master hand,
 so subtle the atmosphere, so perfect the technique; yet nowhere was
@@ -995,14 +995,14 @@ heavens at night the surface of the ground is brightly illuminated.
 Both of Mars' moons are vastly nearer her than is our moon to Earth;
 the nearer moon being but about five thousand miles distant, while the
 further is but little more than fourteen thousand miles away, against
-the nearly one-quarter million miles which separate us from our moon.
+the nearly one quarter million miles which separate us from our moon.
 The nearer moon of Mars makes a complete revolution around the planet
-in a little over seven and one-half hours, so that she may be seen
+in a little over seven and one half hours, so that she may be seen
 hurtling through the sky like some huge meteor two or three times each
 night, revealing all her phases during each transit of the heavens.
 
 The further moon revolves about Mars in something over thirty and
-one-quarter hours, and with her sister satellite makes a nocturnal
+one quarter hours, and with her sister satellite makes a nocturnal
 Martian scene one of splendid and weird grandeur.  And it is well that
 nature has so graciously and abundantly lighted the Martian night, for
 the green men of Mars, being a nomadic race without high intellectual
@@ -1010,11 +1010,11 @@ development, have but crude means for artificial lighting; depending
 principally upon torches, a kind of candle, and a peculiar oil lamp
 which generates a gas and burns without a wick.
 
-This last device produces an intensely brilliant far-reaching white
+This last device produces an intensely brilliant far reaching white
 light, but as the natural oil which it requires can only be obtained by
 mining in one of several widely separated and remote localities it is
 seldom used by these creatures whose only thought is for today, and
-whose hatred for manual labor has kept them in a semi-barbaric state
+whose hatred for manual labor has kept them in a semi barbaric state
 for countless ages.
 
 After Sola had replenished my coverings I again slept, nor did I awaken
@@ -1067,10 +1067,10 @@ buildings overlooking the valley.
 
 Grasping the sill I pulled myself up to a sitting posture without
 looking into the building, and gazed down at the baffled animal beneath
-me.  My exultation was short-lived, however, for scarcely had I gained
+me.  My exultation was short lived, however, for scarcely had I gained
 a secure seat upon the sill than a huge hand grasped me by the neck
 from behind and dragged me violently into the room.  Here I was thrown
-upon my back, and beheld standing over me a colossal ape-like creature,
+upon my back, and beheld standing over me a colossal ape like creature,
 white and hairless except for an enormous shock of bristly hair upon
 its head.
 
@@ -1092,18 +1092,18 @@ me.
 The creatures were about ten or fifteen feet tall, standing erect, and
 had, like the green Martians, an intermediary set of arms or legs,
 midway between their upper and lower limbs.  Their eyes were close
-together and non-protruding; their ears were high set, but more
+together and non protruding; their ears were high set, but more
 laterally located than those of the Martians, while their snouts and
 teeth were strikingly like those of our African gorilla.  Altogether
 they were not unlovely when viewed in comparison with the green
 Martians.
 
 The cudgel was swinging in the arc which ended upon my upturned face
-when a bolt of myriad-legged horror hurled itself through the doorway
+when a bolt of myriad legged horror hurled itself through the doorway
 full upon the breast of my executioner.  With a shriek of fear the ape
 which held me leaped through the open window, but its mate closed in a
 terrific death struggle with my preserver, which was nothing less than
-my faithful watch-thing; I cannot bring myself to call so hideous a
+my faithful watch thing; I cannot bring myself to call so hideous a
 creature a dog.
 
 As quickly as possible I gained my feet and backing against the wall I
@@ -1118,7 +1118,7 @@ and bending back his head and neck upon his body, where I momentarily
 expected the former to fall limp at the end of a broken neck.
 
 In accomplishing this the ape was tearing away the entire front of its
-breast, which was held in the vise-like grip of the powerful jaws.
+breast, which was held in the vise like grip of the powerful jaws.
 Back and forth upon the floor they rolled, neither one emitting a sound
 of fear or pain.  Presently I saw the great eyes of my beast bulging
 completely from their sockets and blood flowing from its nostrils.
@@ -1195,7 +1195,7 @@ the building, frothing with rage.
 They had followed immediately behind him, thinking it barely possible
 that his actions might prove a clew to my whereabouts and had witnessed
 my short but decisive battle with him.  This encounter, together with
-my set-to with the Martian warrior on the previous day and my feats of
+my set to with the Martian warrior on the previous day and my feats of
 jumping placed me upon a high pinnacle in their regard.  Evidently
 devoid of all the finer sentiments of friendship, love, or affection,
 these people fairly worship physical prowess and bravery, and nothing
@@ -1225,7 +1225,7 @@ forward and struck up his arm.  The bullet striking the wooden casing
 of the window exploded, blowing a hole completely through the wood and
 masonry.
 
-I then knelt down beside the fearsome-looking thing, and raising it to
+I then knelt down beside the fearsome looking thing, and raising it to
 its feet motioned for it to follow me.  The looks of surprise which my
 actions elicited from the Martians were ludicrous; they could not
 understand, except in a feeble and childish way, such attributes as
@@ -1245,14 +1245,14 @@ Martians who rove the deserted cities and dead sea bottoms of Mars.
 
 CHAPTER VII
 
-CHILD-RAISING ON MARS
+CHILD RAISING ON MARS
 
 
 After a breakfast, which was an exact replica of the meal of the
 preceding day and an index of practically every meal which followed
 while I was with the green men of Mars, Sola escorted me to the plaza,
 where I found the entire community engaged in watching or helping at
-the harnessing of huge mastodonian animals to great three-wheeled
+the harnessing of huge mastodonian animals to great three wheeled
 chariots.  There were about two hundred and fifty of these vehicles,
 each drawn by a single animal, any one of which, from their appearance,
 might easily have drawn the entire wagon train when fully loaded.
@@ -1277,10 +1277,10 @@ As the cavalcade took up the line of march in single file, Sola dragged
 me into an empty chariot and we proceeded with the procession toward
 the point by which I had entered the city the day before.  At the head
 of the caravan rode some two hundred warriors, five abreast, and a like
-number brought up the rear, while twenty-five or thirty outriders
+number brought up the rear, while twenty five or thirty outriders
 flanked us on either side.
 
-Every one but myself--men, women, and children--were heavily armed, and
+Every one but myself men, women, and children were heavily armed, and
 at the tail of each chariot trotted a Martian hound, my own beast
 following closely behind ours; in fact, the faithful creature never
 left me voluntarily during the entire ten years I spent on Mars.  Our
@@ -1382,7 +1382,7 @@ examined by a council of twenty chieftains, and all but about one
 hundred of the most perfect are destroyed out of each yearly supply.
 At the end of five years about five hundred almost perfect eggs have
 been chosen from the thousands brought forth.  These are then placed in
-the almost air-tight incubators to be hatched by the sun's rays after a
+the almost air tight incubators to be hatched by the sun's rays after a
 period of another five years.  The hatching which we had witnessed
 today was a fairly representative event of its kind, all but about one
 per cent of the eggs hatching in two days.  If the remaining eggs ever
@@ -1400,10 +1400,10 @@ alien incubator.
 
 The community of which the green Martians with whom my lot was cast
 formed a part was composed of some thirty thousand souls.  They roamed
-an enormous tract of arid and semi-arid land between forty and eighty
+an enormous tract of arid and semi arid land between forty and eighty
 degrees south latitude, and bounded on the east and west by two large
 fertile tracts.  Their headquarters lay in the southwest corner of this
-district, near the crossing of two of the so-called Martian canals.
+district, near the crossing of two of the so called Martian canals.
 
 As the incubator had been placed far north of their own territory in a
 supposedly uninhabited and unfrequented area, we had before us a
@@ -1467,7 +1467,7 @@ the same one in which I had had my encounter with the apes, and,
 wishing to see what had caused the sudden retreat, I mounted to an
 upper floor and peered from the window out over the valley and the
 hills beyond; and there I saw the cause of their sudden scurrying to
-cover.  A huge craft, long, low, and gray-painted, swung slowly over
+cover.  A huge craft, long, low, and gray painted, swung slowly over
 the crest of the nearest hill.  Following it came another, and another,
 and another, until twenty of them, swinging low above the ground,
 sailed slowly and majestically toward us.
@@ -1490,7 +1490,7 @@ then turning back with the evident intention of completing a great
 circle which would bring her up to position once more opposite our
 firing line; the other vessels followed in her wake, each one opening
 upon us as she swung into position.  Our own fire never diminished, and
-I doubt if twenty-five per cent of our shots went wild.  It had never
+I doubt if twenty five per cent of our shots went wild.  It had never
 been given me to see such deadly accuracy of aim, and it seemed as
 though a little figure on one of the craft dropped at the explosion of
 each bullet, while the banners and upper works dissolved in spurts of
@@ -1590,7 +1590,7 @@ Slowly she drifted to the southeast, rising higher and higher as the
 flames ate away her wooden parts and diminished the weight upon her.
 Ascending to the roof of the building I watched her for hours, until
 finally she was lost in the dim vistas of the distance.  The sight was
-awe-inspiring in the extreme as one contemplated this mighty floating
+awe inspiring in the extreme as one contemplated this mighty floating
 funeral pyre, drifting unguided and unmanned through the lonely wastes
 of the Martian heavens; a derelict of death and destruction, typifying
 the life story of these strange and ferocious creatures into whose
@@ -1794,7 +1794,7 @@ I did not even know that there were any better conditions to escape to,
 but I was more than willing to take my chances among people fashioned
 after my own mold rather than to remain longer among the hideous and
 bloodthirsty green men of Mars.  But where to go, and how, was as much
-of a puzzle to me as the age-old search for the spring of eternal life
+of a puzzle to me as the age old search for the spring of eternal life
 has been to earthly men since the beginning of time.
 
 I decided that at the first opportunity I would take Sola into my
@@ -1871,7 +1871,7 @@ headforemost into a pot of frijoles.
 
 My laughter frightened Woola, his antics ceased and he crawled
 pitifully toward me, poking his ugly head far into my lap; and then I
-remembered what laughter signified on Mars--torture, suffering, death.
+remembered what laughter signified on Mars torture, suffering, death.
 Quieting myself, I rubbed the poor old fellow's head and back, talked
 to him for a few minutes, and then in an authoritative tone commanded
 him to follow me, and arising started for the hills.
@@ -1961,7 +1961,7 @@ me.
 "It was a purely scientific research party sent out by my father's
 father, the Jeddak of Helium, to rechart the air currents, and to take
 atmospheric density tests," replied the fair prisoner, in a low,
-well-modulated voice.
+well modulated voice.
 
 "We were unprepared for battle," she continued, "as we were on a
 peaceful mission, as our banners and the colors of our craft denoted.
@@ -1997,7 +1997,7 @@ mighty era for Mars.
 I saw Tars Tarkas rise to speak, and on his face was such an expression
 as I had never seen upon the countenance of a green Martian warrior.
 It bespoke an inward and mighty battle with self, with heredity, with
-age-old custom, and as he opened his mouth to speak, a look almost of
+age old custom, and as he opened his mouth to speak, a look almost of
 benignity, of kindliness, momentarily lighted up his fierce and
 terrible countenance.
 
@@ -2013,7 +2013,7 @@ For an instant I thought Tars Tarkas would strike him dead, nor did the
 aspect of Lorquas Ptomel augur any too favorably for the brute, but the
 mood passed, their old selves reasserted their ascendency, and they
 smiled.  It was portentous however that they did not laugh aloud, for
-the brute's act constituted a side-splitting witticism according to the
+the brute's act constituted a side splitting witticism according to the
 ethics which rule green Martian humor.
 
 That I have taken moments to write down a part of what occurred as that
@@ -2028,12 +2028,12 @@ The brute was twelve feet in height and armed to the teeth, but I
 believe that I could have accounted for the whole roomful in the
 terrific intensity of my rage.  Springing upward, I struck him full in
 the face as he turned at my warning cry and then as he drew his
-short-sword I drew mine and sprang up again upon his breast, hooking
+short sword I drew mine and sprang up again upon his breast, hooking
 one leg over the butt of his pistol and grasping one of his huge tusks
 with my left hand while I delivered blow after blow upon his enormous
 chest.
 
-He could not use his short-sword to advantage because I was too close
+He could not use his short sword to advantage because I was too close
 to him, nor could he draw his pistol, which he attempted to do in
 direct opposition to Martian custom which says that you may not fight a
 fellow warrior in private combat with any other than the weapon with
@@ -2113,7 +2113,7 @@ chieftains whose metal you now wear?"
 "I presume that that one whom I had failed to kill, would have killed
 me," I answered, smiling.
 
-"No, you are wrong.  Only in the last extremity of self-defense would a
+"No, you are wrong.  Only in the last extremity of self defense would a
 Martian warrior kill a prisoner; we like to save them for other
 purposes," and his face bespoke possibilities that were not pleasant to
 dwell upon.
@@ -2121,7 +2121,7 @@ dwell upon.
 "But one thing can save you now," he continued.  "Should you, in
 recognition of your remarkable valor, ferocity, and prowess, be
 considered by Tal Hajus as worthy of his service you may be taken into
-the community and become a full-fledged Tharkian.  Until we reach the
+the community and become a full fledged Tharkian.  Until we reach the
 headquarters of Tal Hajus it is the will of Lorquas Ptomel that you be
 accorded the respect your acts have earned you.  You will be treated by
 us as a Tharkian chieftain, but you must not forget that every chief
@@ -2149,7 +2149,7 @@ I wrong, for my harangue evidently deeply impressed them, and their
 attitude toward me thereafter was still further respectful.
 
 Tars Tarkas himself seemed pleased with my reply, but his only comment
-was more or less enigmatical--"And I think I know Tal Hajus, Jeddak of
+was more or less enigmatical "And I think I know Tal Hajus, Jeddak of
 Thark."
 
 I now turned my attention to Dejah Thoris, and assisting her to her
@@ -2202,7 +2202,7 @@ you in prowess."
 
 "You would be first, John Carter; but you may only win that honor by
 the will of the entire council that Lorquas Ptomel meet you in combat,
-or should he attack you, you may kill him in self-defense, and thus win
+or should he attack you, you may kill him in self defense, and thus win
 first place."
 
 I laughed, and changed the subject.  I had no particular desire to kill
@@ -2220,7 +2220,7 @@ myself, and of a much lighter color than Dejah Thoris.  They were clad
 in graceful, flowing robes, highly ornamented with metal and jewels,
 and their luxuriant hair was of a beautiful golden and reddish bronze.
 The men were beardless and only a few wore arms.  The scenes depicted
-for the most part, a fair-skinned, fair-haired people at play.
+for the most part, a fair skinned, fair haired people at play.
 
 Dejah Thoris clasped her hands with an exclamation of rapture as she
 gazed upon these magnificent works of art, wrought by a people long
@@ -2249,8 +2249,8 @@ fathom is your statement that you are not of Barsoom."
 "In the name of my first ancestor, then," she continued, "where may you
 be from?  You are like unto my people, and yet so unlike.  You speak my
 language, and yet I heard you tell Tars Tarkas that you had but learned
-it recently.  All Barsoomians speak the same tongue from the ice-clad
-south to the ice-clad north, though their written languages differ.
+it recently.  All Barsoomians speak the same tongue from the ice clad
+south to the ice clad north, though their written languages differ.
 Only in the valley Dor, where the river Iss empties into the lost sea
 of Korus, is there supposed to be a different language spoken, and,
 except in the legends of our ancestors, there is no record of a
@@ -2274,7 +2274,7 @@ general belief that I had returned from the Barsoomian heaven or hell,
 or whatever it was.  Why was it, then!  Why should I care what she
 thought?  I looked down at her; her beautiful face upturned, and her
 wonderful eyes opening up the very depth of her soul; and as my eyes
-met hers I knew why, and--I shuddered.
+met hers I knew why, and I shuddered.
 
 A similar wave of feeling seemed to stir her; she drew away from me
 with a sigh, and with her earnest, beautiful face turned up to mine,
@@ -2283,7 +2283,7 @@ she whispered: "I believe you, John Carter; I do not know what a
 Barsoom no man lies; if he does not wish to speak the truth he is
 silent.  Where is this Virginia, your country, John Carter?" she asked,
 and it seemed that this fair name of my fair land had never sounded
-more beautiful than as it fell from those perfect lips on that far-gone
+more beautiful than as it fell from those perfect lips on that far gone
 day.
 
 "I am of another world," I answered, "the great planet Earth, which
@@ -2301,7 +2301,7 @@ behest.
 
 Finally she smiled, and, rising, said: "I shall have to believe even
 though I cannot understand.  I can readily perceive that you are not of
-the Barsoom of today; you are like us, yet different--but why should I
+the Barsoom of today; you are like us, yet different but why should I
 trouble my poor head with such a problem, when my heart tells me that I
 believe because I wish to believe!"
 
@@ -2347,7 +2347,7 @@ while you, when found by the Tharkian warriors, were entirely
 undisfigured and unadorned.
 
 "The fact that you wore no ornaments is a strong proof of your
-un-Barsoomian origin, while the absence of grotesque coverings might
+un Barsoomian origin, while the absence of grotesque coverings might
 cause a doubt as to your earthliness."
 
 I then narrated the details of my departure from the Earth, explaining
@@ -2384,7 +2384,7 @@ of red men, of which Dejah Thoris was a fair and beautiful daughter.
 During the ages of hardships and incessant warring between their own
 various races, as well as with the green men, and before they had
 fitted themselves to the changed conditions, much of the high
-civilization and many of the arts of the fair-haired Martians had
+civilization and many of the arts of the fair haired Martians had
 become lost; but the red race of today has reached a point where it
 feels that it has made up in new discoveries and in a more practical
 civilization for all that lies irretrievably buried with the ancient
@@ -2409,7 +2409,7 @@ The shores of the ancient seas were dotted with just such cities, and
 lesser ones, in diminishing numbers, were to be found converging toward
 the center of the oceans, as the people had found it necessary to
 follow the receding waters until necessity had forced upon them their
-ultimate salvation, the so-called Martian canals.
+ultimate salvation, the so called Martian canals.
 
 We had been so engrossed in exploration of the building and in our
 conversation that it was late in the afternoon before we realized it.
@@ -2457,7 +2457,7 @@ greatest of the lesser communities among the green men; we do not wish
 to fight between ourselves; and so if you were dead, John Carter, I
 should be glad.  Under two conditions only, however, may you be killed
 by us without orders from Tal Hajus; in personal combat in
-self-defense, should you attack one of us, or were you apprehended in
+self defense, should you attack one of us, or were you apprehended in
 an attempt to escape.
 
 "As a matter of justice I must warn you that we only await one of these
@@ -2556,18 +2556,18 @@ four contiguous streets, and which was now given over to the quartering
 of the various animals belonging to the warriors occupying the
 adjoining buildings.
 
-While the court was entirely overgrown with the yellow, moss-like
+While the court was entirely overgrown with the yellow, moss like
 vegetation which blankets practically the entire surface of Mars, yet
-numerous fountains, statuary, benches, and pergola-like contraptions
+numerous fountains, statuary, benches, and pergola like contraptions
 bore witness to the beauty which the court must have presented in
-bygone times, when graced by the fair-haired, laughing people whom
+bygone times, when graced by the fair haired, laughing people whom
 stern and unalterable cosmic laws had driven not only from their homes,
 but from all except the vague legends of their descendants.
 
 One could easily picture the gorgeous foliage of the luxuriant Martian
 vegetation which once filled this scene with life and color; the
 graceful figures of the beautiful women, the straight and handsome men;
-the happy frolicking children--all sunlight, happiness and peace.  It
+the happy frolicking children all sunlight, happiness and peace.  It
 was difficult to realize that they had gone; down through ages of
 darkness, cruelty, and ignorance, until their hereditary instincts of
 culture and humanitarianism had risen ascendant once more in the final
@@ -2630,7 +2630,7 @@ I care to.
 
 CHAPTER XIII
 
-LOVE-MAKING ON MARS
+LOVE MAKING ON MARS
 
 
 Following the battle with the air ships, the community remained within
@@ -2684,7 +2684,7 @@ on Mars.
 "How have you bewitched them?" asked Tars Tarkas one afternoon, when he
 had seen me run my arm far between the great jaws of one of my thoats
 which had wedged a piece of stone between two of his teeth while
-feeding upon the moss-like vegetation within our court yard.
+feeding upon the moss like vegetation within our court yard.
 
 "By kindness," I replied.  "You see, Tars Tarkas, the softer sentiments
 have their value, even to a warrior.  In the height of battle as well
@@ -2735,7 +2735,7 @@ desired to be alone with Dejah Thoris, who represented to me all that I
 had left behind upon Earth in agreeable and congenial companionship.
 There seemed bonds of mutual interest between us as powerful as though
 we had been born under the same roof rather than upon different
-planets, hurtling through space some forty-eight million miles apart.
+planets, hurtling through space some forty eight million miles apart.
 
 That she shared my sentiments in this respect I was positive, for on my
 approach the look of pitiful hopelessness left her sweet countenance to
@@ -2769,7 +2769,7 @@ diffused, strikes this powder it explodes with a violence which nothing
 can withstand.  If you ever witness a night battle you will note the
 absence of these explosions, while the morning following the battle
 will be filled at sunrise with the sharp detonations of exploding
-missiles fired the preceding night.  As a rule, however, non-exploding
+missiles fired the preceding night.  As a rule, however, non exploding
 projectiles are used at night."  [I have used the word radium in
 describing this powder because in the light of recent discoveries on
 Earth I believe it to be a mixture of which radium is the base.  In
@@ -2843,7 +2843,7 @@ enlighten me.
 "No," she exclaimed, "it is enough that you have said it and that I
 have listened.  And when you learn, John Carter, and if I be dead, as
 likely I shall be ere the further moon has circled Barsoom another
-twelve times, remember that I listened and that I--smiled."
+twelve times, remember that I listened and that I smiled."
 
 It was all Greek to me, but the more I begged her to explain the more
 positive became her denials of my request, and, so, in very
@@ -2908,7 +2908,7 @@ thoughtful tone, "lovers."
 
 "Yes."
 
-"And a--lover?"
+"And a lover?"
 
 She was silent, nor could I venture to repeat the question.
 
@@ -2916,7 +2916,7 @@ She was silent, nor could I venture to repeat the question.
 questions of women, except his mother, and the woman he has fought for
 and won."
 
-"But I have fought--" I started, and then I wished my tongue had been
+"But I have fought " I started, and then I wished my tongue had been
 cut from my mouth; for she turned even as I caught myself and ceased,
 and drawing my silks from her shoulder she held them out to me, and
 without a word, and with head held high, she moved with the carriage of
@@ -2924,13 +2924,13 @@ the queen she was toward the plaza and the doorway of her quarters.
 
 I did not attempt to follow her, other than to see that she reached the
 building in safety, but, directing Woola to accompany her, I turned
-disconsolately and entered my own house.  I sat for hours cross-legged,
-and cross-tempered, upon my silks meditating upon the queer freaks
+disconsolately and entered my own house.  I sat for hours cross legged,
+and cross tempered, upon my silks meditating upon the queer freaks
 chance plays upon us poor devils of mortals.
 
 So this was love!  I had escaped it for all the years I had roamed the
 five continents and their encircling seas; in spite of beautiful women
-and urging opportunity; in spite of a half-desire for love and a
+and urging opportunity; in spite of a half desire for love and a
 constant search for my ideal, it had remained for me to fall furiously
 and hopelessly in love with a creature from another world, of a species
 similar possibly, yet not identical with mine.  A woman who was hatched
@@ -2947,9 +2947,9 @@ love is known.
 To me, Dejah Thoris was all that was perfect; all that was virtuous and
 beautiful and noble and good.  I believed that from the bottom of my
 heart, from the depth of my soul on that night in Korad as I sat
-cross-legged upon my silks while the nearer moon of Barsoom raced
+cross legged upon my silks while the nearer moon of Barsoom raced
 through the western sky toward the horizon, and lighted up the gold and
-marble, and jeweled mosaics of my world-old chamber, and I believe it
+marble, and jeweled mosaics of my world old chamber, and I believe it
 today as I sit at my desk in the little study overlooking the Hudson.
 Twenty years have intervened; for ten of them I lived and fought for
 Dejah Thoris and her people, and for ten I have lived upon her memory.
@@ -3032,7 +3032,7 @@ palpably that one might almost have cut it with a sword.
 
 A few moments later I saw her deep in conversation with a warrior named
 Zad; a big, hulking, powerful brute, but one who had never made a kill
-among his own chieftains, and so was still an  o mad , or man with
+among his own chieftains, and so was still an _o mad_, or man with
 one name; he could win a second name only with the metal of some
 chieftain.  It was this custom which entitled me to the names of either
 of the chieftains I had killed; in fact, some of the warriors addressed
@@ -3080,7 +3080,7 @@ thought quite new to me.  I began to wonder what my people at home were
 doing.  I had not seen them for years.  There was a family of Carters
 in Virginia who claimed close relationship with me; I was supposed to
 be a great uncle, or something of the kind equally foolish.  I could
-pass anywhere for twenty-five to thirty years of age, and to be a great
+pass anywhere for twenty five to thirty years of age, and to be a great
 uncle always seemed the height of incongruity, for my thoughts and
 feelings were those of a boy.  There were two little kiddies in the
 Carter family whom I had loved and who had thought there was no one on
@@ -3094,7 +3094,7 @@ had been thrown amongst.  For did not even Dejah Thoris despise me!  I
 was a low creature, so low in fact that I was not even fit to polish
 the teeth of her grandmother's cat; and then my saving sense of humor
 came to my rescue, and laughing I turned into my silks and furs and
-slept upon the moon-haunted ground the sleep of a tired and healthy
+slept upon the moon haunted ground the sleep of a tired and healthy
 fighting man.
 
 We broke camp the next day at an early hour and marched with only a
@@ -3118,7 +3118,7 @@ battle leaping to his fierce face.
 
 The work at the incubator was short indeed.  The warriors tore open the
 entrance and a couple of them, crawling in, soon demolished all the
-eggs with their short-swords.  Then remounting we dashed back to join
+eggs with their short swords.  Then remounting we dashed back to join
 the cavalcade.  During the ride I took occasion to ask Tars Tarkas if
 these Warhoons whose eggs we had destroyed were a smaller people than
 his Tharks.
@@ -3127,13 +3127,13 @@ his Tharks.
 hatching in your incubator," I added.
 
 He explained that the eggs had just been placed there; but, like all
-green Martian eggs, they would grow during the five-year period of
+green Martian eggs, they would grow during the five year period of
 incubation until they obtained the size of those I had seen hatching on
 the day of my arrival on Barsoom.  This was indeed an interesting piece
 of information, for it had always seemed remarkable to me that the
 green Martian women, large as they were, could bring forth such
-enormous eggs as I had seen the four-foot infants emerging from.  As a
-matter of fact, the new-laid egg is but little larger than an ordinary
+enormous eggs as I had seen the four foot infants emerging from.  As a
+matter of fact, the new laid egg is but little larger than an ordinary
 goose egg, and as it does not commence to grow until subjected to the
 light of the sun the chieftains have little difficulty in transporting
 several hundreds of them at one time from the storage vaults to the
@@ -3144,19 +3144,19 @@ animals, and it was during this halt that the second of the day's
 interesting episodes occurred.  I was engaged in changing my riding
 cloths from one of my thoats to the other, for I divided the day's work
 between them, when Zad approached me, and without a word struck my
-animal a terrific blow with his long-sword.
+animal a terrific blow with his long sword.
 
 I did not need a manual of green Martian etiquette to know what reply
 to make, for, in fact, I was so wild with anger that I could scarcely
 refrain from drawing my pistol and shooting him down for the brute he
-was; but he stood waiting with drawn long-sword, and my only choice was
+was; but he stood waiting with drawn long sword, and my only choice was
 to draw my own and meet him in fair fight with his choice of weapons or
 a lesser one.
 
 This latter alternative is always permissible, therefore I could have
-used my short-sword, my dagger, my hatchet, or my fists had I wished,
+used my short sword, my dagger, my hatchet, or my fists had I wished,
 and been entirely within my rights, but I could not use firearms or a
-spear while he held only his long-sword.
+spear while he held only his long sword.
 
 I chose the same weapon he had drawn because I knew he prided himself
 upon his ability with it, and I wished, if I worsted him at all, to do
@@ -3166,7 +3166,7 @@ surrounded us, leaving a clear space about one hundred feet in diameter
 for our battle.
 
 Zad first attempted to rush me down as a bull might a wolf, but I was
-much too quick for him, and each time I side-stepped his rushes he
+much too quick for him, and each time I side stepped his rushes he
 would go lunging past me, only to receive a nick from my sword upon his
 arm or back.  He was soon streaming blood from a half dozen minor
 wounds, but I could not obtain an opening to deliver an effective
@@ -3178,7 +3178,7 @@ the lesser gravitation of Mars lent me I might not have been able to
 put up the creditable fight I did against him.
 
 We circled for some time without doing much damage on either side; the
-long, straight, needle-like swords flashing in the sunlight, and
+long, straight, needle like swords flashing in the sunlight, and
 ringing out upon the stillness as they crashed together with each
 effective parry.  Finally Zad, realizing that he was tiring more than
 I, evidently decided to close in and end the battle in a final blaze of
@@ -3290,7 +3290,7 @@ killed her; the other was Sarkoja, when they dragged her from me today."
 mother, child."
 
 "But I did.  And my father also," she added.  "If you would like to
-hear the strange and un-Barsoomian story come to the chariot tonight,
+hear the strange and un Barsoomian story come to the chariot tonight,
 John Carter, and I will tell you that of which I have never spoken in
 all my life before.  And now the signal has been given to resume the
 march, you must go."
@@ -3304,7 +3304,7 @@ Sola mounted the chariot, which was swinging into its place in line,
 and I hastened to my waiting thoat and galloped to my station beside
 Tars Tarkas at the rear of the column.
 
-We made a most imposing and awe-inspiring spectacle as we strung out
+We made a most imposing and awe inspiring spectacle as we strung out
 across the yellow landscape; the two hundred and fifty ornate and
 brightly colored chariots, preceded by an advance guard of some two
 hundred mounted warriors and chieftains riding five abreast and one
@@ -3320,7 +3320,7 @@ feathers, lent a barbaric splendor to the caravan which would have
 turned an East Indian potentate green with envy.
 
 The enormous broad tires of the chariots and the padded feet of the
-animals brought forth no sound from the moss-covered sea bottom; and so
+animals brought forth no sound from the moss covered sea bottom; and so
 we moved in utter silence, like some huge phantasmagoria, except when
 the stillness was broken by the guttural growling of a goaded zitidar,
 or the squealing of fighting thoats.  The green Martians converse but
@@ -3346,7 +3346,7 @@ live almost indefinitely upon the moss which covers Barsoom, and which,
 he told me, holds in its tiny stems sufficient moisture to meet the
 limited demands of the animals.
 
-After partaking of my evening meal of cheese-like food and vegetable
+After partaking of my evening meal of cheese like food and vegetable
 milk I sought out Sola, whom I found working by the light of a torch
 upon some of Tars Tarkas' trappings.  She looked up at my approach, her
 face lighting with pleasure and with welcome.
@@ -3407,7 +3407,7 @@ become known.
 short years, but his advance was rapid, and he soon stood high in the
 councils of Thark.  But one day the chance was lost forever, in so far
 as it could come in time to save his loved ones, for he was ordered
-away upon a long expedition to the ice-clad south, to make war upon the
+away upon a long expedition to the ice clad south, to make war upon the
 natives there and despoil them of their furs, for such is the manner of
 the green Barsoomian; he does not labor for what he can wrest in battle
 from others.
@@ -3509,7 +3509,7 @@ when he shall win the goal of his ambition, and feel the carcass of Tal
 Hajus beneath his foot, for I am as sure that he but waits the
 opportunity to wreak a terrible vengeance, and that his great love is
 as strong in his breast as when it first transfigured him nearly forty
-years ago, as I am that we sit here upon the edge of a world-old ocean
+years ago, as I am that we sit here upon the edge of a world old ocean
 while sensible people sleep, John Carter."
 
 "And your father, Sola, is he with us now?" I asked.
@@ -3546,7 +3546,7 @@ WE PLAN ESCAPE
 The remainder of our journey to Thark was uneventful.  We were twenty
 days upon the road, crossing two sea bottoms and passing through or
 around a number of ruined cities, mostly smaller than Korad.  Twice we
-crossed the famous Martian waterways, or canals, so-called by our
+crossed the famous Martian waterways, or canals, so called by our
 earthly astronomers.  When we approached these points a warrior would
 be sent far ahead with a powerful field glass, and if no great body of
 red Martian troops was in sight we would advance as close as possible
@@ -3556,7 +3556,7 @@ numerous, broad highways which cross these areas at regular intervals,
 creep silently and stealthily across to the arid lands upon the other
 side.  It required five hours to make one of these crossings without a
 single halt, and the other consumed the entire night, so that we were
-just leaving the confines of the high-walled fields when the sun broke
+just leaving the confines of the high walled fields when the sun broke
 out upon us.
 
 Crossing in the darkness, as we did, I was unable to see but little,
@@ -3590,9 +3590,9 @@ fighting man who can face a thousand real dangers unafraid, sits hiding
 in the shadows like some frightened child.
 
 Just thirty days after my advent upon Barsoom we entered the ancient
-city of Thark, from whose long-forgotten people this horde of green men
+city of Thark, from whose long forgotten people this horde of green men
 have stolen even their name.  The hordes of Thark number some thirty
-thousand souls, and are divided into twenty-five communities.  Each
+thousand souls, and are divided into twenty five communities.  Each
 community has its own jed and lesser chieftains, but all are under the
 rule of Tal Hajus, Jeddak of Thark.  Five communities make their
 headquarters at the city of Thark, and the balance are scattered among
@@ -3637,7 +3637,7 @@ speech with Dejah Thoris and trying to impress on her the necessity of
 our at least patching up a truce until I could find some way of aiding
 her to escape.  I searched in vain until the upper rim of the great red
 sun was just disappearing behind the horizon and then I spied the ugly
-head of Woola peering from a second-story window on the opposite side
+head of Woola peering from a second story window on the opposite side
 of the very street where I was quartered, but nearer the plaza.
 
 Without waiting for a further invitation I bolted up the winding runway
@@ -3835,7 +3835,7 @@ warriors, who, in passing, dropped a dozen words that fetched my heart
 clean into the top of my head.
 
 "He would likely have arranged to meet them just without the city, and
-so--"  I heard no more, they had passed on; but it was enough.  Our
+so "  I heard no more, they had passed on; but it was enough.  Our
 plan had been discovered, and the chances for escape from now on to the
 fearful end would be small indeed.  My one hope now was to return
 undetected to the quarters of Dejah Thoris and learn what fate had
@@ -3851,13 +3851,13 @@ difficulty in negotiating some of the doorways, but as the buildings
 fronting the city's principal exposures were all designed upon a
 magnificent scale, they were able to wriggle through without sticking
 fast; and thus we finally made the inner court where I found, as I had
-expected, the usual carpet of moss-like vegetation which would provide
+expected, the usual carpet of moss like vegetation which would provide
 their food and drink until I could return them to their own enclosure.
 That they would be as quiet and contented here as elsewhere I was
 confident, nor was there but the remotest possibility that they would
 be discovered, as the green men had no great desire to enter these
 outlying buildings, which were frequented by the only thing, I believe,
-which caused them the sensation of fear--the great white apes of
+which caused them the sensation of fear the great white apes of
 Barsoom.
 
 Removing the saddle trappings, I hid them just within the rear doorway
@@ -3878,7 +3878,7 @@ safer method of reaching the upper story where Dejah Thoris should be
 found, and, after first determining as nearly as possible which of the
 buildings she occupied, for I had never observed them before from the
 court side, I took advantage of my relatively great strength and
-agility and sprang upward until I grasped the sill of a second-story
+agility and sprang upward until I grasped the sill of a second story
 window which I thought to be in the rear of her apartment.  Drawing
 myself inside the room I moved stealthily toward the front of the
 building, and not until I had quite reached the doorway of her room was
@@ -3935,7 +3935,7 @@ noiselessly to the corridor beyond I discovered a light in the
 apartments ahead of me.  Reaching what appeared to be a doorway I
 discovered that it was but an opening upon an immense inner chamber
 which towered from the first floor, two stories below me, to the
-dome-like roof of the building, high above my head.  The floor of this
+dome like roof of the building, high above my head.  The floor of this
 great circular hall was thronged with chieftains, warriors and women,
 and at one end was a great raised platform upon which squatted the most
 hideous beast I had ever put my eyes upon.  He had all the cold, hard,
@@ -3967,7 +3967,7 @@ the Tharks.
 
 One chieftain alone had hesitated before departing; I saw him standing
 in the shadows of a mighty column, his fingers nervously toying with
-the hilt of his great-sword and his cruel eyes bent in implacable
+the hilt of his great sword and his cruel eyes bent in implacable
 hatred upon Tal Hajus.  It was Tars Tarkas, and I could read his
 thoughts as they were an open book for the undisguised loathing upon
 his face.  He was thinking of that other woman who, forty years ago,
@@ -3999,7 +3999,7 @@ commence; tonight thou art Tal Hajus'; come!"
 
 He sprang down from the platform and grasped her roughly by the arm,
 but scarcely had he touched her than I leaped between them.  My
-short-sword, sharp and gleaming was in my right hand; I could have
+short sword, sharp and gleaming was in my right hand; I could have
 plunged it into his putrid heart before he realized that I was upon
 him; but as I raised my arm to strike I thought of Tars Tarkas, and,
 with all my rage, with all my hatred, I could not rob him of that sweet
@@ -4056,7 +4056,7 @@ fagged, and so we lay down upon the moss and slept for some five or six
 hours, taking up the journey once more before daylight.  All the
 following day we rode, and when, late in the afternoon we had sighted
 no distant trees, the mark of the great waterways throughout all
-Barsoom, the terrible truth flashed upon us--we were lost.
+Barsoom, the terrible truth flashed upon us we were lost.
 
 Evidently we had circled, but which way it was difficult to say, nor
 did it seem possible with the sun to guide us by day and the moons and
@@ -4119,7 +4119,7 @@ chieftain brings up the extreme rear of the column.  As his glass swung
 toward us our hearts stopped in our breasts, and I could feel the cold
 sweat start from every pore in my body.
 
-Presently it swung full upon us and--stopped.  The tension on our
+Presently it swung full upon us and stopped.  The tension on our
 nerves was near the breaking point, and I doubt if any of us breathed
 for the few moments he held us covered by his glass; and then he
 lowered it and we could see him shout a command to the warriors who had
@@ -4144,7 +4144,7 @@ escape for themselves from the horrid death which recapture would
 surely mean, I lifted Dejah Thoris in my arms and placed her upon the
 thoat behind Sola, who had already mounted at my command.
 
-"Good-bye, my princess," I whispered, "we may meet in Helium yet.  I
+"Good bye, my princess," I whispered, "we may meet in Helium yet.  I
 have escaped from worse plights than this," and I tried to smile as I
 lied.
 
@@ -4175,7 +4175,7 @@ rifle, and another hundred in the belt at my back, and I kept up a
 continuous stream of fire until I saw all of the warriors who had been
 first to return from behind the ridge either dead or scurrying to cover.
 
-My respite was short-lived however, for soon the entire party,
+My respite was short lived however, for soon the entire party,
 numbering some thousand men, came charging into view, racing madly
 toward me.  I fired until my rifle was empty and they were almost upon
 me, and then a glance showing me that Dejah Thoris and Sola had
@@ -4190,7 +4190,7 @@ endeavoring to capture me.
 
 They raced wildly after me until, finally, my foot struck a projecting
 piece of quartz, and down I went sprawling upon the moss.  As I looked
-up they were upon me, and although I drew my long-sword in an attempt
+up they were upon me, and although I drew my long sword in an attempt
 to sell my life as dearly as possible, it was soon over.  I reeled
 beneath their blows which fell upon me in perfect torrents; my head
 swam; all was black, and I went down beneath them to oblivion.
@@ -4268,7 +4268,7 @@ the young ruler, with emphasis and dignity.
 "If at all?" roared Dak Kova.  "By the dead hands at my throat but he
 shall die, Bar Comas.  No maudlin weakness on your part shall save him.
 O, would that Warhoon were ruled by a real jeddak rather than by a
-water-hearted weakling from whom even old Dak Kova could tear the metal
+water hearted weakling from whom even old Dak Kova could tear the metal
 with his bare hands!"
 
 Bar Comas eyed the defiant and insubordinate chieftain for an instant,
@@ -4408,7 +4408,7 @@ one ever used by them when marching to the south.
 waterway and are now probably quite safe," he assured me.
 
 My fellow prisoner was Kantos Kan, a padwar (lieutenant) in the navy of
-Helium.  He had been a member of the ill-fated expedition which had
+Helium.  He had been a member of the ill fated expedition which had
 fallen into the hands of the Tharks at the time of Dejah Thoris'
 capture, and he briefly related the events which followed the defeat of
 the battleships.
@@ -4434,7 +4434,7 @@ the avenging fleets, but no trace of Dejah Thoris had been found.  They
 had been searching among the northern hordes, and only within the past
 few days had they extended their quest to the south.
 
-Kantos Kan had been detailed to one of the small one-man fliers and had
+Kantos Kan had been detailed to one of the small one man fliers and had
 had the misfortune to be discovered by the Warhoons while exploring
 their city.  The bravery and daring of the man won my greatest respect
 and admiration.  Alone he had landed at the city's boundary and on foot
@@ -4498,7 +4498,7 @@ Next a mad zitidar was loosed among the remaining dogs, and so it went
 throughout the long, hot, horrible day.
 
 During the day I was pitted against first men and then beasts, but as I
-was armed with a long-sword and always outclassed my adversary in
+was armed with a long sword and always outclassed my adversary in
 agility and generally in strength as well, it proved but child's play
 to me.  Time and time again I won the applause of the bloodthirsty
 multitude, and toward the end there were cries that I be taken from the
@@ -4565,16 +4565,16 @@ Through two long weeks I wandered, stumbling through the nights guided
 only by the stars and hiding during the days behind some protruding
 rock or among the occasional hills I traversed.  Several times I was
 attacked by wild beasts; strange, uncouth monstrosities that leaped
-upon me in the dark, so that I had ever to grasp my long-sword in my
+upon me in the dark, so that I had ever to grasp my long sword in my
 hand that I might be ready for them.  Usually my strange, newly
 acquired telepathic power warned me in ample time, but once I was down
 with vicious fangs at my jugular and a hairy face pressed close to mine
 before I knew that I was even threatened.
 
 What manner of thing was upon me I did not know, but that it was large
-and heavy and many-legged I could feel.  My hands were at its throat
+and heavy and many legged I could feel.  My hands were at its throat
 before the fangs had a chance to bury themselves in my neck, and slowly
-I forced the hairy face from me and closed my fingers, vise-like, upon
+I forced the hairy face from me and closed my fingers, vise like, upon
 its windpipe.
 
 Without sound we lay there, the beast exerting every effort to reach me
@@ -4647,7 +4647,7 @@ A second and third door receded before me and slipped to one side as
 the first, before I reached a large inner chamber where I found food
 and drink set out upon a great stone table.  A voice directed me to
 satisfy my hunger and to feed my calot, and while I was thus engaged my
-invisible host put me through a severe and searching cross-examination.
+invisible host put me through a severe and searching cross examination.
 
 "Your statements are most remarkable," said the voice, on concluding
 its questioning, "but you are evidently speaking the truth, and it is
@@ -4691,7 +4691,7 @@ stone in my host's diadem.
 
 This ray is separated from the other rays of the sun by means of finely
 adjusted instruments placed upon the roof of the huge building,
-three-quarters of which is used for reservoirs in which the ninth ray
+three quarters of which is used for reservoirs in which the ninth ray
 is stored.  This product is then treated electrically, or rather
 certain proportions of refined electric vibrations are incorporated
 with it, and the result is then pumped to the five principal air
@@ -4707,9 +4707,9 @@ He led me to an inner chamber where I beheld a battery of twenty radium
 pumps any one of which was equal to the task of furnishing all Mars
 with the atmosphere compound.  For eight hundred years, he told me, he
 had watched these pumps which are used alternately a day each at a
-stretch, or a little over twenty-four and one-half Earth hours.  He has
+stretch, or a little over twenty four and one half Earth hours.  He has
 one assistant who divides the watch with him.  Half a Martian year,
-about three hundred and forty-four of our days, each of these men spend
+about three hundred and forty four of our days, each of these men spend
 alone in this huge, isolated plant.
 
 Every red Martian is taught during earliest childhood the principles of
@@ -4727,7 +4727,7 @@ uninterrupted working of this plant.
 One curious fact I discovered as I watched his thoughts was that the
 outer doors are manipulated by telepathic means.  The locks are so
 finely adjusted that the doors are released by the action of a certain
-combination of thought waves.  To experiment with my new-found toy I
+combination of thought waves.  To experiment with my new found toy I
 thought to surprise him into revealing this combination and so I asked
 him in a casual manner how he had managed to unlock the massive doors
 for me from the inner chambers of the building.  As quick as a flash
@@ -4746,11 +4746,11 @@ which he said, was the nearest Martian city.
 "But be sure that you do not let them know you are bound for Helium as
 they are at war with that country.  My assistant and I are of no
 country, we belong to all Barsoom and this talisman which we wear
-protects us in all lands, even among the green men--though we do not
+protects us in all lands, even among the green men though we do not
 trust ourselves to their hands if we can avoid it," he added.
 
-"And so good-night, my friend," he continued, "may you have a long and
-restful sleep--yes, a long sleep."
+"And so good night, my friend," he continued, "may you have a long and
+restful sleep yes, a long sleep."
 
 And though he smiled pleasantly I saw in his thoughts the wish that he
 had never admitted me, and then a picture of him standing over me in
@@ -4765,7 +4765,7 @@ What was I to do?  How could I escape through these mighty walls?
 Easily could I kill him now that I was warned, but once he was dead I
 could no more escape, and with the stopping of the machinery of the
 great plant I should die with all the other inhabitants of the
-planet--all, even Dejah Thoris were she not already dead.  For the
+planet all, even Dejah Thoris were she not already dead.  For the
 others I did not give the snap of my finger, but the thought of Dejah
 Thoris drove from my mind all desire to kill my mistaken host.
 
@@ -4791,7 +4791,7 @@ which would take about thirty minutes, and then return to my bed
 chamber and finish me.
 
 As he passed through the great hall and disappeared down the runway
-which led to the pump-room, I stole stealthily from my hiding place and
+which led to the pump room, I stole stealthily from my hiding place and
 crossed to the great door, the inner of the three which stood between
 me and liberty.
 
@@ -4829,7 +4829,7 @@ only a short distance away.
 
 The buildings I had been hammering at in the early morning were
 occupied only by stock and farm produce, the house proper standing
-among a grove of enormous trees, and, like all red-Martian homes, had
+among a grove of enormous trees, and, like all red Martian homes, had
 been raised at night some forty or fifty feet from the ground on a
 large round metal shaft which slid up or down within a sleeve sunk in
 the ground, and was operated by a tiny radium engine in the entrance
@@ -4842,14 +4842,14 @@ These brothers, with their wives and children, occupied three similar
 houses on this farm.  They did no work themselves, being government
 officers in charge.  The labor was performed by convicts, prisoners of
 war, delinquent debtors and confirmed bachelors who were too poor to
-pay the high celibate tax which all red-Martian governments impose.
+pay the high celibate tax which all red Martian governments impose.
 
 They were the personification of cordiality and hospitality and I spent
 several days with them, resting and recuperating from my long and
 arduous experiences.
 
-When they had heard my story--I omitted all reference to Dejah Thoris
-and the old man of the atmosphere plant--they advised me to color my
+When they had heard my story I omitted all reference to Dejah Thoris
+and the old man of the atmosphere plant they advised me to color my
 body to more nearly resemble their own race and then attempt to find
 employment in Zodanga, either in the army or the navy.
 
@@ -4868,7 +4868,7 @@ The brothers had supplied me with a reddish oil with which I anointed
 my entire body and one of them cut my hair, which had grown quite long,
 in the prevailing fashion of the time, square at the back and banged in
 front, so that I could have passed anywhere upon Barsoom as a
-full-fledged red Martian.  My metal and ornaments were also renewed in
+full fledged red Martian.  My metal and ornaments were also renewed in
 the style of a Zodangan gentleman, attached to the house of Ptor, which
 was the family name of my benefactors.
 
@@ -4918,7 +4918,7 @@ are no droughts, no rains, no high winds, and no insects, or destroying
 birds.
 
 On this trip I tasted the first meat I had eaten since leaving
-Earth--large, juicy steaks and chops from the well-fed domestic animals
+Earth large, juicy steaks and chops from the well fed domestic animals
 of the farms.  Also I enjoyed luscious fruits and vegetables, but not a
 single article of food which was exactly similar to anything on Earth.
 Every plant and flower and vegetable and animal has been so refined by
@@ -4937,7 +4937,7 @@ and of all her treasures the wondrous daughter of Mors Kajak, Dejah
 Thoris, is the most exquisite flower.
 
 "Why," he added, "the people really worship the ground she walks upon
-and since her loss on that ill-starred expedition all Helium has been
+and since her loss on that ill starred expedition all Helium has been
 draped in mourning.
 
 "That our ruler should have attacked the disabled fleet as it was
@@ -5004,7 +5004,7 @@ metal columns, resembled huge rookeries, while the uprights themselves
 presented the appearance of steel tree trunks.  The shops as a rule
 were not raised from the ground nor were their doors bolted or barred,
 since thievery is practically unknown upon Barsoom.  Assassination is
-the ever-present fear of all Barsoomians, and for this reason alone
+the ever present fear of all Barsoomians, and for this reason alone
 their homes are raised high above the ground at night, or in times of
 danger.
 
@@ -5029,7 +5029,7 @@ hand upon his shoulder, calling out:
 "Kaor, Kantos Kan!"
 
 Like lightning he wheeled and before I could so much as lower my hand
-the point of his long-sword was at my breast.
+the point of his long sword was at my breast.
 
 "Who are you?" he growled, and then as a backward leap carried me fifty
 feet from his sword he dropped the point to the ground and exclaimed,
@@ -5076,7 +5076,7 @@ delicious upon the tables before the guests, in response to the
 touching of tiny buttons to indicate their desires.
 
 After our meal, Kantos Kan took me with him to the headquarters of the
-air-scout squadron and introducing me to his superior asked that I be
+air scout squadron and introducing me to his superior asked that I be
 enrolled as a member of the corps.  In accordance with custom an
 examination was necessary, but Kantos Kan had told me to have no fear
 on this score as he would attend to that part of the matter.  He
@@ -5091,7 +5091,7 @@ time."
 
 The next few days were spent by Kantos Kan in teaching me the
 intricacies of flying and of repairing the dainty little contrivances
-which the Martians use for this purpose.  The body of the one-man air
+which the Martians use for this purpose.  The body of the one man air
 craft is about sixteen feet long, two feet wide and three inches thick,
 tapering to a point at each end.  The driver sits on top of this plane
 upon a seat constructed over the small, noiseless radium engine which
@@ -5152,7 +5152,7 @@ damage when surprised by the green warriors.
 
 They were now almost upon him; their flying mounts charging down on the
 relatively puny figure at terrific speed, while the warriors leaned low
-to the right, with their great metal-shod spears.  Each seemed striving
+to the right, with their great metal shod spears.  Each seemed striving
 to be the first to impale the poor Zodangan and in another moment his
 fate would have been sealed had it not been for my timely arrival.
 
@@ -5180,7 +5180,7 @@ unmanageable and absolutely refused to advance further toward the air
 craft which had frightened them.
 
 The warriors finally dismounted and hobbling their animals advanced
-toward us on foot with drawn long-swords.
+toward us on foot with drawn long swords.
 
 I advanced to meet the larger, telling the Zodangan to do the best he
 could with the other.  Finishing my man with almost no effort, as had
@@ -5188,7 +5188,7 @@ now from much practice become habitual with me, I hastened to return to
 my new acquaintance whom I found indeed in desperate straits.
 
 He was wounded and down with the huge foot of his antagonist upon his
-throat and the great long-sword raised to deal the final thrust.  With
+throat and the great long sword raised to deal the final thrust.  With
 a bound I cleared the fifty feet intervening between us, and with
 outstretched point drove my sword completely through the body of the
 green warrior.  His sword fell, harmless, to the ground and he sank
@@ -5206,7 +5206,7 @@ returned to Zodanga.
 As we neared the city we discovered a mighty concourse of civilians and
 troops assembled upon the plain before the city.  The sky was black
 with naval vessels and private and public pleasure craft, flying long
-streamers of gay-colored silks, and banners and flags of odd and
+streamers of gay colored silks, and banners and flags of odd and
 picturesque design.
 
 My companion signaled that I slow down, and running his machine close
@@ -5215,7 +5215,7 @@ he said, was for the purpose of conferring honors on individual
 officers and men for bravery and other distinguished service.  He then
 unfurled a little ensign which denoted that his craft bore a member of
 the royal family of Zodanga, and together we made our way through the
-maze of low-lying air vessels until we hung directly over the jeddak of
+maze of low lying air vessels until we hung directly over the jeddak of
 Zodanga and his staff.  All were mounted upon the small domestic bull
 thoats of the red Martians, and their trappings and ornamentation bore
 such a quantity of gorgeously colored feathers that I could not but be
@@ -5260,7 +5260,7 @@ will be quartered in my palace hereafter."
 
 I thanked him, and at his direction joined the members of his staff.
 After the ceremony I returned my machine to its quarters on the roof of
-the barracks of the air-scout squadron, and with an orderly from the
+the barracks of the air scout squadron, and with an orderly from the
 palace to guide me I reported to the officer in charge of the palace.
 
 
@@ -5271,7 +5271,7 @@ CHAPTER XXII
 I FIND DEJAH
 
 
-The major-domo to whom I reported had been given instructions to
+The major domo to whom I reported had been given instructions to
 station me near the person of the jeddak, who, in time of war, is
 always in great danger of assassination, as the rule that all is fair
 in war seems to constitute the entire ethics of Martian conflict.
@@ -5284,7 +5284,7 @@ my entrance.
 The walls of the apartment were completely hung with splendid
 tapestries which hid any windows or doors which may have pierced them.
 The room was lighted by imprisoned rays of sunshine held between the
-ceiling proper and what appeared to be a ground-glass false ceiling a
+ceiling proper and what appeared to be a ground glass false ceiling a
 few inches below.
 
 My guide drew aside one of the tapestries, disclosing a passage which
@@ -5292,7 +5292,7 @@ encircled the room, between the hangings and the walls of the chamber.
 Within this passage I was to remain, he said, so long as Than Kosis was
 in the apartment.  When he left I was to follow.  My only duty was to
 guard the ruler and keep out of sight as much as possible.  I would be
-relieved after a period of four hours.  The major-domo then left me.
+relieved after a period of four hours.  The major domo then left me.
 
 The tapestries were of a strange weaving which gave the appearance of
 heavy solidity from one side, but from my hiding place I could perceive
@@ -5389,7 +5389,7 @@ stepped before me, saying,
 password.  You must give me one or the other before you may pass."
 
 "The only order I require, my friend, to enter where I will, hangs at
-my side," I answered, tapping my long-sword; "will you let me pass in
+my side," I answered, tapping my long sword; "will you let me pass in
 peace or no?"
 
 For reply he whipped out his own sword, calling to the others to join
@@ -5433,7 +5433,7 @@ my misery?"
 "I am a friend," I answered, "a once cherished friend."
 
 "No friend of Helium's princess wears that metal," she replied, "and
-yet the voice!  I have heard it before; it is not--it cannot be--no,
+yet the voice!  I have heard it before; it is not it cannot be no,
 for he is dead."
 
 "It is, though, my Princess, none other than John Carter," I said.  "Do
@@ -5445,7 +5445,7 @@ but as I reached to take her in my arms she drew back with a shudder
 and a little moan of misery.
 
 "Too late, too late," she grieved.  "O my chieftain that was, and whom
-I thought dead, had you but returned one little hour before--but now it
+I thought dead, had you but returned one little hour before but now it
 is too late, too late."
 
 "What do you mean, Dejah Thoris?" I cried.  "That you would not have
@@ -5504,14 +5504,14 @@ you shall be."
 "No, John Carter, it is useless," she cried, hopelessly, "I may never
 be yours while Sab Than lives."
 
-"You have sealed his death warrant, my princess--Sab Than dies."
+"You have sealed his death warrant, my princess Sab Than dies."
 
 "Nor that either," she hastened to explain.  "I may not wed the man who
-slays my husband, even in self-defense.  It is custom.  We are ruled by
+slays my husband, even in self defense.  It is custom.  We are ruled by
 custom upon Barsoom.  It is useless, my friend.  You must bear the
 sorrow with me.  That at least we may share in common.  That, and the
 memory of the brief days among the Tharks.  You must go now, nor ever
-see me again.  Good-bye, my chieftain that was."
+see me again.  Good bye, my chieftain that was."
 
 Disheartened and dejected, I withdrew from the room, but I was not
 entirely discouraged, nor would I admit that Dejah Thoris was lost to
@@ -5543,7 +5543,7 @@ crying that they had found their four comrades butchered in the
 antechamber.
 
 In a moment the entire palace was alive with people.  Guardsmen,
-officers, courtiers, servants, and slaves ran helter-skelter through
+officers, courtiers, servants, and slaves ran helter skelter through
 the corridors and apartments carrying messages and orders, and
 searching for signs of the assassin.
 
@@ -5567,7 +5567,7 @@ the court below and the avenue beyond were crowded with Zodangans.
 Accordingly I searched for a hiding place and finally found one by
 accident, inside a huge hanging ornament which swung from the ceiling
 of the hall, and about ten feet from the floor.  Into the capacious
-bowl-like vase I sprang with ease, and scarcely had I settled down
+bowl like vase I sprang with ease, and scarcely had I settled down
 within it than I heard a number of people enter the apartment.  The
 group stopped beneath my hiding place and I could plainly overhear
 their every word.
@@ -5622,7 +5622,7 @@ Zodanga, of whose name, even, we were ignorant before today.  And his
 name too, John Carter, who ever heard of such a name upon Barsoom!"
 
 Word was soon brought that I was nowhere to be found, either in the
-palace or at my former quarters in the barracks of the air-scout
+palace or at my former quarters in the barracks of the air scout
 squadron.  Kantos Kan, they had found and questioned, but he knew
 nothing of my whereabouts, and as to my past, he had told them he knew
 as little, since he had but recently met me during our captivity among
@@ -5741,7 +5741,7 @@ it is?"
 
 Without stopping to explain my plans I retraced my way to the street
 and hastened to the barracks.  I did not dare to enter the building,
-filled as it was with members of the air-scout squadron, who, in common
+filled as it was with members of the air scout squadron, who, in common
 with all Zodanga, were on the lookout for me.
 
 The building was an enormous one, rearing its lofty head fully a
@@ -5766,7 +5766,7 @@ pastimes of their kind; I could not, therefore, reach the roof through
 the building.
 
 There was one slight, desperate chance, and that I decided I must
-take--it was for Dejah Thoris, and no man has lived who would not risk
+take it was for Dejah Thoris, and no man has lived who would not risk
 a thousand deaths for such as she.
 
 Clinging to the wall with my feet and one hand, I unloosened one of the
@@ -5838,12 +5838,12 @@ piercing searchlight full upon my craft, and a voice roared out a
 command to halt, following with a shot as I paid no attention to his
 hail.  Kantos Kan dropped quickly into the darkness, while I rose
 steadily and at terrific speed raced through the Martian sky followed
-by a dozen of the air-scout craft which had joined the pursuit, and
+by a dozen of the air scout craft which had joined the pursuit, and
 later by a swift cruiser carrying a hundred men and a battery of
-rapid-fire guns.  By twisting and turning my little machine, now rising
-and now falling, I managed to elude their search-lights most of the
+rapid fire guns.  By twisting and turning my little machine, now rising
+and now falling, I managed to elude their search lights most of the
 time, but I was also losing ground by these tactics, and so I decided
-to hazard everything on a straight-away course and leave the result to
+to hazard everything on a straight away course and leave the result to
 fate and the speed of my machine.
 
 Kantos Kan had shown me a trick of gearing, which is known only to the
@@ -5855,7 +5855,7 @@ As I sped through the air the screeching of the bullets around me
 convinced me that only by a miracle could I escape, but the die was
 cast, and throwing on full speed I raced a straight course toward
 Helium.  Gradually I left my pursuers further and further behind, and I
-was just congratulating myself on my lucky escape, when a well-directed
+was just congratulating myself on my lucky escape, when a well directed
 shot from the cruiser exploded at the prow of my little craft.  The
 concussion nearly capsized her, and with a sickening plunge she hurtled
 downward through the dark night.
@@ -5881,14 +5881,14 @@ and five hours.  As it turned out, however, morning found me speeding
 over a vast expanse of dead sea bottom after nearly six hours of
 continuous flight at high speed.  Presently a great city showed below
 me, but it was not Helium, as that alone of all Barsoomian metropolises
-consists in two immense circular walled cities about seventy-five miles
+consists in two immense circular walled cities about seventy five miles
 apart and would have been easily distinguishable from the altitude at
 which I was flying.
 
 Believing that I had come too far to the north and west, I turned back
 in a southeasterly direction, passing during the forenoon several other
 large cities, but none resembling the description which Kantos Kan had
-given me of Helium.  In addition to the twin-city formation of Helium,
+given me of Helium.  In addition to the twin city formation of Helium,
 another distinguishing feature is the two immense towers, one of vivid
 scarlet rising nearly a mile into the air from the center of one of the
 cities, while the other, of bright yellow and of the same height, marks
@@ -5912,13 +5912,13 @@ wreck, sinking erratically to the ground.
 I fell almost directly in the center of the fierce combat, among
 warriors who had not seen my approach so busily were they engaged in
 life and death struggles.  The men were fighting on foot with
-long-swords, while an occasional shot from a sharpshooter on the
+long swords, while an occasional shot from a sharpshooter on the
 outskirts of the conflict would bring down a warrior who might for an
 instant separate himself from the entangled mass.
 
 As my machine sank among them I realized that it was fight or die, with
 good chances of dying in any event, and so I struck the ground with
-drawn long-sword ready to defend myself as I could.
+drawn long sword ready to defend myself as I could.
 
 I fell beside a huge monster who was engaged with three antagonists,
 and as I glanced at his fierce face, filled with the light of battle, I
@@ -5958,7 +5958,7 @@ As I sat awaiting the return of the green warrior I heard something
 move in an adjoining apartment, and as I glanced up there rushed
 suddenly upon me a huge and hideous creature which bore me backward
 upon the pile of silks and furs upon which I had been reclining.  It
-was Woola--faithful, loving Woola.  He had found his way back to Thark
+was Woola faithful, loving Woola.  He had found his way back to Thark
 and, as Tars Tarkas later told me, had gone immediately to my former
 quarters where he had taken up his pathetic and seemingly hopeless
 watch for my return.
@@ -6027,7 +6027,7 @@ vile gaze."
 ignoring Tal Hajus, "I have been a chief among you, and today I have
 fought for Thark shoulder to shoulder with her greatest warrior.  You
 owe me, at least, a hearing.  I have won that much today.  You claim to
-be a just people--"
+be a just people "
 
 "Silence," roared Tal Hajus.  "Gag the creature and bind him as I
 command."
@@ -6047,7 +6047,7 @@ blow of my fist.  Is it of such that the Tharks fashion their jeddaks?
 There stands beside me now a great Thark, a mighty warrior and a noble
 man.  Chieftains, how sounds, Tars Tarkas, Jeddak of Thark?"
 
-A roar of deep-toned applause greeted this suggestion.
+A roar of deep toned applause greeted this suggestion.
 
 "It but remains for this council to command, and Tal Hajus must prove
 his fitness to rule.  Were he a brave man he would invite Tars Tarkas
@@ -6071,12 +6071,12 @@ There were twenty chieftains about the rostrum, and twenty swords
 flashed high in assent.
 
 There was no alternative.  That decree was final, and so Tal Hajus drew
-his long-sword and advanced to meet Tars Tarkas.
+his long sword and advanced to meet Tars Tarkas.
 
 The combat was soon over, and, with his foot upon the neck of the dead
 monster, Tars Tarkas became jeddak among the Tharks.
 
-His first act was to make me a full-fledged chieftain with the rank I
+His first act was to make me a full fledged chieftain with the rank I
 had won by my combats the first few weeks of my captivity among them.
 
 Seeing the favorable disposition of the warriors toward Tars Tarkas, as
@@ -6141,7 +6141,7 @@ have no regular guard, but are covered by sentries, who patrol the
 avenue that encircles the city just within the walls as our
 metropolitan police patrol their beats.
 
-The walls of Zodanga are seventy-five feet in height and fifty feet
+The walls of Zodanga are seventy five feet in height and fifty feet
 thick.  They are built of enormous blocks of carborundum, and the task
 of entering the city seemed, to my escort of green warriors, an
 impossibility.  The fellows who had been detailed to accompany me were
@@ -6245,19 +6245,19 @@ Thoris would be joined forever to the Prince of Zodanga.  It was an
 impressive and beautiful ceremony, I presume, but to me it seemed the
 most fiendish sight I had ever witnessed, and as the ornaments were
 adjusted upon her beautiful figure and her collar of gold swung open in
-the hands of Than Kosis I raised my long-sword above my head, and, with
+the hands of Than Kosis I raised my long sword above my head, and, with
 the heavy hilt, I shattered the glass of the great window and sprang
 into the midst of the astonished assemblage.  With a bound I was on the
 steps of the platform beside Than Kosis, and as he stood riveted with
-surprise I brought my long-sword down upon the golden chain that would
+surprise I brought my long sword down upon the golden chain that would
 have bound Dejah Thoris to another.
 
 In an instant all was confusion; a thousand drawn swords menaced me
 from every quarter, and Sab Than sprang upon me with a jeweled dagger
 he had drawn from his nuptial ornaments.  I could have killed him as
-easily as I might a fly, but the age-old custom of Barsoom stayed my
+easily as I might a fly, but the age old custom of Barsoom stayed my
 hand, and grasping his wrist as the dagger flew toward my heart I held
-him as though in a vise and with my long-sword pointed to the far end
+him as though in a vise and with my long sword pointed to the far end
 of the hall.
 
 "Zodanga has fallen," I cried.  "Look!"
@@ -6272,7 +6272,7 @@ themselves upon the advancing Tharks.
 
 Thrusting Sab Than headlong from the platform, I drew Dejah Thoris to
 my side.  Behind the throne was a narrow doorway and in this Than Kosis
-now stood facing me, with drawn long-sword.  In an instant we were
+now stood facing me, with drawn long sword.  In an instant we were
 engaged, and I found no mean antagonist.
 
 As we circled upon the broad platform I saw Sab Than rushing up the
@@ -6306,7 +6306,7 @@ he laid a dozen corpses at his feet, and so he hewed a pathway before
 him until in another moment he stood upon the platform beside me,
 dealing death and destruction right and left.
 
-The bravery of the Zodangans was awe-inspiring, not one attempted to
+The bravery of the Zodangans was awe inspiring, not one attempted to
 escape, and when the fighting ceased it was because only Tharks
 remained alive in the great hall, other than Dejah Thoris and myself.
 
@@ -6363,7 +6363,7 @@ A pretty flush overspread her face and she answered,
 "And more still I have to say, ere it is again too late," I returned.
 "I have done many strange things in my life, many things that wiser men
 would not have dared, but never in my wildest fancies have I dreamed of
-winning a Dejah Thoris for myself--for never had I dreamed that in all
+winning a Dejah Thoris for myself for never had I dreamed that in all
 the universe dwelt such a woman as the Princess of Helium.  That you
 are a princess does not abash me, but that you are you is enough to
 make me doubt my sanity as I ask you, my princess, to be mine."
@@ -6418,7 +6418,7 @@ The banners of Helium had been strung from stem to stern of each of our
 mighty craft, but the Zodangans did not need this sign to realize that
 we were enemies, for our green Martian warriors had opened fire upon
 them almost as they left the ground.  With their uncanny marksmanship
-they raked the on-coming fleet with volley after volley.
+they raked the on coming fleet with volley after volley.
 
 The twin cities of Helium, perceiving that we were friends, sent out
 hundreds of vessels to aid us, and then began the first real air battle
@@ -6427,7 +6427,7 @@ I had ever witnessed.
 The vessels carrying our green warriors were kept circling above the
 contending fleets of Helium and Zodanga, since their batteries were
 useless in the hands of the Tharks who, having no navy, have no skill
-in naval gunnery.  Their small-arm fire, however, was most effective,
+in naval gunnery.  Their small arm fire, however, was most effective,
 and the final outcome of the engagement was strongly influenced, if not
 wholly determined, by their presence.
 
@@ -6459,7 +6459,7 @@ the battle was over, and the remaining vessels of the conquered
 Zodangans were headed toward the cities of Helium under prize crews.
 
 There was an extremely pathetic side to the surrender of these mighty
-fliers, the result of an age-old custom which demanded that surrender
+fliers, the result of an age old custom which demanded that surrender
 should be signalized by the voluntary plunging to earth of the
 commander of the vanquished vessel.  One after another the brave
 fellows, holding their colors high above their heads, leaped from the
@@ -6540,21 +6540,21 @@ north, the south and the east.
 
 About a mile from the main camp we encountered their outposts and, as
 had been prearranged, accepted this as the signal to charge.  With
-wild, ferocious cries and amidst the nasty squealing of battle-enraged
+wild, ferocious cries and amidst the nasty squealing of battle enraged
 thoats we bore down upon the Zodangans.
 
-We did not catch them napping, but found a well-entrenched battle line
+We did not catch them napping, but found a well entrenched battle line
 confronting us.  Time after time we were repulsed until, toward noon, I
 began to fear for the result of the battle.
 
 The Zodangans numbered nearly a million fighting men, gathered from
-pole to pole, wherever stretched their ribbon-like waterways, while
+pole to pole, wherever stretched their ribbon like waterways, while
 pitted against them were less than a hundred thousand green warriors.
 The forces from Helium had not arrived, nor could we receive any word
 from them.
 
 Just at noon we heard heavy firing all along the line between the
-Zodangans and the cities, and we knew then that our much-needed
+Zodangans and the cities, and we knew then that our much needed
 reinforcements had come.
 
 Again Tars Tarkas ordered the charge, and once more the mighty thoats
@@ -6662,7 +6662,7 @@ never to tire of heaping honors upon me, and no day passed that did not
 bring some new proof of their love for my princess, the incomparable
 Dejah Thoris.
 
-In a golden incubator upon the roof of our palace lay a snow-white egg.
+In a golden incubator upon the roof of our palace lay a snow white egg.
 For nearly five years ten soldiers of the jeddak's Guard had constantly
 stood over it, and not a day passed when I was in the city that Dejah
 Thoris and I did not stand hand in hand before our little shrine
@@ -6673,7 +6673,7 @@ talking in low tones of the strange romance which had woven our lives
 together and of this wonder which was coming to augment our happiness
 and fulfill our hopes.
 
-In the distance we saw the bright-white light of an approaching
+In the distance we saw the bright white light of an approaching
 airship, but we attached no special significance to so common a sight.
 Like a bolt of lightning it raced toward Helium until its very speed
 bespoke the unusual.
@@ -6686,7 +6686,7 @@ Ten minutes after it touched at the palace a message called me to the
 council chamber, which I found filling with the members of that body.
 
 On the raised platform of the throne was Tardos Mors, pacing back and
-forth with tense-drawn face.  When all were in their seats he turned
+forth with tense drawn face.  When all were in their seats he turned
 toward us.
 
 "This morning," he said, "word reached the several governments of
@@ -6705,7 +6705,7 @@ months to penetrate those mighty walls, in fact the work has already
 commenced, and there would be little to fear were the engine of the
 pumping plant to run as it should and as they all have for hundreds of
 years; but the worst, we fear, has happened.  The instruments show
-a rapidly decreasing air pressure on all parts of Barsoom--the engine
+a rapidly decreasing air pressure on all parts of Barsoom the engine
 has stopped."
 
 "My gentlemen," he concluded, "we have at best three days to live."
@@ -6782,7 +6782,7 @@ for love of you, will find it."
 
 And with my words there crept above the threshold of my conscious mind
 a series of nine long forgotten sounds.  Like a flash of lightning in
-the darkness their full purport dawned upon me--the key to the three
+the darkness their full purport dawned upon me the key to the three
 great doors of the atmosphere plant!
 
 Turning suddenly toward Tardos Mors as I still clasped my dying love to
@@ -6793,7 +6793,7 @@ I can save Barsoom yet."
 
 He did not wait to question, but in an instant a guard was racing to
 the nearest dock and though the air was thin and almost gone at the
-rooftop they managed to launch the fastest one-man, air-scout machine
+rooftop they managed to launch the fastest one man, air scout machine
 that the skill of Barsoom had ever produced.
 
 Kissing Dejah Thoris a dozen times and commanding Woola, who would have
@@ -6823,7 +6823,7 @@ before the small door which was withholding the spark of life from the
 inhabitants of an entire planet.
 
 Beside the door a great crew of men had been laboring to pierce the
-wall, but they had scarcely scratched the flint-like surface, and now
+wall, but they had scarcely scratched the flint like surface, and now
 most of them lay in the last sleep from which not even air would awaken
 them.
 
@@ -6900,8 +6900,8 @@ ran before the entrance of the cave filled me with consternation.
 
 A new heaven and a new landscape met my gaze.  The silvered mountains
 in the distance, the almost stationary moon hanging in the sky, the
-cacti-studded valley below me were not of Mars.  I could scarce
-believe my eyes, but the truth slowly forced itself upon me--I was
+cacti studded valley below me were not of Mars.  I could scarce
+believe my eyes, but the truth slowly forced itself upon me I was
 looking upon Arizona from the same ledge from which ten years before I
 had gazed with longing upon Mars.
 
@@ -6909,7 +6909,7 @@ Burying my head in my arms I turned, broken, and sorrowful, down the
 trail from the cave.
 
 Above me shone the red eye of Mars holding her awful secret,
-forty-eight million miles away.
+forty eight million miles away.
 
 Did the Martian reach the pump room?  Did the vitalizing air reach the
 people of that distant planet in time to save them?  Was my Dejah
@@ -6931,7 +6931,7 @@ twenty years have elapsed since I first opened my eyes upon Mars.
 I can see her shining in the sky through the little window by my desk,
 and tonight she seems calling to me again as she has not called before
 since that long dead night, and I think I can see, across that awful
-abyss of space, a beautiful black-haired woman standing in the garden
+abyss of space, a beautiful black haired woman standing in the garden
 of a palace, and at her side is a little boy who puts his arm around
 her as she points into the sky toward the planet Earth, while at their
 feet is a huge and hideous creature with a heart of gold.

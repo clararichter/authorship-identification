@@ -2,14 +2,14 @@ In the third week of November, in the year 1895, a dense yellow fog
 settled down upon London.  From the Monday to the Thursday I doubt
 whether it was ever possible from our windows in Baker Street to see
 the loom of the opposite houses.  The first day Holmes had spent in
-cross-indexing his huge book of references. The second and third had
+cross indexing his huge book of references. The second and third had
 been patiently occupied upon a subject which he had recently made his
-hobby--the music of the Middle Ages.  But when, for the fourth time,
+hobby the music of the Middle Ages.  But when, for the fourth time,
 after pushing back our chairs from breakfast we saw the greasy, heavy
 brown swirl still drifting past us and condensing in oily drops upon
-the window-panes, my comrade's impatient and active nature could endure
+the window panes, my comrade's impatient and active nature could endure
 this drab existence no longer.  He paced restlessly about our
-sitting-room in a fever of suppressed energy, biting his nails, tapping
+sitting room in a fever of suppressed energy, biting his nails, tapping
 the furniture, and chafing against inaction.
 
 "Nothing of interest in the paper, Watson?" he said.
@@ -24,7 +24,7 @@ groaned and resumed his restless meanderings.
 "The London criminal is certainly a dull fellow," said he in the
 querulous voice of the sportsman whose game has failed him. "Look out
 this window, Watson.  See how the figures loom up, are dimly seen, and
-then blend once more into the cloud-bank.  The thief or the murderer
+then blend once more into the cloud bank.  The thief or the murderer
 could roam London on such a day as the tiger does the jungle, unseen
 until he pounces, and then evident only to his victim."
 
@@ -41,7 +41,7 @@ criminal."
 "Suppose that I were Brooks or Woodhouse, or any of the fifty men who
 have good reason for taking my life, how long could I survive against
 my own pursuit?  A summons, a bogus appointment, and all would be over.
-It is well they don't have days of fog in the Latin countries--the
+It is well they don't have days of fog in the Latin countries the
 countries of assassination.  By Jove! here comes something at last to
 break our dead monotony."
 
@@ -52,9 +52,9 @@ laughing.
 
 "Why not?" I asked.
 
-"Why not?  It is as if you met a tram-car coming down a country lane.
+"Why not?  It is as if you met a tram car coming down a country lane.
 Mycroft has his rails and he runs on them.  His Pall Mall lodgings, the
-Diogenes Club, Whitehall--that is his cycle.  Once, and only once, he
+Diogenes Club, Whitehall that is his cycle.  Once, and only once, he
 has been here.  What upheaval can possibly have derailed him?"
 
 "Does he not explain?"
@@ -105,13 +105,13 @@ suppose that a minister needs information as to a point which involves
 the Navy, India, Canada and the bimetallic question; he could get his
 separate advices from various departments upon each, but only Mycroft
 can focus them all, and say offhand how each factor would affect the
-other.  They began by using him as a short-cut, a convenience; now he
+other.  They began by using him as a short cut, a convenience; now he
 has made himself an essential.  In that great brain of his everything
-is pigeon-holed and can be handed out in an instant.  Again and again
+is pigeon holed and can be handed out in an instant.  Again and again
 his word has decided the national policy.  He lives in it.  He thinks
 of nothing else save when, as an intellectual exercise, he unbends if I
 call upon him and ask him to advise me on one of my little problems.
-But Jupiter is descending to-day.  What on earth can it mean?  Who is
+But Jupiter is descending to day.  What on earth can it mean?  Who is
 Cadogan West, and what is he to Mycroft?"
 
 "I have it," I cried, and plunged among the litter of papers upon the
@@ -135,7 +135,7 @@ curious case."
 most extraordinary one."  He snuggled down in his armchair. "Now,
 Watson, let us have the facts."
 
-"The man's name was Arthur Cadogan West.  He was twenty-seven years of
+"The man's name was Arthur Cadogan West.  He was twenty seven years of
 age, unmarried, and a clerk at Woolwich Arsenal."
 
 "Government employ.  Behold the link with Brother Mycroft!"
@@ -144,7 +144,7 @@ age, unmarried, and a clerk at Woolwich Arsenal."
 fiancee, Miss Violet Westbury, whom he left abruptly in the fog about
 7:30 that evening.  There was no quarrel between them and she can give
 no motive for his action.  The next thing heard of him was when his
-dead body was discovered by a plate-layer named Mason, just outside
+dead body was discovered by a plate layer named Mason, just outside
 Aldgate Station on the Underground system in London."
 
 "When?"
@@ -152,7 +152,7 @@ Aldgate Station on the Underground system in London."
 "The body was found at six on Tuesday morning.  It was lying wide of
 the metals upon the left hand of the track as one goes eastward, at a
 point close to the station, where the line emerges from the tunnel in
-which it runs.  The head was badly crushed--an injury which might well
+which it runs.  The head was badly crushed an injury which might well
 have been caused by a fall from the train.  The body could only have
 come on the line in that way. Had it been carried down from any
 neighbouring street, it must have passed the station barriers, where a
@@ -182,27 +182,27 @@ carriage?  That is also possible.  But the point is of curious
 interest.  I understand that there was no sign of robbery?"
 
 "Apparently not.  There is a list here of his possessions.  His purse
-contained two pounds fifteen.  He had also a check-book on the Woolwich
+contained two pounds fifteen.  He had also a check book on the Woolwich
 branch of the Capital and Counties Bank.  Through this his identity was
-established.  There were also two dress-circle tickets for the Woolwich
+established.  There were also two dress circle tickets for the Woolwich
 Theatre, dated for that very evening.  Also a small packet of technical
 papers."
 
 Holmes gave an exclamation of satisfaction.
 
-"There we have it at last, Watson!  British government--Woolwich.
-Arsenal--technical papers--Brother Mycroft, the chain is complete.  But
+"There we have it at last, Watson!  British government Woolwich.
+Arsenal technical papers Brother Mycroft, the chain is complete.  But
 here he comes, if I am not mistaken, to speak for himself."
 
 A moment later the tall and portly form of Mycroft Holmes was ushered
 into the room.  Heavily built and massive, there was a suggestion of
 uncouth physical inertia in the figure, but above this unwieldy frame
 there was perched a head so masterful in its brow, so alert in its
-steel-gray, deep-set eyes, so firm in its lips, and so subtle in its
+steel gray, deep set eyes, so firm in its lips, and so subtle in its
 play of expression, that after the first glance one forgot the gross
 body and remembered only the dominant mind.
 
-At his heels came our old friend Lestrade, of Scotland Yard--thin and
+At his heels came our old friend Lestrade, of Scotland Yard thin and
 austere.  The gravity of both their faces foretold some weighty quest.
 The detective shook hands without a word. Mycroft Holmes struggled out
 of his overcoat and subsided into an armchair.
@@ -211,14 +211,14 @@ of his overcoat and subsided into an armchair.
 altering my habits, but the powers that be would take no denial.  In
 the present state of Siam it is most awkward that I should be away from
 the office.  But it is a real crisis.  I have never seen the Prime
-Minister so upset.  As to the Admiralty--it is buzzing like an
-overturned bee-hive.  Have you read up the case?"
+Minister so upset.  As to the Admiralty it is buzzing like an
+overturned bee hive.  Have you read up the case?"
 
 "We have just done so.  What were the technical papers?"
 
 "Ah, there's the point!  Fortunately, it has not come out.  The press
 would be furious if it did.  The papers which this wretched youth had
-in his pocket were the plans of the Bruce-Partington submarine."
+in his pocket were the plans of the Bruce Partington submarine."
 
 Mycroft Holmes spoke with a solemnity which showed his sense of the
 importance of the subject.  His brother and I sat expectant.
@@ -230,13 +230,13 @@ importance of the subject.  His brother and I sat expectant.
 "Its importance can hardly be exaggerated.  It has been the most
 jealously guarded of all government secrets.  You may take it from me
 that naval warfare becomes impossible within the radius of a
-Bruce-Partington's operation.  Two years ago a very large sum was
+Bruce Partington's operation.  Two years ago a very large sum was
 smuggled through the Estimates and was expended in acquiring a monopoly
 of the invention.  Every effort has been made to keep the secret.  The
 plans, which are exceedingly intricate, comprising some thirty separate
 patents, each essential to the working of the whole, are kept in an
 elaborate safe in a confidential office adjoining the arsenal, with
-burglar-proof doors and windows.  Under no conceivable circumstances
+burglar proof doors and windows.  Under no conceivable circumstances
 were the plans to be taken from the office.  If the chief constructor
 of the Navy desired to consult them, even he was forced to go to the
 Woolwich office for the purpose.  And yet here we find them in the
@@ -247,9 +247,9 @@ point of view it's simply awful."
 
 "No, Sherlock, no!  That's the pinch.  We have not.  Ten papers were
 taken from Woolwich.  There were seven in the pocket of Cadogan West.
-The three most essential are gone--stolen, vanished.  You must drop
+The three most essential are gone stolen, vanished.  You must drop
 everything, Sherlock.  Never mind your usual petty puzzles of the
-police-court.  It's a vital international problem that you have to
+police court.  It's a vital international problem that you have to
 solve.  Why did Cadogan West take the papers, where are the missing
 ones, how did he die, how came his body where it was found, how can the
 evil be set right?  Find an answer to all these questions, and you will
@@ -259,10 +259,10 @@ have done good service for your country."
 
 "Possibly, Sherlock.  But it is a question of getting details. Give me
 your details, and from an armchair I will return you an excellent
-expert opinion.  But to run here and run there, to cross-question
-railway guards, and lie on my face with a lens to my eye--it is not my
+expert opinion.  But to run here and run there, to cross question
+railway guards, and lie on my face with a lens to my eye it is not my
 metier.  No, you are the one man who can clear the matter up.  If you
-have a fancy to see your name in the next honours list--"
+have a fancy to see your name in the next honours list "
 
 My friend smiled and shook his head.
 
@@ -273,7 +273,7 @@ to look into it.  Some more facts, please."
 "I have jotted down the more essential ones upon this sheet of paper,
 together with a few addresses which you will find of service.  The
 actual official guardian of the papers is the famous government expert,
-Sir James Walter, whose decorations and sub-titles fill two lines of a
+Sir James Walter, whose decorations and sub titles fill two lines of a
 book of reference.  He has grown gray in the service, is a gentleman, a
 favoured guest in the most exalted houses, and, above all, a man whose
 patriotism is beyond suspicion.  He is one of two who have a key of the
@@ -297,12 +297,12 @@ has, on the whole, an excellent record in the public service.  He is
 unpopular with his colleagues, but a hard worker.  According to his own
 account, corroborated only by the word of his wife, he was at home the
 whole of Monday evening after office hours, and his key has never left
-the watch-chain upon which it hangs."
+the watch chain upon which it hangs."
 
 "Tell us about Cadogan West."
 
 "He has been ten years in the service and has done good work.  He has
-the reputation of being hot-headed and imperious, but a straight,
+the reputation of being hot headed and imperious, but a straight,
 honest man.  We have nothing against him.  He was next Sidney Johnson
 in the office.  His duties brought him into daily, personal contact
 with the plans.  No one else had the handling of them."
@@ -328,7 +328,7 @@ except to sell them?"
 "No, I cannot."
 
 "Then we must take that as our working hypothesis.  Young West took the
-papers.  Now this could only be done by having a false key--"
+papers.  Now this could only be done by having a false key "
 
 "Several false keys.  He had to open the building and the room."
 
@@ -385,11 +385,11 @@ house.  Therefore he took it from the murdered man's pocket."
 
 "Good, Lestrade, very good," said Holmes.  "Your theory holds together.
 But if this is true, then the case is at an end.  On the one hand, the
-traitor is dead.  On the other, the plans of the Bruce-Partington
+traitor is dead.  On the other, the plans of the Bruce Partington
 submarine are presumably already on the Continent.  What is there for
 us to do?"
 
-"To act, Sherlock--to act!" cried Mycroft, springing to his feet. "All
+"To act, Sherlock to act!" cried Mycroft, springing to his feet. "All
 my instincts are against this explanation.  Use your powers! Go to the
 scene of the crime!  See the people concerned!  Leave no stone
 unturned!  In all your career you have never had so great a chance of
@@ -398,12 +398,12 @@ serving your country."
 "Well, well!" said Holmes, shrugging his shoulders.  "Come, Watson!
 And you, Lestrade, could you favour us with your company for an hour or
 two?  We will begin our investigation by a visit to Aldgate Station.
-Good-bye, Mycroft.  I shall let you have a report before evening, but I
+Good bye, Mycroft.  I shall let you have a report before evening, but I
 warn you in advance that you have little to expect."
 
 An hour later Holmes, Lestrade and I stood upon the Underground
 railroad at the point where it emerges from the tunnel immediately
-before Aldgate Station.  A courteous red-faced old gentleman
+before Aldgate Station.  A courteous red faced old gentleman
 represented the railway company.
 
 "This is where the young man's body lay," said he, indicating a spot
@@ -447,7 +447,7 @@ this?"
 
 "What is it, Mr. Holmes?  Have you a clue?"
 
-"An idea--an indication, no more.  But the case certainly grows in
+"An idea an indication, no more.  But the case certainly grows in
 interest.  Unique, perfectly unique, and yet why not?  I do not see any
 indications of bleeding on the line."
 
@@ -490,15 +490,15 @@ the Woolwich train.  "We certainly owe Brother Mycroft a debt for
 having introduced us to what promises to be a really very remarkable
 case."
 
-His eager face still wore that expression of intense and high-strung
+His eager face still wore that expression of intense and high strung
 energy, which showed me that some novel and suggestive circumstance had
 opened up a stimulating line of thought.  See the foxhound with hanging
 ears and drooping tail as it lolls about the kennels, and compare it
 with the same hound as, with gleaming eyes and straining muscles, it
-runs upon a breast-high scent--such was the change in Holmes since the
+runs upon a breast high scent such was the change in Holmes since the
 morning.  He was a different man from the limp and lounging figure in
-the mouse-coloured dressing-gown who had prowled so restlessly only a
-few hours before round the fog-girt room.
+the mouse coloured dressing gown who had prowled so restlessly only a
+few hours before round the fog girt room.
 
 "There is material here.  There is scope," said he.  "I am dull indeed
 not to have understood its possibilities."
@@ -552,8 +552,8 @@ Valentine?"
 
 "Yes, we had best do so."
 
-We were ushered into a dim-lit drawing-room, where an instant later we
-were joined by a very tall, handsome, light-beared man of fifty, the
+We were ushered into a dim lit drawing room, where an instant later we
+were joined by a very tall, handsome, light beared man of fifty, the
 younger brother of the dead scientist.  His wild eyes, stained cheeks,
 and unkempt hair all spoke of the sudden blow which had fallen upon the
 household.  He was hardly articulate as he spoke of it.
@@ -581,18 +581,18 @@ interview to an end."
 "This is indeed an unexpected development," said my friend when we had
 regained the cab.  "I wonder if the death was natural, or whether the
 poor old fellow killed himself!  If the latter, may it be taken as some
-sign of self-reproach for duty neglected?  We must leave that question
+sign of self reproach for duty neglected?  We must leave that question
 to the future.  Now we shall turn to the Cadogan Wests."
 
-A small but well-kept house in the outskirts of the town sheltered the
+A small but well kept house in the outskirts of the town sheltered the
 bereaved mother.  The old lady was too dazed with grief to be of any
-use to us, but at her side was a white-faced young lady, who introduced
+use to us, but at her side was a white faced young lady, who introduced
 herself as Miss Violet Westbury, the fiancee of the dead man, and the
 last to see him upon that fatal night.
 
 "I cannot explain it, Mr. Holmes," she said.  "I have not shut an eye
 since the tragedy, thinking, thinking, thinking, night and day, what
-the true meaning of it can be.  Arthur was the most single-minded,
+the true meaning of it can be.  Arthur was the most single minded,
 chivalrous, patriotic man upon earth.  He would have cut his right hand
 off before he would sell a State secret confided to his keeping.  It is
 absurd, impossible, preposterous to anyone who knew him."
@@ -636,7 +636,7 @@ My friend's face grew graver still.
 
 "Anything else?"
 
-"He said that we were slack about such matters--that it would be easy
+"He said that we were slack about such matters that it would be easy
 for a traitor to get the plans."
 
 "Was it only recently that he made such remarks?"
@@ -725,7 +725,7 @@ the key of the safe."
 
 "Only Sir James Walter and you had those keys?"
 
-"I had no keys of the doors--only of the safe."
+"I had no keys of the doors only of the safe."
 
 "Was Sir James a man who was orderly in his habits?"
 
@@ -759,7 +759,7 @@ original plans were actually found on West?"
 originals if he could safely have taken copies, which would have
 equally served his turn."
 
-"Singular, no doubt--and yet he did so."
+"Singular, no doubt and yet he did so."
 
 "Every inquiry in this case reveals something inexplicable.  Now there
 are three papers still missing.  They are, as I understand, the vital
@@ -768,11 +768,11 @@ ones."
 "Yes, that is so."
 
 "Do you mean to say that anyone holding these three papers, and without
-the seven others, could construct a Bruce-Partington submarine?"
+the seven others, could construct a Bruce Partington submarine?"
 
-"I reported to that effect to the Admiralty.  But to-day I have been
+"I reported to that effect to the Admiralty.  But to day I have been
 over the drawings again, and I am not so sure of it.  The double valves
-with the automatic self-adjusting slots are drawn in one of the papers
+with the automatic self adjusting slots are drawn in one of the papers
 which have been returned.  Until the foreigners had invented that for
 themselves they could not make the boat.  Of course they might soon get
 over the difficulty."
@@ -801,9 +801,9 @@ if we can do better in London."
 
 Yet we added one more sheaf to our harvest before we left Woolwich
 Station.  The clerk in the ticket office was able to say with
-confidence that he saw Cadogan West--whom he knew well by sight--upon
+confidence that he saw Cadogan West whom he knew well by sight upon
 the Monday night, and that he went to London by the 8:15 to London
-Bridge.  He was alone and took a single third-class ticket.  The clerk
+Bridge.  He was alone and took a single third class ticket.  The clerk
 was struck at the time by his excited and nervous manner.  So shaky was
 he that he could hardly pick up his change, and the clerk had helped
 him with it.  A reference to the timetable showed that the 8:15 was the
@@ -850,7 +850,7 @@ the list of addresses we may be able to pick our man and follow two
 tracks instead of one."
 
 Surely enough, a note awaited us at Baker Street.  A government
-messenger had brought it post-haste.  Holmes glanced at it and threw it
+messenger had brought it post haste.  Holmes glanced at it and threw it
 over to me.
 
 There are numerous small fry, but few who would handle so big an
@@ -890,7 +890,7 @@ lantern, a chisel, and a revolver.
 S.H.
 
 It was a nice equipment for a respectable citizen to carry through the
-dim, fog-draped streets.  I stowed them all discreetly away in my
+dim, fog draped streets.  I stowed them all discreetly away in my
 overcoat and drove straight to the address given.  There sat my friend
 at a little round table near the door of the garish Italian restaurant.
 
@@ -936,7 +936,7 @@ little astonished at my sudden frivolity."
 "Yes, that was it.  Mr. Hugo Oberstein, of 13 Caulfield Gardens, had
 become my objective.  I began my operations at Gloucester Road Station,
 where a very helpful official walked with me along the track and
-allowed me to satisfy myself not only that the back-stair windows of
+allowed me to satisfy myself not only that the back stair windows of
 Caulfield Gardens open on the line but the even more essential fact
 that, owing to the intersection of one of the larger railways, the
 Underground trains are frequently held motionless for some minutes at
@@ -944,7 +944,7 @@ that very spot."
 
 "Splendid, Holmes!  You have got it!"
 
-"So far--so far, Watson.  We advance, but the goal is afar. Well,
+"So far so far, Watson.  We advance, but the goal is afar. Well,
 having seen the back of Caulfield Gardens, I visited the front and
 satisfied myself that the bird was indeed flown.  It is a considerable
 house, unfurnished, so far as I could judge, in the upper rooms.
@@ -985,7 +985,7 @@ more.
 he.  "Don't drop the instruments, I beg.  Your arrest as a suspicious
 character would be a most unfortunate complication."
 
-Caulfield Gardens was one of those lines of flat-faced pillared, and
+Caulfield Gardens was one of those lines of flat faced pillared, and
 porticoed houses which are so prominent a product of the middle
 Victorian epoch in the West End of London.  Next door there appeared to
 be a children's party, for the merry buzz of young voices and the
@@ -1006,10 +1006,10 @@ open.  We sprang through into the dark passage, closing the area door
 behind us.  Holmes led the way up the curving, uncarpeted stair.  His
 little fan of yellow light shone upon a low window.
 
-"Here we are, Watson--this must be the one."  He threw it open, and as
+"Here we are, Watson this must be the one."  He threw it open, and as
 he did so there was a low, harsh murmur, growing steadily into a loud
 roar as a train dashed past us in the darkness. Holmes swept his light
-along the window-sill.  It was thickly coated with soot from the
+along the window sill.  It was thickly coated with soot from the
 passing engines, but the black surface was blurred and rubbed in places.
 
 "You can see where they rested the body.  Halloa, Watson! what is this?
@@ -1021,7 +1021,7 @@ stay here until a train stops."
 We had not long to wait.  The very next train roared from the tunnel as
 before, but slowed in the open, and then, with a creaking of brakes,
 pulled up immediately beneath us.  It was not four feet from the
-window-ledge to the roof of the carriages. Holmes softly closed the
+window ledge to the roof of the carriages. Holmes softly closed the
 window.
 
 "So far we are justified," said he.  "What do you think of it, Watson?"
@@ -1036,7 +1036,7 @@ insignificant.  Our difficulties are still before us. But perhaps we
 may find something here which may help us."
 
 We had ascended the kitchen stair and entered the suite of rooms upon
-the first floor.  One was a dining-room, severely furnished and
+the first floor.  One was a dining room, severely furnished and
 containing nothing of interest.  A second was a bedroom, which also
 drew blank.  The remaining room appeared more promising, and my
 companion settled down to a systematic examination.  It was littered
@@ -1050,7 +1050,7 @@ started.
 nothing to incriminate him.  His dangerous correspondence has been
 destroyed or removed.  This is our last chance."
 
-It was a small tin cash-box which stood upon the writing-desk. Holmes
+It was a small tin cash box which stood upon the writing desk. Holmes
 pried it open with his chisel.  Several rolls of paper were within,
 covered with figures and calculations, without any note to show to what
 they referred.  The recurring words, "water pressure" and "pressure to
@@ -1062,8 +1062,8 @@ been raised.
 
 "What's this, Watson?  Eh?  What's this?  Record of a series of
 messages in the advertisements of a paper.  Daily Telegraph agony
-column by the print and paper.  Right-hand top corner of a page. No
-dates--but messages arrange themselves.  This must be the first:
+column by the print and paper.  Right hand top corner of a page. No
+dates but messages arrange themselves.  This must be the first:
 
 "Hoped to hear sooner.  Terms agreed to.  Write fully to address given
 on card.
@@ -1110,20 +1110,20 @@ our confessed burglary.
 wonder you get results that are beyond us.  But some of these days
 you'll go too far, and you'll find yourself and your friend in trouble."
 
-"For England, home and beauty--eh, Watson?  Martyrs on the altar of our
+"For England, home and beauty eh, Watson?  Martyrs on the altar of our
 country.  But what do you think of it, Mycroft?"
 
 "Excellent, Sherlock!  Admirable!  But what use will you make of it?"
 
 Holmes picked up the Daily Telegraph which lay upon the table.
 
-"Have you seen Pierrot's advertisement to-day?"
+"Have you seen Pierrot's advertisement to day?"
 
 "What?  Another one?"
 
 "Yes, here it is:
 
-"To-night.  Same hour.  Same place.  Two taps.  Most vitally important.
+"To night.  Same hour.  Same place.  Two taps.  Most vitally important.
 Your own safety at stake.
 
 "Pierrot.
@@ -1143,7 +1143,7 @@ undertaken upon the Polyphonic Motets of Lassus.  For my own part I had
 none of this power of detachment, and the day, in consequence, appeared
 to be interminable.  The great national importance of the issue, the
 suspense in high quarters, the direct nature of the experiment which we
-were trying--all combined to work upon my nerve.  It was a relief to me
+were trying all combined to work upon my nerve.  It was a relief to me
 when at last, after a light dinner, we set out upon our expedition.
 Lestrade and Mycroft met us by appointment at the outside of Gloucester
 Road Station.  The area door of Oberstein's house had been left open
@@ -1172,7 +1172,7 @@ alarm he caught him by the collar and threw him back into the room.
 Before our prisoner had recovered his balance the door was shut and
 Holmes standing with his back against it.  The man glared round him,
 staggered, and fell senseless upon the floor.  With the shock, his
-broad-brimmed hat flew from his head, his cravat slipped down from his
+broad brimmed hat flew from his head, his cravat slipped down from his
 lips, and there were the long light beard and the soft, handsome
 delicate features of Colonel Valentine Walter.
 
@@ -1188,7 +1188,7 @@ Submarine Department.  Yes, yes; I see the fall of the cards. He is
 coming to.  I think that you had best leave his examination to me."
 
 We had carried the prostrate body to the sofa.  Now our prisoner sat
-up, looked round him with a horror-stricken face, and passed his hand
+up, looked round him with a horror stricken face, and passed his hand
 over his forehead, like one who cannot believe his own senses.
 
 "What is this?" he asked.  "I came here to visit Mr. Oberstein."
@@ -1236,7 +1236,7 @@ save myself from ruin.  But as to murder, I am as innocent as you."
 never knew it until I was at the very door.  It was thick fog, and one
 could not see three yards.  I had given two taps and Oberstein had come
 to the door.  The young man rushed up and demanded to know what we were
-about to do with the papers. Oberstein had a short life-preserver.  He
+about to do with the papers. Oberstein had a short life preserver.  He
 always carried it with him.  As West forced his way after us into the
 house Oberstein struck him on the head.  The blow was a fatal one.  He
 was dead within five minutes.  There he lay in the hall, and we were at
@@ -1247,7 +1247,7 @@ and that he must keep them.  'You cannot keep them,' said I.  'There
 will be a dreadful row at Woolwich if they are not returned.'  'I must
 keep them,' said he, 'for they are so technical that it is impossible
 in the time to make copies.' 'Then they must all go back together
-to-night,' said I.  He thought for a little, and then he cried out that
+to night,' said I.  He thought for a little, and then he cried out that
 he had it. 'Three I will keep,' said he.  'The others we will stuff
 into the pocket of this young man.  When he is found the whole business
 will assuredly be put to his account.'  I could see no other way out of
@@ -1280,7 +1280,7 @@ reach him."
 
 "Then reparation is still within your power," said Sherlock Holmes.
 
-"I will do anything I can.  I owe this fellow no particular good-will.
+"I will do anything I can.  I owe this fellow no particular good will.
 He has been my ruin and my downfall."
 
 "Here are paper and pen.  Sit at this desk and write to my dictation.
@@ -1296,17 +1296,17 @@ must ask you for a further advance of five hundred pounds.  I will not
 trust it to the post, nor will I take anything but gold or notes.  I
 would come to you abroad, but it would excite remark if I left the
 country at present. Therefore I shall expect to meet you in the
-smoking-room of the Charing Cross Hotel at noon on Saturday.  Remember
+smoking room of the Charing Cross Hotel at noon on Saturday.  Remember
 that only English notes, or gold, will be taken.
 
 "That will do very well.  I shall be very much surprised if it does not
 fetch our man."
 
-And it did!  It is a matter of history--that secret history of a nation
+And it did!  It is a matter of history that secret history of a nation
 which is often so much more intimate and interesting than its public
-chronicles--that Oberstein, eager to complete the coup of his lifetime,
+chronicles that Oberstein, eager to complete the coup of his lifetime,
 came to the lure and was safely engulfed for fifteen years in a British
-prison.  In his trunk were found the invaluable Bruce-Partington plans,
+prison.  In his trunk were found the invaluable Bruce Partington plans,
 which he had put up for auction in all the naval centres of Europe.
 
 Colonel Walter died in prison towards the end of the second year of his
@@ -1315,10 +1315,10 @@ the Polyphonic Motets of Lassus, which has since been printed for
 private circulation, and is said by experts to be the last word upon
 the subject.  Some weeks afterwards I learned incidentally that my
 friend spent a day at Windsor, whence he returned with a remarkably
-fine emerald tie-pin.  When I asked him if he had bought it, he
+fine emerald tie pin.  When I asked him if he had bought it, he
 answered that it was a present from a certain gracious lady in whose
 interests he had once been fortunate enough to carry out a small
 commission.  He said no more; but I fancy that I could guess at that
 lady's august name, and I have little doubt that the emerald pin will
 forever recall to my friend's memory the adventure of the
-Bruce-Partington plans.
+Bruce Partington plans.
