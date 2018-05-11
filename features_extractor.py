@@ -51,7 +51,7 @@ def combine_author_df(authors):
     author_dfs = []
     for author in authors:
         print(author)
-        author_df = build_df(author)
+        author_df = build_df(author ,5)
         author_dfs.append(author_df
         )
     books_df = pd.concat(author_dfs)
@@ -61,8 +61,10 @@ def combine_author_df(authors):
 
 
 def main():
-    authors = ['oscar_wilde','mildred_a._wirt','mark_twain']
-    combine_author_df(authors, 5)
+    #authors = ['oscar_wilde','mildred_a._wirt','mark_twain']
+    authors = ['oscar_wilde','mildred_a._wirt']
+
+    combine_author_df(authors)
     books_df = pd.read_csv('./3author_pos_5grams.csv', sep='\t')
     process_df = process(books_df, 0.25, 0.75)
     process_df.to_csv("3author_pos_5grams_processed.csv", sep='\t', encoding='utf-8')
