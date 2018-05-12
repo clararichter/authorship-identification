@@ -5,20 +5,27 @@ import pandas as pd
 import numpy as np
 from sklearn.linear_model import LogisticRegression
 from sklearn.cross_validation import train_test_split
-from sklearn.metric import classification_report
+from sklearn.metrics import classification_report
 import statsmodels.api as sm
+from sklearn import model_selection
 
-data = pd.read_csv('books.csv')
+data = pd.read_csv('booksyay.csv')
+print(data)
+#quit()
+y = data['author']
+data = data.drop(columns = ["author"])
+data = data.drop(data.columns[0], axis=1)
+print(data)
+# quit()
+X = data
 
-y = data[ 'author' ]
-# cols = all features except author
-X = data[ cols ]
-
-
-''' how is this api different from sklearn? '''
-logit_model = sm.Logit( y, X )
-result = logit_model.fit()
-print(result.summary())
+print(np.asarray(X))
+#quit()
+#
+# ''' how is this api different from sklearn? '''
+# logit_model = sm.Logit( y, X.astype(float) )
+# result = logit_model.fit()
+# print(result.summary())
 
 
 # standard percentage split
@@ -28,12 +35,13 @@ logreg.fit(X_train, y_train)
 
 y_pred = logreg.predict(X_test)
 print('Accuracy of logistic regression classifier on test set: {:.2f}'.format(logreg.score(X_test, y_test)))
+print(classification_report(y_test, y_pred))
 
 # 10-fold cross validation
-kfold = model_selection.KFold(n_splits=10, random_state=7)
-modelCV = LogisticRegression()
-scoring = 'accuracy'
-results = model.selection.cross_val_score(modelCV, X_train, y_train, cv=kfold, scoring=scoring)
-print("10-fold cross validation average accuracy: %.3f".format(results.mean()))
-
-print(classification_report(y_test, y_pred))
+# kfold = model_selection.KFold(n_splits=10, random_state=7)
+# modelCV = LogisticRegression()
+# scoring = 'accuracy'
+# results = model_selection.cross_val_score(modelCV, X, y, cv=kfold, scoring=scoring)
+# print(results)
+# print( "10-fold cross validation average accuracy: {}".format( results.mean() ) )
+#

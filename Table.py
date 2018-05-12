@@ -1,6 +1,7 @@
 import pandas as pd
 from text_features import Text
 import os
+import csv
 
 class Table():
 
@@ -16,23 +17,30 @@ class Table():
             for book in os.listdir(path + '/' + author):
                 print(book)
                 text = Text( open(path + '/' + author + '/' + book, 'r', errors='ignore').read(), author )
-                print('text retrieved')
-                self.pos_grams_table = self.pos_grams_table.append( pd.DataFrame( text.pos_gram_data(), index=[book] ) )
-                print('pos')
-                self.n_grams_table = self.n_grams_table.append( pd.DataFrame( text.word_gram_data(), index=[book] ) )
-                print('ngrams')
-                self.stylometry_table = self.stylometry_table.append( pd.DataFrame( text.stylometric_data(), index=[book] ) )
+                # print('text retrieved')
+                # self.pos_grams_table = self.pos_grams_table.append( pd.DataFrame( text.pos_gram_data(), index=[book] ) )
+                # print('pos')
+                # self.n_grams_table = self.n_grams_table.append( pd.DataFrame( text.word_gram_data(), index=[book] ) )
+                # print('ngrams')
+                frame = pd.DataFrame( text.stylometric_data(), index=[book] )
+                frame['author'] = author
+                self.stylometry_table = self.stylometry_table.append( frame )
                 print('stylometry')
 
-            self.pos_grams_table["author"]=author
-            self.n_grams_table["author"]=author
-            self.stylometry_table["author"]=author
+            # self.pos_grams_table["author"]=author
+            # self.n_grams_table["author"]=author
+            #self.stylometry_table['author'] = author
+            print(self.stylometry_table)
+            #self.stylometry_table = pd.concat( [self.stylometry_table, ] )
 
 
-        self.eliminate_non_significant_columns(self.pos_grams_table, 0.01)
-        self.eliminate_non_significant_columns(self.n_grams_table, 0.01)
+        self.stylometry_table.to_csv("booksyay.csv", encoding='utf-8')
 
-        self.merge_frames()
+
+        #self.eliminate_non_significant_columns(self.pos_grams_table, 0.01)
+        #self.eliminate_non_significant_columns(self.n_grams_table, 0.01)
+
+        #self.merge_frames()
 
 
     def eliminate_sparse_columns(self, frame, threshold): # threshold -> min_percent_data
@@ -40,7 +48,7 @@ class Table():
 
 
 
-    def eliminate_non_significant_columns(self):
+    def eliminate_non_significant_columns(self, frame, threshold):
         for column in frame:
             # frame[column]
             means = []
@@ -55,6 +63,7 @@ class Table():
 
 
 
+
 if __name__ == '__main__':
-    authors = ['jane_austen']
+    authors = ['charles_dickens', 'jane_austen']
     table = Table(authors)
