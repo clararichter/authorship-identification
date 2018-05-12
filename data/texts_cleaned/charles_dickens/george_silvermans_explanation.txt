@@ -2,7 +2,7 @@
 FIRST CHAPTER
 
 
-IT happened in this wise—
+IT happened in this wise
 
 But, sitting with my pen in my hand looking at those words again, without
 descrying any hint in them of the words that should follow, it comes into
@@ -17,10 +17,10 @@ to a better.
 SECOND CHAPTER
 
 
-IT happened in _this_ wise—
+IT happened in this wise
 
 But, looking at those words, and comparing them with my former opening, I
-find they are the self same words repeated.  This is the more surprising
+find they are the self-same words repeated.  This is the more surprising
 to me, because I employ them in quite a new connection.  For indeed I
 declare that my intention was to discard the commencement I first had in
 my thoughts, and to give the preference to another of an entirely
@@ -43,18 +43,18 @@ My parents were in a miserable condition of life, and my infant home was
 a cellar in Preston.  I recollect the sound of father’s Lancashire clogs
 on the street pavement above, as being different in my young hearing from
 the sound of all other clogs; and I recollect, that, when mother came
-down the cellar steps, I used tremblingly to speculate on her feet having
-a good or an ill tempered look,—on her knees,—on her waist,—until finally
+down the cellar-steps, I used tremblingly to speculate on her feet having
+a good or an ill-tempered look,on her knees,on her waist,until finally
 her face came into view, and settled the question.  From this it will be
-seen that I was timid, and that the cellar steps were steep, and that the
+seen that I was timid, and that the cellar-steps were steep, and that the
 doorway was very low.
 
 Mother had the gripe and clutch of poverty upon her face, upon her
-figure, and not least of all upon her voice.  Her sharp and high pitched
+figure, and not least of all upon her voice.  Her sharp and high-pitched
 words were squeezed out of her, as by the compression of bony fingers on
 a leathern bag; and she had a way of rolling her eyes about and about the
 cellar, as she scolded, that was gaunt and hungry.  Father, with his
-shoulders rounded, would sit quiet on a three legged stool, looking at
+shoulders rounded, would sit quiet on a three-legged stool, looking at
 the empty grate, until she would pluck the stool from under him, and bid
 him go bring some money home.  Then he would dismally ascend the steps;
 and I, holding my ragged shirt and trousers together with a hand (my only
@@ -75,17 +75,17 @@ Sometimes they both went away seeking work; and then I would be locked up
 in the cellar for a day or two at a time.  I was at my worldliest then.
 Left alone, I yielded myself up to a worldly yearning for enough of
 anything (except misery), and for the death of mother’s father, who was a
-machine maker at Birmingham, and on whose decease, I had heard mother
+machine-maker at Birmingham, and on whose decease, I had heard mother
 say, she would come into a whole courtful of houses ‘if she had her
 rights.’  Worldly little devil, I would stand about, musingly fitting my
 cold bare feet into cracked bricks and crevices of the damp
-cellar floor,—walking over my grandfather’s body, so to speak, into the
+cellar-floor,walking over my grandfather’s body, so to speak, into the
 courtful of houses, and selling them for meat and drink, and clothes to
 wear.
 
 At last a change came down into our cellar.  The universal change came
-down even as low as that,—so will it mount to any height on which a human
-creature can perch,—and brought other changes with it.
+down even as low as that,so will it mount to any height on which a human
+creature can perch,and brought other changes with it.
 
 We had a heap of I don’t know what foul litter in the darkest corner,
 which we called ‘the bed.’  For three days mother lay upon it without
@@ -93,7 +93,7 @@ getting up, and then began at times to laugh.  If I had ever heard her
 laugh before, it had been so seldom that the strange sound frightened me.
 It frightened father too; and we took it by turns to give her water.
 Then she began to move her head from side to side, and sing.  After that,
-she getting no better, father fell a laughing and a singing; and then
+she getting no better, father fell a-laughing and a-singing; and then
 there was only I to give them both water, and they both died.
 
 
@@ -104,7 +104,7 @@ FOURTH CHAPTER
 
 WHEN I was lifted out of the cellar by two men, of whom one came peeping
 down alone first, and ran away and brought the other, I could hardly bear
-the light of the street.  I was sitting in the road way, blinking at it,
+the light of the street.  I was sitting in the road-way, blinking at it,
 and at a ring of people collected around me, but not close to me, when,
 true to my character of worldly little devil, I broke silence by saying,
 ‘I am hungry and thirsty!’
@@ -129,7 +129,7 @@ I was still eating and drinking, and a murmur of discussion had begun to
 arise respecting what was to be done with me next, when I heard a cracked
 voice somewhere in the ring say, ‘My name is Hawkyard, Mr. Verity
 Hawkyard, of West Bromwich.’  Then the ring split in one place; and a
-yellow faced, peak nosed gentleman, clad all in iron gray to his gaiters,
+yellow-faced, peak-nosed gentleman, clad all in iron-gray to his gaiters,
 pressed forward with a policeman and another official of some sort.  He
 came forward close to the vessel of smoking vinegar; from which he
 sprinkled himself carefully, and me copiously.
@@ -142,7 +142,7 @@ I turned my eyes upon the speaker, and said in a ravening manner,
 
 ‘Hah!  Horrible worldliness on the edge of the grave,’ said Mr. Hawkyard,
 casting more of the vinegar over me, as if to get my devil out of me.  ‘I
-have undertaken a slight—a very slight—trust in behalf of this boy; quite
+have undertaken a slighta very slighttrust in behalf of this boy; quite
 a voluntary trust: a matter of mere honour, if not of mere sentiment:
 still I have taken it upon myself, and it shall be (O, yes, it shall be!)
 discharged.’
@@ -156,7 +156,7 @@ may disseminate infection.’  The ring widened considerably.  ‘What is to
 be done with him?’
 
 He held some talk with the two officials.  I could distinguish no word
-save ‘Farm house.’  There was another sound several times repeated, which
+save ‘Farm-house.’  There was another sound several times repeated, which
 was wholly meaningless in my ears then, but which I knew afterwards to be
 ‘Hoghton Towers.’
 
@@ -164,19 +164,19 @@ was wholly meaningless in my ears then, but which I knew afterwards to be
 sounds hopeful.  And he can be put by himself in a ward, for a night or
 two, you say?’
 
-It seemed to be the police officer who had said so; for it was he who
+It seemed to be the police-officer who had said so; for it was he who
 replied, Yes!  It was he, too, who finally took me by the arm, and walked
 me before him through the streets, into a whitewashed room in a bare
 building, where I had a chair to sit in, a table to sit at, an iron
 bedstead and good mattress to lie upon, and a rug and blanket to cover
 me.  Where I had enough to eat too, and was shown how to clean the tin
 porringer in which it was conveyed to me, until it was as good as a
-looking glass.  Here, likewise, I was put in a bath, and had new clothes
+looking-glass.  Here, likewise, I was put in a bath, and had new clothes
 brought to me; and my old rags were burnt, and I was camphored and
 vinegared and disinfected in a variety of ways.
 
-When all this was done,—I don’t know in how many days or how few, but it
-matters not,—Mr. Hawkyard stepped in at the door, remaining close to it,
+When all this was done,I don’t know in how many days or how few, but it
+matters not,Mr. Hawkyard stepped in at the door, remaining close to it,
 and said, ‘Go and stand against the opposite wall, George Silverman.  As
 far off as you can.  That’ll do.  How do you feel?’
 
@@ -184,14 +184,14 @@ I told him that I didn’t feel cold, and didn’t feel hungry, and didn’t
 feel thirsty.  That was the whole round of human feelings, as far as I
 knew, except the pain of being beaten.
 
-‘Well,’ said he, ‘you are going, George, to a healthy farm house to be
-purified.  Keep in the air there as much as you can.  Live an out of door
-life there, until you are fetched away.  You had better not say much—in
-fact, you had better be very careful not to say anything—about what your
+‘Well,’ said he, ‘you are going, George, to a healthy farm-house to be
+purified.  Keep in the air there as much as you can.  Live an out-of-door
+life there, until you are fetched away.  You had better not say muchin
+fact, you had better be very careful not to say anythingabout what your
 parents died of, or they might not like to take you in.  Behave well, and
 I’ll put you to school; O, yes!  I’ll put you to school, though I’m not
 obligated to do it.  I am a servant of the Lord, George; and I have been
-a good servant to him, I have, these five and thirty years.  The Lord has
+a good servant to him, I have, these five-and-thirty years.  The Lord has
 had a good servant in me, and he knows it.’
 
 What I then supposed him to mean by this, I cannot imagine.  As little do
@@ -208,38 +208,38 @@ wondering within me whereabouts our cellar was; but I doubt it.  Such a
 worldly little devil was I, that I took no thought who would bury father
 and mother, or where they would be buried, or when.  The question whether
 the eating and drinking by day, and the covering by night, would be as
-good at the farm house as at the ward superseded those questions.
+good at the farm-house as at the ward superseded those questions.
 
 The jolting of the cart on a loose stony road awoke me; and I found that
-we were mounting a steep hill, where the road was a rutty by road through
+we were mounting a steep hill, where the road was a rutty by-road through
 a field.  And so, by fragments of an ancient terrace, and by some rugged
 outbuildings that had once been fortified, and passing under a ruined
-gateway we came to the old farm house in the thick stone wall outside the
+gateway we came to the old farm-house in the thick stone wall outside the
 old quadrangle of Hoghton Towers: which I looked at like a stupid savage,
-seeing no specially in, seeing no antiquity in; assuming all farm houses
+seeing no specially in, seeing no antiquity in; assuming all farm-houses
 to resemble it; assigning the decay I noticed to the one potent cause of
-all ruin that I knew,—poverty; eyeing the pigeons in their flights, the
+all ruin that I knew,poverty; eyeing the pigeons in their flights, the
 cattle in their stalls, the ducks in the pond, and the fowls pecking
 about the yard, with a hungry hope that plenty of them might be killed
 for dinner while I stayed there; wondering whether the scrubbed dairy
 vessels, drying in the sunlight, could be goodly porringers out of which
-the master ate his belly filling food, and which he polished when he had
+the master ate his belly-filling food, and which he polished when he had
 done, according to my ward experience; shrinkingly doubtful whether the
 shadows, passing over that airy height on the bright spring day, were not
-something in the nature of frowns,—sordid, afraid, unadmiring,—a small
+something in the nature of frowns,sordid, afraid, unadmiring,a small
 brute to shudder at.
 
 To that time I had never had the faintest impression of duty.  I had had
 no knowledge whatever that there was anything lovely in this life.  When
-I had occasionally slunk up the cellar steps into the street, and glared
-in at shop windows, I had done so with no higher feelings than we may
-suppose to animate a mangy young dog or wolf cub.  It is equally the fact
+I had occasionally slunk up the cellar-steps into the street, and glared
+in at shop-windows, I had done so with no higher feelings than we may
+suppose to animate a mangy young dog or wolf-cub.  It is equally the fact
 that I had never been alone, in the sense of holding unselfish converse
 with myself.  I had been solitary often enough, but nothing better.
 
 Such was my condition when I sat down to my dinner that day, in the
-kitchen of the old farm house.  Such was my condition when I lay on my
-bed in the old farm house that night, stretched out opposite the narrow
+kitchen of the old farm-house.  Such was my condition when I lay on my
+bed in the old farm-house that night, stretched out opposite the narrow
 mullioned window, in the cold light of the moon, like a young vampire.
 
 
@@ -254,30 +254,30 @@ old, on high ground a mile or so removed from the road between Preston
 and Blackburn, where the first James of England, in his hurry to make
 money by making baronets, perhaps made some of those remunerative
 dignitaries.  A house, centuries old, deserted and falling to pieces, its
-woods and gardens long since grass land or ploughed up, the Rivers Ribble
+woods and gardens long since grass-land or ploughed up, the Rivers Ribble
 and Darwen glancing below it, and a vague haze of smoke, against which
 not even the supernatural prescience of the first Stuart could foresee a
-counter blast, hinting at steam power, powerful in two distances.
+counter-blast, hinting at steam-power, powerful in two distances.
 
 What did I know then of Hoghton Towers?  When I first peeped in at the
 gate of the lifeless quadrangle, and started from the mouldering statue
 becoming visible to me like its guardian ghost; when I stole round by the
-back of the farm house, and got in among the ancient rooms, many of them
+back of the farm-house, and got in among the ancient rooms, many of them
 with their floors and ceilings falling, the beams and rafters hanging
 dangerously down, the plaster dropping as I trod, the oaken panels
 stripped away, the windows half walled up, half broken; when I discovered
 a gallery commanding the old kitchen, and looked down between balustrades
 upon a massive old table and benches, fearing to see I know not what
-dead alive creatures come in and seat themselves, and look up with I know
+dead-alive creatures come in and seat themselves, and look up with I know
 not what dreadful eyes, or lack of eyes, at me; when all over the house I
 was awed by gaps and chinks where the sky stared sorrowfully at me, where
 the birds passed, and the ivy rustled, and the stains of winter weather
 blotched the rotten floors; when down at the bottom of dark pits of
 staircase, into which the stairs had sunk, green leaves trembled,
 butterflies fluttered, and bees hummed in and out through the broken
-door ways; when encircling the whole ruin were sweet scents, and sights
-of fresh green growth, and ever renewing life, that I had never dreamed
-of,—I say, when I passed into such clouded perception of these things as
+door-ways; when encircling the whole ruin were sweet scents, and sights
+of fresh green growth, and ever-renewing life, that I had never dreamed
+of,I say, when I passed into such clouded perception of these things as
 my dark soul could compass, what did I know then of Hoghton Towers?
 
 I have written that the sky stared sorrowfully at me.  Therein have I
@@ -295,12 +295,12 @@ How not to be this worldly little devil? how not to have a repugnance
 towards myself as I had towards the rats?  I hid in a corner of one of
 the smaller chambers, frightened at myself, and crying (it was the first
 time I had ever cried for any cause not purely physical), and I tried to
-think about it.  One of the farm ploughs came into my range of view just
+think about it.  One of the farm-ploughs came into my range of view just
 then; and it seemed to help me as it went on with its two horses up and
 down the field so peacefully and quietly.
 
-There was a girl of about my own age in the farm house family, and she
-sat opposite to me at the narrow table at meal times.  It had come into
+There was a girl of about my own age in the farm-house family, and she
+sat opposite to me at the narrow table at meal-times.  It had come into
 my mind, at our first dinner, that she might take the fever from me.  The
 thought had not disquieted me then.  I had only speculated how she would
 look under the altered circumstances, and whether she would die.  But it
@@ -319,14 +319,14 @@ happier.
 
 Out of this holding her in my thoughts, to the humanising of myself, I
 suppose some childish love arose within me.  I felt, in some sort,
-dignified by the pride of protecting her,—by the pride of making the
+dignified by the pride of protecting her,by the pride of making the
 sacrifice for her.  As my heart swelled with that new feeling, it
 insensibly softened about mother and father.  It seemed to have been
 frozen before, and now to be thawed.  The old ruin and all the lovely
 things that haunted it were not sorrowful for me only, but sorrowful for
 mother and father as well.  Therefore did I cry again, and often too.
 
-The farm house family conceived me to be of a morose temper, and were
+The farm-house family conceived me to be of a morose temper, and were
 very short with me; though they never stinted me in such broken fare as
 was to be got out of regular hours.  One night when I lifted the kitchen
 latch at my usual time, Sylvia (that was her pretty name) had but just
@@ -334,14 +334,14 @@ gone out of the room.  Seeing her ascending the opposite stairs, I stood
 still at the door.  She had heard the clink of the latch, and looked
 round.
 
-‘George,’ she called to me in a pleased voice, ‘to morrow is my birthday;
+‘George,’ she called to me in a pleased voice, ‘to-morrow is my birthday;
 and we are to have a fiddler, and there’s a party of boys and girls
 coming in a cart, and we shall dance.  I invite you.  Be sociable for
 once, George.’
 
-‘I am very sorry, miss,’ I answered; ‘but I—but, no; I can’t come.’
+‘I am very sorry, miss,’ I answered; ‘but Ibut, no; I can’t come.’
 
-‘You are a disagreeable, ill humoured lad,’ she returned disdainfully;
+‘You are a disagreeable, ill-humoured lad,’ she returned disdainfully;
 ‘and I ought not to have asked you.  I shall never speak to you again.’
 
 As I stood with my eyes fixed on the fire, after she was gone, I felt
@@ -357,10 +357,10 @@ thou canst sulk to thy heart’s content again.’
 Ah! if they could have seen me next day, in the ruin, watching for the
 arrival of the cart full of merry young guests; if they could have seen
 me at night, gliding out from behind the ghostly statue, listening to the
-music and the fall of dancing feet, and watching the lighted farm house
+music and the fall of dancing feet, and watching the lighted farm-house
 windows from the quadrangle when all the ruin was dark; if they could
 have read my heart, as I crept up to bed by the back way, comforting
-myself with the reflection, ‘They will take no hurt from me,’—they would
+myself with the reflection, ‘They will take no hurt from me,’they would
 not have thought mine a morose or an unsocial nature.
 
 It was in these ways that I began to form a shy disposition; to be of a
@@ -379,47 +379,47 @@ SIXTH CHAPTER
 BROTHER HAWKYARD (as he insisted on my calling him) put me to school, and
 told me to work my way.  ‘You are all right, George,’ he said.  ‘I have
 been the best servant the Lord has had in his service for this
-five and thirty year (O, I have!); and he knows the value of such a
+five-and-thirty year (O, I have!); and he knows the value of such a
 servant as I have been to him (O, yes, he does!); and he’ll prosper your
-schooling as a part of my reward.  That’s what _he_’ll do, George.  He’ll
+schooling as a part of my reward.  That’s what he’ll do, George.  He’ll
 do it for me.’
 
 From the first I could not like this familiar knowledge of the ways of
 the sublime, inscrutable Almighty, on Brother Hawkyard’s part.  As I grew
 a little wiser, and still a little wiser, I liked it less and less.  His
-manner, too, of confirming himself in a parenthesis,—as if, knowing
-himself, he doubted his own word,—I found distasteful.  I cannot tell how
+manner, too, of confirming himself in a parenthesis,as if, knowing
+himself, he doubted his own word,I found distasteful.  I cannot tell how
 much these dislikes cost me; for I had a dread that they were worldly.
 
-As time went on, I became a Foundation boy on a good foundation, and I
+As time went on, I became a Foundation-boy on a good foundation, and I
 cost Brother Hawkyard nothing.  When I had worked my way so far, I worked
 yet harder, in the hope of ultimately getting a presentation to college
 and a fellowship.  My health has never been strong (some vapour from the
 Preston cellar cleaves to me, I think); and what with much work and some
-weakness, I came again to be regarded—that is, by my fellow students—as
+weakness, I came again to be regardedthat is, by my fellow-studentsas
 unsocial.
 
-All through my time as a foundation boy, I was within a few miles of
+All through my time as a foundation-boy, I was within a few miles of
 Brother Hawkyard’s congregation; and whenever I was what we called a
-leave boy on a Sunday, I went over there at his desire.  Before the
+leave-boy on a Sunday, I went over there at his desire.  Before the
 knowledge became forced upon me that outside their place of meeting these
 brothers and sisters were no better than the rest of the human family,
 but on the whole were, to put the case mildly, as bad as most, in respect
-of giving short weight in their shops, and not speaking the truth,—I say,
+of giving short weight in their shops, and not speaking the truth,I say,
 before this knowledge became forced upon me, their prolix addresses,
 their inordinate conceit, their daring ignorance, their investment of the
 Supreme Ruler of heaven and earth with their own miserable meannesses and
 littlenesses, greatly shocked me.  Still, as their term for the frame of
 mind that could not perceive them to be in an exalted state of grace was
 the ‘worldly’ state, I did for a time suffer tortures under my inquiries
-of myself whether that young worldly devilish spirit of mine could
-secretly be lingering at the bottom of my non appreciation.
+of myself whether that young worldly-devilish spirit of mine could
+secretly be lingering at the bottom of my non-appreciation.
 
 Brother Hawkyard was the popular expounder in this assembly, and
 generally occupied the platform (there was a little platform with a table
 on it, in lieu of a pulpit) first, on a Sunday afternoon.  He was by
 trade a drysalter.  Brother Gimblet, an elderly man with a crabbed face,
-a large dog’s eared shirt collar, and a spotted blue neckerchief reaching
+a large dog’s-eared shirt-collar, and a spotted blue neckerchief reaching
 up behind to the crown of his head, was also a drysalter and an
 expounder.  Brother Gimblet professed the greatest admiration for Brother
 Hawkyard, but (I had thought more than once) bore him a jealous grudge.
@@ -433,7 +433,7 @@ On the first Sunday after I had won what I had so long tried for, and
 when it was certain that I was going up to college, Brother Hawkyard
 concluded a long exhortation thus:
 
-‘Well, my friends and fellow sinners, now I told you when I began, that I
+‘Well, my friends and fellow-sinners, now I told you when I began, that I
 didn’t know a word of what I was going to say to you (and no, I did
 not!), but that it was all one to me, because I knew the Lord would put
 into my mouth the words I wanted.’
@@ -448,17 +448,17 @@ into my mouth the words I wanted.’
 
 (‘Ah, let’s have that!’ from Brother Gimblet.)
 
-‘Because I have been his faithful servant for five and thirty years, and
-because he knows it.  For five and thirty years!  And he knows it, mind
+‘Because I have been his faithful servant for five-and-thirty years, and
+because he knows it.  For five-and-thirty years!  And he knows it, mind
 you!  I got those words that I wanted on account of my wages.  I got ’em
-from the Lord, my fellow sinners.  Down! I said, “Here’s a heap of wages
+from the Lord, my fellow-sinners.  Down! I said, “Here’s a heap of wages
 due; let us have something down, on account.”  And I got it down, and I
 paid it over to you; and you won’t wrap it up in a napkin, nor yet in a
 towel, nor yet pocketankercher, but you’ll put it out at good interest.
-Very well.  Now, my brothers and sisters and fellow sinners, I am going
+Very well.  Now, my brothers and sisters and fellow-sinners, I am going
 to conclude with a question, and I’ll make it so plain (with the help of
-the Lord, after five and thirty years, I should rather hope!) as that the
-Devil shall not be able to confuse it in your heads,—which he would be
+the Lord, after five-and-thirty years, I should rather hope!) as that the
+Devil shall not be able to confuse it in your heads,which he would be
 overjoyed to do.’
 
 (‘Just his way.  Crafty old blackguard!’ from Brother Gimblet.)
@@ -468,9 +468,9 @@ overjoyed to do.’
 (‘Not they.  Not a bit on it!’ from Brother Gimblet, with the greatest
 confidence.)
 
-‘Not they.  And where’s the proof? sent ready made by the hand of the
+‘Not they.  And where’s the proof? sent ready-made by the hand of the
 Lord.  Why, there’s one among us here now, that has got all the learning
-that can be crammed into him.  _I_ got him all the learning that could be
+that can be crammed into him.  I got him all the learning that could be
 crammed into him.  His grandfather’ (this I had never heard before) ‘was
 a brother of ours.  He was Brother Parksop.  That’s what he was.
 Parksop; Brother Parksop.  His worldly name was Parksop, and he was a
@@ -479,17 +479,17 @@ brother of this brotherhood.  Then wasn’t he Brother Parksop?’
 (‘Must be.  Couldn’t help hisself!’ from Brother Gimblet.)
 
 ‘Well, he left that one now here present among us to the care of a
-brother sinner of his (and that brother sinner, mind you, was a sinner of
+brother-sinner of his (and that brother-sinner, mind you, was a sinner of
 a bigger size in his time than any of you; praise the Lord!), Brother
-Hawkyard.  Me.  _I_ got him without fee or reward,—without a morsel of
-myrrh, or frankincense, nor yet amber, letting alone the honeycomb,—all
+Hawkyard.  Me.  I got him without fee or reward,without a morsel of
+myrrh, or frankincense, nor yet amber, letting alone the honeycomb,all
 the learning that could be crammed into him.  Has it brought him into our
 temple, in the spirit?  No.  Have we had any ignorant brothers and
 sisters that didn’t know round O from crooked S, come in among us
-meanwhile?  Many.  Then the angels are _not_ learned; then they don’t so
-much as know their alphabet.  And now, my friends and fellow sinners,
-having brought it to that, perhaps some brother present—perhaps you,
-Brother Gimblet—will pray a bit for us?’
+meanwhile?  Many.  Then the angels are not learned; then they don’t so
+much as know their alphabet.  And now, my friends and fellow-sinners,
+having brought it to that, perhaps some brother presentperhaps you,
+Brother Gimbletwill pray a bit for us?’
 
 Brother Gimblet undertook the sacred function, after having drawn his
 sleeve across his mouth, and muttered, ‘Well!  I don’t know as I see my
@@ -498,7 +498,7 @@ this with a dark smile, and then began to bellow.  What we were specially
 to be preserved from, according to his solicitations, was, despoilment of
 the orphan, suppression of testamentary intentions on the part of a
 father or (say) grandfather, appropriation of the orphan’s
-house property, feigning to give in charity to the wronged one from whom
+house-property, feigning to give in charity to the wronged one from whom
 we withheld his due; and that class of sins.  He ended with the petition,
 ‘Give us peace!’ which, speaking for myself, was very much needed after
 twenty minutes of his bellowing.
@@ -508,7 +508,7 @@ perspiration, glance at Brother Hawkyard, and even though I had not heard
 Brother Hawkyard’s tone of congratulating him on the vigour with which he
 had roared, I should have detected a malicious application in this
 prayer.  Unformed suspicions to a similar effect had sometimes passed
-through my mind in my earlier school days, and had always caused me great
+through my mind in my earlier school-days, and had always caused me great
 distress; for they were worldly in their nature, and wide, very wide, of
 the spirit that had drawn me from Sylvia.  They were sordid suspicions,
 without a shadow of proof.  They were worthy to have originated in the
@@ -537,10 +537,10 @@ Cambridge, I determined to walk out to his place of business, and give it
 into his own hands.
 
 It was a winter afternoon, when I tapped at the door of his little
-counting house, which was at the farther end of his long, low shop.  As I
+counting-house, which was at the farther end of his long, low shop.  As I
 did so (having entered by the back yard, where casks and boxes were taken
 in, and where there was the inscription, ‘Private way to the
-counting house’), a shopman called to me from the counter that he was
+counting-house’), a shopman called to me from the counter that he was
 engaged.
 
 ‘Brother Gimblet’ (said the shopman, who was one of the brotherhood) ‘is
@@ -595,7 +595,7 @@ Brother Gimblet listened with a crabbed smile.
 
 ‘It was in a good hour that I came here,’ he said, wrinkling up his eyes.
 ‘It was in a good hour, likewise, that I was moved yesterday to depict
-for the terror of evil doers a character the direct opposite of Brother
+for the terror of evil-doers a character the direct opposite of Brother
 Hawkyard’s.  But it was the Lord that done it: I felt him at it while I
 was perspiring.’
 
@@ -604,16 +604,16 @@ congregation once more before my final departure.  What my shy reserve
 would undergo, from being expressly preached at and prayed at, I knew
 beforehand.  But I reflected that it would be for the last time, and that
 it might add to the weight of my letter.  It was well known to the
-brothers and sisters that there was no place taken for me in _their_
+brothers and sisters that there was no place taken for me in their
 paradise; and if I showed this last token of deference to Brother
 Hawkyard, notoriously in despite of my own sinful inclinations, it might
 go some little way in aid of my statement that he had been good to me,
 and that I was grateful to him.  Merely stipulating, therefore, that no
-express endeavour should be made for my conversion,—which would involve
+express endeavour should be made for my conversion,which would involve
 the rolling of several brothers and sisters on the floor, declaring that
 they felt all their sins in a heap on their left side, weighing so many
 pounds avoirdupois, as I knew from what I had seen of those repulsive
-mysteries,—I promised.
+mysteries,I promised.
 
 Since the reading of my letter, Brother Gimblet had been at intervals
 wiping one eye with an end of his spotted blue neckerchief, and grinning
@@ -644,20 +644,20 @@ ready to pray; Brother Gimblet sitting against the wall, grinningly ready
 to preach.
 
 ‘Let us offer up the sacrifice of prayer, my brothers and sisters and
-fellow sinners.’  Yes; but it was I who was the sacrifice.  It was our
-poor, sinful, worldly minded brother here present who was wrestled for.
-The now opening career of this our unawakened brother might lead to his
-becoming a minister of what was called ‘the church.’  That was what _he_
+fellow-sinners.’  Yes; but it was I who was the sacrifice.  It was our
+poor, sinful, worldly-minded brother here present who was wrestled for.
+The now-opening career of this our unawakened brother might lead to his
+becoming a minister of what was called ‘the church.’  That was what he
 looked to.  The church.  Not the chapel, Lord.  The church.  No rectors,
 no vicars, no archdeacons, no bishops, no archbishops, in the chapel,
 but, O Lord! many such in the church.  Protect our sinful brother from
 his love of lucre.  Cleanse from our unawakened brother’s breast his sin
-of worldly mindedness.  The prayer said infinitely more in words, but
+of worldly-mindedness.  The prayer said infinitely more in words, but
 nothing more to any intelligible effect.
 
 Then Brother Gimblet came forward, and took (as I knew he would) the
 text, ‘My kingdom is not of this world.’  Ah! but whose was, my
-fellow sinners?  Whose?  Why, our brother’s here present was.  The only
+fellow-sinners?  Whose?  Why, our brother’s here present was.  The only
 kingdom he had an idea of was of this world.  (‘That’s it!’ from several
 of the congregation.)  What did the woman do when she lost the piece of
 money?  Went and looked for it.  What should our brother do when he lost
@@ -666,9 +666,9 @@ true.  But must he look for it in the right direction, or in the wrong?
 (‘In the right,’ from a brother.)  There spake the prophets!  He must
 look for it in the right direction, or he couldn’t find it.  But he had
 turned his back upon the right direction, and he wouldn’t find it.  Now,
-my fellow sinners, to show you the difference betwixt worldly mindedness
-and unworldly mindedness, betwixt kingdoms not of this world and kingdoms
-_of_ this world, here was a letter wrote by even our worldly minded
+my fellow-sinners, to show you the difference betwixt worldly-mindedness
+and unworldly-mindedness, betwixt kingdoms not of this world and kingdoms
+of this world, here was a letter wrote by even our worldly-minded
 brother unto Brother Hawkyard.  Judge, from hearing of it read, whether
 Brother Hawkyard was the faithful steward that the Lord had in his mind
 only t’other day, when, in this very place, he drew you the picter of the
@@ -717,14 +717,14 @@ his amiable temper, and his conscientiousness made him the best of
 coaches.’  May my ‘gift of quiet explanation’ come more seasonably and
 powerfully to my aid in this present explanation than I think it will!
 
-It may be in a certain degree owing to the situation of my college rooms
+It may be in a certain degree owing to the situation of my college-rooms
 (in a corner where the daylight was sobered), but it is in a much larger
 degree referable to the state of my own mind, that I seem to myself, on
 looking back to this time of my life, to have been always in the peaceful
 shade.  I can see others in the sunlight; I can see our boats’ crews and
 our athletic young men on the glistening water, or speckled with the
 moving lights of sunlit leaves; but I myself am always in the shadow
-looking on.  Not unsympathetically,—God forbid!—but looking on alone,
+looking on.  Not unsympathetically,God forbid!but looking on alone,
 much as I looked at Sylvia from the shadows of the ruined house, or
 looked at the red gleam shining through the farmer’s windows, and
 listened to the fall of dancing feet, when all the ruin was dark that
@@ -746,7 +746,7 @@ representing the justice of my returning half my fee, as I had been of so
 little use to her son.  Within my knowledge a similar demand had not been
 made in any other case; and I most freely admit that the justice of it
 had not occurred to me until it was pointed out.  But I at once perceived
-it, yielded to it, and returned the money—
+it, yielded to it, and returned the money
 
 Mr. Fareway had been gone two years or more, and I had forgotten him,
 when he one day walked into my rooms as I was sitting at my books.
@@ -782,7 +782,7 @@ on the delicate subject.  We had but a little way to walk, and I was soon
 in his mother’s company.  He presented me, shook hands with me, and left
 us two (as he said) to business.
 
-I saw in my Lady Fareway a handsome, well preserved lady of somewhat
+I saw in my Lady Fareway a handsome, well-preserved lady of somewhat
 large stature, with a steady glare in her great round dark eyes that
 embarrassed me.
 
@@ -791,14 +791,14 @@ glad of some preferment in the church.’  I gave my lady to understand
 that was so.
 
 ‘I don’t know whether you are aware,’ my lady proceeded, ‘that we have a
-presentation to a living?  I say _we_ have; but, in point of fact, _I_
+presentation to a living?  I say we have; but, in point of fact, I
 have.’
 
 I gave my lady to understand that I had not been aware of this.
 
-Said my lady, ‘So it is: indeed I have two presentations,—one to two
-hundred a year, one to six.  Both livings are in our county,—North
-Devonshire,—as you probably know.  The first is vacant.  Would you like
+Said my lady, ‘So it is: indeed I have two presentations,one to two
+hundred a year, one to six.  Both livings are in our county,North
+Devonshire,as you probably know.  The first is vacant.  Would you like
 it?’
 
 What with my lady’s eyes, and what with the suddenness of this proposed
@@ -806,7 +806,7 @@ gift, I was much confused.
 
 ‘I am sorry it is not the larger presentation,’ said my lady, rather
 coldly; ‘though I will not, Mr. Silverman, pay you the bad compliment of
-supposing that _you_ are, because that would be mercenary,—and mercenary
+supposing that you are, because that would be mercenary,and mercenary
 I am persuaded you are not.’
 
 Said I, with my utmost earnestness, ‘Thank you, Lady Fareway, thank you,
@@ -831,12 +831,12 @@ My lady stared at me, as if I knew.  And I didn’t know.  And that
 perplexed me afresh.
 
 Said my lady, after some consideration, ‘O, of course, how very dull of
-me!  The last incumbent,—least mercenary man I ever saw,—in consideration
+me!  The last incumbent,least mercenary man I ever saw,in consideration
 of the duties being so light and the house so delicious, couldn’t rest,
 he said, unless I permitted him to help me with my correspondence,
 accounts, and various little things of that kind; nothing in themselves,
 but which it worries a lady to cope with.  Would Mr. Silverman also like
-to—?  Or shall I—?’
+to?  Or shall I?’
 
 I hastened to say that my poor help would be always at her ladyship’s
 service.
@@ -846,10 +846,10 @@ taking them off me for one moment), ‘in having to do with gentlemen who
 cannot endure an approach to the idea of being mercenary!’  She shivered
 at the word.  ‘And now as to the pupil.’
 
-‘The—?’ I was quite at a loss.
+‘The?’ I was quite at a loss.
 
 ‘Mr. Silverman, you have no idea what she is.  She is,’ said my lady,
-laying her touch upon my coat sleeve, ‘I do verily believe, the most
+laying her touch upon my coat-sleeve, ‘I do verily believe, the most
 extraordinary girl in this world.  Already knows more Greek and Latin
 than Lady Jane Grey.  And taught herself!  Has not yet, remember, derived
 a moment’s advantage from Mr. Silverman’s classical acquirements.  To say
@@ -863,8 +863,8 @@ I did not know where I could have dropped it.
 ‘Adelina,’ said my lady, ‘is my only daughter.  If I did not feel quite
 convinced that I am not blinded by a mother’s partiality; unless I was
 absolutely sure that when you know her, Mr. Silverman, you will esteem it
-a high and unusual privilege to direct her studies,—I should introduce a
-mercenary element into this conversation, and ask you on what terms—’
+a high and unusual privilege to direct her studies,I should introduce a
+mercenary element into this conversation, and ask you on what terms’
 
 I entreated my lady to go no further.  My lady saw that I was troubled,
 and did me the honour to comply with my request.
@@ -877,11 +877,11 @@ EIGHTH CHAPTER
 
 EVERYTHING in mental acquisition that her brother might have been, if he
 would, and everything in all gracious charms and admirable qualities that
-no one but herself could be,—this was Adelina.
+no one but herself could be,this was Adelina.
 
 I will not expatiate upon her beauty; I will not expatiate upon her
 intelligence, her quickness of perception, her powers of memory, her
-sweet consideration, from the first moment, for the slow paced tutor who
+sweet consideration, from the first moment, for the slow-paced tutor who
 ministered to her wonderful gifts.  I was thirty then; I am over sixty
 now: she is ever present to me in these hours as she was in those, bright
 and beautiful and young, wise and fanciful and good.
@@ -900,9 +900,9 @@ that I was ever to hide my secret deep in my own breast, and she was
 never to find it, there was a kind of sustaining joy or pride, or
 comfort, mingled with my pain.
 
-But later on,—say, a year later on,—when I made another discovery, then
+But later on,say, a year later on,when I made another discovery, then
 indeed my suffering and my struggle were strong.  That other discovery
-was—
+was
 
 These words will never see the light, if ever, until my heart is dust;
 until her bright spirit has returned to the regions of which, when
@@ -913,10 +913,10 @@ our little breasts shall have withered away.  That discovery was that she
 loved me.
 
 She may have enhanced my knowledge, and loved me for that; she may have
-over valued my discharge of duty to her, and loved me for that; she may
+over-valued my discharge of duty to her, and loved me for that; she may
 have refined upon a playful compassion which she would sometimes show for
 what she called my want of wisdom, according to the light of the world’s
-dark lanterns, and loved me for that; she may—she must—have confused the
+dark lanterns, and loved me for that; she mayshe musthave confused the
 borrowed light of what I had only learned, with its brightness in its
 pure, original rays; but she loved me at that time, and she made me know
 it.
@@ -947,8 +947,8 @@ but what is called a poor relation.  His parents were dead.  The charges
 of his living and reading with me were defrayed by an uncle; and he and I
 were to do our utmost together for three years towards qualifying him to
 make his way.  At this time he had entered into his second year with me.
-He was well looking, clever, energetic, enthusiastic; bold; in the best
-sense of the term, a thorough young Anglo Saxon.
+He was well-looking, clever, energetic, enthusiastic; bold; in the best
+sense of the term, a thorough young Anglo-Saxon.
 
 I resolved to bring these two together.
 
@@ -958,8 +958,8 @@ I resolved to bring these two together.
 NINTH CHAPTER
 
 
-SAID I, one night, when I had conquered myself, ‘Mr. Granville,’—Mr.
-Granville Wharton his name was,—‘I doubt if you have ever yet so much as
+SAID I, one night, when I had conquered myself, ‘Mr. Granville,’Mr.
+Granville Wharton his name was,‘I doubt if you have ever yet so much as
 seen Miss Fareway.’
 
 ‘Well, sir,’ returned he, laughing, ‘you see her so much yourself, that
@@ -969,8 +969,8 @@ you hardly leave another fellow a chance of seeing her.’
 
 And there the subject dropped for that time.  But I so contrived as that
 they should come together shortly afterwards.  I had previously so
-contrived as to keep them asunder; for while I loved her,—I mean before I
-had determined on my sacrifice,—a lurking jealousy of Mr. Granville lay
+contrived as to keep them asunder; for while I loved her,I mean before I
+had determined on my sacrifice,a lurking jealousy of Mr. Granville lay
 within my unworthy breast.
 
 It was quite an ordinary interview in the Fareway Park but they talked
@@ -1000,7 +1000,7 @@ too well knew interested her, and fashioning him (do not deride or
 misconstrue the expression, unknown reader of this writing; for I have
 suffered!) into a greater resemblance to myself in my solitary one strong
 aspect.  And gradually, gradually, as I saw him take more and more to
-these thrown out lures of mine, then did I come to know better and better
+these thrown-out lures of mine, then did I come to know better and better
 that love was drawing him on, and was drawing her from me.
 
 So passed more than another year; every day a year in its number of my
@@ -1027,7 +1027,7 @@ and considering that Adelina had a fortune now, in her own keeping; and
 considering further that Mr. Granville, though for the present poor, was
 of a good family that had never lived in a cellar in Preston; and
 believing that their love would endure, neither having any great
-discrepancy to find out in the other,—I told them of my readiness to do
+discrepancy to find out in the other,I told them of my readiness to do
 this thing which Adelina asked of her dear tutor, and to send them forth,
 husband and wife, into the shining world with golden gates that awaited
 them.
@@ -1052,9 +1052,9 @@ action I could say without faltering, and I was at peace.
 
 They being well away from my house and from the place after our simple
 breakfast, the time was come when I must do what I had pledged myself to
-them that I would do,—break the intelligence to my lady.
+them that I would do,break the intelligence to my lady.
 
-I went up to the house, and found my lady in her ordinary business room.
+I went up to the house, and found my lady in her ordinary business-room.
 She happened to have an unusual amount of commissions to intrust to me
 that day; and she had filled my hands with papers before I could
 originate a word.
@@ -1067,10 +1067,10 @@ originate a word.
 considered a little.’
 
 ‘Prepared myself; and considered a little!  You appear to have prepared
-_yourself_ but indifferently, anyhow, Mr. Silverman.’  This mighty
+yourself but indifferently, anyhow, Mr. Silverman.’  This mighty
 scornfully, as I experienced my usual embarrassment under her stare.
 
-Said I, in self extenuation once for all, ‘Lady Fareway, I have but to
+Said I, in self-extenuation once for all, ‘Lady Fareway, I have but to
 say for myself that I have tried to do my duty.’
 
 ‘For yourself?’ repeated my lady.  ‘Then there are others concerned, I
@@ -1088,24 +1088,24 @@ hand, and smote me hard upon the cheek.
 ‘Give me back those papers! give me back those papers!’  She tore them
 out of my hands, and tossed them on her table.  Then seating herself
 defiantly in her great chair, and folding her arms, she stabbed me to the
-heart with the unlooked for reproach, ‘You worldly wretch!’
+heart with the unlooked-for reproach, ‘You worldly wretch!’
 
 ‘Worldly?’ I cried.  ‘Worldly?’
 
-‘This, if you please,’—she went on with supreme scorn, pointing me out as
-if there were some one there to see,—‘this, if you please, is the
+‘This, if you please,’she went on with supreme scorn, pointing me out as
+if there were some one there to see,‘this, if you please, is the
 disinterested scholar, with not a design beyond his books!  This, if you
 please, is the simple creature whom any one could overreach in a bargain!
 This, if you please, is Mr. Silverman!  Not of this world; not he!  He
 has too much simplicity for this world’s cunning.  He has too much
-singleness of purpose to be a match for this world’s double dealing.
+singleness of purpose to be a match for this world’s double-dealing.
 What did he give you for it?’
 
 ‘For what?  And who?’
 
 ‘How much,’ she asked, bending forward in her great chair, and
 insultingly tapping the fingers of her right hand on the palm of her
-left,—‘how much does Mr. Granville Wharton pay you for getting him
+left,‘how much does Mr. Granville Wharton pay you for getting him
 Adelina’s money?  What is the amount of your percentage upon Adelina’s
 fortune?  What were the terms of the agreement that you proposed to this
 boy when you, the Rev. George Silverman, licensed to marry, engaged to
@@ -1130,23 +1130,23 @@ under your injurious words?’
 
 ‘It was mentally resigned, my lady, some minutes ago.’
 
-Don’t equivocate, sir.  _Is_ it resigned?’
+Don’t equivocate, sir.  Is it resigned?’
 
 ‘Unconditionally and entirely; and I would that I had never, never come
 near it!’
 
-‘A cordial response from me to _that_ wish, Mr. Silverman!  But take this
+‘A cordial response from me to that wish, Mr. Silverman!  But take this
 with you, sir.  If you had not resigned it, I would have had you deprived
 of it.  And though you have resigned it, you will not get quit of me as
 easily as you think for.  I will pursue you with this story.  I will make
 this nefarious conspiracy of yours, for money, known.  You have made
-money by it, but you have at the same time made an enemy by it.  _You_
+money by it, but you have at the same time made an enemy by it.  You
 will take good care that the money sticks to you; I will take good care
 that the enemy sticks to you.’
 
 Then said I finally, ‘Lady Fareway, I think my heart is broken.  Until I
 came into this room just now, the possibility of such mean wickedness as
-you have imputed to me never dawned upon my thoughts.  Your suspicions—’
+you have imputed to me never dawned upon my thoughts.  Your suspicions’
 
 ‘Suspicions!  Pah!’ said she indignantly.  ‘Certainties.’
 
@@ -1173,9 +1173,9 @@ They stood by me, Adelina and her husband, through it all.  Those who had
 known me at college, and even most of those who had only known me there
 by reputation, stood by me too.  Little by little, the belief widened
 that I was not capable of what was laid to my charge.  At length I was
-presented to a college living in a sequestered place, and there I now pen
-my explanation.  I pen it at my open window in the summer time, before
-me, lying in the churchyard, equal resting place for sound hearts,
+presented to a college-living in a sequestered place, and there I now pen
+my explanation.  I pen it at my open window in the summer-time, before
+me, lying in the churchyard, equal resting-place for sound hearts,
 wounded hearts, and broken hearts.  I pen it for the relief of my own
 mind, not foreseeing whether or no it will ever have a reader.
 

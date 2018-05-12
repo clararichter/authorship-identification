@@ -7,10 +7,13 @@ new_path = "../texts_cleaned/"
 for author_folder in os.listdir(path):
     for file in os.listdir(path + author_folder):
         txt = open(path + author_folder + '/' + file, 'r', errors='ignore').read()
-        cleaned = re.sub(r"([A-Za-z.,;:!\'\"\{\}\[\]\(\)&~<>? ])\-([A-Za-z.,;!:\'\"\{\}\[\]\(\)&~<>? ])", r"\1 \2", txt , 0, re.IGNORECASE)
-        cleaned = re.sub(r"([A-Za-z.,;:!\'\"\{\}\[\]\(\)&~<>? ])\-\-([A-Za-z.,;!:\'\"\{\}\[\]\(\)&~<>? ])", r"\1 \2", cleaned , 0, re.IGNORECASE)
-        cleaned = re.sub(r"([A-Za-z.,;:!\'\"\{\}\[\]\(\)&~<>? ])\-", r"\1 ", cleaned , 0, re.IGNORECASE)
-        cleaned = re.sub(r"([A-Za-z.,;:!\'\"\{\}\[\]\(\)&~<>? ])\-\-", r"\1 ", cleaned , 0, re.IGNORECASE)
+        cleaned = re.sub(r"[—_]+", r"", txt)
+        #
+        #
+        # cleaned = re.sub(r"([A-Za-z.,;:!\'\"\{\}\[\]\(\)&~<>? ])\-([A-Za-z.,;!:\'\"\{\}\[\]\(\)&~<>? ])", r"\1 \2", txt , 0, re.IGNORECASE)
+        # cleaned = re.sub(r"([A-Za-z.,;:!\'\"\{\}\[\]\(\)&~<>? ])\-\-([A-Za-z.,;!:\'\"\{\}\[\]\(\)&~<>? ])", r"\1 \2", cleaned , 0, re.IGNORECASE)
+        # cleaned = re.sub(r"([A-Za-z.,;:!\'\"\{\}\[\]\(\)&~<>? ])\-", r"\1 ", cleaned , 0, re.IGNORECASE)
+        # cleaned = re.sub(r"([A-Za-z.,;:!\'\"\{\}\[\]\(\)&~<>? ])\-\-", r"\1 ", cleaned , 0, re.IGNORECASE)
 
         #cleaned = re.sub(r"([a-z])\-\-([a-z])", r"\1 \2", txt , 0, re.IGNORECASE)
         directory = new_path + author_folder

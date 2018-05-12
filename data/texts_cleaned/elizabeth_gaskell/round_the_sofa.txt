@@ -7,11 +7,11 @@ for the cure of a particular class of diseases.  I was sent with my
 governess into lodgings near his house, in the Old Town.  I was to
 combine lessons from the excellent Edinburgh masters, with the medicines
 and exercises needed for my indisposition.  It was at first rather dreary
-to leave my brothers and sisters, and to give up our merry out of doors
+to leave my brothers and sisters, and to give up our merry out-of-doors
 life with our country home, for dull lodgings, with only poor grave Miss
 Duncan for a companion; and to exchange our romps in the garden and
 rambles through the fields for stiff walks in the streets, the decorum of
-which obliged me to tie my bonnet strings neatly, and put on my shawl
+which obliged me to tie my bonnet-strings neatly, and put on my shawl
 with some regard to straightness.
 
 The evenings were the worst.  It was autumn, and of course they daily
@@ -28,11 +28,11 @@ one time a tutor to young men preparing for the University, in which
 capacity he had become known to Mr. Dawson.  But his pupils had dropped
 off; and when we went to lodge with him, I imagine that his principal
 support was derived from a few occasional lessons which he gave, and from
-letting the rooms that we took, a drawing room opening into a bed room,
+letting the rooms that we took, a drawing-room opening into a bed-room,
 out of which a smaller chamber led.  His daughter was his housekeeper: a
 son, whom we never saw, supposed to be leading the same life that his
 father had done before him, only we never saw or heard of any pupils; and
-there was one hard working, honest little Scottish maiden, square,
+there was one hard-working, honest little Scottish maiden, square,
 stumpy, neat, and plain, who might have been any age from eighteen to
 forty.
 
@@ -41,25 +41,25 @@ their quiet endurance of decent poverty; but at this time, their poverty
 grated against many of my tastes, for I could not recognize the fact,
 that in a town the simple graces of fresh flowers, clean white muslin
 curtains, pretty bright chintzes, all cost money, which is saved by the
-adoption of dust coloured moreen, and mud coloured carpets.  There was
+adoption of dust-coloured moreen, and mud-coloured carpets.  There was
 not a penny spent on mere elegance in that room; yet there was everything
 considered necessary to comfort: but after all, such mere pretences of
-comfort! a hard, slippery, black horse hair sofa, which was no place of
+comfort! a hard, slippery, black horse-hair sofa, which was no place of
 rest; an old piano, serving as a sideboard; a grate, narrowed by an inner
 supplement, till it hardly held a handful of the small coal which could
 scarcely ever be stirred up into a genial blaze.  But there were two
 evils worse than even this coldness and bareness of the rooms: one was
-that we were provided with a latch key, which allowed us to open the
+that we were provided with a latch-key, which allowed us to open the
 front door whenever we came home from a walk, and go upstairs without
 meeting any face of welcome, or hearing the sound of a human voice in the
-apparently deserted house—Mr. Mackenzie piqued himself on the
+apparently deserted houseMr. Mackenzie piqued himself on the
 noiselessness of his establishment; and the other, which might almost
 seem to neutralize the first, was the danger we were always exposed to on
-going out, of the old man—sly, miserly, and intelligent—popping out upon
+going out, of the old mansly, miserly, and intelligentpopping out upon
 us from his room, close to the left hand of the door, with some civility
 which we learned to distrust as a mere pretext for extorting more money,
 yet which it was difficult to refuse: such as the offer of any books out
-of his library, a great temptation, for we could see into the shelf lined
+of his library, a great temptation, for we could see into the shelf-lined
 room; but just as we were on the point of yielding, there was a hint of
 the “consideration” to be expected for the loan of books of so much
 higher a class than any to be obtained at the circulating library, which
@@ -69,7 +69,7 @@ undertook to teach the very things I was to learn; but I would rather
 have been the most ignorant woman that ever lived than tried to learn
 anything from that old fox in breeches.  When we had declined all his
 proposals, he went apparently into dudgeon.  Once when we had forgotten
-our latch key we rang in vain for many times at the door, seeing our
+our latch-key we rang in vain for many times at the door, seeing our
 landlord standing all the time at the window to the right, looking out of
 it in an absent and philosophical state of mind, from which no signs and
 gestures of ours could arouse him.
@@ -77,17 +77,17 @@ gestures of ours could arouse him.
 The women of the household were far better, and more really respectable,
 though even on them poverty had laid her heavy left hand, instead of her
 blessing right.  Miss Mackenzie kept us as short in our food as she
-decently could—we paid so much a week for our board, be it observed; and
+decently couldwe paid so much a week for our board, be it observed; and
 if one day we had less appetite than another our meals were docked to the
 smaller standard, until Miss Duncan ventured to remonstrate.  The sturdy
-maid of all work was scrupulously honest, but looked discontented, and
+maid-of-all-work was scrupulously honest, but looked discontented, and
 scarcely vouchsafed us thanks, when on leaving we gave her what Mrs.
 Dawson had told us would be considered handsome in most lodgings.  I do
 not believe Phenice ever received wages from the Mackenzies.
 
 But that dear Mrs. Dawson!  The mention of her comes into my mind like
 the bright sunshine into our dingy little drawing room came on those
-days;—as a sweet scent of violets greets the sorrowful passer among the
+days;as a sweet scent of violets greets the sorrowful passer among the
 woodlands.
 
 Mrs. Dawson was not Mr. Dawson’s wife, for he was a bachelor.  She was
@@ -95,13 +95,13 @@ his crippled sister, an old maid, who had, what she called, taken her
 brevet rank.
 
 After we had been about a fortnight in Edinburgh, Mr. Dawson said, in a
-sort of half doubtful manner to Miss Duncan—
+sort of half doubtful manner to Miss Duncan
 
 “My sister bids me say, that every Monday evening a few friends come in
-to sit round her sofa for an hour or so,—some before going to gayer
-parties—and that if you and Miss Greatorex would like a little change,
+to sit round her sofa for an hour or so,some before going to gayer
+partiesand that if you and Miss Greatorex would like a little change,
 she would only be too glad to see you.  Any time from seven to eight
-to night; and I must add my injunctions, both for her sake, and for that
+to-night; and I must add my injunctions, both for her sake, and for that
 of my little patient’s, here, that you leave at nine o’clock.  After all,
 I do not know if you will care to come; but Margaret bade me ask you;”
 and he glanced up suspiciously and sharply at us.  If either of us had
@@ -120,34 +120,34 @@ on.
 
 “You’ll find it very dull, I dare say.  Only a few old fogies like
 myself, and one or two good sweet young women: I never know who’ll come.
-Margaret is obliged to lie in a darkened room—only half lighted I
-mean,—because her eyes are weak,—oh, it will be very stupid, I dare say:
+Margaret is obliged to lie in a darkened roomonly half-lighted I
+mean,because her eyes are weak,oh, it will be very stupid, I dare say:
 don’t thank me till you’ve been once and tried it, and then if you like
-it, your best thanks will be to come again every Monday, from half past
-seven to nine, you know.  Good bye, good bye.”
+it, your best thanks will be to come again every Monday, from half-past
+seven to nine, you know.  Good-bye, good-bye.”
 
-Hitherto I had never been out to a party of grown up people; and no court
+Hitherto I had never been out to a party of grown-up people; and no court
 ball to a London young lady could seem more redolent of honour and
 pleasure than this Monday evening to me.
 
-Dressed out in new stiff book muslin, made up to my throat,—a frock which
+Dressed out in new stiff book-muslin, made up to my throat,a frock which
 had seemed to me and my sisters the height of earthly grandeur and
-finery—Alice, our old nurse, had been making it at home, in contemplation
+fineryAlice, our old nurse, had been making it at home, in contemplation
 of the possibility of such an event during my stay in Edinburgh, but
 which had then appeared to me a robe too lovely and angelic to be ever
-worn short of heaven—I went with Miss Duncan to Mr. Dawson’s at the
+worn short of heavenI went with Miss Duncan to Mr. Dawson’s at the
 appointed time.  We entered through one small lofty room, perhaps I ought
-to call it an antechamber, for the house was old fashioned, and stately
-and grand, the large square drawing room, into the centre of which Mrs.
+to call it an antechamber, for the house was old-fashioned, and stately
+and grand, the large square drawing-room, into the centre of which Mrs.
 Dawson’s sofa was drawn.  Behind her a little was placed a table with a
-great cluster candlestick upon it, bearing seven or eight wax lights; and
+great cluster candlestick upon it, bearing seven or eight wax-lights; and
 that was all the light in the room, which looked to me very vast and
-indistinct after our pinched up apartment at the Mackenzie’s.  Mrs.
+indistinct after our pinched-up apartment at the Mackenzie’s.  Mrs.
 Dawson must have been sixty; and yet her face looked very soft and smooth
-and child like.  Her hair was quite gray: it would have looked white but
+and child-like.  Her hair was quite gray: it would have looked white but
 for the snowiness of her cap, and satin ribbon.  She was wrapped in a
-kind of dressing gown of French grey merino: the furniture of the room
-was deep rose colour, and white and gold,—the paper which covered the
+kind of dressing-gown of French grey merino: the furniture of the room
+was deep rose-colour, and white and gold,the paper which covered the
 walls was Indian, beginning low down with a profusion of tropical leaves
 and birds and insects, and gradually diminishing in richness of detail
 till at the top it ended in the most delicate tendrils and most filmy
@@ -155,18 +155,18 @@ insects.
 
 Mr. Dawson had acquired much riches in his profession, and his house gave
 one this impression.  In the corners of the rooms were great jars of
-Eastern china, filled with flower leaves and spices; and in the middle of
+Eastern china, filled with flower-leaves and spices; and in the middle of
 all this was placed the sofa, which poor Margaret Dawson passed whole
 days, and months, and years, without the power of moving by herself.
-By and by Mrs. Dawson’s maid brought in tea and macaroons for us, and a
+By-and-by Mrs. Dawson’s maid brought in tea and macaroons for us, and a
 little cup of milk and water and a biscuit for her.  Then the door
 opened.  We had come very early, and in came Edinburgh professors,
 Edinburgh beauties, and celebrities, all on their way to some other gayer
 and later party, but coming first to see Mrs. Dawson, and tell her their
-_bon mots_, or their interests, or their plans.  By each learned man, by
+bon-mots, or their interests, or their plans.  By each learned man, by
 each lovely girl, she was treated as a dear friend, who knew something
 more about their own individual selves, independent of their reputation
-and general society character, than any one else.
+and general society-character, than any one else.
 
 It was very brilliant and very dazzling, and gave enough to think about
 and wonder about for many days.
@@ -202,7 +202,7 @@ I spoke it.
 Edinburgh; you do not speak Scotch, and Mr. Dawson says he is not
 Scotch.”
 
-“No, I am Lancashire—Liverpool born,” said she, smiling.  “Don’t you hear
+“No, I am LancashireLiverpool-born,” said she, smiling.  “Don’t you hear
 it in my broad tongue?”
 
 “I hear something different to other people, but I like it because it is
@@ -219,7 +219,7 @@ and she seemed so fond of Lady Ludlow; who is she?”
 “She is dead, my child; dead long ago.”
 
 I felt sorry I had spoken about her, Mrs. Dawson looked so grave and sad.
-I suppose she perceived my sorrow, for she went on and said—“My dear, I
+I suppose she perceived my sorrow, for she went on and said“My dear, I
 like to talk and to think of Lady Ludlow: she was my true, kind friend
 and benefactress for many years; ask me what you like about her, and do
 not think you give me pain.”
@@ -230,7 +230,7 @@ I grew bold at this.
 
 “Nay,” said she, smiling, “that would be too long a story.  Here are
 Signor Sperano, and Miss Duncan, and Mr. and Mrs. Preston are coming
-to night, Mr. Preston told me; how would they like to hear an old world
+to-night, Mr. Preston told me; how would they like to hear an old-world
 story which, after all, would be no story at all, neither beginning, nor
 middle, nor end, only a bundle of recollections?”
 
@@ -255,7 +255,7 @@ us about my Lady Ludlow.
 
                                 * * * * *
 
-                [_At this point comes_ “_My Lady Ludlow_”]
+                [At this point comes “My Lady Ludlow”]
 
                                 * * * * *
 
@@ -280,9 +280,9 @@ Society, and that perhaps we might care to hear it before it was sent
 off: it was in a great measure compiled from a French book, published by
 one of the Academies, and rather dry in itself; but to which Mr. Dawson’s
 attention had been directed, after a tour he had made in England during
-the past year, in which he had noticed small walled up doors in unusual
+the past year, in which he had noticed small walled-up doors in unusual
 parts of some old parish churches, and had been told that they had
-formerly been appropriated to the use of some half heathen race, who,
+formerly been appropriated to the use of some half-heathen race, who,
 before the days of gipsies, held the same outcast pariah position in most
 of the countries of western Europe.  Mr. Dawson had been recommended to
 the French book which he named, as containing the fullest and most
@@ -293,14 +293,14 @@ more interesting than I anticipated.
 
                                 * * * * *
 
-               [_At this point comes_ “_An Accursed Race_”]
+               [At this point comes “An Accursed Race”]
 
                                 * * * * *
 
 For some time past I had observed that Miss Duncan made a good deal of
 occupation for herself in writing, but that she did not like me to notice
 her employment.  Of course this made me all the more curious; and many
-were my silent conjectures—some of them so near the truth that I was not
+were my silent conjecturessome of them so near the truth that I was not
 much surprised when, after Mr. Dawson had finished reading his Paper to
 us, she hesitated, coughed, and abruptly introduced a little formal
 speech, to the effect that she had noted down an old Welsh story the
@@ -310,12 +310,12 @@ read the manuscript, which she now produced from her reticule; but, when
 on the point of beginning, her nervousness seemed to overcome her, and
 she made so many apologies for its being the first and only attempt she
 had ever made at that kind of composition, that I began to wonder if we
-should ever arrive at the story at all.  At length, in a high pitched,
-ill assured voice, she read out the title:
+should ever arrive at the story at all.  At length, in a high-pitched,
+ill-assured voice, she read out the title:
 
                        “THE DOOM OF THE GRIFFITHS.”
 
-          [_At this point comes_ “_The Doom of the Griffiths_”]
+          [At this point comes “The Doom of the Griffiths”]
 
                                 * * * * *
 
@@ -325,16 +325,16 @@ the hand that the tears came into her eyes, and the colour to her checks.
 
 “I though you had been so kind; I liked hearing about Lady Ludlow; I
 fancied, perhaps, I could do something to give a little pleasure,” were
-the half finished sentences Miss Duncan stammered out.  I am sure it was
+the half-finished sentences Miss Duncan stammered out.  I am sure it was
 the wish to earn similar kind words from Mrs. Dawson, that made Mrs.
 Preston try and rummage through her memory to see if she could not
 recollect some fact, or event, or history, which might interested Mrs.
 Dawson and the little party that gathered round her sofa.  Mrs. Preston
 it was who told us the following tale:
 
-                         “HALF A LIFE TIME AGO.”
+                         “HALF A LIFE-TIME AGO.”
 
-             [_At this point comes_ “_Half a Life Time Ago_”]
+             [At this point comes “Half a Life-Time Ago”]
 
                                 * * * * *
 
@@ -343,14 +343,14 @@ gentlemen, Signor Sperano and Mr. Preston, and told them that they had
 hitherto been amused or interested, but that it was now their turn to
 amuse or interest.  They looked at each other as if this application of
 hers took them by surprise, and seemed altogether as much abashed as
-well grown men can ever be.  Signor Sperano was the first to recover
-himself: after thinking a little, he said—
+well-grown men can ever be.  Signor Sperano was the first to recover
+himself: after thinking a little, he said
 
 “Your will, dear lady, is law.  Next Monday evening, I will bring you an
 old, old story, which I found among the papers of the good old priest who
 first welcomed me to England.  It was but a poor return for his generous
 kindness; but I had the opportunity of nursing him through the cholera,
-of which he died.  He left me all that he had—no money—but his scanty
+of which he died.  He left me all that he hadno moneybut his scanty
 furniture, his book of prayers, his crucifix and rosary, and his papers.
 How some of those papers came into his hands I know not.  They had
 evidently been written many years before the venerable man was born; and
@@ -363,7 +363,7 @@ Next Monday, Signor Sperano read to us the story which I will call
 
                             “THE POOR CLARE.”
 
-                [_At this point comes_ “_The Poor Clare_”]
+                [At this point comes “The Poor Clare”]
 
                                 * * * * *
 
@@ -373,7 +373,7 @@ information, tradition, history, or legend.  We naturally turned to him;
 but we did not like asking him directly for his contribution, for he was
 a grave, reserved, and silent man.
 
-He understood us, however, and, rousing himself as it were, he said—
+He understood us, however, and, rousing himself as it were, he said
 
 “I know you wish me to tell you, in my turn, of something which I have
 learnt during my life.  I could tell you something of my own life, and of

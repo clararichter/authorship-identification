@@ -1,4 +1,4 @@
-Morning room in Algernon's flat in Half Moon Street.  The room is
+Morning-room in Algernon's flat in Half-Moon Street.  The room is
 luxuriously and artistically furnished.  The sound of a piano is heard in
 the adjoining room.
 
@@ -10,7 +10,7 @@ Algernon.  Did you hear what I was playing, Lane?
 Lane.  I didn't think it polite to listen, sir.
 
 Algernon.  I'm sorry for that, for your sake.  I don't play
-accurately any one can play accurately but I play with wonderful
+accurately--any one can play accurately--but I play with wonderful
 expression.  As far as the piano is concerned, sentiment is my forte.  I
 keep science for Life.
 
@@ -33,16 +33,16 @@ invariably drink the champagne?  I ask merely for information.
 
 Lane.  I attribute it to the superior quality of the wine, sir.  I have
 often observed that in married households the champagne is rarely of a
-first rate brand.
+first-rate brand.
 
 Algernon.  Good heavens!  Is marriage so demoralising as that?
 
-Lane.  I believe it _is_ a very pleasant state, sir.  I have had very
+Lane.  I believe it is a very pleasant state, sir.  I have had very
 little experience of it myself up to the present.  I have only been
 married once.  That was in consequence of a misunderstanding between
 myself and a young person.
 
-Algernon.  [Languidly_._]  I don't know that I am much interested in your
+Algernon.  [Languidly.]  I don't know that I am much interested in your
 family life, Lane.
 
 Lane.  No, sir; it is not a very interesting subject.  I never think of
@@ -63,14 +63,14 @@ Lane.  Mr. Ernest Worthing.
 
 [Enter Jack.]
 
-[Lane goes out_._]
+[Lane goes out.]
 
 Algernon.  How are you, my dear Ernest?  What brings you up to town?
 
 Jack.  Oh, pleasure, pleasure!  What else should bring one anywhere?
 Eating as usual, I see, Algy!
 
-Algernon.  [Stiffly_._]  I believe it is customary in good society to
+Algernon.  [Stiffly.]  I believe it is customary in good society to
 take some slight refreshment at five o'clock.  Where have you been since
 last Thursday?
 
@@ -78,13 +78,13 @@ Jack.  [Sitting down on the sofa.]  In the country.
 
 Algernon.  What on earth do you do there?
 
-Jack.  [Pulling off his gloves_._]  When one is in town one amuses
+Jack.  [Pulling off his gloves.]  When one is in town one amuses
 oneself.  When one is in the country one amuses other people.  It is
 excessively boring.
 
 Algernon.  And who are the people you amuse?
 
-Jack.  [Airily_._]  Oh, neighbours, neighbours.
+Jack.  [Airily.]  Oh, neighbours, neighbours.
 
 Algernon.  Got nice neighbours in your part of Shropshire?
 
@@ -128,7 +128,7 @@ specially invented for people whose memories are so curiously
 constituted.
 
 Algernon.  Oh! there is no use speculating on that subject.  Divorces are
-made in Heaven [Jack puts out his hand to take a sandwich.  Algernon at
+made in Heaven--[Jack puts out his hand to take a sandwich.  Algernon at
 once interferes.]  Please don't touch the cucumber sandwiches.  They are
 ordered specially for Aunt Augusta.  [Takes one and eats it.]
 
@@ -167,7 +167,7 @@ Cecily!  I don't know any one of the name of Cecily.
 
 [Enter Lane.]
 
-Algernon.  Bring me that cigarette case Mr. Worthing left in the smoking 
+Algernon.  Bring me that cigarette case Mr. Worthing left in the smoking-
 room the last time he dined here.
 
 Lane.  Yes, sir.  [Lane goes out.]
@@ -236,7 +236,7 @@ Jack.  It isn't Ernest; it's Jack.
 
 Algernon.  You have always told me it was Ernest.  I have introduced you
 to every one as Ernest.  You answer to the name of Ernest.  You look as
-if your name was Ernest.  You are the most earnest looking person I ever
+if your name was Ernest.  You are the most earnest-looking person I ever
 saw in my life.  It is perfectly absurd your saying that your name isn't
 Ernest.  It's on your cards.  Here is one of them.  [Taking it from
 case.]  'Mr. Ernest Worthing, B. 4, The Albany.'  I'll keep this as a
@@ -273,7 +273,7 @@ explanation, and pray make it improbable.  [Sits on sofa.]
 Jack.  My dear fellow, there is nothing improbable about my explanation
 at all.  In fact it's perfectly ordinary.  Old Mr. Thomas Cardew, who
 adopted me when I was a little boy, made me in his will guardian to his
-grand daughter, Miss Cecily Cardew.  Cecily, who addresses me as her
+grand-daughter, Miss Cecily Cardew.  Cecily, who addresses me as her
 uncle from motives of respect that you could not possibly appreciate,
 lives at my place in the country under the charge of her admirable
 governess, Miss Prism.
@@ -316,11 +316,11 @@ in order that you may be able to come up to town as often as you like.  I
 have invented an invaluable permanent invalid called Bunbury, in order
 that I may be able to go down into the country whenever I choose.  Bunbury
 is perfectly invaluable.  If it wasn't for Bunbury's extraordinary bad
-health, for instance, I wouldn't be able to dine with you at Willis's to 
+health, for instance, I wouldn't be able to dine with you at Willis's to-
 night, for I have been really engaged to Aunt Augusta for more than a
 week.
 
-Jack.  I haven't asked you to dine with me anywhere to night.
+Jack.  I haven't asked you to dine with me anywhere to-night.
 
 Algernon.  I know.  You are absurdly careless about sending out
 invitations.  It is very foolish of you.  Nothing annoys people so much
@@ -333,9 +333,9 @@ kind.  To begin with, I dined there on Monday, and once a week is quite
 enough to dine with one's own relations.  In the second place, whenever I
 do dine there I am always treated as a member of the family, and sent
 down with either no woman at all, or two.  In the third place, I know
-perfectly well whom she will place me next to, to night.  She will place
+perfectly well whom she will place me next to, to-night.  She will place
 me next Mary Farquhar, who always flirts with her own husband across the
-dinner table.  That is not very pleasant.  Indeed, it is not even decent
+dinner-table.  That is not very pleasant.  Indeed, it is not even decent
 . . . and that sort of thing is enormously on the increase.  The amount
 of women in London who flirt with their own husbands is perfectly
 scandalous.  It looks so bad.  It is simply washing one's clean linen in
@@ -375,7 +375,7 @@ such a lot of beastly competition about.  [The sound of an electric bell
 is heard.]  Ah! that must be Aunt Augusta.  Only relatives, or creditors,
 ever ring in that Wagnerian manner.  Now, if I get her out of the way for
 ten minutes, so that you can have an opportunity for proposing to
-Gwendolen, may I dine with you to night at Willis's?
+Gwendolen, may I dine with you to-night at Willis's?
 
 Jack.  I suppose so, if you want to.
 
@@ -413,7 +413,7 @@ husband's death.  I never saw a woman so altered; she looks quite twenty
 years younger.  And now I'll have a cup of tea, and one of those nice
 cucumber sandwiches you promised me.
 
-Algernon.  Certainly, Aunt Augusta.  [Goes over to tea table.]
+Algernon.  Certainly, Aunt Augusta.  [Goes over to tea-table.]
 
 Lady Bracknell.  Won't you come and sit here, Gwendolen?
 
@@ -444,12 +444,12 @@ Algernon.  I hear her hair has turned quite gold from grief.
 
 Lady Bracknell.  It certainly has changed its colour.  From what cause I,
 of course, cannot say.  [Algernon crosses and hands tea.]  Thank you.
-I've quite a treat for you to night, Algernon.  I am going to send you
+I've quite a treat for you to-night, Algernon.  I am going to send you
 down with Mary Farquhar.  She is such a nice woman, and so attentive to
 her husband.  It's delightful to watch them.
 
 Algernon.  I am afraid, Aunt Augusta, I shall have to give up the
-pleasure of dining with you to night after all.
+pleasure of dining with you to-night after all.
 
 Lady Bracknell.  [Frowning.]  I hope not, Algernon.  It would put my
 table completely out.  Your uncle would have to dine upstairs.
@@ -467,7 +467,7 @@ Algernon.  Yes; poor Bunbury is a dreadful invalid.
 
 Lady Bracknell.  Well, I must say, Algernon, that I think it is high time
 that Mr. Bunbury made up his mind whether he was going to live or to die.
-This shilly shallying with the question is absurd.  Nor do I in any way
+This shilly-shallying with the question is absurd.  Nor do I in any way
 approve of the modern sympathy with invalids.  I consider it morbid.
 Illness of any kind is hardly a thing to be encouraged in others.  Health
 is the primary duty of life.  I am always telling that to your poor
@@ -496,7 +496,7 @@ Gwendolen, you will accompany me.
 
 Gwendolen.  Certainly, mamma.
 
-[Lady Bracknell and Algernon go into the music room, Gwendolen remains
+[Lady Bracknell and Algernon go into the music-room, Gwendolen remains
 behind.]
 
 Jack.  Charming day it has been, Miss Fairfax.
@@ -569,7 +569,7 @@ called John.  She would probably never be allowed to know the entrancing
 pleasure of a single moment's solitude.  The only really safe name is
 Ernest.
 
-Jack.  Gwendolen, I must get christened at once I mean we must get
+Jack.  Gwendolen, I must get christened at once--I mean we must get
 married at once.  There is no time to be lost.
 
 Gwendolen.  Married, Mr. Worthing?
@@ -586,7 +586,7 @@ Jack.  Well . . . may I propose to you now?
 
 Gwendolen.  I think it would be an admirable opportunity.  And to spare
 you any possible disappointment, Mr. Worthing, I think it only fair to
-tell you quite frankly before hand that I am fully determined to accept
+tell you quite frankly before-hand that I am fully determined to accept
 you.
 
 Jack.  Gwendolen!
@@ -605,12 +605,12 @@ I am afraid you have had very little experience in how to propose.
 Jack.  My own one, I have never loved any one in the world but you.
 
 Gwendolen.  Yes, but men often propose for practice.  I know my brother
-Gerald does.  All my girl friends tell me so.  What wonderfully blue eyes
+Gerald does.  All my girl-friends tell me so.  What wonderfully blue eyes
 you have, Ernest!  They are quite, quite, blue.  I hope you will always
 look at me just like that, especially when there are other people
 present.  [Enter Lady Bracknell.]
 
-Lady Bracknell.  Mr. Worthing!  Rise, sir, from this semi recumbent
+Lady Bracknell.  Mr. Worthing!  Rise, sir, from this semi-recumbent
 posture.  It is most indecorous.
 
 Gwendolen.  Mamma!  [He tries to rise; she restrains him.]  I must beg
@@ -641,11 +641,11 @@ Gwendolen.  Yes, mamma.  [Goes out, looking back at Jack.]
 
 Lady Bracknell.  [Sitting down.]  You can take a seat, Mr. Worthing.
 
-[Looks in her pocket for note book and pencil.]
+[Looks in her pocket for note-book and pencil.]
 
 Jack.  Thank you, Lady Bracknell, I prefer standing.
 
-Lady Bracknell.  [Pencil and note book in hand.]  I feel bound to tell
+Lady Bracknell.  [Pencil and note-book in hand.]  I feel bound to tell
 you that you are not down on my list of eligible young men, although I
 have the same list as the dear Duchess of Bolton has.  We work together,
 in fact.  However, I am quite ready to enter your name, should your
@@ -657,7 +657,7 @@ Lady Bracknell.  I am glad to hear it.  A man should always have an
 occupation of some kind.  There are far too many idle men in London as it
 is.  How old are you?
 
-Jack.  Twenty nine.
+Jack.  Twenty-nine.
 
 Lady Bracknell.  A very good age to be married at.  I have always been of
 opinion that a man who desires to get married should know either
@@ -740,40 +740,40 @@ Lady Bracknell.  Found!
 
 Jack.  The late Mr. Thomas Cardew, an old gentleman of a very charitable
 and kindly disposition, found me, and gave me the name of Worthing,
-because he happened to have a first class ticket for Worthing in his
+because he happened to have a first-class ticket for Worthing in his
 pocket at the time.  Worthing is a place in Sussex.  It is a seaside
 resort.
 
-Lady Bracknell.  Where did the charitable gentleman who had a first class
+Lady Bracknell.  Where did the charitable gentleman who had a first-class
 ticket for this seaside resort find you?
 
-Jack.  [Gravely.]  In a hand bag.
+Jack.  [Gravely.]  In a hand-bag.
 
-Lady Bracknell.  A hand bag?
+Lady Bracknell.  A hand-bag?
 
-Jack.  [Very seriously.]  Yes, Lady Bracknell.  I was in a hand bag a
-somewhat large, black leather hand bag, with handles to it an ordinary
-hand bag in fact.
+Jack.  [Very seriously.]  Yes, Lady Bracknell.  I was in a hand-bag--a
+somewhat large, black leather hand-bag, with handles to it--an ordinary
+hand-bag in fact.
 
 Lady Bracknell.  In what locality did this Mr. James, or Thomas, Cardew
-come across this ordinary hand bag?
+come across this ordinary hand-bag?
 
-Jack.  In the cloak room at Victoria Station.  It was given to him in
+Jack.  In the cloak-room at Victoria Station.  It was given to him in
 mistake for his own.
 
-Lady Bracknell.  The cloak room at Victoria Station?
+Lady Bracknell.  The cloak-room at Victoria Station?
 
 Jack.  Yes.  The Brighton line.
 
 Lady Bracknell.  The line is immaterial.  Mr. Worthing, I confess I feel
 somewhat bewildered by what you have just told me.  To be born, or at any
-rate bred, in a hand bag, whether it had handles or not, seems to me to
+rate bred, in a hand-bag, whether it had handles or not, seems to me to
 display a contempt for the ordinary decencies of family life that reminds
 one of the worst excesses of the French Revolution.  And I presume you
 know what that unfortunate movement led to?  As for the particular
-locality in which the hand bag was found, a cloak room at a railway
-station might serve to conceal a social indiscretion has probably,
-indeed, been used for that purpose before now but it could hardly be
+locality in which the hand-bag was found, a cloak-room at a railway
+station might serve to conceal a social indiscretion--has probably,
+indeed, been used for that purpose before now--but it could hardly be
 regarded as an assured basis for a recognised position in good society.
 
 Jack.  May I ask you then what you would advise me to do?  I need hardly
@@ -785,12 +785,12 @@ to produce at any rate one parent, of either sex, before the season is
 quite over.
 
 Jack.  Well, I don't see how I could possibly manage to do that.  I can
-produce the hand bag at any moment.  It is in my dressing room at home.  I
+produce the hand-bag at any moment.  It is in my dressing-room at home.  I
 really think that should satisfy you, Lady Bracknell.
 
 Lady Bracknell.  Me, sir!  What has it to do with me?  You can hardly
 imagine that I and Lord Bracknell would dream of allowing our only
-daughter a girl brought up with the utmost care to marry into a cloak 
+daughter--a girl brought up with the utmost care--to marry into a cloak-
 room, and form an alliance with a parcel?  Good morning, Mr. Worthing!
 
 [Lady Bracknell sweeps out in majestic indignation.]
@@ -803,7 +803,7 @@ goodness' sake don't play that ghastly tune, Algy.  How idiotic you are!
 
 Algernon.  Didn't it go off all right, old boy?  You don't mean to say
 Gwendolen refused you?  I know it is a way she has.  She is always
-refusing people.  I think it is most ill natured of her.
+refusing people.  I think it is most ill-natured of her.
 
 Jack.  Oh, Gwendolen is as right as a trivet.  As far as she is
 concerned, we are engaged.  Her mother is perfectly unbearable.  Never
@@ -952,7 +952,7 @@ Jack.  My own darling!
 
 Gwendolen.  Ernest, we may never be married.  From the expression on
 mamma's face I fear we never shall.  Few parents nowadays pay any regard
-to what their children say to them.  The old fashioned respect for the
+to what their children say to them.  The old-fashioned respect for the
 young is fast dying out.  Whatever influence I ever had over mamma, I
 lost at the age of three.  But although she may prevent us from becoming
 man and wife, and I may marry some one else, and marry often, nothing
@@ -970,7 +970,7 @@ country?
 Jack.  The Manor House, Woolton, Hertfordshire.
 
 [Algernon, who has been carefully listening, smiles to himself, and
-writes the address on his shirt cuff.  Then picks up the Railway Guide.]
+writes the address on his shirt-cuff.  Then picks up the Railway Guide.]
 
 Gwendolen.  There is a good postal service, I suppose?  It may be
 necessary to do something desperate.  That of course will require serious
@@ -1004,7 +1004,7 @@ Algernon.  A glass of sherry, Lane.
 
 Lane.  Yes, sir.
 
-Algernon.  To morrow, Lane, I'm going Bunburying.
+Algernon.  To-morrow, Lane, I'm going Bunburying.
 
 Lane.  Yes, sir.
 
@@ -1013,7 +1013,7 @@ dress clothes, my smoking jacket, and all the Bunbury suits . . .
 
 Lane.  Yes, sir.  [Handing sherry.]
 
-Algernon.  I hope to morrow will be a fine day, Lane.
+Algernon.  I hope to-morrow will be a fine day, Lane.
 
 Lane.  It never is, sir.
 
@@ -1040,7 +1040,7 @@ Jack.  Oh, that's nonsense, Algy.  You never talk anything but nonsense.
 Algernon.  Nobody ever does.
 
 [Jack looks indignantly at him, and leaves the room.  Algernon lights a
-cigarette, reads his shirt cuff, and smiles.]
+cigarette, reads his shirt-cuff, and smiles.]
 
 ACT DROP
 
@@ -1054,9 +1054,9 @@ SCENE
 
 
 Garden at the Manor House.  A flight of grey stone steps leads up to the
-house.  The garden, an old fashioned one, full of roses.  Time of year,
+house.  The garden, an old-fashioned one, full of roses.  Time of year,
 July.  Basket chairs, and a table covered with books, are set under a
-large yew tree.
+large yew-tree.
 
 [Miss Prism discovered seated at the table.  Cecily is at the back
 watering flowers.]
@@ -1115,9 +1115,9 @@ with us.
 
 Cecily.  Yes, but it usually chronicles the things that have never
 happened, and couldn't possibly have happened.  I believe that Memory is
-responsible for nearly all the three volume novels that Mudie sends us.
+responsible for nearly all the three-volume novels that Mudie sends us.
 
-Miss Prism.  Do not speak slightingly of the three volume novel, Cecily.
+Miss Prism.  Do not speak slightingly of the three-volume novel, Cecily.
 I wrote one myself in earlier days.
 
 Cecily.  Did you really, Miss Prism?  How wonderfully clever you are!  I
@@ -1161,7 +1161,7 @@ Cecily.  Oh, I am afraid I am.
 
 Chasuble.  That is strange.  Were I fortunate enough to be Miss Prism's
 pupil, I would hang upon her lips.  [Miss Prism glares.]  I spoke
-metaphorically. My metaphor was drawn from bees.  Ahem!  Mr. Worthing, I
+metaphorically.--My metaphor was drawn from bees.  Ahem!  Mr. Worthing, I
 suppose, has not returned from town yet?
 
 Miss Prism.  We do not expect him till Monday afternoon.
@@ -1315,7 +1315,7 @@ Algernon.  Because you are like a pink rose, Cousin Cecily.
 Cecily.  I don't think it can be right for you to talk to me like that.
 Miss Prism never says such things to me.
 
-Algernon.  Then Miss Prism is a short sighted old lady.  [Cecily puts the
+Algernon.  Then Miss Prism is a short-sighted old lady.  [Cecily puts the
 rose in his buttonhole.]  You are the prettiest girl I ever saw.
 
 Cecily.  Miss Prism says that all good looks are a snare.
@@ -1329,7 +1329,7 @@ shouldn't know what to talk to him about.
 [They pass into the house.  Miss Prism and Dr. Chasuble return.]
 
 Miss Prism.  You are too much alone, dear Dr. Chasuble.  You should get
-married.  A misanthrope I can understand a womanthrope, never!
+married.  A misanthrope I can understand--a womanthrope, never!
 
 Chasuble.  [With a scholar's shudder.]  Believe me, I do not deserve so
 neologistic a phrase.  The precept as well as the practice of the
@@ -1463,10 +1463,10 @@ Jack.  Oh, I might trot round about five if that would suit you.
 Chasuble.  Perfectly, perfectly!  In fact I have two similar ceremonies
 to perform at that time.  A case of twins that occurred recently in one
 of the outlying cottages on your own estate.  Poor Jenkins the carter, a
-most hard working man.
+most hard-working man.
 
 Jack.  Oh!  I don't see much fun in being christened along with other
-babies.  It would be childish.  Would half past five do?
+babies.  It would be childish.  Would half-past five do?
 
 Chasuble.  Admirably!  Admirably!  [Takes out watch.]  And now, dear Mr.
 Worthing, I will not intrude any longer into a house of sorrow.  I would
@@ -1487,7 +1487,7 @@ brow in a melancholy manner.]
 
 Cecily.  What is the matter, Uncle Jack?  Do look happy!  You look as if
 you had toothache, and I have got such a surprise for you.  Who do you
-think is in the dining room?  Your brother!
+think is in the dining-room?  Your brother!
 
 Jack.  Who?
 
@@ -1505,7 +1505,7 @@ Chasuble.  These are very joyful tidings.
 Miss Prism.  After we had all been resigned to his loss, his sudden
 return seems to me peculiarly distressing.
 
-Jack.  My brother is in the dining room?  I don't know what it all means.
+Jack.  My brother is in the dining-room?  I don't know what it all means.
 I think it is perfectly absurd.
 
 [Enter Algernon and Cecily hand in hand.  They come slowly up to Jack.]
@@ -1559,7 +1559,7 @@ Miss Prism.  Cecily, you will come with us.
 Cecily.  Certainly, Miss Prism.  My little task of reconciliation is
 over.
 
-Chasuble.  You have done a beautiful action to day, dear child.
+Chasuble.  You have done a beautiful action to-day, dear child.
 
 Miss Prism.  We must not be premature in our judgments.
 
@@ -1580,12 +1580,12 @@ the room next to your own.
 
 Jack.  His luggage?
 
-Merriman.  Yes, sir.  Three portmanteaus, a dressing case, two hat boxes,
-and a large luncheon basket.
+Merriman.  Yes, sir.  Three portmanteaus, a dressing-case, two hat-boxes,
+and a large luncheon-basket.
 
 Algernon.  I am afraid I can't stay more than a week this time.
 
-Jack.  Merriman, order the dog cart at once.  Mr. Ernest has been
+Jack.  Merriman, order the dog-cart at once.  Mr. Ernest has been
 suddenly called back to town.
 
 Merriman.  Yes, sir.  [Goes back into the house.]
@@ -1615,7 +1615,7 @@ staying for a whole week with you in your house as a guest.  I call it
 grotesque.
 
 Jack.  You are certainly not staying with me for a whole week as a guest
-or anything else.  You have got to leave . . . by the four five train.
+or anything else.  You have got to leave . . . by the four-five train.
 
 Algernon.  I certainly won't leave you so long as you are in mourning.  It
 would be most unfriendly.  If I were in mourning you would stay with me,
@@ -1626,15 +1626,15 @@ Jack.  Well, will you go if I change my clothes?
 Algernon.  Yes, if you are not too long.  I never saw anybody take so
 long to dress, and with such little result.
 
-Jack.  Well, at any rate, that is better than being always over dressed
+Jack.  Well, at any rate, that is better than being always over-dressed
 as you are.
 
-Algernon.  If I am occasionally a little over dressed, I make up for it
-by being always immensely over educated.
+Algernon.  If I am occasionally a little over-dressed, I make up for it
+by being always immensely over-educated.
 
 Jack.  Your vanity is ridiculous, your conduct an outrage, and your
 presence in my garden utterly absurd.  However, you have got to catch the
-four five, and I hope you will have a pleasant journey back to town.  This
+four-five, and I hope you will have a pleasant journey back to town.  This
 Bunburying, as you call it, has not been a great success for you.
 
 [Goes into the house.]
@@ -1649,7 +1649,7 @@ arrangements for another Bunbury.  Ah, there she is.
 Cecily.  Oh, I merely came back to water the roses.  I thought you were
 with Uncle Jack.
 
-Algernon.  He's gone to order the dog cart for me.
+Algernon.  He's gone to order the dog-cart for me.
 
 Cecily.  Oh, is he going to take you for a nice drive?
 
@@ -1668,7 +1668,7 @@ Algernon.  Thank you.
 
 [Enter Merriman.]
 
-Merriman.  The dog cart is at the door, sir.  [Algernon looks appealingly
+Merriman.  The dog-cart is at the door, sir.  [Algernon looks appealingly
 at Cecily.]
 
 Cecily.  It can wait, Merriman for . . . five minutes.
@@ -1711,7 +1711,7 @@ Algernon.  Cecily!
 
 [Enter Merriman.]
 
-Merriman.  The dog cart is waiting, sir.
+Merriman.  The dog-cart is waiting, sir.
 
 Algernon.  Tell it to come round next week, at the same hour.
 
@@ -1774,7 +1774,7 @@ hardly read them without crying a little.
 Algernon.  But was our engagement ever broken off?
 
 Cecily.  Of course it was.  On the 22nd of last March.  You can see the
-entry if you like. [Shows diary.]  'To day I broke off my engagement with
+entry if you like. [Shows diary.]  'To-day I broke off my engagement with
 Ernest.  I feel it is better to do so.  The weather still continues
 charming.'
 
@@ -1814,7 +1814,7 @@ if I had some other name?
 
 Cecily.  But what name?
 
-Algernon.  Oh, any name you like Algernon for instance . . .
+Algernon.  Oh, any name you like--Algernon--for instance . . .
 
 Cecily.  But I don't like the name of Algernon.
 
@@ -1836,7 +1836,7 @@ ceremonials of the Church?
 Cecily.  Oh, yes.  Dr. Chasuble is a most learned man.  He has never
 written a single book, so you can imagine how much he knows.
 
-Algernon.  I must see him at once on a most important christening I mean
+Algernon.  I must see him at once on a most important christening--I mean
 on most important business.
 
 Cecily.  Oh!
@@ -1844,7 +1844,7 @@ Cecily.  Oh!
 Algernon.  I shan't be away more than half an hour.
 
 Cecily.  Considering that we have been engaged since February the 14th,
-and that I only met you to day for the first time, I think it is rather
+and that I only met you to-day for the first time, I think it is rather
 hard that you should leave me for so long a period as half an hour.
 Couldn't you make it twenty minutes?
 
@@ -1918,7 +1918,7 @@ to me to be the proper sphere for the man.  And certainly once a man
 begins to neglect his domestic duties he becomes painfully effeminate,
 does he not?  And I don't like that.  It makes men so very attractive.
 Cecily, mamma, whose views on education are remarkably strict, has
-brought me up to be extremely short sighted; it is part of her system; so
+brought me up to be extremely short-sighted; it is part of her system; so
 do you mind my looking at you through my glasses?
 
 Cecily.  Oh! not at all, Gwendolen.  I am very fond of being looked at.
@@ -1948,14 +1948,14 @@ sure, however, that the news inspires me with feelings of unmixed
 delight.  [Rising and going to her.]  I am very fond of you, Cecily; I
 have liked you ever since I met you!  But I am bound to state that now
 that I know that you are Mr. Worthing's ward, I cannot help expressing a
-wish you were well, just a little older than you seem to be and not
-quite so very alluring in appearance.  In fact, if I may speak candidly -
+wish you were--well, just a little older than you seem to be--and not
+quite so very alluring in appearance.  In fact, if I may speak candidly--
 
 Cecily.  Pray do!  I think that whenever one has anything unpleasant to
 say, one should always be quite candid.
 
 Gwendolen.  Well, to speak with perfect candour, Cecily, I wish that you
-were fully forty two, and more than usually plain for your age.  Ernest
+were fully forty-two, and more than usually plain for your age.  Ernest
 has a strong upright nature.  He is the very soul of truth and honour.
 Disloyalty would be as impossible to him as deception.  But even men of
 the noblest possible moral character are extremely susceptible to the
@@ -1968,7 +1968,7 @@ Cecily.  I beg your pardon, Gwendolen, did you say Ernest?
 Gwendolen.  Yes.
 
 Cecily.  Oh, but it is not Mr. Ernest Worthing who is my guardian.  It is
-his brother his elder brother.
+his brother--his elder brother.
 
 Gwendolen.  [Sitting down again.]  Ernest never mentioned to me that he
 had a brother.
@@ -1994,7 +1994,7 @@ and I are engaged to be married.
 
 Gwendolen.  [Quite politely, rising.]  My darling Cecily, I think there
 must be some slight error.  Mr. Ernest Worthing is engaged to me.  The
-announcement will appear in the _Morning Post_ on Saturday at the latest.
+announcement will appear in the Morning Post on Saturday at the latest.
 
 Cecily.  [Very politely, rising.]  I am afraid you must be under some
 misconception.  Ernest proposed to me exactly ten minutes ago.  [Shows
@@ -2055,7 +2055,7 @@ crowds.
 Cecily.  [Sweetly.]  I suppose that is why you live in town?  [Gwendolen
 bites her lip, and beats her foot nervously with her parasol.]
 
-Gwendolen.  [Looking round.]  Quite a well kept garden this is, Miss
+Gwendolen.  [Looking round.]  Quite a well-kept garden this is, Miss
 Cardew.
 
 Cecily.  So glad you like it, Miss Fairfax.
@@ -2144,7 +2144,7 @@ Cecily.  Here is Ernest.
 Algernon.  [Goes straight over to Cecily without noticing any one else.]
 My own love!  [Offers to kiss her.]
 
-Cecily.  [Drawing back.]  A moment, Ernest!  May I ask you are you
+Cecily.  [Drawing back.]  A moment, Ernest!  May I ask you--are you
 engaged to be married to this young lady?
 
 Algernon.  [Looking round.]  To what young lady?  Good heavens!
@@ -2196,7 +2196,7 @@ Ernest?  We are both engaged to be married to your brother Ernest, so it
 is a matter of some importance to us to know where your brother Ernest is
 at present.
 
-Jack.  [Slowly and hesitatingly.]  Gwendolen Cecily it is very painful
+Jack.  [Slowly and hesitatingly.]  Gwendolen--Cecily--it is very painful
 for me to be forced to speak the truth.  It is the first time in my life
 that I have ever been reduced to such a painful position, and I am really
 quite inexperienced in doing anything of the kind.  However, I will tell
@@ -2274,7 +2274,7 @@ Jack.  Well, that is no business of yours.
 
 Algernon.  If it was my business, I wouldn't talk about it.  [Begins to
 eat muffins.]  It is very vulgar to talk about one's business.  Only
-people like stock brokers do that, and then merely at dinner parties.
+people like stock-brokers do that, and then merely at dinner parties.
 
 Jack.  How can you sit there, calmly eating muffins when we are in this
 horrible trouble, I can't make out.  You seem to me to be perfectly
@@ -2296,8 +2296,8 @@ am particularly fond of muffins.  [Rising.]
 Jack.  [Rising.]  Well, that is no reason why you should eat them all in
 that greedy way. [Takes muffins from Algernon.]
 
-Algernon.  [Offering tea cake.]  I wish you would have tea cake instead.
-I don't like tea cake.
+Algernon.  [Offering tea-cake.]  I wish you would have tea-cake instead.
+I don't like tea-cake.
 
 Jack.  Good heavens!  I suppose a man may eat his own muffins in his own
 garden.
@@ -2309,7 +2309,7 @@ Jack.  I said it was perfectly heartless of you, under the circumstances.
 That is a very different thing.
 
 Algernon.  That may be.  But the muffins are the same.  [He seizes the
-muffin dish from Jack.]
+muffin-dish from Jack.]
 
 Jack.  Algy, I wish to goodness you would go.
 
@@ -2341,19 +2341,19 @@ severe chill.
 
 Jack.  Yes, but you said yourself that a severe chill was not hereditary.
 
-Algernon.  It usen't to be, I know but I daresay it is now.  Science is
+Algernon.  It usen't to be, I know--but I daresay it is now.  Science is
 always making wonderful improvements in things.
 
-Jack.  [Picking up the muffin dish.]  Oh, that is nonsense; you are
+Jack.  [Picking up the muffin-dish.]  Oh, that is nonsense; you are
 always talking nonsense.
 
 Algernon.  Jack, you are at the muffins again!  I wish you wouldn't.
 There are only two left.  [Takes them.]  I told you I was particularly
 fond of muffins.
 
-Jack.  But I hate tea cake.
+Jack.  But I hate tea-cake.
 
-Algernon.  Why on earth then do you allow tea cake to be served up for
+Algernon.  Why on earth then do you allow tea-cake to be served up for
 your guests?  What ideas you have of hospitality!
 
 Jack.  Algernon!  I have already told you to go.  I don't want you here.
@@ -2374,7 +2374,7 @@ THIRD ACT
 SCENE
 
 
-Morning room at the Manor House.
+Morning-room at the Manor House.
 
 [Gwendolen and Cecily are at the window, looking out into the garden.]
 
@@ -2471,7 +2471,7 @@ ordeal?
 Algernon.  I am!
 
 Gwendolen.  How absurd to talk of the equality of the sexes!  Where
-questions of self sacrifice are concerned, men are infinitely beyond us.
+questions of self-sacrifice are concerned, men are infinitely beyond us.
 
 Jack.  We are.  [Clasps hands with Algernon.]
 
@@ -2536,7 +2536,7 @@ I was not aware that Mr. Bunbury was interested in social legislation.  If
 so, he is well punished for his morbidity.
 
 Algernon.  My dear Aunt Augusta, I mean he was found out!  The doctors
-found out that Bunbury could not live, that is what I mean so Bunbury
+found out that Bunbury could not live, that is what I mean--so Bunbury
 died.
 
 Lady Bracknell.  He seems to have had great confidence in the opinion of
@@ -2566,7 +2566,7 @@ desire information.  Until yesterday I had no idea that there were any
 families or persons whose origin was a Terminus.  [Jack looks perfectly
 furious, but restrains himself.]
 
-Jack.  [In a clear, cold voice.]  Miss Cardew is the grand daughter of
+Jack.  [In a clear, cold voice.]  Miss Cardew is the grand-daughter of
 the late Mr. Thomas Cardew of 149 Belgrave Square, S.W.; Gervase Park,
 Dorking, Surrey; and the Sporran, Fifeshire, N.B.
 
@@ -2683,7 +2683,7 @@ Jack.  I fear there can be no possible doubt about the matter.  This
 afternoon during my temporary absence in London on an important question
 of romance, he obtained admission to my house by means of the false
 pretence of being my brother.  Under an assumed name he drank, I've just
-been informed by my butler, an entire pint bottle of my Perrier Jouet,
+been informed by my butler, an entire pint bottle of my Perrier-Jouet,
 Brut, '89; wine I was specially reserving for myself.  Continuing his
 disgraceful deception, he succeeded in the course of the afternoon in
 alienating the affections of my only ward.  He subsequently stayed to
@@ -2715,18 +2715,18 @@ importance.
 
 Jack.  Pray excuse me, Lady Bracknell, for interrupting you again, but it
 is only fair to tell you that according to the terms of her grandfather's
-will Miss Cardew does not come legally of age till she is thirty five.
+will Miss Cardew does not come legally of age till she is thirty-five.
 
-Lady Bracknell.  That does not seem to me to be a grave objection.  Thirty 
+Lady Bracknell.  That does not seem to me to be a grave objection.  Thirty-
 five is a very attractive age.  London society is full of women of the
-very highest birth who have, of their own free choice, remained thirty 
+very highest birth who have, of their own free choice, remained thirty-
 five for years.  Lady Dumbleton is an instance in point.  To my own
-knowledge she has been thirty five ever since she arrived at the age of
+knowledge she has been thirty-five ever since she arrived at the age of
 forty, which was many years ago now.  I see no reason why our dear Cecily
 should not be even still more attractive at the age you mention than she
 is at present.  There will be a large accumulation of property.
 
-Cecily.  Algy, could you wait for me till I was thirty five?
+Cecily.  Algy, could you wait for me till I was thirty-five?
 
 Algernon.  Of course I could, Cecily.  You know I could.
 
@@ -2740,8 +2740,8 @@ Algernon.  Then what is to be done, Cecily?
 Cecily.  I don't know, Mr. Moncrieff.
 
 Lady Bracknell.  My dear Mr. Worthing, as Miss Cardew states positively
-that she cannot wait till she is thirty five a remark which I am bound
-to say seems to me to show a somewhat impatient nature I would beg of
+that she cannot wait till she is thirty-five--a remark which I am bound
+to say seems to me to show a somewhat impatient nature--I would beg of
 you to reconsider your decision.
 
 Jack.  But my dear Lady Bracknell, the matter is entirely in your own
@@ -2783,7 +2783,7 @@ Chasuble.  I am grieved to hear such sentiments from you, Mr. Worthing.
 They savour of the heretical views of the Anabaptists, views that I have
 completely refuted in four of my unpublished sermons.  However, as your
 present mood seems to be one peculiarly secular, I will return to the
-church at once.  Indeed, I have just been informed by the pew opener that
+church at once.  Indeed, I have just been informed by the pew-opener that
 for the last hour and a half Miss Prism has been waiting for me in the
 vestry.
 
@@ -2816,7 +2816,7 @@ Chasuble.  [Looking off.]  She approaches; she is nigh.
 [Enter Miss Prism hurriedly.]
 
 Miss Prism.  I was told you expected me in the vestry, dear Canon.  I
-have been waiting for you there for an hour and three quarters.  [Catches
+have been waiting for you there for an hour and three-quarters.  [Catches
 sight of Lady Bracknell, who has fixed her with a stony glare.  Miss
 Prism grows pale and quails.  She looks anxiously round as if desirous to
 escape.]
@@ -2826,13 +2826,13 @@ her head in shame.]  Come here, Prism!  [Miss Prism approaches in a
 humble manner.]  Prism!  Where is that baby?  [General consternation.  The
 Canon starts back in horror.  Algernon and Jack pretend to be anxious to
 shield Cecily and Gwendolen from hearing the details of a terrible public
-scandal.]  Twenty eight years ago, Prism, you left Lord Bracknell's
+scandal.]  Twenty-eight years ago, Prism, you left Lord Bracknell's
 house, Number 104, Upper Grosvenor Street, in charge of a perambulator
 that contained a baby of the male sex.  You never returned.  A few weeks
 later, through the elaborate investigations of the Metropolitan police,
 the perambulator was discovered at midnight, standing by itself in a
 remote corner of Bayswater.  It contained the manuscript of a
-three volume novel of more than usually revolting sentimentality.  [Miss
+three-volume novel of more than usually revolting sentimentality.  [Miss
 Prism starts in involuntary indignation.]  But the baby was not there!
 [Every one looks at Miss Prism.]  Prism!  Where is that baby?  [A pause.]
 
@@ -2840,22 +2840,22 @@ Miss Prism.  Lady Bracknell, I admit with shame that I do not know.  I
 only wish I did.  The plain facts of the case are these.  On the morning
 of the day you mention, a day that is for ever branded on my memory, I
 prepared as usual to take the baby out in its perambulator.  I had also
-with me a somewhat old, but capacious hand bag in which I had intended to
+with me a somewhat old, but capacious hand-bag in which I had intended to
 place the manuscript of a work of fiction that I had written during my
 few unoccupied hours.  In a moment of mental abstraction, for which I
 never can forgive myself, I deposited the manuscript in the basinette,
-and placed the baby in the hand bag.
+and placed the baby in the hand-bag.
 
 Jack.  [Who has been listening attentively.]  But where did you deposit
-the hand bag?
+the hand-bag?
 
 Miss Prism.  Do not ask me, Mr. Worthing.
 
 Jack.  Miss Prism, this is a matter of no small importance to me.  I
-insist on knowing where you deposited the hand bag that contained that
+insist on knowing where you deposited the hand-bag that contained that
 infant.
 
-Miss Prism.  I left it in the cloak room of one of the larger railway
+Miss Prism.  I left it in the cloak-room of one of the larger railway
 stations in London.
 
 Jack.  What railway station?
@@ -2891,9 +2891,9 @@ Chasuble.  [Looking up.]  It has stopped now.  [The noise is redoubled.]
 Lady Bracknell.  I wish he would arrive at some conclusion.
 
 Gwendolen.  This suspense is terrible.  I hope it will last.  [Enter Jack
-with a hand bag of black leather in his hand.]
+with a hand-bag of black leather in his hand.]
 
-Jack.  [Rushing over to Miss Prism.]  Is this the hand bag, Miss Prism?
+Jack.  [Rushing over to Miss Prism.]  Is this the hand-bag, Miss Prism?
 Examine it carefully before you speak.  The happiness of more than one
 life depends on your answer.
 
@@ -2907,7 +2907,7 @@ mine.  I am delighted to have it so unexpectedly restored to me.  It has
 been a great inconvenience being without it all these years.
 
 Jack.  [In a pathetic voice.]  Miss Prism, more is restored to you than
-this hand bag.  I was the baby you placed in it.
+this hand-bag.  I was the baby you placed in it.
 
 Miss Prism.  [Amazed.]  You?
 
@@ -2934,14 +2934,14 @@ altogether please you.  You are the son of my poor sister, Mrs.
 Moncrieff, and consequently Algernon's elder brother.
 
 Jack.  Algy's elder brother!  Then I have a brother after all.  I knew I
-had a brother!  I always said I had a brother!  Cecily, how could you
+had a brother!  I always said I had a brother!  Cecily,--how could you
 have ever doubted that I had a brother?  [Seizes hold of Algernon.]  Dr.
 Chasuble, my unfortunate brother.  Miss Prism, my unfortunate brother.
 Gwendolen, my unfortunate brother.  Algy, you young scoundrel, you will
 have to treat me with more respect in the future.  You have never behaved
 to me like a brother in all your life.
 
-Algernon.  Well, not till to day, old boy, I admit.  I did my best,
+Algernon.  Well, not till to-day, old boy, I admit.  I did my best,
 however, though I was out of practice.
 
 [Shakes hands.]
@@ -2957,7 +2957,7 @@ Gwendolen.  I never change, except in my affections.
 Cecily.  What a noble nature you have, Gwendolen!
 
 Jack.  Then the question had better be cleared up at once.  Aunt Augusta,
-a moment.  At the time when Miss Prism left me in the hand bag, had I
+a moment.  At the time when Miss Prism left me in the hand-bag, had I
 been christened already?
 
 Lady Bracknell.  Every luxury that money could buy, including
@@ -2992,8 +2992,8 @@ military directory.
 Jack.  The Army Lists of the last forty years are here.  These delightful
 records should have been my constant study.  [Rushes to bookcase and
 tears the books out.]  M. Generals . . . Mallam, Maxbohm, Magley, what
-ghastly names they have Markby, Migsby, Mobbs, Moncrieff!  Lieutenant
-1840, Captain, Lieutenant Colonel, Colonel, General 1869, Christian
+ghastly names they have--Markby, Migsby, Mobbs, Moncrieff!  Lieutenant
+1840, Captain, Lieutenant-Colonel, Colonel, General 1869, Christian
 names, Ernest John.  [Puts book very quietly down and speaks quite
 calmly.]  I always told you, Gwendolen, my name was Ernest, didn't I?
 Well, it is Ernest after all.  I mean it naturally is Ernest.

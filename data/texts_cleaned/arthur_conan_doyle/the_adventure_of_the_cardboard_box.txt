@@ -14,8 +14,8 @@ It was a blazing hot day in August.  Baker Street was like an oven, and
 the glare of the sunlight upon the yellow brickwork of the house across
 the road was painful to the eye.  It was hard to believe that these
 were the same walls which loomed so gloomily through the fogs of
-winter.  Our blinds were half drawn, and Holmes lay curled upon the
-sofa, reading and re reading a letter which he had received by the
+winter.  Our blinds were half-drawn, and Holmes lay curled upon the
+sofa, reading and re-reading a letter which he had received by the
 morning post.  For myself, my term of service in India had trained me
 to stand heat better than cold, and a thermometer at ninety was no
 hardship.  But the morning paper was uninteresting.  Parliament had
@@ -27,7 +27,7 @@ loved to lie in the very center of five millions of people, with his
 filaments stretching out and running through them, responsive to every
 little rumour or suspicion of unsolved crime.  Appreciation of nature
 found no place among his many gifts, and his only change was when he
-turned his mind from the evil doer of the town to track down his
+turned his mind from the evil-doer of the town to track down his
 brother of the country.
 
 Finding that Holmes was too absorbed for conversation I had tossed aside
@@ -49,7 +49,7 @@ He laughed heartily at my perplexity.
 "You remember," said he, "that some little time ago when I read you the
 passage in one of Poe's sketches in which a close reasoner follows the
 unspoken thoughts of his companion, you were inclined to treat the
-matter as a mere tour de force of the author.  On my remarking that I
+matter as a mere tour-de-force of the author.  On my remarking that I
 was constantly in the habit of doing the same thing you expressed
 incredulity."
 
@@ -153,7 +153,7 @@ she was obliged to get rid of on account of their noisy and irregular
 habits.  The police are of opinion that this outrage may have been
 perpetrated upon Miss Cushing by these youths, who owed her a grudge
 and who hoped to frighten her by sending her these relics of the
-dissecting rooms.  Some probability is lent to the theory by the fact
+dissecting-rooms.  Some probability is lent to the theory by the fact
 that one of these students came from the north of Ireland, and, to the
 best of Miss Cushing's belief, from Belfast.  In the meantime, the
 matter is being actively investigated, Mr. Lestrade, one of the very
@@ -166,13 +166,13 @@ which he says:
 "I think that this case is very much in your line.  We have every hope
 of clearing the matter up, but we find a little difficulty in getting
 anything to work upon.  We have, of course, wired to the Belfast
-post office, but a large number of parcels were handed in upon that
+post-office, but a large number of parcels were handed in upon that
 day, and they have no means of identifying this particular one, or of
-remembering the sender.  The box is a half pound box of honeydew
+remembering the sender.  The box is a half-pound box of honeydew
 tobacco and does not help us in any way.  The medical student theory
 still appears to me to be the most feasible, but if you should have a
 few hours to spare I should be very happy to see you out here.  I shall
-be either at the house or in the police station all day.
+be either at the house or in the police-station all day.
 
 "What say you, Watson?  Can you rise superior to the heat and run down
 to Croydon with me on the off chance of a case for your annals?"
@@ -180,20 +180,20 @@ to Croydon with me on the off chance of a case for your annals?"
 "I was longing for something to do."
 
 "You shall have it then.  Ring for our boots and tell them to order a
-cab.  I'll be back in a moment when I have changed my dressing gown and
-filled my cigar case."
+cab.  I'll be back in a moment when I have changed my dressing-gown and
+filled my cigar-case."
 
 A shower of rain fell while we were in the train, and the heat was far
 less oppressive in Croydon than in town.  Holmes had sent on a wire, so
-that Lestrade, as wiry, as dapper, and as ferret like as ever, was
+that Lestrade, as wiry, as dapper, and as ferret-like as ever, was
 waiting for us at the station.  A walk of five minutes took us to Cross
 Street, where Miss Cushing resided.
 
-It was a very long street of two story brick houses, neat and prim,
+It was a very long street of two-story brick houses, neat and prim,
 with whitened stone steps and little groups of aproned women gossiping
 at the doors.  Halfway down, Lestrade stopped and tapped at a door,
 which was opened by a small servant girl.  Miss Cushing was sitting in
-the front room, into which we were ushered.  She was a placid faced
+the front room, into which we were ushered.  She was a placid-faced
 woman, with large, gentle eyes, and grizzled hair curving down over her
 temples on each side.  A worked antimacassar lay upon her lap and a
 basket of coloured silks stood upon a stool beside her.
@@ -247,12 +247,12 @@ said Lestrade complacently.
 wrapper. Brown paper, with a distinct smell of coffee. What, did you
 not observe it?  I think there can be no doubt of it.  Address printed
 in rather straggling characters:  'Miss S. Cushing, Cross Street,
-Croydon.'  Done with a broad pointed pen, probably a J, and with very
+Croydon.'  Done with a broad-pointed pen, probably a J, and with very
 inferior ink.  The word 'Croydon' has been originally spelled with an
 'i', which has been changed to 'y'.  The parcel was directed, then, by
-a man the printing is distinctly masculine of limited education and
+a man--the printing is distinctly masculine--of limited education and
 unacquainted with the town of Croydon.  So far, so good!  The box is a
-yellow, half pound honeydew box, with nothing distinctive save two
+yellow, half-pound honeydew box, with nothing distinctive save two
 thumb marks at the left bottom corner.  It is filled with rough salt of
 the quality used for preserving hides and other of the coarser
 commercial purposes.  And embedded in it are these very singular
@@ -268,7 +268,7 @@ them to the box once more and sat for a while in deep meditation.
 a pair."
 
 "Yes, I have noticed that.  But if this were the practical joke of some
-students from the dissecting rooms, it would be as easy for them to
+students from the dissecting-rooms, it would be as easy for them to
 send two odd ears as a pair."
 
 "Precisely.  But this is not a practical joke."
@@ -276,7 +276,7 @@ send two odd ears as a pair."
 "You are sure of it?"
 
 "The presumption is strongly against it.  Bodies in the
-dissecting rooms are injected with preservative fluid.  These ears bear
+dissecting-rooms are injected with preservative fluid.  These ears bear
 no signs of this.  They are fresh, too.  They have been cut off with a
 blunt instrument, which would hardly happen if a student had done it.
 Again, carbolic or rectified spirits would be the preservatives which
@@ -302,9 +302,9 @@ actress, she understands quite as little of the matter as we do?"
 my part I shall set about it by presuming that my reasoning is correct,
 and that a double murder has been committed.  One of these ears is a
 woman's, small, finely formed, and pierced for an earring.  The other
-is a man's, sun burned, discoloured, and also pierced for an earring.
+is a man's, sun-burned, discoloured, and also pierced for an earring.
 These two people are presumably dead, or we should have heard their
-story before now.  To day is Friday.  The packet was posted on Thursday
+story before now.  To-day is Friday.  The packet was posted on Thursday
 morning.  The tragedy, then, occurred on Wednesday or Tuesday, or
 earlier.  If the two people were murdered, who but their murderer would
 have sent this sign of his work to Miss Cushing?  We may take it that
@@ -324,7 +324,7 @@ sprang briskly to his feet and walked towards the house.
 
 "In that case I may leave you here," said Lestrade, "for I have another
 small business on hand.  I think that I have nothing further to learn
-from Miss Cushing.  You will find me at the police station."
+from Miss Cushing.  You will find me at the police-station."
 
 "We shall look in on our way to the train," answered Holmes.  A moment
 later he and I were back in the front room, where the impassive lady
@@ -339,7 +339,7 @@ at me.  I have not an enemy in the world, as far as I know, so why
 should anyone play me such a trick?"
 
 "I am coming to be of the same opinion, Miss Cushing," said Holmes,
-taking a seat beside her.  "I think that it is more than probable " He
+taking a seat beside her.  "I think that it is more than probable--" He
 paused, and I was surprised, on glancing round to see that he was
 staring with singular intentness at the lady's profile.  Surprise and
 satisfaction were both for an instant to be read upon his eager face,
@@ -349,7 +349,7 @@ grizzled hair, her trim cap, her little gilt earrings, her placid
 features; but I could see nothing which could account for my
 companion's evident excitement.
 
-"There were one or two questions "
+"There were one or two questions--"
 
 "Oh, I am weary of questions!" cried Miss Cushing impatiently.
 
@@ -390,7 +390,7 @@ going with them."
 It was evident that Miss Cushing had come upon a subject on which she
 felt very deeply.  Like most people who lead a lonely life, she was shy
 at first, but ended by becoming extremely communicative.  She told us
-many details about her brother in law the steward, and then wandering
+many details about her brother-in-law the steward, and then wandering
 off on the subject of her former lodgers, the medical students, she
 gave us a long account of their delinquencies, with their names and
 those of their hospitals.  Holmes listened attentively to everything,
@@ -415,7 +415,7 @@ the start of it."
 
 "Thank you, Miss Cushing," said Holmes, rising and bowing.  "Your
 sister Sarah lives, I think you said, at New Street, Wallington?
-Good bye, and I am very sorry that you should have been troubled over a
+Good-bye, and I am very sorry that you should have been troubled over a
 case with which, as you say, you have nothing whatever to do."
 
 There was a cab passing as we came out, and Holmes hailed it.
@@ -451,17 +451,17 @@ He drew on his gloves, closed the door, and marched off down the street.
 "I did not wish her to tell me anything.  I only wanted to look at her.
 However, I think that I have got all that I want.  Drive us to some
 decent hotel, cabby, where we may have some lunch, and afterwards we
-shall drop down upon friend Lestrade at the police station."
+shall drop down upon friend Lestrade at the police-station."
 
 We had a pleasant little meal together, during which Holmes would talk
 about nothing but violins, narrating with great exultation how he had
 purchased his own Stradivarius, which was worth at least five hundred
-guineas, at a Jew broker's in Tottenham Court Road for fifty five
+guineas, at a Jew broker's in Tottenham Court Road for fifty-five
 shillings.  This led him to Paganini, and we sat for an hour over a
 bottle of claret while he told me anecdote after anecdote of that
 extraordinary man.  The afternoon was far advanced and the hot glare
 had softened into a mellow glow before we found ourselves at the
-police station.  Lestrade was waiting for us at the door.
+police-station.  Lestrade was waiting for us at the door.
 
 "A telegram for you, Mr. Holmes," said he.
 
@@ -483,7 +483,7 @@ Holmes scribbled a few words upon the back of one of his visiting cards
 and threw it over to Lestrade.
 
 "That is the name," he said.  "You cannot effect an arrest until
-to morrow night at the earliest.  I should prefer that you do not
+to-morrow night at the earliest.  I should prefer that you do not
 mention my name at all in connection with the case, as I choose to be
 only associated with those crimes which present some difficulty in
 their solution.  Come on, Watson."  We strode off together to the
@@ -528,7 +528,7 @@ one of these.  I set the idea aside as one which could be disproved or
 confirmed at our leisure.  Then we went to the garden, as you remember,
 and we saw the very singular contents of the little yellow box.
 
-"The string was of the quality which is used by sail makers aboard
+"The string was of the quality which is used by sail-makers aboard
 ship, and at once a whiff of the sea was perceptible in our
 investigation.  When I observed that the knot was one which is popular
 with sailors, that the parcel had been posted at a port, and that the
@@ -572,10 +572,10 @@ Miss Sarah, he would undoubtedly have done so to her old address.
 
 "And now the matter had begun to straighten itself out wonderfully.  We
 had learned of the existence of this steward, an impulsive man, of
-strong passions you remember that he threw up what must have been a
-very superior berth in order to be nearer to his wife subject, too, to
+strong passions--you remember that he threw up what must have been a
+very superior berth in order to be nearer to his wife--subject, too, to
 occasional fits of hard drinking. We had reason to believe that his
-wife had been murdered, and that a man presumably a seafaring man had
+wife had been murdered, and that a man--presumably a seafaring man--had
 been murdered at the same time.  Jealousy, of course, at once suggests
 itself as the motive for the crime.  And why should these proofs of the
 deed be sent to Miss Sarah Cushing?  Probably because during her
@@ -604,13 +604,13 @@ ringing with it, and she alone could have understood for whom the
 packet was meant.  If she had been willing to help justice she would
 probably have communicated with the police already.  However, it was
 clearly our duty to see her, so we went.  We found that the news of the
-arrival of the packet for her illness dated from that time had such
+arrival of the packet--for her illness dated from that time--had such
 an effect upon her as to bring on brain fever.  It was clearer than
 ever that she understood its full significance, but equally clear that
 we should have to wait some time for any assistance from her.
 
 "However, we were really independent of her help.  Our answers were
-waiting for us at the police station, where I had directed Algar to
+waiting for us at the police-station, where I had directed Algar to
 send them.  Nothing could be more conclusive.  Mrs. Browner's house had
 been closed for more than three days, and the neighbours were of
 opinion that she had gone south to see her relatives.  It had been
@@ -638,7 +638,7 @@ James Browner and that he had acted during the voyage in such an
 extraordinary manner that the captain had been compelled to relieve him
 of his duties.  On descending to his berth, I found him seated upon a
 chest with his head sunk upon his hands, rocking himself to and fro.
-He is a big, powerful chap, clean shaven, and very swarthy something
+He is a big, powerful chap, clean-shaven, and very swarthy--something
 like Aldrige, who helped us in the bogus laundry affair.  He jumped up
 when he heard my business, and I had my whistle to my lips to call a
 couple of river police, who were round the corner, but he seemed to
@@ -672,7 +672,7 @@ don't care a plug which you do.  I tell you I've not shut an eye in
 sleep since I did it, and I don't believe I ever will again until I get
 past all waking.  Sometimes it's his face, but most generally it's
 hers.  I'm never without one or the other before me.  He looks frowning
-and black like, but she has a kind o' surprise upon her face.  Ay, the
+and black-like, but she has a kind o' surprise upon her face.  Ay, the
 white lamb, she might well be surprised when she read death on a face
 that had seldom looked anything but love upon her before.
 
@@ -681,14 +681,14 @@ blight on her and set the blood rotting in her veins!  It's not that I
 want to clear myself.  I know that I went back to drink, like the beast
 that I was.  But she would have forgiven me; she would have stuck as
 close to me as a rope to a block if that woman had never darkened our
-door.  For Sarah Cushing loved me that's the root of the business she
+door.  For Sarah Cushing loved me--that's the root of the business--she
 loved me until all her love turned to poisonous hate when she knew that
 I thought more of my wife's footmark in the mud than I did of her whole
 body and soul.
 
 "'There were three sisters altogether.  The old one was just a good
 woman, the second was a devil, and the third was an angel. Sarah was
-thirty three, and Mary was twenty nine when I married. We were just as
+thirty-three, and Mary was twenty-nine when I married. We were just as
 happy as the day was long when we set up house together, and in all
 Liverpool there was no better woman than my Mary.  And then we asked
 Sarah up for a week, and the week grew into a month, and one thing led
@@ -698,9 +698,9 @@ to another, until she was just one of ourselves.
 by, and all was as bright as a new dollar.  My God, whoever would have
 thought that it could have come to this?  Whoever would have dreamed it?
 
-"'I used to be home for the week ends very often, and sometimes if the
+"'I used to be home for the week-ends very often, and sometimes if the
 ship were held back for cargo I would have a whole week at a time, and
-in this way I saw a deal of my sister in law, Sarah. She was a fine
+in this way I saw a deal of my sister-in-law, Sarah. She was a fine
 tall woman, black and quick and fierce, with a proud way of carrying
 her head, and a glint from her eye like a spark from a flint. But when
 little Mary was there I had never a thought of her, and that I swear as
@@ -724,7 +724,7 @@ and with a kind o' mocking laugh, she ran out of the room.
 
 "'Well, from that time Sarah hated me with her whole heart and soul,
 and she is a woman who can hate, too. I was a fool to let her go on
-biding with us a besotted fool but I never said a word to Mary, for I
+biding with us--a besotted fool--but I never said a word to Mary, for I
 knew it would grieve her.  Things went on much as before, but after a
 time I began to find that there was a bit of a change in Mary herself.
 She had always been so trusting and so innocent, but now she became
@@ -810,7 +810,7 @@ whizzing and buzzing in my ears.
 stick in my hand, and I tell you I saw red from the first; but as I ran
 I got cunning, too, and hung back a little to see them without being
 seen.  They pulled up soon at the railway station.  There was a good
-crowd round the booking office, so I got quite close to them without
+crowd round the booking-office, so I got quite close to them without
 being seen.  They took tickets for New Brighton.  So did I, but I got
 in three carriages behind them.  When we reached it they walked along
 the Parade, and I was never more than a hundred yards from them.  At
@@ -832,7 +832,7 @@ madness, but she threw her arms round him, crying out to him, and
 calling him "Alec."  I struck again, and she lay stretched beside him.
 I was like a wild beast then that had tasted blood.  If Sarah had been
 there, by the Lord, she should have joined them.  I pulled out my
-knife, and well, there! I've said enough.  It gave me a kind of savage
+knife, and--well, there! I've said enough.  It gave me a kind of savage
 joy when I thought how Sarah would feel when she had such signs as
 these of what her meddling had brought about.  Then I tied the bodies
 into the boat, stove a plank, and stood by until they had sunk.  I knew
@@ -845,7 +845,7 @@ and next day I sent it from Belfast.
 "'There you have the whole truth of it.  You can hang me, or do what
 you like with me, but you cannot punish me as I have been punished
 already.  I cannot shut my eyes but I see those two faces staring at
-me staring at me as they stared when my boat broke through the haze.
+me--staring at me as they stared when my boat broke through the haze.
 I killed them quick, but they are killing me slow; and if I have
 another night of it I shall be either mad or dead before morning.  You
 won't put me alone into a cell, sir?  For pity's sake don't, and may

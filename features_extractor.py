@@ -1,9 +1,9 @@
 import pandas as pd
 import os
-import text_features
+from text_features import Text
 import random
 
-def build_df(author, ngrams):
+def build_df(author, max_ngrams):
     books_df = pd.DataFrame()
 
     path = "./data/texts_cleaned/" + author
@@ -22,10 +22,10 @@ def build_df(author, ngrams):
         book_path = path + "/" + books[i]
         with open(book_path, encoding="utf8", errors='ignore') as f:
             contents = f.read()
-        text = text_features.Text(contents, author, ngrams) #text, author, number of ngrams
-        book_df = pd.DataFrame(text.row,index =[books[i]])
-        books_df = books_df.append(book_df)
-        print(books_df.shape,": ",books[i])
+        text = Text(contents, author, max_ngrams) #text, author, number of ngrams
+        row = pd.DataFrame( text.row, index = [books[i]] )
+        books_df = books_df.append(row)
+        #print(books_df.shape,": ",books[i])
 
     books_df = books_df.fillna(0)
     return books_df
@@ -52,8 +52,7 @@ def combine_author_df(authors):
     for author in authors:
         print(author)
         author_df = build_df(author ,3)
-        author_dfs.append(author_df
-        )
+        author_dfs.append(author_df)
     books_df = pd.concat(author_dfs)
     books_df = books_df.fillna(0)
     print(books_df.shape)

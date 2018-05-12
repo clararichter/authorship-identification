@@ -1,7 +1,7 @@
 I.
 
 
-AN old lady, in a high drawing room, had had her chair moved close to the
+AN old lady, in a high drawing-room, had had her chair moved close to the
 fire, where she sat knitting and warming her knees.  She was dressed in
 deep mourning; her face had a faded nobleness, tempered, however, by the
 somewhat illiberal compression assumed by her lips in obedience to
@@ -20,7 +20,7 @@ been guessed that the appearance of this young lady was not an
 interruption of her meditation, but rather a contribution to it.  The
 young lady, who was charming to behold, was also in deep mourning, which
 had a freshness, if mourning can be fresh, an air of having been lately
-put on.  She went straight to the bell beside the chimney piece and
+put on.  She went straight to the bell beside the chimney-piece and
 pulled it, while in her other hand she held a sealed and directed letter.
 Her companion glanced in silence at the letter; then she looked still
 harder at her work.  The girl hovered near the fireplace, without
@@ -28,8 +28,8 @@ speaking, and after a due, a dignified interval the butler appeared in
 response to the bell.  The time had been sufficient to make the silence
 between the ladies seem long.  The younger one asked the butler to see
 that her letter should be posted; and after he had gone out she moved
-vaguely about the room, as if to give her grandmother—for such was the
-elder personage—a chance to begin a colloquy of which she herself
+vaguely about the room, as if to give her grandmotherfor such was the
+elder personagea chance to begin a colloquy of which she herself
 preferred not to strike the first note.  As equally with herself her
 companion was on the face of it capable of holding out, the tension,
 though it was already late in the evening, might have lasted long.  But
@@ -60,7 +60,7 @@ The girl was silent a moment; then she said: “You’ll see my idea of it.”
 
 “I see it already!  You’ll go and live with her.”
 
-“I shall talk the situation over with her to morrow and tell her that I
+“I shall talk the situation over with her to-morrow and tell her that I
 think that will be best.”
 
 “Best for her, no doubt!”
@@ -72,7 +72,7 @@ grandmother went on: “What’s best for them is that you should acknowledge
 some responsibility in regard to them and, considering how young they
 are, try and do something for them.”
 
-“They must do as I’ve done—they must act for themselves.  They have their
+“They must do as I’ve donethey must act for themselves.  They have their
 means now, and they’re free.”
 
 “Free?  They’re mere children.”
@@ -99,7 +99,7 @@ by saying: “It will be dreadful for Edith.”
 
 “Her consideration for her father does her honour.”
 
-“Of course I’m a brute, _n’en parlons plus_,” said the girl.  “We must go
+“Of course I’m a brute, n’en parlons plus,” said the girl.  “We must go
 our respective ways,” she added, in a tone of extreme wisdom and
 philosophy.
 
@@ -107,13 +107,13 @@ Her grandmother straightened out her knitting and began to roll it up.
 “Be so good as to ring for my maid,” she said, after a minute.  The young
 lady rang, and there was another wait and another conscious hush.  Before
 the maid came her mistress remarked: “Of course then you’ll not come to
-_me_, you know.”
+me, you know.”
 
 “What do you mean by ‘coming’ to you?”
 
 “I can’t receive you on that footing.”
 
-“She’ll not come _with_ me, if you mean that.”
+“She’ll not come with me, if you mean that.”
 
 “I don’t mean that,” said the old lady, getting up as her maid came in.
 This attendant took her work from her, gave her an arm and helped her out
@@ -121,7 +121,7 @@ of the room, while Rose Tramore, standing before the fire and looking
 into it, faced the idea that her grandmother’s door would now under all
 circumstances be closed to her.  She lost no time however in brooding
 over this anomaly: it only added energy to her determination to act.  All
-she could do to night was to go to bed, for she felt utterly weary.  She
+she could do to-night was to go to bed, for she felt utterly weary.  She
 had been living, in imagination, in a prospective struggle, and it had
 left her as exhausted as a real fight.  Moreover this was the culmination
 of a crisis, of weeks of suspense, of a long, hard strain.  Her father
@@ -138,7 +138,7 @@ words that her mother responded to the announcement Rose had just
 formally made and with which she had vaguely expected to produce a
 certain dignity of effect.  In the way of emotion there was apparently no
 effect at all, and the girl was wise enough to know that this was not
-simply on account of the general line of non allusion taken by the
+simply on account of the general line of non-allusion taken by the
 extremely pretty woman before her, who looked like her elder sister.
 Mrs. Tramore had never manifested, to her daughter, the slightest
 consciousness that her position was peculiar; but the recollection of
@@ -150,7 +150,7 @@ been the heroine of a scandal which had grown dim only because, in the
 eyes of the London world, it paled in the lurid light of the
 contemporaneous.  That attention had been fixed on it for several days,
 fifteen years before; there had been a high relish of the vivid evidence
-as to his wife’s misconduct with which, in the divorce court, Charles
+as to his wife’s misconduct with which, in the divorce-court, Charles
 Tramore had judged well to regale a cynical public.  The case was
 pronounced awfully bad, and he obtained his decree.  The folly of the
 wife had been inconceivable, in spite of other examples: she had quitted
@@ -175,7 +175,7 @@ and her children were pitied, for in payment for a topic London will
 parenthetically pity.  It was thought interesting and magnanimous that
 Charles Tramore had not married again.  The disadvantage to his children
 of the miserable story was thus left uncorrected, and this, rather oddly,
-was counted as _his_ sacrifice.  His mother, whose arrangements were
+was counted as his sacrifice.  His mother, whose arrangements were
 elaborate, looked after them a great deal, and they enjoyed a mixture of
 laxity and discipline under the roof of their aunt, Miss Tramore, who was
 independent, having, for reasons that the two ladies had exhaustively
@@ -184,8 +184,8 @@ Leonard’s, and that contracted shore had played a considerable part in
 the upbringing of the little Tramores.  They knew about their mother, as
 the phrase was, but they didn’t know her; which was naturally deemed more
 pathetic for them than for her.  She had a house in Chester Square and an
-income and a victoria—it served all purposes, as she never went out in
-the evening—and flowers on her window sills, and a remarkable appearance
+income and a victoriait served all purposes, as she never went out in
+the eveningand flowers on her window-sills, and a remarkable appearance
 of youth.  The income was supposed to be in part the result of a bequest
 from the man for whose sake she had committed the error of her life, and
 in the appearance of youth there was a slightly impertinent implication
@@ -199,7 +199,7 @@ they clung to their father, whose attitude in the family group, however,
 was casual and intermittent.  He was charming and vague; he was like a
 clever actor who often didn’t come to rehearsal.  Fortune, which but for
 that one stroke had been generous to him, had provided him with deputies
-and trouble takers, as well as with whimsical opinions, and a reputation
+and trouble-takers, as well as with whimsical opinions, and a reputation
 for excellent taste, and whist at his club, and perpetual cigars on
 morocco sofas, and a beautiful absence of purpose.  Nature had thrown in
 a remarkably fine hand, which he sometimes passed over his children’s
@@ -210,7 +210,7 @@ year.  She was to go alone; the other children were not included in the
 arrangement.  This was the result of a visit that he himself had paid his
 repudiated wife at her urgent request, their only encounter during the
 fifteen years.  The girl knew as much as this from her aunt Julia, who
-was full of tell tale secrecies.  She availed herself eagerly of the
+was full of tell-tale secrecies.  She availed herself eagerly of the
 license, and in course of the period that elapsed before her father’s
 death she spent with Mrs. Tramore exactly eight hours by the watch.  Her
 father, who was as inconsistent and disappointing as he was amiable,
@@ -224,7 +224,7 @@ but once was enough, every one they knew having happened to be in Bond
 Street at that particular hour.
 
 After this the periodical interview took place in private, in Mrs.
-Tramore’s beautiful little wasted drawing room.  Rose knew that, rare as
+Tramore’s beautiful little wasted drawing-room.  Rose knew that, rare as
 these occasions were, her mother would not have kept her “all to herself”
 had there been anybody she could have shown her to.  But in the poor
 lady’s social void there was no one; she had after all her own
@@ -247,10 +247,10 @@ her own course might not contribute to make her sister’s appear
 heartless.  The answer to this question however would depend on the
 success that might attend her own, which would very possibly be small.
 Eric’s attitude was eminently simple; he didn’t care to know people who
-didn’t know _his_ people.  If his mother should ever get back into
+didn’t know his people.  If his mother should ever get back into
 society perhaps he would take her up.  Rose Tramore had decided to do
-what she could to bring this consummation about; and strangely enough—so
-mixed were her superstitions and her heresies—a large part of her motive
+what she could to bring this consummation about; and strangely enoughso
+mixed were her superstitions and her heresiesa large part of her motive
 lay in the value she attached to such a consecration.
 
 Of her mother intrinsically she thought very little now, and if her eyes
@@ -280,26 +280,26 @@ appearance was marked to her daughter’s sense by the highest distinction;
 though it may be mentioned that this had never been the opinion of all
 the world.  It was a revelation to Rose that she herself might look a
 little like that.  She knew however that aunt Julia had not seen her
-deposed sister in law for a long time, and she had a general impression
-that Mrs. Tramore was to day a more complete production—for instance as
-regarded her air of youth—than she had ever been.  There was no
-excitement on her side—that was all her visitor’s; there was no
-emotion—that was excluded by the plan, to say nothing of conditions more
+deposed sister-in-law for a long time, and she had a general impression
+that Mrs. Tramore was to-day a more complete productionfor instance as
+regarded her air of youththan she had ever been.  There was no
+excitement on her sidethat was all her visitor’s; there was no
+emotionthat was excluded by the plan, to say nothing of conditions more
 primal.  Rose had from the first a glimpse of her mother’s plan.  It was
 to mention nothing and imply nothing, neither to acknowledge, to explain
 nor to extenuate.  She would leave everything to her child; with her
 child she was secure.  She only wanted to get back into society; she
-would leave even that to her child, whom she treated not as a high strung
+would leave even that to her child, whom she treated not as a high-strung
 and heroic daughter, a creature of exaltation, of devotion, but as a new,
 charming, clever, useful friend, a little younger than herself.  Already
 on that first day she had talked about dressmakers.  Of course, poor
 thing, it was to be remembered that in her circumstances there were not
-many things she _could_ talk about.  “She wants to go out again; that’s
+many things she could talk about.  “She wants to go out again; that’s
 the only thing in the wide world she wants,” Rose had promptly,
 compendiously said to herself.  There had been a sequel to this
 observation, uttered, in intense engrossment, in her own room half an
 hour before she had, on the important evening, made known her decision to
-her grandmother: “Then I’ll _take_ her out!”
+her grandmother: “Then I’ll take her out!”
 
 “She’ll drag you down, she’ll drag you down!” Julia Tramore permitted
 herself to remark to her niece, the next day, in a tone of feverish
@@ -315,10 +315,10 @@ occupy, and I sha’n’t trouble you.”
 “Do you reproach me for my disinterested exertions, for the way I’ve
 toiled over you, the way I’ve lived for you?” Miss Tramore demanded.
 
-“Don’t reproach _me_ for being kind to my mother and I won’t reproach you
+“Don’t reproach me for being kind to my mother and I won’t reproach you
 for anything.”
 
-“She’ll keep you out of everything—she’ll make you miss everything,” Miss
+“She’ll keep you out of everythingshe’ll make you miss everything,” Miss
 Tramore continued.
 
 “Then she’ll make me miss a great deal that’s odious,” said the girl.
@@ -329,7 +329,7 @@ Tramore continued.
 do you arrange that?  My mother’s society will make me older,” Rose
 replied.
 
-“Don’t speak to me of your mother; you _have_ no mother.”
+“Don’t speak to me of your mother; you have no mother.”
 
 “Then if I’m an orphan I must settle things for myself.”
 
@@ -358,7 +358,7 @@ had said; but her daughter found that the most she could do was not much.
 They both had a baffled sense that Rose had thought the question out a
 good deal further than they; and this was particularly irritating to Mrs.
 Tramore, as consciously the cleverer of the two.  A question thought out
-as far as _she_ could think it had always appeared to her to have
+as far as she could think it had always appeared to her to have
 performed its human uses; she had never encountered a ghost emerging from
 that extinction.  Their great contention was that Rose would cut herself
 off; and certainly if she wasn’t afraid of that she wasn’t afraid of
@@ -366,7 +366,7 @@ anything.  Julia Tramore could only tell her mother how little the girl
 was afraid.  She was already prepared to leave the house, taking with her
 the possessions, or her share of them, that had accumulated there during
 her father’s illness.  There had been a going and coming of her maid, a
-thumping about of boxes, an ordering of four wheelers; it appeared to old
+thumping about of boxes, an ordering of four-wheelers; it appeared to old
 Mrs. Tramore that something of the objectionableness, the indecency, of
 her granddaughter’s prospective connection had already gathered about the
 place.  It was a violation of the decorum of bereavement which was still
@@ -377,11 +377,11 @@ on the dreadful subject at luncheon; for at luncheon at Mrs. Tramore’s
 (her son never came to it) there were always, even after funerals and
 other miseries, stray guests of both sexes whose policy it was to be
 cheerful and superficial.  Rose had sat down as if nothing had
-happened—nothing worse, that is, than her father’s death; but no one had
+happenednothing worse, that is, than her father’s death; but no one had
 spoken of anything that any one else was thinking of.
 
 Before she left the house a servant brought her a message from her
-grandmother—the old lady desired to see her in the drawing room.  She had
+grandmotherthe old lady desired to see her in the drawing-room.  She had
 on her bonnet, and she went down as if she were about to step into her
 cab.  Mrs. Tramore sat there with her eternal knitting, from which she
 forebore even to raise her eyes as, after a silence that seemed to
@@ -405,7 +405,7 @@ your days,” Mrs. Tramore went on.
 “Your father’s conscience was good enough for his mother; it ought to be
 good enough for his daughter.”
 
-Rose sat down—she could afford to—as if she wished to be very attentive
+Rose sat downshe could afford toas if she wished to be very attentive
 and were still accessible to argument.  But this demonstration only
 ushered in, after a moment, the surprising words “I don’t think papa had
 any conscience.”
@@ -418,7 +418,7 @@ lived!”
 reflected.”
 
 Mrs. Tramore stared, as if at a language she had never heard, a farrago,
-a _galimatias_.  Her life was made up of items, but she had never had to
+a galimatias.  Her life was made up of items, but she had never had to
 deal, intellectually, with a fine shade.  Then while her needles, which
 had paused an instant, began to fly again, she rejoined: “Do you know
 what you are, my dear?  You’re a dreadful little prig.  Where do you pick
@@ -448,7 +448,7 @@ be melancholy if your behaviour were not so insane.”
 “She won’t even do that,” the old lady declared contradictiously.
 “She’ll keep you forever in the same dull hole.”
 
-“I shall come and see _you_, granny, when I want something more lively.”
+“I shall come and see you, granny, when I want something more lively.”
 
 “You may come if you like, but you’ll come no further than the door.  If
 you leave this house now you don’t enter it again.”
@@ -457,9 +457,9 @@ Rose hesitated a moment.  “Do you really mean that?”
 
 “You may judge whether I choose such a time to joke.”
 
-“Good bye, then,” said the girl.
+“Good-bye, then,” said the girl.
 
-“Good bye.”
+“Good-bye.”
 
 Rose quitted the room successfully enough; but on the other side of the
 door, on the landing, she sank into a chair and buried her face in her
@@ -481,7 +481,7 @@ those of a conspirator: they were, for a moment, the only embarrassed
 eyes Rose had encountered that day.  They contributed to make aunt
 Julia’s further response evasive, after her niece inquired if she had
 communicated in advance with this visitor.  Miss Tramore merely said that
-he had been upstairs with her mother—hadn’t she mentioned it?—and had
+he had been upstairs with her motherhadn’t she mentioned it?and had
 been waiting for her.  She thought herself acute in not putting the
 question of the girl’s seeing him before her as a favour to him or to
 herself; she presented it as a duty, and wound up with the proposition:
@@ -494,16 +494,16 @@ you go.”
 
 She really knew, for she had found out before; but after standing
 uncertain an instant she went in.  “The parlour” was the name that had
-always been borne by a spacious sitting room downstairs, an apartment
+always been borne by a spacious sitting-room downstairs, an apartment
 occupied by her father during his frequent phases of residence in Hill
-Street—episodes increasingly frequent after his house in the country had,
+Streetepisodes increasingly frequent after his house in the country had,
 in consequence, as Rose perfectly knew, of his spending too much money,
 been disposed of at a sacrifice which he always characterised as horrid.
 He had been left with the place in Hertfordshire and his mother with the
 London house, on the general understanding that they would change about;
 but during the last years the community had grown more rigid, mainly at
 his mother’s expense.  The parlour was full of his memory and his habits
-and his things—his books and pictures and _bibelots_, objects that
+and his thingshis books and pictures and bibelots, objects that
 belonged now to Eric.  Rose had sat in it for hours since his death; it
 was the place in which she could still be nearest to him.  But she felt
 far from him as Captain Jay rose erect on her opening the door.  This was
@@ -526,27 +526,27 @@ gone astray, in reading him, if you had counted on finding the
 complements of some of his qualities.  He would not however have struck
 you in the least as incomplete, for in every case in which you didn’t
 find the complement you would have found the contradiction.  He was in
-the Royal Engineers, and was tall, lean and high shouldered.  He looked
+the Royal Engineers, and was tall, lean and high-shouldered.  He looked
 every inch a soldier, yet there were people who considered that he had
 missed his vocation in not becoming a parson.  He took a public interest
 in the spiritual life of the army.  Other persons still, on closer
 observation, would have felt that his most appropriate field was neither
-the army nor the church, but simply the world—the social, successful,
+the army nor the church, but simply the worldthe social, successful,
 worldly world.  If he had a sword in one hand and a Bible in the other he
 had a Court Guide concealed somewhere about his person.  His profile was
 hard and handsome, his eyes were both cold and kind, his dark straight
 hair was imperturbably smooth and prematurely streaked with grey.  There
 was nothing in existence that he didn’t take seriously.  He had a
-first rate power of work and an ambition as minutely organised as a
+first-rate power of work and an ambition as minutely organised as a
 German plan of invasion.  His only real recreation was to go to church,
 but he went to parties when he had time.  If he was in love with Rose
 Tramore this was distracting to him only in the same sense as his
 religion, and it was included in that department of his extremely
-sub divided life.  His religion indeed was of an encroaching, annexing
+sub-divided life.  His religion indeed was of an encroaching, annexing
 sort.  Seen from in front he looked diffident and blank, but he was
 capable of exposing himself in a way (to speak only of the paths of
 peace) wholly inconsistent with shyness.  He had a passion for instance
-for open air speaking, but was not thought on the whole to excel in it
+for open-air speaking, but was not thought on the whole to excel in it
 unless he could help himself out with a hymn.  In conversation he kept
 his eyes on you with a kind of colourless candour, as if he had not
 understood what you were saying and, in a fashion that made many people
@@ -564,19 +564,19 @@ about his business.  “My dear child,” he said, “we must really have some
 one who will be better fun than that.”  Rose had declined the honour,
 very considerately and kindly, but not simply because her father wished
 it.  She didn’t herself wish to detach this flower from the stem, though
-when the young man wrote again, to express the hope that he _might_
-hope—so long was he willing to wait—and ask if he might not still
+when the young man wrote again, to express the hope that he might
+hopeso long was he willing to waitand ask if he might not still
 sometimes see her, she answered even more indulgently than at first.  She
 had shown her father her former letter, but she didn’t show him this one;
 she only told him what it contained, submitting to him also that of her
 correspondent.  Captain Jay moreover wrote to Mr. Tramore, who replied
 sociably, but so vaguely that he almost neglected the subject under
-discussion—a communication that made poor Bertram ponder long.  He could
+discussiona communication that made poor Bertram ponder long.  He could
 never get to the bottom of the superficial, and all the proprieties and
 conventions of life were profound to him.  Fortunately for him old Mrs.
-Tramore liked him, he was satisfactory to her long sightedness; so that a
+Tramore liked him, he was satisfactory to her long-sightedness; so that a
 relation was established under cover of which he still occasionally
-presented himself in Hill Street—presented himself nominally to the
+presented himself in Hill Streetpresented himself nominally to the
 mistress of the house.  He had had scruples about the veracity of his
 visits, but he had disposed of them; he had scruples about so many things
 that he had had to invent a general way, to dig a central drain.  Julia
@@ -598,10 +598,10 @@ companions the very strong step she was about to take.  This led to their
 spending together ten minutes which, to her mind, threw more light on his
 character than anything that had ever passed between them.  She had
 always felt with him as if she were standing on an edge, looking down
-into something decidedly deep.  To day the impression of the
+into something decidedly deep.  To-day the impression of the
 perpendicular shaft was there, but it was rather an abyss of confusion
 and disorder than the large bright space in which she had figured
-everything as ranged and pigeon holed, presenting the appearance of the
+everything as ranged and pigeon-holed, presenting the appearance of the
 labelled shelves and drawers at a chemist’s.  He discussed without an
 invitation to discuss, he appealed without a right to appeal.  He was
 nothing but a suitor tolerated after dismissal, but he took strangely for
@@ -625,7 +625,7 @@ more obvious to him than the consideration that a daughter should be
 merciful.  Where was his religion if he understood mercy so little, and
 where were his talent and his courage if he were so miserably afraid of
 trumpery social penalties?  Rose’s heart sank when she reflected that a
-man supposed to be first rate hadn’t guessed that rather than not do what
+man supposed to be first-rate hadn’t guessed that rather than not do what
 she could for her mother she would give up all the Engineers in the
 world.  She became aware that she probably would have been moved to place
 her hand in his on the spot if he had come to her saying “Your idea is
@@ -637,7 +637,7 @@ she uttered as few words as possible, conversing only in sad smiles and
 headshakes and in intercepted movements toward the door, she happened, in
 some unguarded lapse from her reticence, to use the expression that she
 was disappointed in him.  He caught at it and, seeming to drop his
-field glass, pressed upon her with nearer, tenderer eyes.
+field-glass, pressed upon her with nearer, tenderer eyes.
 
 “Can I be so happy as to believe, then, that you had thought of me with
 some confidence, with some faith?”
@@ -650,7 +650,7 @@ to gain by it.”
 
 “Yet you speak as if you thought you might keep me for yourself.”
 
-“For _yourself_.  I don’t want you to suffer.”
+“For yourself.  I don’t want you to suffer.”
 
 “Nor to suffer yourself by my doing so,” said Rose, looking down.
 
@@ -658,14 +658,14 @@ to gain by it.”
 
 “And give up going to mamma?” Rose waited to see if he would say “What
 need that matter?  Can’t your mother come to us?”  But he said nothing of
-the sort; he only answered—
+the sort; he only answered
 
 “She surely would be sorry to interfere with the exercise of any other
 affection which I might have the bliss of believing that you are now
 free, in however small a degree, to entertain.”
 
 Rose knew that her mother wouldn’t be sorry at all; but she contented
-herself with rejoining, her hand on the door: “Good bye.  I sha’n’t
+herself with rejoining, her hand on the door: “Good-bye.  I sha’n’t
 suffer.  I’m not afraid.”
 
 “You don’t know how terrible, how cruel, the world can be.”
@@ -683,12 +683,12 @@ upon this arrival, and the nature of their glance made Rose step forward
 to look.  Her mother sat there, brilliant, conspicuous, in the eternal
 victoria, and the footman was already sounding the knocker.  It had been
 no part of the arrangement that she should come to fetch her; it had been
-out of the question—a stroke in such bad taste as would have put Rose in
+out of the questiona stroke in such bad taste as would have put Rose in
 the wrong.  The girl had never dreamed of it, but somehow, suddenly,
 perversely, she was glad of it now; she even hoped that her grandmother
 and her aunt were looking out upstairs.
 
-“My mother has come for me.  Good bye,” she repeated; but this time her
+“My mother has come for me.  Good-bye,” she repeated; but this time her
 visitor had got between her and the door.
 
 “Listen to me before you go.  I will give you a life’s devotion,” the
@@ -697,7 +697,7 @@ young man pleaded.  He really barred the way.
 She wondered whether her grandmother had told him that if her flight were
 not prevented she would forfeit money.  Then, vividly, it came over her
 that this would be what he was occupied with.  “I shall never think of
-you—let me go!” she cried, with passion.
+youlet me go!” she cried, with passion.
 
 Captain Jay opened the door, but Rose didn’t see his face, and in a
 moment she was out of the house.  Aunt Julia, who was sure to have been
@@ -716,7 +716,7 @@ to him, “Go and speak to her now; it’s your chance.”  She had for a long
 time wanted this scion to make himself audible to Rose Tramore, but the
 opportunity was not easy to come by.  The case was complicated.  Lady
 Maresfield had four daughters, of whom only one was married.  It so
-happened moreover that this one, Mrs. Vaughan Vesey, the only person in
+happened moreover that this one, Mrs. Vaughan-Vesey, the only person in
 the world her mother was afraid of, was the most to be reckoned with.
 The Honourable Guy was in appearance all his mother’s child, though he
 was really a simpler soul.  He was large and pink; large, that is, as to
@@ -726,7 +726,7 @@ richer rose.  He had also, it must be conceded, very small neat teeth,
 which made his smile look like a young lady’s.  He had no wish to
 resemble any such person, but he was perpetually smiling, and he smiled
 more than ever as he approached Rose Tramore, who, looking altogether, to
-his mind, as a pretty girl should, and wearing a soft white opera cloak
+his mind, as a pretty girl should, and wearing a soft white opera-cloak
 over a softer black dress, leaned alone against the wall of the vestibule
 at Covent Garden while, a few paces off, an old gentleman engaged her
 mother in conversation.  Madame Patti had been singing, and they were all
@@ -753,21 +753,21 @@ proof of Mrs. Tramore’s decrepitude.  Then there was an equal amount that
 her mother had to dispose of and on which the girl could absolutely
 count, though of course it might involve much waiting, as the mother, a
 person of gross insensibility, evidently wouldn’t die of
-cold shouldering.  Equally definite, to do it justice, was the conception
+cold-shouldering.  Equally definite, to do it justice, was the conception
 that Rose was in truth remarkably good looking, and that what she had
 undertaken to do showed, and would show even should it fail, cleverness
 of the right sort.  Cleverness of the right sort was exactly the quality
 that Lady Maresfield prefigured as indispensable in a young lady to whom
 she should marry her second son, over whose own deficiencies she flung
-the veil of a maternal theory that _his_ cleverness was of a sort that
+the veil of a maternal theory that his cleverness was of a sort that
 was wrong.  Those who knew him less well were content to wish that he
 might not conceal it for such a scruple.  This enumeration of his
 mother’s views does not exhaust the list, and it was in obedience to one
 too profound to be uttered even by the historian that, after a very brief
 delay, she decided to move across the crowded lobby.  Her daughter Bessie
-was the only one with her; Maggie was dining with the Vaughan Veseys, and
+was the only one with her; Maggie was dining with the Vaughan-Veseys, and
 Fanny was not of an age.  Mrs. Tramore the younger showed only an
-admirable back—her face was to her old gentleman—and Bessie had drifted
+admirable backher face was to her old gentlemanand Bessie had drifted
 to some other people; so that it was comparatively easy for Lady
 Maresfield to say to Rose, in a moment: “My dear child, are you never
 coming to see us?”
@@ -794,7 +794,7 @@ breweress or a builderess, who had so big a house that she couldn’t fill
 it unless she opened her doors, or her mouth, very wide.  Rose had learnt
 more about London society during these lonely months with her mother than
 she had ever picked up in Hill Street.  The younger Mrs. Tramore was a
-mine of _commérages_, and she had no need to go out to bring home the
+mine of commérages, and she had no need to go out to bring home the
 latest intelligence.  At any rate Mrs. Bray might serve as the end of a
 wedge.  “Oh, I dare say we might think of that,” Rose said.  “It would be
 very kind of your sister.”
@@ -805,10 +805,10 @@ very kind of your sister.”
 it at a music hall; while at the same moment the name of his mother’s
 carriage was bawled through the place.  Mrs. Tramore had parted with her
 old gentleman; she turned again to her daughter.  Nothing occurred but
-what always occurred, which was exactly this absence of everything—a
+what always occurred, which was exactly this absence of everythinga
 universal lapse.  She didn’t exist, even for a second, to any recognising
-eye.  The people who looked at her—of course there were plenty of
-those—were only the people who didn’t exist for hers.  Lady Maresfield
+eye.  The people who looked at herof course there were plenty of
+thosewere only the people who didn’t exist for hers.  Lady Maresfield
 surged away on her son’s arm.
 
 It was this noble matron herself who wrote, the next day, inclosing a
@@ -819,17 +819,17 @@ the note and the card in silence to her mother; the latter exhibited only
 the name of Miss Tramore.  “You had much better go, dear,” her mother
 said; in answer to which Miss Tramore slowly tore up the documents,
 looking with clear, meditative eyes out of the window.  Her mother always
-said “You had better go”—there had been other incidents—and Rose had
+said “You had better go”there had been other incidentsand Rose had
 never even once taken account of the observation.  She would make no
 first advances, only plenty of second ones, and, condoning no
 discrimination, would treat no omission as venial.  She would keep all
 concessions till afterwards; then she would make them one by one.
 Fighting society was quite as hard as her grandmother had said it would
-be; but there was a tension in it which made the dreariness vibrate—the
+be; but there was a tension in it which made the dreariness vibratethe
 dreariness of such a winter as she had just passed.  Her companion had
 cried at the end of it, and she had cried all through; only her tears had
 been private, while her mother’s had fallen once for all, at luncheon on
-the bleak Easter Monday—produced by the way a silent survey of the deadly
+the bleak Easter Mondayproduced by the way a silent survey of the deadly
 square brought home to her that every creature but themselves was out of
 town and having tremendous fun.  Rose felt that it was useless to attempt
 to explain simply by her mourning this severity of solitude; for if
@@ -857,12 +857,12 @@ melancholy to see wasted), as people do who are expecting guests to
 dinner.  Rose used almost to fancy herself at times a perfunctory husband
 on the other side of the fire.
 
-What she was not yet used to—there was still a charm in it—was her
+What she was not yet used tothere was still a charm in itwas her
 mother’s extraordinary tact.  During the years they lived together they
 never had a discussion; a circumstance all the more remarkable since if
 the girl had a reason for sparing her companion (that of being sorry for
 her) Mrs. Tramore had none for sparing her child.  She only showed in
-doing so a happy instinct—the happiest thing about her.  She took in
+doing so a happy instinctthe happiest thing about her.  She took in
 perfection a course which represented everything and covered everything;
 she utterly abjured all authority.  She testified to her abjuration in
 hourly ingenious, touching ways.  In this manner nothing had to be talked
@@ -877,7 +877,7 @@ these ladies without knowing their history you would have wondered what
 tie was fine enough to make maturity so respectful to youth.  No mother
 was ever so filial as Mrs. Tramore, and there had never been such a
 difference of position between sisters.  Not that the elder one fawned,
-which would have been fearful; she only renounced—whatever she had to
+which would have been fearful; she only renouncedwhatever she had to
 renounce.  If the amount was not much she at any rate made no scene over
 it.  Her hand was so light that Rose said of her secretly, in vague
 glances at the past, “No wonder people liked her!”  She never
@@ -892,10 +892,10 @@ of a woman who had known such misery.  She had drunk deep of every
 dishonour, but the bitter cup had left her with a taste for lighted
 candles, for squeezing up staircases and hooking herself to the human
 elbow.  Rose had a vision of the future years in which this taste would
-grow with restored exercise—of her mother, in a long tailed dress,
+grow with restored exerciseof her mother, in a long-tailed dress,
 jogging on and on and on, jogging further and further from her sins,
 through a century of the “Morning Post” and down the fashionable avenue
-of time.  She herself would then be very old—she herself would be dead.
+of time.  She herself would then be very oldshe herself would be dead.
 Mrs. Tramore would cover a span of life for which such an allowance of
 sin was small.  The girl could laugh indeed now at that theory of her
 being dragged down.  If one thing were more present to her than another
@@ -904,7 +904,7 @@ companion, it sometimes seemed to her that if she had been a bad woman
 she would have been worse than that.  There were compensations for being
 “cut” which Mrs. Tramore too much neglected.
 
-The lonely old lady in Hill Street—Rose thought of her that way now—was
+The lonely old lady in Hill StreetRose thought of her that way nowwas
 the one person to whom she was ready to say that she would come to her on
 any terms.  She wrote this to her three times over, and she knocked still
 oftener at her door.  But the old lady answered no letters; if Rose had
@@ -927,18 +927,18 @@ take her hand from the plough and insist upon reintegration, if only the
 fierce voice of the old house had allowed people to look her up.  But she
 read, ever so clearly, that her grandmother had made this a question of
 loyalty to seventy years of virtue.  Mrs. Tramore’s forlornness didn’t
-prevent her drawing room from being a very public place, in which Rose
+prevent her drawing-room from being a very public place, in which Rose
 could hear certain words reverberate: “Leave her alone; it’s the only way
 to see how long she’ll hold out.”  The old woman’s visitors were people
 who didn’t wish to quarrel, and the girl was conscious that if they had
-not let her alone—that is if they had come to her from her
-grandmother—she might perhaps not have held out.  She had no friends
+not let her alonethat is if they had come to her from her
+grandmothershe might perhaps not have held out.  She had no friends
 quite of her own; she had not been brought up to have them, and it would
 not have been easy in a house which two such persons as her father and
 his mother divided between them.  Her father disapproved of crude
 intimacies, and all the intimacies of youth were crude.  He had married
-at five and twenty and could testify to such a truth.  Rose felt that she
-shared even Captain Jay with her grandmother; she had seen what _he_ was
+at five-and-twenty and could testify to such a truth.  Rose felt that she
+shared even Captain Jay with her grandmother; she had seen what he was
 worth.  Moreover, she had spoken to him at that last moment in Hill
 Street in a way which, taken with her former refusal, made it impossible
 that he should come near her again.  She hoped he went to see his
@@ -948,9 +948,9 @@ It so happened, however, that the day after she threw Lady Maresfield’s
 invitation into the wastepaper basket she received a visit from a certain
 Mrs. Donovan, whom she had occasionally seen in Hill Street.  She vaguely
 knew this lady for a busybody, but she was in a situation which even
-busybodies might alleviate.  Mrs. Donovan was poor, but honest—so
+busybodies might alleviate.  Mrs. Donovan was poor, but honestso
 scrupulously honest that she was perpetually returning visits she had
-never received.  She was always clad in weather beaten sealskin, and had
+never received.  She was always clad in weather-beaten sealskin, and had
 an odd air of being prepared for the worst, which was borne out by her
 denying that she was Irish.  She was of the English Donovans.
 
@@ -984,7 +984,7 @@ idea that it was no wonder “people” had liked her.  The girl grudged Mrs.
 Donovan so fresh a morsel as a description of her mother at home,
 rejoicing that she would be inconvenienced by having to keep the story
 out of Hill Street.  Her mother went away before Mrs. Donovan departed,
-and Rose was touched by guessing her reason—the thought that since even
+and Rose was touched by guessing her reasonthe thought that since even
 this circuitous personage had been moved to come, the two might, if left
 together, invent some remedy.  Rose waited to see what Mrs. Donovan had
 in fact invented.
@@ -1005,7 +1005,7 @@ present to the world.”
 biggest fib of her life and only regretting it should be wasted on Mrs.
 Donovan.
 
-“Ah, but do you go everywhere _you_ want?” the lady asked sociably.
+“Ah, but do you go everywhere you want?” the lady asked sociably.
 
 “One goes even to places one hates.  Every one does that.”
 
@@ -1019,7 +1019,7 @@ quarter of a minute she asked herself whether she might not, after all,
 do so much evil that good might come.  Mrs. Donovan would take her out
 the next day, and be thankful enough to annex such an attraction as a
 pretty girl.  Various consequences would ensue and the long delay would
-be shortened; her mother’s drawing room would resound with the clatter of
+be shortened; her mother’s drawing-room would resound with the clatter of
 teacups.
 
 “Mrs. Bray’s having some big thing next week; come with me there and I’ll
@@ -1053,7 +1053,7 @@ Red Book.”
 
 “It’s awfully kind of you.”
 
-Mrs. Donovan lingered a moment on the threshold.  “Who will you _have_
+Mrs. Donovan lingered a moment on the threshold.  “Who will you have
 now, my child?” she appealed.
 
 “I won’t have any one!”  Rose turned away, blushing for her.  “She came
@@ -1081,12 +1081,12 @@ idea of it, however, not preventing a foretaste of the queer expression
 in the excellent lady’s face when she should mention with whom she was
 living.  While she smiled at this picture she threw in another joke,
 asking herself if Miss Hack could be held in any degree to constitute the
-nucleus of a circle.  She would come to see her, in any event—come the
+nucleus of a circle.  She would come to see her, in any eventcome the
 more the further she was dragged down.  Sunday was always a difficult day
-with the two ladies—the afternoons made it so apparent that they were not
+with the two ladiesthe afternoons made it so apparent that they were not
 frequented.  Her mother, it is true, was comprised in the habits of two
-or three old gentlemen—she had for a long time avoided male friends of
-less than seventy—who disliked each other enough to make the room, when
+or three old gentlemenshe had for a long time avoided male friends of
+less than seventywho disliked each other enough to make the room, when
 they were there at once, crack with pressure.  Rose sat for a long time
 with Miss Hack, doing conscientious justice to the conception that there
 could be troubles in the world worse than her own; and when she came back
@@ -1111,14 +1111,14 @@ make of him!” she added in a moment.
 
 “Oh, she’ll never come!”
 
-“Then _he_ sha’n’t,” said Rose.  Yet he was admitted on the Tuesday, and
+“Then he sha’n’t,” said Rose.  Yet he was admitted on the Tuesday, and
 after she had given him his tea Mrs. Tramore left the young people alone.
-Rose wished she hadn’t—she herself had another view.  At any rate she
+Rose wished she hadn’tshe herself had another view.  At any rate she
 disliked her mother’s view, which she had easily guessed.  Mr. Mangler
 did nothing but say how charming he thought his hostess of the Sunday,
 and what a tremendously jolly visit he had had.  He didn’t remark in so
 many words “I had no idea your mother was such a good sort”; but this was
-the spirit of his simple discourse.  Rose liked it at first—a little of
+the spirit of his simple discourse.  Rose liked it at firsta little of
 it gratified her; then she thought there was too much of it for good
 taste.  She had to reflect that one does what one can and that Mr.
 Mangler probably thought he was delicate.  He wished to convey that he
@@ -1130,7 +1130,7 @@ dine with them the night of his aunt’s ball.
 
 “Lady Maresfield knows why I didn’t come,” Rose answered at last.
 
-“Ah, now, but _I_ don’t, you know; can’t you tell _me_?” asked the young
+“Ah, now, but I don’t, you know; can’t you tell me?” asked the young
 man.
 
 “It doesn’t matter, if your mother’s clear about it.”
@@ -1160,18 +1160,18 @@ and the next and the next.
 
 In August there was nothing to do but to go abroad, with the sense on
 Rose’s part that the battle was still all to fight; for a round of
-country visits was not in prospect, and English watering places
+country visits was not in prospect, and English watering-places
 constituted one of the few subjects on which the girl had heard her
 mother express herself with disgust.  Continental autumns had been indeed
 for years, one of the various forms of Mrs. Tramore’s atonement, but Rose
 could only infer that such fruit as they had borne was bitter.  The stony
 stare of Belgravia could be practised at Homburg; and somehow it was
-inveterately only gentlemen who sat next to her at the _table d’hôte_ at
+inveterately only gentlemen who sat next to her at the table d’hôte at
 Cadenabbia.  Gentlemen had never been of any use to Mrs. Tramore for
 getting back into society; they had only helped her effectually to get
 out of it.  She once dropped, to her daughter, in a moralising mood, the
 remark that it was astonishing how many of them one could know without
-its doing one any good.  Fifty of them—even very clever ones—represented
+its doing one any good.  Fifty of themeven very clever onesrepresented
 a value inferior to that of one stupid woman.  Rose wondered at the
 offhand way in which her mother could talk of fifty clever men; it seemed
 to her that the whole world couldn’t contain such a number.  She had a
@@ -1195,7 +1195,7 @@ at Milan, she perceived that a gentleman who had just passed her on his
 way into the cathedral and whose face she had not noticed, had quickly
 raised his hat, with a suppressed ejaculation.  She involuntarily glanced
 back; the gentleman had paused, again uncovering, and Captain Jay stood
-saluting her in the Italian sunshine.  “Oh, good morning!” she said, and
+saluting her in the Italian sunshine.  “Oh, good-morning!” she said, and
 walked on, pursuing her course; her mother was a little in front.  She
 overtook her in a moment, with an unreasonable sense, like a gust of cold
 air, that men were worse than ever, for Captain Jay had apparently moved
@@ -1247,10 +1247,10 @@ unconscious of her question; then, with mild violence, he brought out the
 inquiry: “Miss Tramore, are you happy?”
 
 She was startled by the words, for she on her side had been
-reflecting—reflecting that he had broken with her grandmother and that
+reflectingreflecting that he had broken with her grandmother and that
 this pointed to a reason.  It suggested at least that he wouldn’t now be
 so much like a mouthpiece for that cold ancestral tone.  She turned off
-his question—said it never was a fair one, as you gave yourself away
+his questionsaid it never was a fair one, as you gave yourself away
 however you answered it.  When he repeated “You give yourself away?” as
 if he didn’t understand, she remembered that he had not read the funny
 American books.  This brought them to a silence, for she had enlightened
@@ -1312,7 +1312,7 @@ cathedral.
 
 “On trial?”
 
-“You don’t make an observation to me—not a single one, ever, ever!—on the
+“You don’t make an observation to menot a single one, ever, ever!on the
 matter that, in Hill Street, we had our last words about.”
 
 Captain Jay appeared to be counting the thousand pinnacles of the church.
@@ -1343,7 +1343,7 @@ then she said: “You’ll be disappointed!”
 “She’s much more proper than grandmamma, because she’s much more
 amiable.”
 
-“Dear Miss Tramore—dear Miss Tramore!” the young man murmured helplessly.
+“Dear Miss Tramoredear Miss Tramore!” the young man murmured helplessly.
 
 “You’ll see for yourself.  Only there’s another condition,” Rose went on.
 
@@ -1363,7 +1363,7 @@ us.”
 
 “Oh, Miss Tramore!” Captain Jay interposed.  He added quickly, vaguely,
 and with a want of presence of mind of which he as quickly felt ashamed:
-“Do none of your family—?”  The question collapsed; the brilliant girl
+“Do none of your family?”  The question collapsed; the brilliant girl
 was looking at him.
 
 “We’re extraordinarily happy,” she threw out.
@@ -1373,8 +1373,8 @@ exaggerated cheery reproach, walking on with her briskly to overtake her
 mother.
 
 He was not dining at their inn, but he insisted on coming that evening to
-their _table d’hôte_.  He sat next Mrs. Tramore, and in the evening he
-accompanied them gallantly to the opera, at a third rate theatre where
+their table d’hôte.  He sat next Mrs. Tramore, and in the evening he
+accompanied them gallantly to the opera, at a third-rate theatre where
 they were almost the only ladies in the boxes.  The next day they went
 together by rail to the Charterhouse of Pavia, and while he strolled with
 the girl, as they waited for the homeward train, he said to her candidly:
@@ -1383,20 +1383,20 @@ feeling they gave her: they were the first note of new era.  The feeling
 was somewhat that of an anxious, gratified matron who has “presented” her
 child and is thinking of the matrimonial market.  Men might be of no use,
 as Mrs. Tramore said, yet it was from this moment Rose dated the rosy
-dawn of her confidence that her _protégée_ would go off; and when later,
+dawn of her confidence that her protégée would go off; and when later,
 in crowded assemblies, the phrase, or something like it behind a hat or a
-fan, fell repeatedly on her anxious ear, “Your mother _is_ in beauty!” or
+fan, fell repeatedly on her anxious ear, “Your mother is in beauty!” or
 “I’ve never seen her look better!” she had a faint vision of the yellow
 sunshine and the afternoon shadows on the dusty Italian platform.
 
 Mrs. Tramore’s behaviour at this period was a revelation of her native
 understanding of delicate situations.  She needed no account of this one
-from her daughter—it was one of the things for which she had a scent; and
+from her daughterit was one of the things for which she had a scent; and
 there was a kind of loyalty to the rules of a game in the silent
 sweetness with which she smoothed the path of Bertram Jay.  It was clear
 that she was in her element in fostering the exercise of the affections,
 and if she ever spoke without thinking twice it is probable that she
-would have exclaimed, with some gaiety, “Oh, I know all about _love_!”
+would have exclaimed, with some gaiety, “Oh, I know all about love!”
 Rose could see that she thought their companion would be a help, in spite
 of his being no dispenser of patronage.  The key to the gates of fashion
 had not been placed in his hand, and no one had ever heard of the ladies
@@ -1427,37 +1427,37 @@ By the time they reached Venice (they had stopped at half a dozen little
 old romantic cities in the most frolicsome æsthetic way) she liked their
 companion better than she had ever liked him before.  She did him the
 justice to recognise that if he was not quite honest with himself he was
-at least wholly honest with _her_.  She reckoned up everything he had
+at least wholly honest with her.  She reckoned up everything he had
 been since he joined them, and put upon it all an interpretation so
 favourable to his devotion that, catching herself in the act of glossing
 over one or two episodes that had not struck her at the time as
-disinterested she exclaimed, beneath her breath, “Look out—you’re falling
+disinterested she exclaimed, beneath her breath, “Look outyou’re falling
 in love!”  But if he liked correctness wasn’t he quite right?  Could any
-one possibly like it more than _she_ did?  And if he had protested
+one possibly like it more than she did?  And if he had protested
 against her throwing in her lot with her mother, this was not because of
 the benefit conferred but because of the injury received.  He exaggerated
 that injury, but this was the privilege of a lover perfectly willing to
 be selfish on behalf of his mistress.  He might have wanted her
 grandmother’s money for her, but if he had given her up on first
 discovering that she was throwing away her chance of it (oh, this was
-_her_ doing too!) he had given up her grandmother as much: not keeping
+her doing too!) he had given up her grandmother as much: not keeping
 well with the old woman, as some men would have done; not waiting to see
 how the perverse experiment would turn out and appeasing her, if it
 should promise tolerably, with a view to future operations.  He had had a
-simple minded, evangelical, lurid view of what the girl he loved would
-find herself in for.  She could see this now—she could see it from his
+simple-minded, evangelical, lurid view of what the girl he loved would
+find herself in for.  She could see this nowshe could see it from his
 present bewilderment and mystification, and she liked him and pitied him,
-with the kindest smile, for the original _naïveté_ as well as for the
+with the kindest smile, for the original naïveté as well as for the
 actual meekness.  No wonder he hadn’t known what she was in for, since he
 now didn’t even know what he was in for himself.  Were there not moments
 when he thought his companions almost unnaturally good, almost
 suspiciously safe?  He had lost all power to verify that sketch of their
-isolation and _déclassement_ to which she had treated him on the great
+isolation and déclassement to which she had treated him on the great
 square at Milan.  The last thing he noticed was that they were neglected,
 and he had never, for himself, had such an impression of society.
 
 It could scarcely be enhanced even by the apparition of a large, fair,
-hot, red haired young man, carrying a lady’s fan in his hand, who
+hot, red-haired young man, carrying a lady’s fan in his hand, who
 suddenly stood before their little party as, on the third evening after
 their arrival in Venice, it partook of ices at one of the tables before
 the celebrated Café Florian.  The lamplit Venetian dusk appeared to have
@@ -1478,7 +1478,7 @@ first, and now, when she wanted to, there were other people, who
 naturally wouldn’t turn out for her.  Mr. Mangler sat down; he alluded
 with artless resentment to the way, in July, the door of his friends had
 been closed to him.  He was going to Constantinople, but he didn’t
-care—if _they_ were going anywhere; meanwhile his mother hoped awfully
+careif they were going anywhere; meanwhile his mother hoped awfully
 they would look her up.
 
 Lady Maresfield, if she had given her son any such message, which Rose
@@ -1491,7 +1491,7 @@ Lady Maresfield.  She was a little ashamed now of not having answered the
 note in which this affable personage ignored her mother.  She couldn’t
 help perceiving indeed a dim movement on the part of some of the other
 members of the group; she made out an attitude of observation in the
-high plumed head of Mrs. Vaughan Vesey.  Mrs. Vesey, perhaps, might have
+high-plumed head of Mrs. Vaughan-Vesey.  Mrs. Vesey, perhaps, might have
 been looking at Captain Jay, for as this gentleman walked back to the
 hotel with our young lady (they were at the “Britannia,” and young
 Mangler, who clung to them, went in front with Mrs. Tramore) he revealed
@@ -1535,7 +1535,7 @@ encountered a stately barge which, though it contained several persons,
 seemed pervaded mainly by one majestic presence.  During the instant the
 gondolas were passing each other it was impossible either for Rose
 Tramore or for her companions not to become conscious that this
-distinguished identity had markedly inclined itself—a circumstance
+distinguished identity had markedly inclined itselfa circumstance
 commemorated the next moment, almost within earshot of the other boat, by
 the most spontaneous cry that had issued for many a day from the lips of
 Mrs. Tramore.  “Fancy, my dear, Lady Maresfield has bowed to us!”
@@ -1545,21 +1545,21 @@ Jay, who was opposite to her.  He blushed, and she blushed, and during
 this moment was born a deeper understanding than had yet existed between
 these associated spirits.  It had something to do with their going
 together that afternoon, without her mother, to look at certain
-out of the way pictures as to which Ruskin had inspired her with a desire
+out-of-the-way pictures as to which Ruskin had inspired her with a desire
 to see sincerely.  Mrs. Tramore expressed the wish to stay at home, and
-the motive of this wish—a finer shade than any that even Ruskin had ever
-found a phrase for—was not translated into misrepresenting words by
+the motive of this wisha finer shade than any that even Ruskin had ever
+found a phrase forwas not translated into misrepresenting words by
 either the mother or the daughter.  At San Giovanni in Bragora the girl
-and her companion came upon Mrs. Vaughan Vesey, who, with one of her
+and her companion came upon Mrs. Vaughan-Vesey, who, with one of her
 sisters, was also endeavouring to do the earnest thing.  She did it to
 Rose, she did it to Captain Jay, as well as to Gianbellini; she was a
-handsome, long necked, aquiline person, of a different type from the rest
+handsome, long-necked, aquiline person, of a different type from the rest
 of her family, and she did it remarkably well.  She secured our
-friends—it was her own expression—for luncheon, on the morrow, on the
+friendsit was her own expressionfor luncheon, on the morrow, on the
 yacht, and she made it public to Rose that she would come that afternoon
 to invite her mother.  When the girl returned to the hotel, Mrs. Tramore
-mentioned, before Captain Jay, who had come up to their sitting room,
-that Lady Maresfield had called.  “She stayed a long time—at least it
+mentioned, before Captain Jay, who had come up to their sitting-room,
+that Lady Maresfield had called.  “She stayed a long timeat least it
 seemed long!” laughed Mrs. Tramore.
 
 The poor lady could laugh freely now; yet there was some grimness in a
@@ -1584,19 +1584,19 @@ place, on the morrow, she could feel for the first time that she was
 taking her mother out.  This appearance was somehow brought home to every
 one else, and it was really the agent of her success.  For it is of the
 essence of this simple history that, in the first place, that success
-dated from Mrs. Vesey’s Venetian _déjeuner_, and in the second reposed,
+dated from Mrs. Vesey’s Venetian déjeuner, and in the second reposed,
 by a subtle social logic, on the very anomaly that had made it dubious.
 There is always a chance in things, and Rose Tramore’s chance was in the
 fact that Gwendolen Vesey was, as some one had said, awfully modern, an
 immense improvement on the exploded science of her mother, and capable of
 seeing what a “draw” there would be in the comedy, if properly brought
 out, of the reversed positions of Mrs. Tramore and Mrs. Tramore’s
-diplomatic daughter.  With a first rate managerial eye she perceived that
-people would flock into any room—and all the more into one of hers—to see
+diplomatic daughter.  With a first-rate managerial eye she perceived that
+people would flock into any roomand all the more into one of hersto see
 Rose bring in her dreadful mother.  She treated the cream of English
 society to this thrilling spectacle later in the autumn, when she once
 more “secured” both the performers for a week at Brimble.  It made a hit
-on the spot, the very first evening—the girl was felt to play her part so
+on the spot, the very first eveningthe girl was felt to play her part so
 well.  The rumour of the performance spread; every one wanted to see it.
 It was an entertainment of which, that winter in the country, and the
 next season in town, persons of taste desired to give their friends the
@@ -1621,7 +1621,7 @@ to be married to Captain Jay.  The marriage was not to take place till
 the summer; but Rose felt that before this the field would practically be
 won.  There had been some bad moments, there had been several warm
 corners and a certain number of cold shoulders and closed doors and stony
-stares; but the breach was effectually made—the rest was only a question
+stares; but the breach was effectually madethe rest was only a question
 of time.  Mrs. Tramore could be trusted to keep what she had gained, and
 it was the dowagers, the old dragons with prominent fangs and glittering
 scales, whom the trick had already mainly caught.  By this time there
@@ -1633,21 +1633,21 @@ romantic story.  She was at least the next best thing to her daughter,
 and Rose foresaw the day when she would be valued principally as a
 memento of one of the prettiest episodes in the annals of London.  At a
 big official party, in June, Rose had the joy of introducing Eric to his
-mother.  She was a little sorry it was an official party—there were some
+mother.  She was a little sorry it was an official partythere were some
 other such queer people there; but Eric called, observing the shade, the
 next day but one.
 
 No observer, probably, would have been acute enough to fix exactly the
 moment at which the girl ceased to take out her mother and began to be
-taken out by her.  A later phase was more distinguishable—that at which
+taken out by her.  A later phase was more distinguishablethat at which
 Rose forbore to inflict on her companion a duality that might become
 oppressive.  She began to economise her force, she went only when the
 particular effect was required.  Her marriage was delayed by the period
 of mourning consequent upon the death of her grandmother, who, the
 younger Mrs. Tramore averred, was killed by the rumour of her own new
 birth.  She was the only one of the dragons who had not been tamed.
-Julia Tramore knew the truth about this—she was determined such things
-should not kill _her_.  She would live to do something—she hardly knew
+Julia Tramore knew the truth about thisshe was determined such things
+should not kill her.  She would live to do somethingshe hardly knew
 what.  The provisions of her mother’s will were published in the
 “Illustrated News”; from which it appeared that everything that was not
 to go to Eric and to Julia was to go to the fortunate Edith.  Miss
@@ -1662,7 +1662,7 @@ not wholly expended in return.  They are extremely united, but their life
 is more domestic than might have been expected from the preliminary
 signs.  It owes a portion of its concentration to the fact that Mrs.
 Tramore has now so many places to go to that she has almost no time to
-come to her daughter’s.  She is, under her son in law’s roof, a brilliant
+come to her daughter’s.  She is, under her son-in-law’s roof, a brilliant
 but a rare apparition, and the other day he remarked upon the
 circumstance to his wife.
 
@@ -1675,4 +1675,4 @@ consciousness of virtue.
 “You ordered it otherwise, you goose!”  And she says, in the same spirit,
 whenever her husband commends her (which he does, sometimes,
 extravagantly) for the way she launched her mother: “Nonsense, my
-dear—practically it was _you_!”
+dearpractically it was you!”

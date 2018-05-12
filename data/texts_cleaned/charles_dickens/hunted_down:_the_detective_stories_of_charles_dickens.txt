@@ -22,18 +22,18 @@ creature to present his or her own page with the individual character
 written on it, is a difficult one, perhaps, and is little studied.  It
 may require some natural aptitude, and it must require (for everything
 does) some patience and some pains.  That these are not usually given to
-it,—that numbers of people accept a few stock commonplace expressions of
+it,that numbers of people accept a few stock commonplace expressions of
 the face as the whole list of characteristics, and neither seek nor know
-the refinements that are truest,—that You, for instance, give a great
+the refinements that are truest,that You, for instance, give a great
 deal of time and attention to the reading of music, Greek, Latin, French,
 Italian, Hebrew, if you please, and do not qualify yourself to read the
 face of the master or mistress looking over your shoulder teaching it to
-you,—I assume to be five hundred times more probable than improbable.
-Perhaps a little self sufficiency may be at the bottom of this; facial
+you,I assume to be five hundred times more probable than improbable.
+Perhaps a little self-sufficiency may be at the bottom of this; facial
 expression requires no study from you, you think; it comes by nature to
 you to know enough about it, and you are not to be taken in.
 
-I confess, for my part, that I _have_ been taken in, over and over again.
+I confess, for my part, that I have been taken in, over and over again.
 I have been taken in by acquaintances, and I have been taken in (of
 course) by friends; far oftener by friends than by any other class of
 persons.  How came I to be so deceived?  Had I quite misread their faces?
@@ -49,9 +49,9 @@ II.
 
 
 THE partition which separated my own office from our general outer office
-in the City was of thick plate glass.  I could see through it what passed
+in the City was of thick plate-glass.  I could see through it what passed
 in the outer office, without hearing a word.  I had it put up in place of
-a wall that had been there for years,—ever since the house was built.  It
+a wall that had been there for years,ever since the house was built.  It
 is no matter whether I did or did not make the change in order that I
 might derive my first impression of strangers, who came to us on
 business, from their faces alone, without being influenced by anything
@@ -65,8 +65,8 @@ story I am going to tell.
 He had come in without my observing it, and had put his hat and umbrella
 on the broad counter, and was bending over it to take some papers from
 one of the clerks.  He was about forty or so, dark, exceedingly well
-dressed in black,—being in mourning,—and the hand he extended with a
-polite air, had a particularly well fitting black kid glove upon it.  His
+dressed in black,being in mourning,and the hand he extended with a
+polite air, had a particularly well-fitting black-kid glove upon it.  His
 hair, which was elaborately brushed and oiled, was parted straight up the
 middle; and he presented this parting to the clerk, exactly (to my
 thinking) as if he had said, in so many words: ‘You must take me, if you
@@ -121,9 +121,9 @@ acquaintance he would not trouble you.’
 
 ‘Did he know my name?’
 
-‘O yes, sir!  He said, “There _is_ Mr. Sampson, I see!”’
+‘O yes, sir!  He said, “There is Mr. Sampson, I see!”’
 
-‘A well spoken gentleman, apparently?’
+‘A well-spoken gentleman, apparently?’
 
 ‘Remarkably so, sir.’
 
@@ -142,7 +142,7 @@ he offered, and by no other.
 
 I noticed him ask my friend to introduce him to Mr. Sampson, and my
 friend did so.  Mr. Slinkton was very happy to see me.  Not too happy;
-there was no over doing of the matter; happy in a thoroughly well bred,
+there was no over-doing of the matter; happy in a thoroughly well-bred,
 perfectly unmeaning way.
 
 ‘I thought you had met,’ our host observed.
@@ -186,11 +186,11 @@ He laughed at my ready association of loss with money, and replied, ‘No,
 in talent and vigour.’
 
 Not at once following out his allusion, I considered for a moment.
-‘_Has_ it sustained a loss of that kind?’ said I.  ‘I was not aware of
+‘Has it sustained a loss of that kind?’ said I.  ‘I was not aware of
 it.’
 
 ‘Understand me, Mr. Sampson.  I don’t imagine that you have retired.  It
-is not so bad as that.  But Mr. Meltham—’
+is not so bad as that.  But Mr. Meltham’
 
 ‘O, to be sure!’ said I.  ‘Yes!  Mr. Meltham, the young actuary of the
 “Inestimable.”’
@@ -205,7 +205,7 @@ I spoke strongly; for I had a high esteem and admiration for Meltham; and
 my gentleman had indefinitely conveyed to me some suspicion that he
 wanted to sneer at him.  He recalled me to my guard by presenting that
 trim pathway up his head, with its internal ‘Not on the grass, if you
-please—the gravel.’
+pleasethe gravel.’
 
 ‘You knew him, Mr. Slinkton.’
 
@@ -218,22 +218,22 @@ of far inferior mark.  He was scarcely above thirty, I suppose?’
 
 ‘Ah!’ he sighed in his former consoling way.  ‘What creatures we are!  To
 break up, Mr. Sampson, and become incapable of business at that time of
-life!—Any reason assigned for the melancholy fact?’
+life!Any reason assigned for the melancholy fact?’
 
 (‘Humph!’ thought I, as I looked at him.  ‘But I WON’T go up the track,
 and I WILL go on the grass.’)
 
 ‘What reason have you heard assigned, Mr. Slinkton?’ I asked,
-point blank.
+point-blank.
 
 ‘Most likely a false one.  You know what Rumour is, Mr. Sampson.  I never
 repeat what I hear; it is the only way of paring the nails and shaving
-the head of Rumour.  But when _you_ ask me what reason I have heard
+the head of Rumour.  But when you ask me what reason I have heard
 assigned for Mr. Meltham’s passing away from among men, it is another
 thing.  I am not gratifying idle gossip then.  I was told, Mr. Sampson,
 that Mr. Meltham had relinquished all his avocations and all his
-prospects, because he was, in fact, broken hearted.  A disappointed
-attachment I heard,—though it hardly seems probable, in the case of a man
+prospects, because he was, in fact, broken-hearted.  A disappointed
+attachment I heard,though it hardly seems probable, in the case of a man
 so distinguished and so attractive.’
 
 ‘Attractions and distinctions are no armour against death,’ said I.
@@ -250,7 +250,7 @@ like the other knots of talkers, by the announcement of dinner:
 whom I have never known.  I am not so disinterested as you may suppose.
 I have suffered, and recently too, from death myself.  I have lost one of
 two charming nieces, who were my constant companions.  She died
-young—barely three and twenty; and even her remaining sister is far from
+youngbarely three-and-twenty; and even her remaining sister is far from
 strong.  The world is a grave!’
 
 He said this with deep feeling, and I felt reproached for the coldness of
@@ -271,8 +271,8 @@ pursuit as made him agreeable to that man in reference to it, and just as
 little as made it natural in him to seek modestly for information when
 the theme was broached.
 
-As he talked and talked—but really not too much, for the rest of us
-seemed to force it upon him—I became quite angry with myself.  I took his
+As he talked and talkedbut really not too much, for the rest of us
+seemed to force it upon himI became quite angry with myself.  I took his
 face to pieces in my mind, like a watch, and examined it in detail.  I
 could not say much against any of his features separately; I could say
 even less against them when they were put together.  ‘Then is it not
@@ -287,7 +287,7 @@ the whole mystery.  A hair or two will show where a lion is hidden.  A
 very little key will open a very heavy door.)
 
 I took my part in the conversation with him after a time, and we got on
-remarkably well.  In the drawing room I asked the host how long he had
+remarkably well.  In the drawing-room I asked the host how long he had
 known Mr. Slinkton.  He answered, not many months; he had met him at the
 house of a celebrated painter then present, who had known him well when
 he was travelling with his nieces in Italy for their health.  His plans
@@ -308,12 +308,12 @@ before, when he came into the outer office, as before.  The moment I saw
 him again without hearing him, I hated him worse than ever.
 
 It was only for a moment that I had this opportunity; for he waved his
-tight fitting black glove the instant I looked at him, and came straight
+tight-fitting black glove the instant I looked at him, and came straight
 in.
 
-‘Mr. Sampson, good day!  I presume, you see, upon your kind permission to
+‘Mr. Sampson, good-day!  I presume, you see, upon your kind permission to
 intrude upon you.  I don’t keep my word in being justified by business,
-for my business here—if I may so abuse the word—is of the slightest
+for my business hereif I may so abuse the wordis of the slightest
 nature.’
 
 I asked, was it anything I could assist him in?
@@ -324,7 +324,7 @@ But, of course, he has done nothing.  I gave him your papers with my own
 hand, and he was hot upon the intention, but of course he has done
 nothing.  Apart from the general human disinclination to do anything that
 ought to be done, I dare say there is a specialty about assuring one’s
-life.  You find it like will making.  People are so superstitious, and
+life.  You find it like will-making.  People are so superstitious, and
 take it for granted they will die soon afterwards.’
 
 ‘Up here, if you please; straight up here, Mr. Sampson.  Neither to the
@@ -342,7 +342,7 @@ do it.  But I suppose he never will.’
 
 He spoke for a minute or two on indifferent topics, and went away.
 
-I had scarcely unlocked the drawers of my writing table next morning,
+I had scarcely unlocked the drawers of my writing-table next morning,
 when he reappeared.  I noticed that he came straight to the door in the
 glass partition, and did not pause a single moment outside.
 
@@ -356,8 +356,8 @@ to this proposal my friend has made.’
 
 ‘Has he made one?’ said I.
 
-‘Ye es,’ he answered, deliberately looking at me; and then a bright idea
-seemed to strike him—‘or he only tells me he has.  Perhaps that may be a
+‘Ye-es,’ he answered, deliberately looking at me; and then a bright idea
+seemed to strike him‘or he only tells me he has.  Perhaps that may be a
 new way of evading the matter.  By Jupiter, I never thought of that!’
 
 Mr. Adams was opening the morning’s letters in the outer office.  ‘What
@@ -396,7 +396,7 @@ and ink?’
 ‘Certainly.’
 
 He had been hovering about between his hat and his umbrella for a place
-to write on.  He now sat down in my chair, at my blotting paper and
+to write on.  He now sat down in my chair, at my blotting-paper and
 inkstand, with the long walk up his head in accurate perspective before
 me, as I stood with my back to the fire.
 
@@ -408,7 +408,7 @@ anything.  All the answers were satisfactory.  When he had written them
 all, he looked them over, and finally signed them in a very pretty hand.
 He supposed he had now done with the business.  I told him he was not
 likely to be troubled any farther.  Should he leave the papers there? If
-he pleased.  Much obliged.  Good morning.
+he pleased.  Much obliged.  Good-morning.
 
 I had had one other visitor before him; not at the office, but at my own
 house.  That visitor had come to my bedside when it was not yet daylight,
@@ -429,7 +429,7 @@ FOR six or seven months I saw no more of Mr. Slinkton.  He called once at
 my house, but I was not at home; and he once asked me to dine with him in
 the Temple, but I was engaged.  His friend’s assurance was effected in
 March.  Late in September or early in October I was down at Scarborough
-for a breath of sea air, where I met him on the beach.  It was a hot
+for a breath of sea-air, where I met him on the beach.  It was a hot
 evening; he came toward me with his hat in his hand; and there was the
 walk I had felt so strongly disinclined to take in perfect order again,
 exactly in front of the bridge of my nose.
@@ -443,7 +443,7 @@ her as his niece, Miss Niner.
 
 ‘Are you strolling, Mr. Sampson?  Is it possible you can be idle?’
 
-It _was_ possible, and I _was_ strolling.
+It was possible, and I was strolling.
 
 ‘Shall we stroll together?’
 
@@ -453,7 +453,7 @@ The young lady walked between us, and we walked on the cool sea sand, in
 the direction of Filey.
 
 ‘There have been wheels here,’ said Mr. Slinkton.  ‘And now I look again,
-the wheels of a hand carriage!  Margaret, my love, your shadow without
+the wheels of a hand-carriage!  Margaret, my love, your shadow without
 doubt!’
 
 ‘Miss Niner’s shadow?’ I repeated, looking down at it on the sand.
@@ -462,7 +462,7 @@ doubt!’
 tell Mr. Sampson.’
 
 ‘Indeed,’ said the young lady, turning to me, ‘there is nothing to
-tell—except that I constantly see the same invalid old gentleman at all
+tellexcept that I constantly see the same invalid old gentleman at all
 times, wherever I go.  I have mentioned it to my uncle, and he calls the
 gentleman my shadow.’
 
@@ -477,7 +477,7 @@ my health.’
 
 ‘And your shadow?’ said I, smiling.
 
-‘My shadow,’ she answered, smiling too, ‘is—like myself—not very robust,
+‘My shadow,’ she answered, smiling too, ‘islike myselfnot very robust,
 I fear; for I lose my shadow sometimes, as my shadow loses me at other
 times.  We both seem liable to confinement to the house.  I have not seen
 my shadow for days and days; but it does oddly happen, occasionally, that
@@ -488,14 +488,14 @@ together in the most unfrequented nooks on this shore.’
 
 The wheels had swept down to the water’s edge, and described a great loop
 on the sand in turning.  Bringing the loop back towards us, and spinning
-it out as it came, was a hand carriage, drawn by a man.
+it out as it came, was a hand-carriage, drawn by a man.
 
 ‘Yes,’ said Miss Niner, ‘this really is my shadow, uncle.’
 
 As the carriage approached us and we approached the carriage, I saw
 within it an old man, whose head was sunk on his breast, and who was
 enveloped in a variety of wrappers.  He was drawn by a very quiet but
-very keen looking man, with iron gray hair, who was slightly lame.  They
+very keen-looking man, with iron-gray hair, who was slightly lame.  They
 had passed us, when the carriage stopped, and the old gentleman within,
 putting out his arm, called to me by my name.  I went back, and was
 absent from Mr. Slinkton and his niece for about five minutes.
@@ -513,7 +513,7 @@ certain Major Banks.  You have heard of him?’
 ‘Never.’
 
 ‘Very rich, Miss Niner; but very old, and very crippled.  An amiable man,
-sensible—much interested in you.  He has just been expatiating on the
+sensiblemuch interested in you.  He has just been expatiating on the
 affection that he has observed to exist between you and your uncle.’
 
 Mr. Slinkton was holding his hat again, and he passed his hand up the
@@ -537,16 +537,16 @@ I cannot bear to see you droop!’
 The poor young lady was very much affected, but controlled herself.  His
 feelings, too, were very acute.  In a word, he found himself under such
 great need of a restorative, that he presently went away, to take a bath
-of sea water, leaving the young lady and me sitting by a point of rock,
-and probably presuming—but that you will say was a pardonable indulgence
-in a luxury—that she would praise him with all her heart.
+of sea-water, leaving the young lady and me sitting by a point of rock,
+and probably presumingbut that you will say was a pardonable indulgence
+in a luxurythat she would praise him with all her heart.
 
 She did, poor thing!  With all her confiding heart, she praised him to
 me, for his care of her dead sister, and for his untiring devotion in her
 last illness.  The sister had wasted away very slowly, and wild and
 terrible fantasies had come over her toward the end, but he had never
 been impatient with her, or at a loss; had always been gentle, watchful,
-and self possessed.  The sister had known him, as she had known him, to
+and self-possessed.  The sister had known him, as she had known him, to
 be the best of men, the kindest of men, and yet a man of such admirable
 strength of character, as to be a very tower for the support of their
 weak natures while their poor lives endured.
@@ -556,7 +556,7 @@ my life is drawing to an end; and when I am gone, I hope he will marry
 and be happy.  I am sure he has lived single so long, only for my sake,
 and for my poor, poor sister’s.’
 
-The little hand carriage had made another great loop on the damp sand,
+The little hand-carriage had made another great loop on the damp sand,
 and was coming back again, gradually spinning out a slim figure of eight,
 half a mile long.
 
@@ -601,16 +601,16 @@ If the little carriage had been less near to us, I doubt if I could have
 got her away; but it was so near that we were there before she had
 recovered the hurry of being urged from the rock.  I did not remain there
 with her two minutes.  Certainly within five, I had the inexpressible
-satisfaction of seeing her—from the point we had sat on, and to which I
-had returned—half supported and half carried up some rude steps notched
+satisfaction of seeing herfrom the point we had sat on, and to which I
+had returnedhalf supported and half carried up some rude steps notched
 in the cliff, by the figure of an active man.  With that figure beside
 her, I knew she was safe anywhere.
 
 I sat alone on the rock, awaiting Mr. Slinkton’s return.  The twilight
 was deepening and the shadows were heavy, when he came round the point,
-with his hat hanging at his button hole, smoothing his wet hair with one
+with his hat hanging at his button-hole, smoothing his wet hair with one
 of his hands, and picking out the old path with the other and a
-pocket comb.
+pocket-comb.
 
 ‘My niece not here, Mr. Sampson?’ he said, looking about.
 
@@ -622,8 +622,8 @@ without him; even to originate so slight a proceeding.
 
 ‘I persuaded Miss Niner,’ I explained.
 
-‘Ah!’ said he.  ‘She is easily persuaded—for her good.  Thank you, Mr.
-Sampson; she is better within doors.  The bathing place was farther than
+‘Ah!’ said he.  ‘She is easily persuadedfor her good.  Thank you, Mr.
+Sampson; she is better within doors.  The bathing-place was farther than
 I thought, to say the truth.’
 
 ‘Miss Niner is very delicate,’ I observed.
@@ -634,7 +634,7 @@ strengthened her.  The gloomy shadow that fell upon her sister so early
 in life seems, in my anxious eyes, to gather over her, ever darker, ever
 darker.  Dear Margaret, dear Margaret!  But we must hope.’
 
-The hand carriage was spinning away before us at a most indecorous pace
+The hand-carriage was spinning away before us at a most indecorous pace
 for an invalid vehicle, and was making most irregular curves upon the
 sand.  Mr. Slinkton, noticing it after he had put his handkerchief to his
 eyes, said:
@@ -659,7 +659,7 @@ niece’s state of health had awakened in him,
 
 ‘Do you stay here long, Mr. Sampson?’
 
-‘Why, no.  I am going away to night.’
+‘Why, no.  I am going away to-night.’
 
 ‘So soon?  But business always holds you in request.  Men like Mr.
 Sampson are too important to others, to be spared to their own need of
@@ -678,10 +678,10 @@ I told him what defensive weapon my right hand rested on in my pocket, as
 I walked by his side.  Any more than I told him why I did not walk on the
 sea side of him with the night closing in.
 
-We left the beach, and our ways diverged.  We exchanged good night, and
+We left the beach, and our ways diverged.  We exchanged good-night, and
 had parted indeed, when he said, returning,
 
-‘Mr. Sampson, _may_ I ask?  Poor Meltham, whom we spoke of,—dead yet?’
+‘Mr. Sampson, may I ask?  Poor Meltham, whom we spoke of,dead yet?’
 
 ‘Not when I last heard of him; but too broken a man to live long, and
 hopelessly lost to his old calling.’
@@ -703,7 +703,7 @@ V.
 
 
 I HAD a very particular engagement to breakfast in the Temple.  It was a
-bitter north easterly morning, and the sleet and slush lay inches deep in
+bitter north-easterly morning, and the sleet and slush lay inches deep in
 the streets.  I could get no conveyance, and was soon wet to the knees;
 but I should have been true to that appointment, though I had to wade to
 it up to my neck in the same impediments.
@@ -717,15 +717,15 @@ heard in the other.
 
 I had never been in those chambers before.  They were dismal, close,
 unwholesome, and oppressive; the furniture, originally good, and not yet
-old, was faded and dirty,—the rooms were in great disorder; there was a
+old, was faded and dirty,the rooms were in great disorder; there was a
 strong prevailing smell of opium, brandy, and tobacco; the grate and
-fire irons were splashed all over with unsightly blotches of rust; and on
+fire-irons were splashed all over with unsightly blotches of rust; and on
 a sofa by the fire, in the room where breakfast had been prepared, lay
 the host, Mr. Beckwith, a man with all the appearances of the worst kind
 of drunkard, very far advanced upon his shameful way to death.
 
 ‘Slinkton is not come yet,’ said this creature, staggering up when I went
-in; ‘I’ll call him.—Halloa!  Julius Cæsar!  Come and drink!’  As he
+in; ‘I’ll call him.Halloa!  Julius Cæsar!  Come and drink!’  As he
 hoarsely roared this out, he beat the poker and tongs together in a mad
 way, as if that were his usual manner of summoning his associate.
 
@@ -738,12 +738,12 @@ never saw a man so aghast as he was when his eyes rested on mine.
 Mist’ Sampson, Julius Cæsar!  Julius, Mist’ Sampson, is the friend of my
 soul.  Julius keeps me plied with liquor, morning, noon, and night.
 Julius is a real benefactor. Julius threw the tea and coffee out of
-window when I used to have any.  Julius empties all the water jugs of
+window when I used to have any.  Julius empties all the water-jugs of
 their contents, and fills ’em with spirits.  Julius winds me up and keeps
-me going.—Boil the brandy, Julius!’
+me going.Boil the brandy, Julius!’
 
-There was a rusty and furred saucepan in the ashes,—the ashes looked like
-the accumulation of weeks,—and Beckwith, rolling and staggering between
+There was a rusty and furred saucepan in the ashes,the ashes looked like
+the accumulation of weeks,and Beckwith, rolling and staggering between
 us as if he were going to plunge headlong into the fire, got the saucepan
 out, and tried to force it into Slinkton’s hand.
 
@@ -753,10 +753,10 @@ brandy!’
 He became so fierce in his gesticulations with the saucepan, that I
 expected to see him lay open Slinkton’s head with it.  I therefore put
 out my hand to check him.  He reeled back to the sofa, and sat there
-panting, shaking, and red eyed, in his rags of dressing gown, looking at
+panting, shaking, and red-eyed, in his rags of dressing-gown, looking at
 us both.  I noticed then that there was nothing to drink on the table but
 brandy, and nothing to eat but salted herrings, and a hot, sickly,
-highly peppered stew.
+highly-peppered stew.
 
 ‘At all events, Mr. Sampson,’ said Slinkton, offering me the smooth
 gravel path for the last time, ‘I thank you for interfering between me
@@ -783,7 +783,7 @@ proof of it.’
 ‘Quite.’
 
 ‘Boil the brandy,’ muttered Beckwith.  ‘Company to breakfast, Julius
-Cæsar.  Do your usual office,—provide the usual breakfast, dinner, tea,
+Cæsar.  Do your usual office,provide the usual breakfast, dinner, tea,
 and supper.  Boil the brandy!’
 
 The eyes of Slinkton looked from him to me, and he said, after a moment’s
@@ -796,31 +796,31 @@ with you.’
 
 ‘I tell you, sir, I will be plain with you.’
 
-‘And I tell you you will not,’ said I.  ‘I know all about you.  _You_
+‘And I tell you you will not,’ said I.  ‘I know all about you.  You
 plain with any one?  Nonsense, nonsense!’
 
 ‘I plainly tell you, Mr. Sampson,’ he went on, with a manner almost
 composed, ‘that I understand your object.  You want to save your funds,
 and escape from your liabilities; these are old tricks of trade with you
-Office gentlemen.  But you will not do it, sir; you will not succeed.
+Office-gentlemen.  But you will not do it, sir; you will not succeed.
 You have not an easy adversary to play against, when you play against me.
 We shall have to inquire, in due time, when and how Mr. Beckwith fell
 into his present habits.  With that remark, sir, I put this poor
 creature, and his incoherent wanderings of speech, aside, and wish you a
 good morning and a better case next time.’
 
-While he was saying this, Beckwith had filled a half pint glass with
+While he was saying this, Beckwith had filled a half-pint glass with
 brandy.  At this moment, he threw the brandy at his face, and threw the
 glass after it.  Slinkton put his hands up, half blinded with the spirit,
 and cut with the glass across the forehead.  At the sound of the
 breakage, a fourth person came into the room, closed the door, and stood
-at it; he was a very quiet but very keen looking man, with iron gray
+at it; he was a very quiet but very keen-looking man, with iron-gray
 hair, and slightly lame.
 
 Slinkton pulled out his handkerchief, assuaged the pain in his smarting
 eyes, and dabbled the blood on his forehead.  He was a long time about
 it, and I saw that in the doing of it, a tremendous change came over him,
-occasioned by the change in Beckwith,—who ceased to pant and tremble, sat
+occasioned by the change in Beckwith,who ceased to pant and tremble, sat
 upright, and never took his eyes off him.  I never in my life saw a face
 in which abhorrence and determination were so forcibly painted as in
 Beckwith’s then.
@@ -830,7 +830,7 @@ took these rooms, to make them a trap for you.  I came into them as a
 drunkard, to bait the trap for you.  You fell into the trap, and you will
 never leave it alive.  On the morning when you last went to Mr. Sampson’s
 office, I had seen him first.  Your plot has been known to both of us,
-all along, and you have been counter plotted all along.  What?  Having
+all along, and you have been counter-plotted all along.  What?  Having
 been cajoled into putting that prize of two thousand pounds in your
 power, I was to be done to death with brandy, and, brandy not proving
 quick enough, with something quicker?  Have I never seen you, when you
@@ -869,20 +869,20 @@ you well.  And I knew you to be the cruel wretch who, for so much money,
 had killed one innocent girl while she trusted him implicitly, and who
 was by inches killing another.’
 
-Slinkton took out a snuff box, took a pinch of snuff, and laughed.
+Slinkton took out a snuff-box, took a pinch of snuff, and laughed.
 
 ‘But see here,’ said Beckwith, never looking away, never raising his
 voice, never relaxing his face, never unclenching his hand.  ‘See what a
 dull wolf you have been, after all!  The infatuated drunkard who never
 drank a fiftieth part of the liquor you plied him with, but poured it
-away, here, there, everywhere—almost before your eyes; who bought over
+away, here, there, everywherealmost before your eyes; who bought over
 the fellow you set to watch him and to ply him, by outbidding you in his
-bribe, before he had been at his work three days—with whom you have
+bribe, before he had been at his work three dayswith whom you have
 observed no caution, yet who was so bent on ridding the earth of you as a
 wild beast, that he would have defeated you if you had been ever so
-prudent—that drunkard whom you have, many a time, left on the floor of
+prudentthat drunkard whom you have, many a time, left on the floor of
 this room, and who has even let you go out of it, alive and undeceived,
-when you have turned him over with your foot—has, almost as often, on the
+when you have turned him over with your foothas, almost as often, on the
 same night, within an hour, within a few minutes, watched you awake, had
 his hand at your pillow when you were asleep, turned over your papers,
 taken samples from your bottles and packets of powder, changed their
@@ -898,8 +898,8 @@ with his foot, looking down at it the while.
 ‘That drunkard,’ said Beckwith, ‘who had free access to your rooms at all
 times, that he might drink the strong drinks that you left in his way and
 be the sooner ended, holding no more terms with you than he would hold
-with a tiger, has had his master key for all your locks, his test for all
-your poisons, his clue to your cipher writing.  He can tell you, as well
+with a tiger, has had his master-key for all your locks, his test for all
+your poisons, his clue to your cipher-writing.  He can tell you, as well
 as you can tell him, how long it took to complete that deed, what doses
 there were, what intervals, what signs of gradual decay upon mind and
 body; what distempered fancies were produced, what observable changes,
@@ -911,7 +911,7 @@ journal is at this moment.’
 Slinkton stopped the action of his foot, and looked at Beckwith.
 
 ‘No,’ said the latter, as if answering a question from him.  ‘Not in the
-drawer of the writing desk that opens with a spring; it is not there, and
+drawer of the writing-desk that opens with a spring; it is not there, and
 it never will be there again.’
 
 ‘Then you are a thief!’ said Slinkton.
@@ -931,19 +931,19 @@ was past.
 Beckwith went on: ‘Whenever you left here, I left here.  Although I
 understood that you found it necessary to pause in the completion of that
 purpose, to avert suspicion, still I watched you close, with the poor
-confiding girl.  When I had the diary, and could read it word by word,—it
-was only about the night before your last visit to Scarborough,—you
+confiding girl.  When I had the diary, and could read it word by word,it
+was only about the night before your last visit to Scarborough,you
 remember the night? you slept with a small flat vial tied to your
-wrist,—I sent to Mr. Sampson, who was kept out of view.  This is Mr.
+wrist,I sent to Mr. Sampson, who was kept out of view.  This is Mr.
 Sampson’s trusty servant standing by the door.  We three saved your niece
 among us.’
 
 Slinkton looked at us all, took an uncertain step or two from the place
 where he had stood, returned to it, and glanced about him in a very
-curious way,—as one of the meaner reptiles might, looking for a hole to
+curious way,as one of the meaner reptiles might, looking for a hole to
 hide in.  I noticed at the same time, that a singular change took place
-in the figure of the man,—as if it collapsed within his clothes, and they
-consequently became ill shapen and ill fitting.
+in the figure of the man,as if it collapsed within his clothes, and they
+consequently became ill-shapen and ill-fitting.
 
 ‘You shall know,’ said Beckwith, ‘for I hope the knowledge will be bitter
 and terrible to you, why you have been pursued by one man, and why, when
@@ -956,11 +956,11 @@ I saw, in addition to those other changes, a sudden stoppage come upon
 his breathing.
 
 ‘When you sent the sweet girl whom you murdered (you know with what
-artfully made out surroundings and probabilities you sent her) to
+artfully made-out surroundings and probabilities you sent her) to
 Meltham’s office, before taking her abroad to originate the transaction
 that doomed her to the grave, it fell to Meltham’s lot to see her and to
 speak with her.  It did not fall to his lot to save her, though I know he
-would freely give his own life to have done it.  He admired her;—I would
+would freely give his own life to have done it.  He admired her;I would
 say he loved her deeply, if I thought it possible that you could
 understand the word.  When she was sacrificed, he was thoroughly assured
 of your guilt.  Having lost her, he had but one object left in life, and
@@ -978,7 +978,7 @@ Providence, and would do well before Heaven in striking you out from
 among living men.  I am that man, and I thank God that I have done my
 work!’
 
-If Slinkton had been running for his life from swift footed savages, a
+If Slinkton had been running for his life from swift-footed savages, a
 dozen miles, he could not have shown more emphatic signs of being
 oppressed at heart and labouring for breath, than he showed now, when he
 looked at the pursuer who had so relentlessly hunted him down.
@@ -991,8 +991,8 @@ is round your neck, and the crowd are crying against you!’
 When Meltham had spoken these last words, the miscreant suddenly turned
 away his face, and seemed to strike his mouth with his open hand.  At the
 same instant, the room was filled with a new and powerful odour, and,
-almost at the same instant, he broke into a crooked run, leap, start,—I
-have no name for the spasm,—and fell, with a dull weight that shook the
+almost at the same instant, he broke into a crooked run, leap, start,I
+have no name for the spasm,and fell, with a dull weight that shook the
 heavy old doors and windows in their frames.
 
 That was the fitting end of him.
@@ -1005,7 +1005,7 @@ elsewhere.’
 
 It was in vain that I tried to rally him.  He might have saved her, he
 said; he had not saved her, and he reproached himself; he had lost her,
-and he was broken hearted.
+and he was broken-hearted.
 
 ‘The purpose that sustained me is over, Sampson, and there is nothing now
 to hold me to life.  I am not fit for life; I am weak and spiritless; I
@@ -1015,11 +1015,11 @@ In truth, I could hardly have believed that the broken man who then spoke
 to me was the man who had so strongly and so differently impressed me
 when his purpose was before him.  I used such entreaties with him, as I
 could; but he still said, and always said, in a patient, undemonstrative
-way,—nothing could avail him,—he was broken hearted.
+way,nothing could avail him,he was broken-hearted.
 
 He died early in the next spring.  He was buried by the side of the poor
 young lady for whom he had cherished those tender and unhappy regrets;
 and he left all he had to her sister.  She lived to be a happy wife and
 mother; she married my sister’s son, who succeeded poor Meltham; she is
-living now, and her children ride about the garden on my walking stick
+living now, and her children ride about the garden on my walking-stick
 when I go to see her.

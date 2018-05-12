@@ -1,5 +1,4 @@
 Mark Twain
-Charlotte Bronte
 Jane Austen
 Lewis Carroll
 Charles Dickens
@@ -7,7 +6,6 @@ George Eliot
 Elizabeth Gaskell
 Thomas Hardy
 Oscar Wilde
-Frances Trollope
 Arthur Conan Doyle
 Beatrix Potter
 Edgar Rice Burroughs

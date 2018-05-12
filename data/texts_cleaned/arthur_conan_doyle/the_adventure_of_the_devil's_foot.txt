@@ -13,10 +13,10 @@ of his adventures was always a privilege which entailed discretion and
 reticence upon me.
 
 It was, then, with considerable surprise that I received a telegram
-from Holmes last Tuesday he has never been known to write where a
-telegram would serve in the following terms:
+from Holmes last Tuesday--he has never been known to write where a
+telegram would serve--in the following terms:
 
-Why not tell them of the Cornish horror strangest case I have handled.
+Why not tell them of the Cornish horror--strangest case I have handled.
 
 I have no idea what backward sweep of memory had brought the matter
 fresh to his mind, or what freak had caused him to desire that I should
@@ -43,19 +43,19 @@ It was a singular spot, and one peculiarly well suited to the grim
 humour of my patient.  From the windows of our little whitewashed
 house, which stood high upon a grassy headland, we looked down upon the
 whole sinister semicircle of Mounts Bay, that old death trap of sailing
-vessels, with its fringe of black cliffs and surge swept reefs on which
+vessels, with its fringe of black cliffs and surge-swept reefs on which
 innumerable seamen have met their end.  With a northerly breeze it lies
-placid and sheltered, inviting the storm tossed craft to tack into it
+placid and sheltered, inviting the storm-tossed craft to tack into it
 for rest and protection.
 
 Then come the sudden swirl round of the wind, the blistering gale from
-the south west, the dragging anchor, the lee shore, and the last battle
+the south-west, the dragging anchor, the lee shore, and the last battle
 in the creaming breakers.  The wise mariner stands far out from that
 evil place.
 
 On the land side our surroundings were as sombre as on the sea. It was
-a country of rolling moors, lonely and dun colored, with an occasional
-church tower to mark the site of some old world village.  In every
+a country of rolling moors, lonely and dun-colored, with an occasional
+church tower to mark the site of some old-world village.  In every
 direction upon these moors there were traces of some vanished race
 which had passed utterly away, and left as its sole record strange
 monuments of stone, irregular mounds which contained the burned ashes
@@ -83,9 +83,9 @@ details of this inconceivable affair to the public.
 I have said that scattered towers marked the villages which dotted this
 part of Cornwall.  The nearest of these was the hamlet of Tredannick
 Wollas, where the cottages of a couple of hundred inhabitants clustered
-round an ancient, moss grown church.  The vicar of the parish, Mr.
+round an ancient, moss-grown church.  The vicar of the parish, Mr.
 Roundhay, was something of an archaeologist, and as such Holmes had
-made his acquaintance. He was a middle aged man, portly and affable,
+made his acquaintance. He was a middle-aged man, portly and affable,
 with a considerable fund of local lore.  At his invitation we had taken
 tea at the vicarage and had come to know, also, Mr. Mortimer Tregennis,
 an independent gentleman, who increased the clergyman's scanty
@@ -94,33 +94,33 @@ being a bachelor, was glad to come to such an arrangement, though he
 had little in common with his lodger, who was a thin, dark, spectacled
 man, with a stoop which gave the impression of actual, physical
 deformity.  I remember that during our short visit we found the vicar
-garrulous, but his lodger strangely reticent, a sad faced,
+garrulous, but his lodger strangely reticent, a sad-faced,
 introspective man, sitting with averted eyes, brooding apparently upon
 his own affairs.
 
 These were the two men who entered abruptly into our little
-sitting room on Tuesday, March the 16th, shortly after our breakfast
+sitting-room on Tuesday, March the 16th, shortly after our breakfast
 hour, as we were smoking together, preparatory to our daily excursion
 upon the moors.
 
 "Mr. Holmes," said the vicar in an agitated voice, "the most
 extraordinary and tragic affair has occurred during the night. It is
-the most unheard of business.  We can only regard it as a special
+the most unheard-of business.  We can only regard it as a special
 Providence that you should chance to be here at the time, for in all
 England you are the one man we need."
 
 I glared at the intrusive vicar with no very friendly eyes; but Holmes
 took his pipe from his lips and sat up in his chair like an old hound
-who hears the view halloa.  He waved his hand to the sofa, and our
+who hears the view-halloa.  He waved his hand to the sofa, and our
 palpitating visitor with his agitated companion sat side by side upon
-it.  Mr. Mortimer Tregennis was more self contained than the clergyman,
+it.  Mr. Mortimer Tregennis was more self-contained than the clergyman,
 but the twitching of his thin hands and the brightness of his dark eyes
 showed that they shared a common emotion.
 
 "Shall I speak or you?" he asked of the vicar.
 
 "Well, as you seem to have made the discovery, whatever it may be, and
-the vicar to have had it second hand, perhaps you had better do the
+the vicar to have had it second-hand, perhaps you had better do the
 speaking," said Holmes.
 
 I glanced at the hastily clad clergyman, with the formally dressed
@@ -134,7 +134,7 @@ affair.  I may explain, then, that our friend here spent last evening
 in the company of his two brothers, Owen and George, and of his sister
 Brenda, at their house of Tredannick Wartha, which is near the old
 stone cross upon the moor.  He left them shortly after ten o'clock,
-playing cards round the dining room table, in excellent health and
+playing cards round the dining-room table, in excellent health and
 spirits. This morning, being an early riser, he walked in that
 direction before breakfast and was overtaken by the carriage of Dr.
 Richards, who explained that he had just been sent for on a most urgent
@@ -143,10 +143,10 @@ him.  When he arrived at Tredannick Wartha he found an extraordinary
 state of things.  His two brothers and his sister were seated round the
 table exactly as he had left them, the cards still spread in front of
 them and the candles burned down to their sockets.  The sister lay back
-stone dead in her chair, while the two brothers sat on each side of her
+stone-dead in her chair, while the two brothers sat on each side of her
 laughing, shouting, and singing, the senses stricken clean out of them.
 All three of them, the dead woman and the two demented men, retained
-upon their faces an expression of the utmost horror a convulsion of
+upon their faces an expression of the utmost horror--a convulsion of
 terror which was dreadful to look upon.  There was no sign of the
 presence of anyone in the house, except Mrs. Porter, the old cook and
 housekeeper, who declared that she had slept deeply and heard no sound
@@ -191,7 +191,7 @@ to speak of, but I will answer you the truth."
 
 "Well, Mr. Holmes, I supped there, as the vicar has said, and my elder
 brother George proposed a game of whist afterwards.  We sat down about
-nine o'clock.  It was a quarter past ten when I moved to go.  I left
+nine o'clock.  It was a quarter-past ten when I moved to go.  I left
 them all round the table, as merry as could be."
 
 "Who let you out?"
@@ -221,7 +221,7 @@ Tregennis, I take it you were divided in some way from your family,
 since they lived together and you had rooms apart?"
 
 "That is so, Mr. Holmes, though the matter is past and done with. We
-were a family of tin miners at Redruth, but we sold our venture to a
+were a family of tin-miners at Redruth, but we sold our venture to a
 company, and so retired with enough to keep us.  I won't deny that
 there was some feeling about the division of the money and it stood
 between us for a time, but it was all forgiven and forgotten, and we
@@ -281,7 +281,7 @@ was awful to see!  I couldn't stand it, and the doctor was as white as
 a sheet.  Indeed, he fell into a chair in a sort of faint, and we
 nearly had him on our hands as well."
 
-"Remarkable most remarkable!" said Holmes, rising and taking his hat.
+"Remarkable--most remarkable!" said Holmes, rising and taking his hat.
 "I think, perhaps, we had better go down to Tredannick Wartha without
 further delay.  I confess that I have seldom known a case which at
 first sight presented a more singular problem."
@@ -301,18 +301,18 @@ gnashing teeth flashed past us like a dreadful vision.
 taking them to Helston."
 
 We looked with horror after the black carriage, lumbering upon its way.
-Then we turned our steps towards this ill omened house in which they
+Then we turned our steps towards this ill-omened house in which they
 had met their strange fate.
 
 It was a large and bright dwelling, rather a villa than a cottage, with
 a considerable garden which was already, in that Cornish air, well
 filled with spring flowers.  Towards this garden the window of the
-sitting room fronted, and from it, according to Mortimer Tregennis,
+sitting-room fronted, and from it, according to Mortimer Tregennis,
 must have come that thing of evil which had by sheer horror in a single
 instant blasted their minds.  Holmes walked slowly and thoughtfully
-among the flower plots and along the path before we entered the porch.
+among the flower-plots and along the path before we entered the porch.
 So absorbed was he in his thoughts, I remember, that he stumbled over
-the watering pot, upset its contents, and deluged both our feet and the
+the watering-pot, upset its contents, and deluged both our feet and the
 garden path.  Inside the house we were met by the elderly Cornish
 housekeeper, Mrs. Porter, who, with the aid of a young girl, looked
 after the wants of the family.  She readily answered all Holmes's
@@ -321,7 +321,7 @@ been in excellent spirits lately, and she had never known them more
 cheerful and prosperous.  She had fainted with horror upon entering the
 room in the morning and seeing that dreadful company round the table.
 She had, when she recovered, thrown open the window to let the morning
-air in, and had run down to the lane, whence she sent a farm lad for
+air in, and had run down to the lane, whence she sent a farm-lad for
 the doctor.  The lady was on her bed upstairs if we cared to see her.
 It took four strong men to get the brothers into the asylum carriage.
 She would not herself stay in the house another day and was starting
@@ -329,12 +329,12 @@ that very afternoon to rejoin her family at St. Ives.
 
 We ascended the stairs and viewed the body.  Miss Brenda Tregennis had
 been a very beautiful girl, though now verging upon middle age.  Her
-dark, clear cut face was handsome, even in death, but there still
+dark, clear-cut face was handsome, even in death, but there still
 lingered upon it something of that convulsion of horror which had been
 her last human emotion.  From her bedroom we descended to the
-sitting room, where this strange tragedy had actually occurred.  The
+sitting-room, where this strange tragedy had actually occurred.  The
 charred ashes of the overnight fire lay in the grate.  On the table
-were the four guttered and burned out candles, with the cards scattered
+were the four guttered and burned-out candles, with the cards scattered
 over its surface.  The chairs had been moved back against the walls,
 but all else was as it had been the night before.  Holmes paced with
 light, swift steps about the room; he sat in the various chairs,
@@ -352,13 +352,13 @@ reason, after his arrival, the fire was lit.  "What are you going to do
 now, Mr. Holmes?" he asked.
 
 My friend smiled and laid his hand upon my arm.  "I think, Watson, that
-I shall resume that course of tobacco poisoning which you have so often
+I shall resume that course of tobacco-poisoning which you have so often
 and so justly condemned," said he.  "With your permission, gentlemen,
 we will now return to our cottage, for I am not aware that any new
 factor is likely to come to our notice here.  I will turn the facts
 over in my mind, Mr. Tregennis, and should anything occur to me I will
 certainly communicate with you and the vicar.  In the meantime I wish
-you both good morning."
+you both good-morning."
 
 It was not until long after we were back in Poldhu Cottage that Holmes
 broke his complete and absorbed silence.  He sat coiled in his
@@ -371,7 +371,7 @@ pipe and sprang to his feet.
 cliffs together and search for flint arrows.  We are more likely to
 find them than clues to this problem.  To let the brain work without
 sufficient material is like racing an engine.  It racks itself to
-pieces.  The sea air, sunshine, and patience, Watson all else will
+pieces.  The sea air, sunshine, and patience, Watson--all else will
 come.
 
 "Now, let us calmly define our position, Watson," he continued as we
@@ -394,16 +394,16 @@ than eleven o'clock last night.
 "Our next obvious step is to check, so far as we can, the movements of
 Mortimer Tregennis after he left the room.  In this there is no
 difficulty, and they seem to be above suspicion. Knowing my methods as
-you do, you were, of course, conscious of the somewhat clumsy water pot
+you do, you were, of course, conscious of the somewhat clumsy water-pot
 expedient by which I obtained a clearer impress of his foot than might
 otherwise have been possible.  The wet, sandy path took it admirably.
 Last night was also wet, you will remember, and it was not
-difficult having obtained a sample print to pick out his track among
+difficult--having obtained a sample print--to pick out his track among
 others and to follow his movements.  He appears to have walked away
 swiftly in the direction of the vicarage.
 
 "If, then, Mortimer Tregennis disappeared from the scene, and yet some
-outside person affected the card players, how can we reconstruct that
+outside person affected the card-players, how can we reconstruct that
 person, and how was such an impression of horror conveyed?  Mrs. Porter
 may be eliminated.  She is evidently harmless.  Is there any evidence
 that someone crept up to the garden window and in some manner produced
@@ -413,7 +413,7 @@ Tregennis himself, who says that his brother spoke about some movement
 in the garden.  That is certainly remarkable, as the night was rainy,
 cloudy, and dark.  Anyone who had the design to alarm these people
 would be compelled to place his very face against the glass before he
-could be seen.  There is a three foot flower border outside this
+could be seen.  There is a three-foot flower-border outside this
 window, but no indication of a footmark.  It is difficult to imagine,
 then, how an outsider could have made so terrible an impression upon
 the company, nor have we found any possible motive for so strange and
@@ -436,12 +436,12 @@ solution.  It was not until we had returned in the afternoon to our
 cottage that we found a visitor awaiting us, who soon brought our minds
 back to the matter in hand.  Neither of us needed to be told who that
 visitor was.  The huge body, the craggy and deeply seamed face with the
-fierce eyes and hawk like nose, the grizzled hair which nearly brushed
-our cottage ceiling, the beard golden at the fringes and white near
-the lips, save for the nicotine stain from his perpetual cigar all
+fierce eyes and hawk-like nose, the grizzled hair which nearly brushed
+our cottage ceiling, the beard--golden at the fringes and white near
+the lips, save for the nicotine stain from his perpetual cigar--all
 these were as well known in London as in Africa, and could only be
 associated with the tremendous personality of Dr. Leon Sterndale, the
-great lion hunter and explorer.
+great lion-hunter and explorer.
 
 We had heard of his presence in the district and had once or twice
 caught sight of his tall figure upon the moorland paths. He made no
@@ -457,8 +457,8 @@ advance in his reconstruction of this mysterious episode.  "The county
 police are utterly at fault," said he, "but perhaps your wider
 experience has suggested some conceivable explanation.  My only claim
 to being taken into your confidence is that during my many residences
-here I have come to know this family of Tregennis very well indeed,
-upon my Cornish mother's side I could call them cousins and their
+here I have come to know this family of Tregennis very well--indeed,
+upon my Cornish mother's side I could call them cousins--and their
 strange fate has naturally been a great shock to me.  I may tell you
 that I had got as far as Plymouth upon my way to Africa, but the news
 reached me this morning, and I came straight back again to help in the
@@ -474,7 +474,7 @@ Holmes raised his eyebrows.
 
 "I tell you they were relatives."
 
-"Quite so cousins of your mother.  Was your baggage aboard the ship?"
+"Quite so--cousins of your mother.  Was your baggage aboard the ship?"
 
 "Some of it, but the main part at the hotel."
 
@@ -507,7 +507,7 @@ particular direction?"
 "No, I can hardly answer that."
 
 "Then I have wasted my time and need not prolong my visit."  The famous
-doctor strode out of our cottage in considerable ill humour, and within
+doctor strode out of our cottage in considerable ill-humour, and within
 five minutes Holmes had followed him.  I saw him no more until the
 evening, when he returned with a slow step and haggard face which
 assured me that he had made no great progress with his investigation.
@@ -522,7 +522,7 @@ you make of that, Watson?"
 
 "He is deeply interested."
 
-"Deeply interested yes.  There is a thread here which we had not yet
+"Deeply interested--yes.  There is a thread here which we had not yet
 grasped and which might lead us through the tangle.  Cheer up, Watson,
 for I am very sure that our material has not yet all come to hand.
 When it does we may soon leave our difficulties behind us."
@@ -531,14 +531,14 @@ Little did I think how soon the words of Holmes would be realized, or
 how strange and sinister would be that new development which opened up
 an entirely fresh line of investigation.  I was shaving at my window in
 the morning when I heard the rattle of hoofs and, looking up, saw a
-dog cart coming at a gallop down the road.  It pulled up at our door,
+dog-cart coming at a gallop down the road.  It pulled up at our door,
 and our friend, the vicar, sprang from it and rushed up our garden
 path. Holmes was already dressed, and we hastened down to meet him.
 
 Our visitor was so excited that he could hardly articulate, but at last
 in gasps and bursts his tragic story came out of him.
 
-"We are devil ridden, Mr. Holmes!  My poor parish is devil ridden!" he
+"We are devil-ridden, Mr. Holmes!  My poor parish is devil-ridden!" he
 cried.  "Satan himself is loose in it!  We are given over into his
 hands!"  He danced about in his agitation, a ludicrous object if it
 were not for his ashy face and startled eyes.  Finally he shot out his
@@ -549,17 +549,17 @@ same symptoms as the rest of his family."
 
 Holmes sprang to his feet, all energy in an instant.
 
-"Can you fit us both into your dog cart?"
+"Can you fit us both into your dog-cart?"
 
 "Yes, I can."
 
 "Then, Watson, we will postpone our breakfast.  Mr. Roundhay, we are
-entirely at your disposal.  Hurry hurry, before things get
+entirely at your disposal.  Hurry--hurry, before things get
 disarranged."
 
 The lodger occupied two rooms at the vicarage, which were in an angle
 by themselves, the one above the other.  Below was a large
-sitting room; above, his bedroom.  They looked out upon a croquet lawn
+sitting-room; above, his bedroom.  They looked out upon a croquet lawn
 which came up to the windows.  We had arrived before the doctor or the
 police, so that everything was absolutely undisturbed.  Let me describe
 exactly the scene as we saw it upon that misty March morning.  It has
@@ -579,7 +579,7 @@ that his dressing had been done in a hurry.  We had already learned
 that his bed had been slept in, and that the tragic end had come to him
 in the early morning.
 
-One realized the red hot energy which underlay Holmes's phlegmatic
+One realized the red-hot energy which underlay Holmes's phlegmatic
 exterior when one saw the sudden change which came over him from the
 moment that he entered the fatal apartment.  In an instant he was tense
 and alert, his eyes shining, his face set, his limbs quivering with
@@ -604,7 +604,7 @@ vicar and we all three went out upon the lawn.
 he remarked.  "I cannot remain to discuss the matter with the police,
 but I should be exceedingly obliged, Mr. Roundhay, if you would give
 the inspector my compliments and direct his attention to the bedroom
-window and to the sitting room lamp.  Each is suggestive, and together
+window and to the sitting-room lamp.  Each is suggestive, and together
 they are almost conclusive.  If the police would desire further
 information I shall be happy to see any of them at the cottage.  And
 now, Watson, I think that, perhaps, we shall be better employed
@@ -633,17 +633,17 @@ brother's house, remarked that the doctor on entering the room fell
 into a chair? You had forgotten?  Well I can answer for it that it was
 so. Now, you will remember also that Mrs. Porter, the housekeeper, told
 us that she herself fainted upon entering the room and had afterwards
-opened the window.  In the second case that of Mortimer Tregennis
-himself you cannot have forgotten the horrible stuffiness of the room
+opened the window.  In the second case--that of Mortimer Tregennis
+himself--you cannot have forgotten the horrible stuffiness of the room
 when we arrived, though the servant had thrown open the window.  That
 servant, I found upon inquiry, was so ill that she had gone to her bed.
 You will admit, Watson, that these facts are very suggestive.  In each
 case there is evidence of a poisonous atmosphere.  In each case, also,
-there is combustion going on in the room in the one case a fire, in
-the other a lamp.  The fire was needed, but the lamp was lit as a
-comparison of the oil consumed will show long after it was broad
+there is combustion going on in the room--in the one case a fire, in
+the other a lamp.  The fire was needed, but the lamp was lit--as a
+comparison of the oil consumed will show--long after it was broad
 daylight.  Why?  Surely because there is some connection between three
-things the burning, the stuffy atmosphere, and, finally, the madness
+things--the burning, the stuffy atmosphere, and, finally, the madness
 or death of those unfortunate people.  That is clear, is it not?"
 
 "It would appear so."
@@ -651,7 +651,7 @@ or death of those unfortunate people.  That is clear, is it not?"
 "At least we may accept it as a working hypothesis.  We will suppose,
 then, that something was burned in each case which produced an
 atmosphere causing strange toxic effects.  Very good. In the first
-instance that of the Tregennis family this substance was placed in
+instance--that of the Tregennis family--this substance was placed in
 the fire.  Now the window was shut, but the fire would naturally carry
 fumes to some extent up the chimney.  Hence one would expect the
 effects of the poison to be less than in the second case, where there
@@ -665,7 +665,7 @@ combustion.
 
 "With this train of reasoning in my head I naturally looked about in
 Mortimer Tregennis's room to find some remains of this substance.  The
-obvious place to look was the talc shelf or smoke guard of the lamp.
+obvious place to look was the talc shelf or smoke-guard of the lamp.
 There, sure enough, I perceived a number of flaky ashes, and round the
 edges a fringe of brownish powder, which had not yet been consumed.
 Half of this I took, as you saw, and I placed it in an envelope."
@@ -684,8 +684,8 @@ knew my Watson.  This chair I will place opposite yours, so that we may
 be the same distance from the poison and face to face.  The door we
 will leave ajar.  Each is now in a position to watch the other and to
 bring the experiment to an end should the symptoms seem alarming.  Is
-that all clear?  Well, then, I take our powder or what remains of
-it from the envelope, and I lay it above the burning lamp.  So!  Now,
+that all clear?  Well, then, I take our powder--or what remains of
+it--from the envelope, and I lay it above the burning lamp.  So!  Now,
 Watson, let us sit down and await developments."
 
 They were not long in coming.  I had hardly settled in my chair before
@@ -695,7 +695,7 @@ control.  A thick, black cloud swirled before my eyes, and my mind told
 me that in this cloud, unseen as yet, but about to spring out upon my
 appalled senses, lurked all that was vaguely horrible, all that was
 monstrous and inconceivably wicked in the universe.  Vague shapes
-swirled and swam amid the dark cloud bank, each a menace and a warning
+swirled and swam amid the dark cloud-bank, each a menace and a warning
 of something coming, the advent of some unspeakable dweller upon the
 threshold, whose very shadow would blast my soul.  A freezing horror
 took possession of me.  I felt that my hair was rising, that my eyes
@@ -704,7 +704,7 @@ The turmoil within my brain was such that something must surely snap.
 I tried to scream and was vaguely aware of some hoarse croak which was
 my own voice, but distant and detached from myself.  At the same moment,
 in some effort of escape, I broke through that cloud of despair and had
-a glimpse of Holmes's face, white, rigid, and drawn with horror the
+a glimpse of Holmes's face, white, rigid, and drawn with horror--the
 very look which I had seen upon the features of the dead.  It was that
 vision which gave me an instant of sanity and of strength.  I dashed
 from my chair, threw my arms round Holmes, and together we lurched
@@ -726,7 +726,7 @@ really very sorry."
 of Holmes's heart before, "that it is my greatest joy and privilege to
 help you."
 
-He relapsed at once into the half humorous, half cynical vein which was
+He relapsed at once into the half-humorous, half-cynical vein which was
 his habitual attitude to those about him.  "It would be superfluous to
 drive us mad, my dear Watson," said he.  "A candid observer would
 certainly declare that we were so already before we embarked upon so
@@ -802,7 +802,7 @@ turned to a dusky red, his eyes glared, and the knotted, passionate
 veins started out in his forehead, while he sprang forward with
 clenched hands towards my companion.  Then he stopped, and with a
 violent effort he resumed a cold, rigid calmness, which was, perhaps,
-more suggestive of danger than his hot headed outburst.
+more suggestive of danger than his hot-headed outburst.
 
 "I have lived so long among savages and beyond the law," said he, "that
 I have got into the way of being a law to myself.  You would do well,
@@ -842,9 +842,9 @@ Sterndale, and not upon mine.  As a proof I will tell you some of the
 facts upon which my conclusions are based.  Of your return from
 Plymouth, allowing much of your property to go on to Africa, I will say
 nothing save that it first informed me that you were one of the factors
-which had to be taken into account in reconstructing this drama "
+which had to be taken into account in reconstructing this drama--"
 
-"I came back "
+"I came back--"
 
 "I have heard your reasons and regard them as unconvincing and
 inadequate.  We will pass that.  You came down here to ask me whom I
@@ -879,8 +879,8 @@ Sterndale sprang to his feet.
 
 Holmes smiled at the compliment.  "It took two, or possibly three,
 handfuls before the lodger came to the window.  You beckoned him to
-come down.  He dressed hurriedly and descended to his sitting room.
-You entered by the window.  There was an interview a short one during
+come down.  He dressed hurriedly and descended to his sitting-room.
+You entered by the window.  There was an interview--a short one--during
 which you walked up and down the room.  Then you passed out and closed
 the window, standing on the lawn outside smoking a cigar and watching
 what occurred. Finally, after the death of Tregennis, you withdrew as
@@ -892,7 +892,7 @@ hands forever."
 Our visitor's face had turned ashen gray as he listened to the words of
 his accuser.  Now he sat for some time in thought with his face sunk in
 his hands.  Then with a sudden impulsive gesture he plucked a
-photograph from his breast pocket and threw it on the rustic table
+photograph from his breast-pocket and threw it on the rustic table
 before us.
 
 "That is why I have done it," said he.
@@ -925,7 +925,7 @@ table.  On the outside was written "Radix pedis diaboli" with a red
 poison label beneath it.  He pushed it towards me.  "I understand that
 you are a doctor, sir.  Have you ever heard of this preparation?"
 
-"Devil's foot root!  No, I have never heard of it."
+"Devil's-foot root!  No, I have never heard of it."
 
 "It is no reflection upon your professional knowledge," said he, "for I
 believe that, save for one sample in a laboratory at Buda, there is no
@@ -933,10 +933,10 @@ other specimen in Europe.  It has not yet found its way either into the
 pharmacopoeia or into the literature of toxicology.  The root is shaped
 like a foot, half human, half goatlike; hence the fanciful name given
 by a botanical missionary.  It is used as an ordeal poison by the
-medicine men in certain districts of West Africa and is kept as a
+medicine-men in certain districts of West Africa and is kept as a
 secret among them.  This particular specimen I obtained under very
 extraordinary circumstances in the Ubangi country."  He opened the
-paper as he spoke and disclosed a heap of reddish brown, snuff like
+paper as he spoke and disclosed a heap of reddish-brown, snuff-like
 powder.
 
 "Well, sir?" asked Holmes sternly.
@@ -960,7 +960,7 @@ subjected to the ordeal by the priest of his tribe.  I told him also
 how powerless European science would be to detect it.  How he took it I
 cannot say, for I never left the room, but there is no doubt that it
 was then, while I was opening cabinets and stooping to boxes, that he
-managed to abstract some of the devil's foot root.  I well remember how
+managed to abstract some of the devil's-foot root.  I well remember how
 he plied me with questions as to the amount and the time that was
 needed for its effect, but I little dreamed that he could have a
 personal reason for asking.
@@ -975,7 +975,7 @@ to you.  But there could be none.  I was convinced that Mortimer
 Tregennis was the murderer; that for the sake of money, and with the
 idea, perhaps, that if the other members of his family were all insane
 he would be the sole guardian of their joint property, he had used the
-devil's foot powder upon them, driven two of them out of their senses,
+devil's-foot powder upon them, driven two of them out of their senses,
 and killed his sister Brenda, the one human being whom I have ever
 loved or who has ever loved me.  There was his crime; what was to be
 his punishment?
@@ -996,7 +996,7 @@ as you say, after a restless night, set off early from my cottage.  I
 foresaw the difficulty of arousing him, so I gathered some gravel from
 the pile which you have mentioned, and I used it to throw up to his
 window.  He came down and admitted me through the window of the
-sitting room.  I laid his offence before him. I told him that I had
+sitting-room.  I laid his offence before him. I told him that I had
 come both as judge and executioner.  The wretch sank into a chair,
 paralyzed at the sight of my revolver. I lit the lamp, put the powder
 above it, and stood outside the window, ready to carry out my threat to
@@ -1029,10 +1029,10 @@ and our action shall be so also.  You would not denounce the man?"
 "Certainly not," I answered.
 
 "I have never loved, Watson, but if I did and if the woman I loved had
-met such an end, I might act even as our lawless lion hunter has done.
+met such an end, I might act even as our lawless lion-hunter has done.
 Who knows?  Well, Watson, I will not offend your intelligence by
-explaining what is obvious.  The gravel upon the window sill was, of
-course, the starting point of my research.  It was unlike anything in
+explaining what is obvious.  The gravel upon the window-sill was, of
+course, the starting-point of my research.  It was unlike anything in
 the vicarage garden.  Only when my attention had been drawn to Dr.
 Sterndale and his cottage did I find its counterpart.  The lamp shining
 in broad daylight and the remains of powder upon the shield were

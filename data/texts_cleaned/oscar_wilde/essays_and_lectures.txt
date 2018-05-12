@@ -31,20 +31,20 @@ except the identification of the Greek Sandracottus with the Indian
 Chandragupta, we have really no clue by which we can test the truth of
 their writings or examine their method of investigation.
 
-It is among the Hellenic branch of the Indo Germanic race that history
+It is among the Hellenic branch of the Indo-Germanic race that history
 proper is to be found, as well as the spirit of historical criticism;
 among that wonderful offshoot of the primitive Aryans, whom we call by
 the name of Greeks and to whom, as has been well said, we owe all that
 moves in the world except the blind forces of nature.
 
-For, from the day when they left the chill table lands of Tibet and
+For, from the day when they left the chill table-lands of Tibet and
 journeyed, a nomad people, to Ægean shores, the characteristic of their
 nature has been the search for light, and the spirit of historical
 criticism is part of that wonderful Aufklärung or illumination of the
 intellect which seems to have burst on the Greek race like a great flood
 of light about the sixth century B.C.
 
-_L’esprit d’un siècle ne naît pas et ne meurt pas à jour fixe_, and the
+L’esprit d’un siècle ne naît pas et ne meurt pas à jour fixe, and the
 first critic is perhaps as difficult to discover as the first man.  It is
 from democracy that the spirit of criticism borrows its intolerance of
 dogmatic authority, from physical science the alluring analogies of law
@@ -69,7 +69,7 @@ entirely separate, and the motives in each case so unconnected, that it
 will be necessary for a clear estimation of the progress of Greek
 thought, that we should consider these two questions entirely apart from
 one another.  I shall then in both cases take the succession of writers
-in their chronological order as representing the rational order—not that
+in their chronological order as representing the rational ordernot that
 the succession of time is always the succession of ideas, or that
 dialectics moves ever in the straight line in which Hegel conceives its
 advance.  In Greek thought, as elsewhere, there are periods of stagnation
@@ -96,7 +96,7 @@ trammelling creed.
 From their Aryan ancestors they had received the fatal legacy of a
 mythology stained with immoral and monstrous stories which strove to hide
 the rational order of nature in a chaos of miracles, and to mar by
-imputed wickedness the perfection of God’s nature—a very shirt of Nessos
+imputed wickedness the perfection of God’s naturea very shirt of Nessos
 in which the Heracles of rationalism barely escaped annihilation.  Now
 while undoubtedly the speculations of Thales, and the alluring analogies
 of law and order afforded by physical science, were most important forces
@@ -110,10 +110,10 @@ outcries of Xenophanes and Heraclitos against the evil things said by
 Homer of the sons of God; and in the story told of Pythagoras, how that
 he saw tortured in Hell the ‘two founders of Greek theology,’ we can
 recognise the rise of the Aufklärung as clearly as we see the Reformation
-foreshadowed in the _Inferno_ of Dante.
+foreshadowed in the Inferno of Dante.
 
 Any honest belief, then, in the plain truth of these stories soon
-succumbed before the destructive effects of the _a priori_ ethical
+succumbed before the destructive effects of the a priori ethical
 criticism of this school; but the orthodox party, as is its custom, found
 immediately a convenient shelter under the ægis of the doctrine of
 metaphors and concealed meanings.
@@ -129,7 +129,7 @@ nothing but a mere inert mass of burning metal.
 
 Modern investigation, with the ruthlessness of Philistine analysis, has
 ultimately brought Helen of Troy down to a symbol of the dawn.  There
-were Philistines among the Greeks also who saw in the _ἄναξ ἀδρῶν_ a mere
+were Philistines among the Greeks also who saw in the ἄναξ ἀδρῶν a mere
 metaphor for atmospheric power.
 
 Now while this tendency to look for metaphors and hidden meanings must be
@@ -146,7 +146,7 @@ premises, and the woof the conclusion.
 
 Rejecting, then, the allegorical interpretation of the sacred writings as
 an essentially dangerous method, proving either too much or too little,
-Plato himself returns to the earlier mode of attack, and re writes
+Plato himself returns to the earlier mode of attack, and re-writes
 history with a didactic purpose, laying down certain ethical canons of
 historical criticism.  God is good; God is just; God is true; God is
 without the common passions of men.  These are the tests to which we are
@@ -154,24 +154,24 @@ to bring the stories of the Greek religion.
 
 ‘God predestines no men to ruin, nor sends destruction on innocent
 cities; He never walks the earth in strange disguise, nor has to mourn
-for the death of any well beloved son.  Away with the tears for Sarpedon,
+for the death of any well-beloved son.  Away with the tears for Sarpedon,
 the lying dream sent to Agamemnon, and the story of the broken covenant!’
-(Plato, _Republic_, Book ii. 380; iii. 388, 391.)
+(Plato, Republic, Book ii. 380; iii. 388, 391.)
 
 Similar ethical canons are applied to the accounts of the heroes of the
-days of old, and by the same _a priori_ principles Achilles is rescued
+days of old, and by the same a priori principles Achilles is rescued
 from the charges of avarice and insolence in a passage which may be
 recited as the earliest instance of that ‘whitewashing of great men,’ as
 it has been called, which is so popular in our own day, when Catiline and
-Clodius are represented as honest and far seeing politicians, when _eine
-edle und gute Natur_ is claimed for Tiberius, and Nero is rescued from
-his heritage of infamy as an accomplished _dilettante_ whose moral
+Clodius are represented as honest and far-seeing politicians, when eine
+edle und gute Natur is claimed for Tiberius, and Nero is rescued from
+his heritage of infamy as an accomplished dilettante whose moral
 aberrations are more than excused by his exquisite artistic sense and
 charming tenor voice.
 
 But besides the allegorising principle of interpretation, and the ethical
 reconstruction of history, there was a third theory, which may be called
-the semi historical, and which goes by the name of Euhemeros, though he
+the semi-historical, and which goes by the name of Euhemeros, though he
 was by no means the first to propound it.
 
 Appealing to a fictitious monument which he declared that he had
@@ -196,7 +196,7 @@ kennel.
 Now, that under the glamour of myth and legend some substratum of
 historical fact may lie, is a proposition rendered extremely probable by
 the modern investigations into the workings of the mythopœic spirit in
-post Christian times.  Charlemagne and Roland, St. Francis and William
+post-Christian times.  Charlemagne and Roland, St. Francis and William
 Tell, are none the less real personages because their histories are
 filled with much that is fictitious and incredible, but in all cases what
 is essentially necessary is some external corroboration, such as is
@@ -260,10 +260,10 @@ are ever strained to discern the Spirit of God moving over the face of
 the waters of life; he is more concerned with final than with efficient
 causes.
 
-Yet we can discern in him the rise of that _historic sense_ which is the
-rational antecedent of the science of historical criticism, the _φυσικὸν
-κριτήριον_, to use the words of a Greek writer, as opposed to that which
-comes either _τέχνη_ or _διδαχῇ_.
+Yet we can discern in him the rise of that historic sense which is the
+rational antecedent of the science of historical criticism, the φυσικὸν
+κριτήριον, to use the words of a Greek writer, as opposed to that which
+comes either τέχνη or διδαχῇ.
 
 He has passed through the valley of faith and has caught a glimpse of the
 sunlit heights of Reason; but like all those who, while accepting the
@@ -272,14 +272,14 @@ essentially inconsistent.  For the better apprehension of the character
 of this historic sense in Herodotus it will be necessary to examine at
 some length the various forms of criticism in which it manifests itself.
 
-Such fabulous stories as that of the Phoenix, of the goat footed men, of
+Such fabulous stories as that of the Phoenix, of the goat-footed men, of
 the headless beings with eyes in their breasts, of the men who slept six
-months in the year (_τοῦτο οὐκ ἐνδέχομαι ηὴν ἀρχήν_), of the wer wolf of
+months in the year (τοῦτο οὐκ ἐνδέχομαι ηὴν ἀρχήν), of the wer-wolf of
 the Neuri, and the like, are entirely rejected by him as being opposed to
 the ordinary experience of life, and to those natural laws whose
 universal influence the early Greek physical philosophers had already
 made known to the world of thought.  Other legends, such as the suckling
-of Cyrus by a bitch, or the feather rain of northern Europe, are
+of Cyrus by a bitch, or the feather-rain of northern Europe, are
 rationalised and explained into a woman’s name and a fall of snow.  The
 supernatural origin of the Scythian nation, from the union of Hercules
 and the monstrous Echidna, is set aside by him for the more probable
@@ -305,21 +305,21 @@ important than that which rests on psychological probability.
 
 Arguing from his knowledge of human nature, Herodotus rejects the
 presence of Helen within the walls of Troy.  Had she been there, he says,
-Priam and his kinsmen would never have been so mad (_φρενοβλαβεῖς_) as
+Priam and his kinsmen would never have been so mad (φρενοβλαβεῖς) as
 not to give her up, when they and their children and their city were in
 such peril (ii. 118); and as regards the authority of Homer, some
 incidental passages in his poem show that he knew of Helen’s sojourn in
 Egypt during the siege, but selected the other story as being a more
 suitable motive for an epic.  Similarly he does not believe that the
 Alcmæonidæ family, a family who had always been the haters of tyranny
-(_μισοτύραννοι_), and to whom, even more than to Harmodios and
+(μισοτύραννοι), and to whom, even more than to Harmodios and
 Aristogeiton, Athens owed its liberty, would ever have been so
 treacherous as to hold up a shield after the battle of Marathon as a
 signal for the Persian host to fall on the city.  A shield, he
 acknowledges, was held up, but it could not possibly have been done by
 such friends of liberty as the house of Alcmæon; nor will he believe that
-a great king like Rhampsinitus would have sent his daughter _κατίσαι ἐπ’
-οἰκήματος_.
+a great king like Rhampsinitus would have sent his daughter κατίσαι ἐπ’
+οἰκήματος.
 
 Elsewhere he argues from more general considerations of probability; a
 Greek courtesan like Rhodopis would hardly have been rich enough to build
@@ -329,7 +329,7 @@ a pyramid, and, besides, on chronological grounds the story is impossible
 In another passage (ii. 63), after giving an account of the forcible
 entry of the priests of Ares into the chapel of the god’s mother, which
 seems to have been a sort of religious faction fight where sticks were
-freely used (_μάχη ξύλοισι καρτερή_), ‘I feel sure,’ he says, ‘that many
+freely used (μάχη ξύλοισι καρτερή), ‘I feel sure,’ he says, ‘that many
 of them died from getting their heads broken, notwithstanding the
 assertions of the Egyptian priests to the contrary.’  There is also
 something charmingly naïve in the account he gives of the celebrated
@@ -350,7 +350,7 @@ moral and scientific difficulties of the Greek Bible; and where he
 rejects as incredible the marvellous achievements of Hercules in Egypt,
 he does so on the express grounds that he had not yet been received among
 the gods, and so was still subject to the ordinary conditions of mortal
-life (_ἔτι ἄνθρωπον ἐόντα_).
+life (ἔτι ἄνθρωπον ἐόντα).
 
 Even within these limits, however, his religious conscience seems to have
 been troubled at such daring rationalism, and the passage (ii. 45)
@@ -362,7 +362,7 @@ foreign princess.
 
 Similarly he seems more inclined to believe that the great storm at the
 beginning of the Persian War ceased from ordinary atmospheric causes, and
-not in consequence of the incantations of the _Magians_.  He calls
+not in consequence of the incantations of the Magians.  He calls
 Melampos, whom the majority of the Greeks looked on as an inspired
 prophet, ‘a clever man who had acquired for himself the art of prophecy’;
 and as regards the miracle told of the Æginetan statues of the primeval
@@ -412,34 +412,34 @@ attitude towards the truth of these ancient legends.
 Agamemnon and Atreus, Theseus and Eurystheus, even Minos, about whom
 Herodotus has some doubts, are to him as real personages as Alcibiades or
 Gylippus.  The points in his historical criticism of the past are, first,
-his rejection of all extra natural interference, and, secondly, the
+his rejection of all extra-natural interference, and, secondly, the
 attributing to these ancient heroes the motives and modes of thought of
 his own day.  The present was to him the key to the explanation of the
 past, as it was to the prediction of the future.
 
 Now, as regards his attitude towards the supernatural he is at one with
-modern science.  We too know that, just as the primeval coal beds reveal
-to us the traces of rain drops and other atmospheric phenomena similar to
+modern science.  We too know that, just as the primeval coal-beds reveal
+to us the traces of rain-drops and other atmospheric phenomena similar to
 those of our own day, so, in estimating the history of the past, the
 introduction of no force must be allowed whose workings we cannot observe
-among the phenomena around us.  To lay down canons of ultra historical
+among the phenomena around us.  To lay down canons of ultra-historical
 credibility for the explanation of events which happen to have preceded
 us by a few thousand years, is as thoroughly unscientific as it is to
 intermingle preternatural in geological theories.
 
 Whatever the canons of art may be, no difficulty in history is so great
-as to warrant the introduction of a spirit of spirit _θεὸς ἀπὸ μηχανῆς_,
+as to warrant the introduction of a spirit of spirit θεὸς ἀπὸ μηχανῆς,
 in the sense of a violation of the laws of nature.
 
 Upon the other point, however, Thucydides falls into an anachronism.  To
-refuse to allow the workings of chivalrous and self denying motives among
+refuse to allow the workings of chivalrous and self-denying motives among
 the knights of the Trojan crusade, because he saw none in the
-faction loving Athenian of his own day, is to show an entire ignorance of
+faction-loving Athenian of his own day, is to show an entire ignorance of
 the various characteristics of human nature developing under different
 circumstances, and to deny to a primitive chieftain like Agamemnon that
 authority founded on opinion, to which we give the name of divine right,
 is to fall into an historical error quite as gross as attributing to
-Atreus the courting of the populace (_τεθεραπευκότα τὸν δῆμον_) with a
+Atreus the courting of the populace (τεθεραπευκότα τὸν δῆμον) with a
 view to the Mycenean throne.
 
 The general method of historical criticism pursued by Thucydides having
@@ -487,11 +487,11 @@ to have paved the way for all those who followed after him, though it
 must always be remembered that, while the total absence in his pages of
 all the mystical paraphernalia of the supernatural theory of life is an
 advance in the progress of rationalism, and an era in scientific history,
-whose importance could never be over estimated, yet we find along with it
+whose importance could never be over-estimated, yet we find along with it
 a total absence of any mention of those various social and economical
 forces which form such important factors in the evolution of the world,
 and to which Herodotus rightly gave great prominence in his immortal
-work.  The history of Thucydides is essentially one sided and incomplete.
+work.  The history of Thucydides is essentially one-sided and incomplete.
 The intricate details of sieges and battles, subjects with which the
 historian proper has really nothing to do except so far as they may throw
 light on the spirit of the age, we would readily exchange for some notice
@@ -512,8 +512,8 @@ before either the painter or the historian the inculcation of moral
 lessons as an aim to be consciously pursued, is to miss entirely the true
 motive and characteristic both of art and history, which is in the one
 case the creation of beauty, in the other the discovery of the laws of
-the evolution of progress: _Il ne faut demander de l’Art que l’Art_, _du
-passé que le passé_.
+the evolution of progress: Il ne faut demander de l’Art que l’Art, du
+passé que le passé.
 
 Herodotus wrote to illustrate the wonderful ways of Providence and the
 nemesis that falls on sin, and his work is a good example of the truth
@@ -543,7 +543,7 @@ their rise and scientific development as evinced not merely in the works
 of historians proper, but also in the philosophical treatises of Plato
 and Aristotle.  The important position which these two great thinkers
 occupy in the progress of historical criticism can hardly be
-over estimated.  I do not mean merely as regards their treatment of the
+over-estimated.  I do not mean merely as regards their treatment of the
 Greek Bible, and Plato’s endeavours to purge sacred history of its
 immorality by the application of ethical canons at the time when
 Aristotle was beginning to undermine the basis of miracles by his
@@ -556,7 +556,7 @@ society, there was a wide divergence of opinion in Hellenic society, just
 as there is now.  For while the majority of the orthodox public, of whom
 Hesiod may be taken as the representative, looked back, as a great many
 of our own day still do, to a fabulous age of innocent happiness, a
-_bell’ età dell’ auro_, where sin and death were unknown and men and
+bell’ età dell’ auro, where sin and death were unknown and men and
 women were like Gods, the foremost men of intellect such as Aristotle and
 Plato, Æschylus and many of the other poets {29} saw in primitive man ‘a
 few small sparks of humanity preserved on the tops of mountains after
@@ -564,7 +564,7 @@ some deluge,’ ‘without an idea of cities, governments or legislation,’
 ‘living the lives of wild beasts in sunless caves,’ ‘their only law being
 the survival of the fittest.’
 
-And this, too, was the opinion of Thucydides, whose _Archæologia_ as it
+And this, too, was the opinion of Thucydides, whose Archæologia as it
 is contains a most valuable disquisition on the early condition of
 Hellas, which it will be necessary to examine at some length.
 
@@ -577,9 +577,9 @@ veil of myth and legend there does yet exist a rational basis of fact
 discoverable by the method of rejecting all supernatural interference as
 well as any extraordinary motives influencing the actors.  It is in
 complete accordance with this spirit that he appeals, for instance, to
-the Homeric epithet of _ἀφνειός_, as applied to Corinth, as a proof of
+the Homeric epithet of ἀφνειός, as applied to Corinth, as a proof of
 the early commercial prosperity of that city; to the fact of the generic
-name _Hellenes_ not occurring in the _Iliad_ as a corroboration of his
+name Hellenes not occurring in the Iliad as a corroboration of his
 theory of the essentially disunited character of the primitive Greek
 tribes; and he argues from the line ‘O’er many islands and all Argos
 ruled,’ as applied to Agamemnon, that his forces must have been partially
@@ -602,7 +602,7 @@ the poets; and finally, after observing how the old Greek custom of
 wearing belts in gymnastic contests still survived among the more
 uncivilised Asiatic tribes, he observes that there are many other points
 in which a likeness may be shown between the life of the primitive
-Hellenes and that of the barbarians to day.’
+Hellenes and that of the barbarians to-day.’
 
 As regards the evidence afforded by ancient remains, while adducing as a
 proof of the insecure character of early Greek society the fact of their
@@ -631,7 +631,7 @@ instance, to the character of the armour found in the Delian tombs and
 the peculiar mode of sepulture, as corroboration of his theory of the
 predominance of the Carian element among the primitive islanders, and to
 the concentration of all the temples either in the Acropolis, or in its
-immediate vicinity, to the name of _ἄστυ_ by which it was still known,
+immediate vicinity, to the name of ἄστυ by which it was still known,
 and to the extraordinary sanctity of the spring of water there, as proof
 that the primitive city was originally confined to the citadel, and the
 district immediately beneath it (ii. 16).  And lastly, in the very
@@ -650,10 +650,10 @@ and poverty of its soil.
 
 Now, while undoubtedly in these passages we may recognise the first
 anticipation of many of the most modern principles of research, we must
-remember how essentially limited is the range of the _archæologia_, and
+remember how essentially limited is the range of the archæologia, and
 how no theory at all is offered on the wider questions of the general
 conditions of the rise and progress of humanity, a problem which is first
-scientifically discussed in the _Republic_ of Plato.
+scientifically discussed in the Republic of Plato.
 
 And at the outset it must be premised that, while the study of primitive
 man is an essentially inductive science, resting rather on the
@@ -676,7 +676,7 @@ been such a difficult point for modern anthropologists to find.
 The ancient authors, however, are unanimous in insisting that the family
 is the ultimate unit of society, though, as I have said, an inductive
 study of primitive races, or even the accounts given of them by
-Herodotus, would have shown them that the _νεοττιὰ ἴδια_ of a personal
+Herodotus, would have shown them that the νεοττιὰ ἴδια of a personal
 household, to use Plato’s expression, is really a most complex notion
 appearing always in a late stage of civilisation, along with recognition
 of private property and the rights of individualism.
@@ -684,23 +684,23 @@ of private property and the rights of individualism.
 Philology also, which in the hands of modern investigators has proved
 such a splendid instrument of research, was in ancient days studied on
 principles too unscientific to be of much use.  Herodotus points out that
-the word _Eridanos_ is essentially Greek in character, that consequently
+the word Eridanos is essentially Greek in character, that consequently
 the river supposed to run round the world is probably a mere Greek
 invention.  His remarks, however, on language generally, as in the case
-of _Piromis_ and the ending of the Persian names, show on what unsound
+of Piromis and the ending of the Persian names, show on what unsound
 basis his knowledge of language rested.
 
-In the _Bacchæ_ of Euripides there is an extremely interesting passage in
+In the Bacchæ of Euripides there is an extremely interesting passage in
 which the immoral stories of the Greek mythology are accounted for on the
 principle of that misunderstanding of words and metaphors to which modern
 science has given the name of a disease of language.  In answer to the
-impious rationalism of Pentheus—a sort of modern Philistine—Teiresias,
+impious rationalism of Pentheusa sort of modern PhilistineTeiresias,
 who may be termed the Max Müller of the Theban cycle, points out that the
 story of Dionysus being inclosed in Zeus’ thigh really arose from the
-linguistic confusion between _μηρός_ and _ὅμηρος_.
+linguistic confusion between μηρός and ὅμηρος.
 
-On the whole, however—for I have quoted these two instances only to show
-the unscientific character of early philology—we may say that this
+On the whole, howeverfor I have quoted these two instances only to show
+the unscientific character of early philologywe may say that this
 important instrument in recreating the history of the past was not really
 used by the ancients as a means of historical criticism.  Nor did the
 ancients employ that other method, used to such advantage in our own day,
@@ -724,7 +724,7 @@ of Theseus having coined money bearing a bull’s head.  Similarly, the
 Amathusian festival, in which a young man imitated the labours of a woman
 in travail, is regarded by him as a rite instituted in Ariadne’s honour,
 and the Carian adoration of asparagus as a simple commemoration of the
-adventure of the nymph Perigune.  In the first of these _we_ discern the
+adventure of the nymph Perigune.  In the first of these we discern the
 beginning of agnation and kinsmanship through the father, which still
 lingers in the ‘couvee’ of New Zealand tribes: while the second is a
 relic of the totem and fetish worship of plants.
@@ -739,11 +739,11 @@ together on account of the advantages of the principle of division of
 labour and the rendering of mutual need.
 
 It must, however, be borne in mind that Plato’s object in this whole
-passage in the _Republic_ was, perhaps, not so much to analyse the
+passage in the Republic was, perhaps, not so much to analyse the
 conditions of early society as to illustrate the importance of the
 division of labour, the shibboleth of his political economy, by showing
 what a powerful factor it must have been in the most primitive as well as
-in the most complex states of society; just as in the _Laws_ he almost
+in the most complex states of society; just as in the Laws he almost
 rewrites entirely the history of the Peloponnesus in order to prove the
 necessity of a balance of power.  He surely, I mean, must have recognised
 himself how essentially incomplete his theory was in taking no account of
@@ -754,9 +754,9 @@ whose influence Aristotle seems to have clearly apprehended, when he says
 that the aim of primitive society was not merely life but the higher
 life, and that in the origin of society utility is not the sole motive,
 but that there is something spiritual in it if, at least, ‘spiritual’
-will bring out the meaning of that complex expression _τὸ καλόν_.
-Otherwise, the whole account in the _Republic_ of primitive man will
-always remain as a warning against the intrusion of _a priori_
+will bring out the meaning of that complex expression τὸ καλόν.
+Otherwise, the whole account in the Republic of primitive man will
+always remain as a warning against the intrusion of a priori
 speculations in the domain appropriate to induction.
 
 Now, Aristotle’s theory of the origin of society, like his philosophy of
@@ -768,10 +768,10 @@ Man being the only animal possessed of the power of rational speech is,
 he asserts, by nature intended to be social, more so than the bee or any
 other gregarious animal.
 
-He is _φύσει πολιτικός_, and the national tendency towards higher forms
+He is φύσει πολιτικός, and the national tendency towards higher forms
 of perfection brings the ‘armed savage who used to sell his wife’ to the
-free independence of a free state, and to the _ἰσότης τοῦ ἄρχειν καὶ τοῦ
-ἄρχεσθαι_, which was the test of true citizenship.  The stages passed
+free independence of a free state, and to the ἰσότης τοῦ ἄρχειν καὶ τοῦ
+ἄρχεσθαι, which was the test of true citizenship.  The stages passed
 through by humanity start with the family first as the ultimate unit.
 
 The conglomeration of families forms a village ruled by that patriarchal
@@ -780,24 +780,24 @@ the fact that all men count it to be the constitution of heaven, and the
 villages are merged into the state, and here the progression stops.
 
 For Aristotle, like all Greek thinkers, found his ideal within the walls
-of the _πόλις_, yet perhaps in his remark that a united Greece would rule
+of the πόλις, yet perhaps in his remark that a united Greece would rule
 the world we may discern some anticipation of that ‘federal union of free
-states into one consolidated empire’ which, more than the _πόλις_, is to
+states into one consolidated empire’ which, more than the πόλις, is to
 our eyes the ultimately perfect polity.
 
 How far Aristotle was justified in regarding the family as the ultimate
 unit, with the materials afforded to him by Greek literature, I have
 already noticed.  Besides, Aristotle, I may remark, had he reflected on
 the meaning of that Athenian law which, while prohibiting marriage with a
-uterine sister, permitted it with a sister german, or on the common
+uterine sister, permitted it with a sister-german, or on the common
 tradition in Athens that before the time of Cecrops children bore their
 mothers’ names, or on some of the Spartan regulations, could hardly have
 failed to see the universality of kinsmanship through women in early
 days, and the late appearance of monandry.  Yet, while he missed this
 point, in common, it must be acknowledged, with many modern writers, such
 as Sir Henry Maine, it is essentially as an explorer of inductive
-instances that we recognise his improvement on Plato.  The treatise _περὶ
-πολιτείων_, did it remain to us in its entirety, would have been one of
+instances that we recognise his improvement on Plato.  The treatise περὶ
+πολιτείων, did it remain to us in its entirety, would have been one of
 the most valuable landmarks in the progress of historical criticism, and
 the first scientific treatise on the science of comparative politics.
 
@@ -806,8 +806,8 @@ appealing to the authority of an ancient inscription on the ‘Disk of
 Iphitus,’ one of the most celebrated Greek antiquities, to corroborate
 his theory of the Lycurgean revival of the Olympian festival; while his
 enormous research is evinced in the elaborate explanation he gives of the
-historical origin of proverbs such as _οὐδεῖς μέγας κακὸς ἰχθῦς_, of
-religious songs like the _ἰῶμεν ἐς Ἀθήνας_ of the Botticean virgins, or
+historical origin of proverbs such as οὐδεῖς μέγας κακὸς ἰχθῦς, of
+religious songs like the ἰῶμεν ἐς Ἀθήνας of the Botticean virgins, or
 the praises of love and war.
 
 And, finally, it is to be observed how much wider than Plato’s his theory
@@ -819,7 +819,7 @@ was.
 In imitation of these two philosophers, Polybius gives an account of the
 origin of society in the opening to his philosophy of history.  Somewhat
 in the spirit of Plato, he imagines that after one of the cyclic deluges
-which sweep off mankind at stated periods and annihilate all pre existing
+which sweep off mankind at stated periods and annihilate all pre-existing
 civilisation, the few surviving members of humanity coalesce for mutual
 protection, and, as in the case with ordinary animals, the one most
 remarkable for physical strength is elected king.  In a short time, owing
@@ -839,8 +839,8 @@ creation of history, it is in all respects marvellous how that the most
 truthful accounts of the passage from barbarism to civilisation in
 ancient literature come from the works of poets.  The elaborate
 researches of Mr. Tylor and Sir John Lubbock have done little more than
-verify the theories put forward in the _Prometheus Bound_ and the _De
-Natura Rerum_; yet neither Æschylus nor Lucretias followed in the modern
+verify the theories put forward in the Prometheus Bound and the De
+Natura Rerum; yet neither Æschylus nor Lucretias followed in the modern
 path, but rather attained to truth by a certain almost mystic power of
 creative imagination, such as we now seek to banish from science as a
 dangerous power, though to it science seems to owe many of its most
@@ -857,11 +857,11 @@ phenomena of nature in the sphere of physical science, yet their
 intrusion into the domain of history and the life of man has always been
 met with a strong opposition, on the ground of the incalculable nature of
 two great forces acting on human action, a certain causeless spontaneity
-which men call free will, and the extra natural interference which they
+which men call free will, and the extra-natural interference which they
 attribute as a constant attribute to God.
 
 Now, that there is a science of the apparently variable phenomena of
-history is a conception which _we_ have perhaps only recently begun to
+history is a conception which we have perhaps only recently begun to
 appreciate; yet, like all other great thoughts, it seems to have come to
 the Greek mind spontaneously, through a certain splendour of imagination,
 in the morning tide of their civilisation, before inductive research had
@@ -870,7 +870,7 @@ possible to discern in some of the mystic speculations of the early Greek
 thinkers that desire to discover what is that ‘invariable existence of
 which there are variable states,’ and to incorporate it in some one
 formula of law which may serve to explain the different manifestations of
-all organic bodies, _man included_, which is the germ of the philosophy
+all organic bodies, man included, which is the germ of the philosophy
 of history; the germ indeed of an idea of which it is not too much to say
 that on it any kind of historical criticism, worthy of the name, must
 ultimately rest.
@@ -891,7 +891,7 @@ So in Herodotus, who may be taken as a representative of the orthodox
 tone of thought, the idea of the uniform sequence of cause and effect
 appears under the theological aspect of Nemesis and Providence, which is
 really the scientific conception of law, only it is viewed from an
-_ethical_ standpoint.
+ethical standpoint.
 
 Now in Thucydides the philosophy of history rests on the probability,
 which the uniformity of human nature affords us, that the future will in
@@ -950,12 +950,12 @@ proceeds to give an elaborate theory of the complex causes which produce
 revolutions, of the moral effects of various forms of government and
 education, of the rise of the criminal classes and their connection with
 pauperism, and, in a word, to create history by the deductive method and
-to proceed from _a priori_ psychological principles to discover the
+to proceed from a priori psychological principles to discover the
 governing laws of the apparent chaos of political life.
 
 There have been many attempts since Plato to deduce from a single
 philosophical principle all the phenomena which experience subsequently
-verifies for us.  Fichte thought he could predict the world plan from the
+verifies for us.  Fichte thought he could predict the world-plan from the
 idea of universal time.  Hegel dreamed he had found the key to the
 mysteries of life in the development of freedom, and Krause in the
 categories of being.  But the one scientific basis on which the true
@@ -965,8 +965,8 @@ tendencies: and this great truth, which Thucydides may be said in some
 measure to have apprehended, was given to us first by Plato.
 
 Now, it cannot be accurately said of this philosopher that either his
-philosophy or his history is entirely and simply _a priori_.  _On est de
-son siècle même quand on y proteste_, and so we find in him continual
+philosophy or his history is entirely and simply a priori.  On est de
+son siècle même quand on y proteste, and so we find in him continual
 references to the Spartan mode of life, the Pythagorean system, the
 general characteristics of Greek tyrannies and Greek democracies.  For
 while, in his account of the method of forming an ideal state, he says
@@ -974,17 +974,17 @@ that the political artist is indeed to fix his gaze on the sun of
 abstract truth in the heavens of the pure reason, but is sometimes to
 turn to the realisation of the ideals on earth: yet, after all, the
 general character of the Platonic method, which is what we are specially
-concerned with, is essentially deductive and _a priori_.  And he himself,
+concerned with, is essentially deductive and a priori.  And he himself,
 in the building up of his Nephelococcygia, certainly starts with a
-_καθαρὸς πίναξ_, making a clean sweep of all history and all experience;
-and it was essentially as an _a priori_ theorist that he is criticised by
+καθαρὸς πίναξ, making a clean sweep of all history and all experience;
+and it was essentially as an a priori theorist that he is criticised by
 Aristotle, as we shall see later.
 
 To proceed to closer details regarding the actual scheme of the laws of
 political revolutions as drawn out by Plato, we must first note that the
 primary cause of the decay of the ideal state is the general principle,
 common to the vegetable and animal worlds as well as to the world of
-history, that all created things are fated to decay—a principle which,
+history, that all created things are fated to decaya principle which,
 though expressed in the terms of a mere metaphysical abstraction, is yet
 perhaps in its essence scientific.  For we too must hold that a
 continuous redistribution of matter and motion is the inevitable result
@@ -1016,22 +1016,22 @@ Democracy as at Syracuse, or into an Aristocracy as at Carthage.  The
 example of Sicily, too, shows that an Oligarchy is often followed by a
 Tyranny, as at Leontini and Gela.  Besides, it is absurd to represent
 greed as the chief motive of decay, or to talk of avarice as the root of
-Oligarchy, when in nearly all true oligarchies money making is forbidden
+Oligarchy, when in nearly all true oligarchies money-making is forbidden
 by law.  And finally the Platonic theory neglects the different kinds of
 democracies and of tyrannies.
 
 Now nothing can be more important than this passage in Aristotle’s
-_Politics_ (_v._ 12.), which may he said to mark an era in the evolution
+Politics (v. 12.), which may he said to mark an era in the evolution
 of historical criticism.  For there is nothing on which Aristotle insists
 so strongly as that the generalisations from facts ought to be added to
-the data of the _a priori_ method—a principle which we know to be true
+the data of the a priori methoda principle which we know to be true
 not merely of deductive speculative politics but of physics also: for are
 not the residual phenomena of chemists a valuable source of improvement
 in theory?
 
 His own method is essentially historical though by no means empirical.
-On the contrary, this far seeing thinker, rightly styled _il maestro di
-color che sanno_, may be said to have apprehended clearly that the true
+On the contrary, this far-seeing thinker, rightly styled il maestro di
+color che sanno, may be said to have apprehended clearly that the true
 method is neither exclusively empirical nor exclusively speculative, but
 rather a union of both in the process called Analysis or the
 Interpretation of Facts, which has been defined as the application to
@@ -1052,7 +1052,7 @@ natural powers, must be studied from below in the hierarchical
 progression of higher function from the lower forms of life.  The
 important maxim, that to obtain a clear conception of anything we must
 ‘study it in its growth from the very beginning,’ is formally set down in
-the opening of the _Politics_, where, indeed, we shall find the other
+the opening of the Politics, where, indeed, we shall find the other
 characteristic features of the modern Evolutionary theory, such as the
 ‘Differentiation of Function’ and the ‘Survival of the Fittest’
 explicitly set forth.
@@ -1062,12 +1062,12 @@ historical criticism it is needless to point out.  By it, one may say,
 the true thread was given to guide one’s steps through the bewildering
 labyrinth of facts.  For history (to use terms with which Aristotle has
 made us familiar) may be looked at from two essentially different
-standpoints; either as a work of art whose _τέλος_ or final cause is
+standpoints; either as a work of art whose τέλος or final cause is
 external to it and imposed on it from without; or as an organism
 containing the law of its own development in itself, and working out its
 perfection merely by the fact of being what it is.  Now, if we adopt the
 former, which we may style the theological view, we shall be in continual
-danger of tripping into the pitfall of some _a priori_ conclusion—that
+danger of tripping into the pitfall of some a priori conclusionthat
 bourne from which, it has been truly said, no traveller ever returns.
 
 The latter is the only scientific theory and was apprehended in its
@@ -1077,13 +1077,13 @@ show that he was conscious that the philosophy of history is nothing
 separate from the facts of history but is contained in them, and that the
 rational law of the complex phenomena of life, like the ideal in the
 world of thought, is to be reached through the facts, not superimposed on
-them—_κατὰ πολλῶν_ not _παρὰ πολλά_.
+themκατὰ πολλῶν not παρὰ πολλά.
 
 And finally, in estimating the enormous debt which the science of
 historical criticism owes to Aristotle, we must not pass over his
 attitude towards those two great difficulties in the formation of a
 philosophy of history on which I have touched above.  I mean the
-assertion of extra natural interference with the normal development of
+assertion of extra-natural interference with the normal development of
 the world and of the incalculable influence exercised by the power of
 free will.
 
@@ -1116,13 +1116,13 @@ from the study of statistics and the laws of physiology.
 
 In Aristotle, of course, there is no trace of supernatural influence.
 The Furies, which drive their victim into sin first and then punishment,
-are no longer ‘viper tressed goddesses with eyes and mouth aflame,’ but
+are no longer ‘viper-tressed goddesses with eyes and mouth aflame,’ but
 those evil thoughts which harbour within the impure soul.  In this, as in
 all other points, to arrive at Aristotle is to reach the pure atmosphere
 of scientific and modern thought.
 
 But while he rejected pure necessitarianism in its crude form as
-essentially a _reductio ad absurdum_ of life, he was fully conscious of
+essentially a reductio ad absurdum of life, he was fully conscious of
 the fact that the will is not a mysterious and ultimate unit of force
 beyond which we cannot go and whose special characteristic is
 inconsistency, but a certain creative attitude of the mind which is, from
@@ -1136,10 +1136,10 @@ man (a conception perhaps pressed too far in modern days when the ‘race
 theory’ is supposed to be a sufficient explanation of the Hindoo, and the
 latitude and longitude of a country the best guide to its morals {57})
 Aristotle is completely unaware.  I do not allude to such smaller points
-as the oligarchical tendencies of a horse breeding country and the
+as the oligarchical tendencies of a horse-breeding country and the
 democratic influence of the proximity of the sea (important though they
 are for the consideration of Greek history), but rather to those wider
-views in the seventh book of his _Politics_, where he attributes the
+views in the seventh book of his Politics, where he attributes the
 happy union in the Greek character of intellectual attainments with the
 spirit of progress to the temperate climate they enjoyed, and points out
 how the extreme cold of the north dulls the mental faculties of its
@@ -1151,7 +1151,7 @@ the population in that quarter of the globe.
 Thucydides has shown the causal connection between political revolutions
 and the fertility of the soil, but goes a step farther and points out the
 psychological influences on a people’s character exercised by the various
-extremes of climate—in both cases the first appearance of a most valuable
+extremes of climatein both cases the first appearance of a most valuable
 form of historical criticism.
 
 To the development of Dialectic, as to God, intervals of time are of no
@@ -1165,11 +1165,11 @@ ideal state: for the latter conception may be in a measure regarded as
 representing the most spiritual principle which they could discern in
 history.
 
-Now, Plato created his on _a priori_ principles; Aristotle formed his by
+Now, Plato created his on a priori principles; Aristotle formed his by
 an analysis of existing constitutions; Polybius found his realised for
 him in the actual world of fact.  Aristotle criticised the deductive
 speculations of Plato by means of inductive negative instances, but
-Polybius will not take the ‘Cloud City’ of the _Republic_ into account at
+Polybius will not take the ‘Cloud City’ of the Republic into account at
 all.  He compares it to an athlete who has never run on ‘Constitution
 Hill,’ to a statue so beautiful that it is entirely removed from the
 ordinary conditions of humanity, and consequently from the canons of
@@ -1185,10 +1185,10 @@ meaning of many of their speculations will be hidden from us if we do not
 try and comprehend first what their aim was, and secondly why it was so.
 
 Now, like all wide generalities, this statement is at least inaccurate.
-The prayer of Plato’s ideal City—_ἐξ ἀγαθῶν ἀμείνους_, _καὶ ἐξ ὠφελιμῶν
-ὠφελιμωτέρους ἀεὶ τοὺς ἐκγόνους γίγνεσθαι_, might be written as a text
+The prayer of Plato’s ideal Cityἐξ ἀγαθῶν ἀμείνους, καὶ ἐξ ὠφελιμῶν
+ὠφελιμωτέρους ἀεὶ τοὺς ἐκγόνους γίγνεσθαι, might be written as a text
 over the door of the last Temple to Humanity raised by the disciples of
-Fourier and Saint Simon, but it is certainly true that their ideal
+Fourier and Saint-Simon, but it is certainly true that their ideal
 principle was order and permanence, not indefinite progress.  For,
 setting aside the artistic prejudices which would have led the Greeks to
 reject this idea of unlimited improvement, we may note that the modern
@@ -1216,7 +1216,7 @@ were, yet, their end once attained, no modern conservatives raised such
 outcry against the slightest innovation.  Even acknowledged improvements
 in such things as the games of children or the modes of music were
 regarded by them with feelings of extreme apprehension as the herald of
-the _drapeau rouge_ of reform.  And secondly, it will show us how it was
+the drapeau rouge of reform.  And secondly, it will show us how it was
 that Polybius found his ideal in the commonwealth of Rome, and Aristotle,
 like Mr. Bright, in the middle classes.  Polybius, however, is not
 content merely with pointing out his ideal state, but enters at
@@ -1232,7 +1232,7 @@ revolutions, which he says are twofold in nature, either external or
 internal.  Now, the former, depending as they do on the synchronous
 conjunction of other events outside the sphere of scientific estimation,
 are from their very character incalculable; but the latter, though
-assuming many forms, always result from the over great preponderance of
+assuming many forms, always result from the over-great preponderance of
 any single element to the detriment of the others, the rational law lying
 at the base of all varieties of political changes being that stability
 can result only from the statical equilibrium produced by the
@@ -1248,7 +1248,7 @@ Napoleon, when the French state had lost those divisions of caste and
 prejudice, of landed aristocracy and moneyed interest, institutions in
 which the vulgar see only barriers to Liberty but which are indeed the
 only possible defences against the coming of that periodic Sirius of
-politics, the _τύραννος ἐκ προστατικῆς ῥίζης_.
+politics, the τύραννος ἐκ προστατικῆς ῥίζης.
 
 There is a principle which Tocqueville never wearies of explaining, and
 which has been subsumed by Mr. Herbert Spencer under that general law
@@ -1256,8 +1256,8 @@ common to all organic bodies which we call the Instability of the
 Homogeneous.  The various manifestations of this law, as shown in the
 normal, regular revolutions and evolutions of the different forms of
 government, {63a} are expounded with great clearness by Polybius, who
-claimed for his theory, in the Thucydidean spirit, that it is a _κτῆμα ἐς
-ἀεί_, not a mere _ἀγώνισμα ἐς τὸ παραχρῆμα_, and that a knowledge of it
+claimed for his theory, in the Thucydidean spirit, that it is a κτῆμα ἐς
+ἀεί, not a mere ἀγώνισμα ἐς τὸ παραχρῆμα, and that a knowledge of it
 will enable the impartial observer {63b} to discover at any time what
 period of its constitutional evolution any particular state has already
 reached and into what form it will be next differentiated, though
@@ -1270,7 +1270,7 @@ what is his true position in the rational development of the ‘Idea’ which
 I have called the Philosophy of History, because it is the unifying of
 history.  Seen darkly as it is through the glass of religion in the pages
 of Herodotus, more metaphysical than scientific with Thucydides, Plato
-strove to seize it by the eagle flight of speculation, to reach it with
+strove to seize it by the eagle-flight of speculation, to reach it with
 the eager grasp of a soul impatient of those slower and surer inductive
 methods which Aristotle, in his trenchant criticism of his greater
 master, showed were more brilliant than any vague theory, if the test of
@@ -1281,8 +1281,8 @@ him?  Polybius was one of those many men who are born too late to be
 original.  To Thucydides belongs the honour of being the first in the
 history of Greek thought to discern the supreme calm of law and order
 underlying the fitful storms of life, and Plato and Aristotle each
-represents a great new principle.  To Polybius belongs the office—how
-noble an office he made it his writings show—of making more explicit the
+represents a great new principle.  To Polybius belongs the officehow
+noble an office he made it his writings showof making more explicit the
 ideas which were implicit in his predecessors, of showing that they were
 of wider applicability and perhaps of deeper meaning than they had seemed
 before, of examining with more minuteness the laws which they had
@@ -1362,16 +1362,16 @@ Greece rises the man of genius on whose influence in the evolution of the
 philosophy of history I have a short time ago dwelt.  Born in the serene
 and pure air of the clear uplands of Arcadia, Polybius may be said to
 reproduce in his work the character of the place which gave him birth.
-For, of all the historians—I do not say of antiquity but of all time—none
+For, of all the historiansI do not say of antiquity but of all timenone
 is more rationalistic than he, none more free from any belief in the
 ‘visions and omens, the monstrous legends, the grovelling superstitions
-and unmanly craving for the supernatural’ (_δεισιδαιμονίας ἀγεννοῦς καὶ
-τερατείας γυναικώδους_ {68}) which he himself is compelled to notice as
+and unmanly craving for the supernatural’ (δεισιδαιμονίας ἀγεννοῦς καὶ
+τερατείας γυναικώδους {68}) which he himself is compelled to notice as
 the characteristics of some of the historians who preceded him.
 Fortunate in the land which bore him, he was no less blessed in the
 wondrous time of his birth.  For, representing in himself the spiritual
 supremacy of the Greek intellect and allied in bonds of chivalrous
-friendship to the world conqueror of his day, he seems led as it were by
+friendship to the world-conqueror of his day, he seems led as it were by
 the hand of Fate ‘to comprehend,’ as has been said, ‘more clearly than
 the Romans themselves the historical position of Rome,’ and to discern
 with greater insight than all other men could those two great resultants
@@ -1390,7 +1390,7 @@ and the eagles of Rome passed on the wings of universal victory from
 Calpe and the Pillars of Hercules to Syria and the Nile.  At the same
 time he recognised that the scheme of Rome’s empire was worked out under
 the ægis of God’s will. {69c}  For, as one of the Middle Age scribes most
-truly says, the _τύχη_ of Polybius is that power which we Christians call
+truly says, the τύχη of Polybius is that power which we Christians call
 God; the second aim, as one may call it, of his history is to point out
 the rational and human and natural causes which brought this result,
 distinguishing, as we should say, between God’s mediate and immediate
@@ -1415,11 +1415,11 @@ He is the culmination of the rational progression of Dialectic.
 ‘Nothing,’ he says, ‘shows a foolish mind more than the attempt to
 account for any phenomena on the principle of chance or supernatural
 intervention.  History is a search for rational causes, and there is
-nothing in the world—even those phenomena which seem to us the most
-remote from law and improbable—which is not the logical and inevitable
+nothing in the worldeven those phenomena which seem to us the most
+remote from law and improbablewhich is not the logical and inevitable
 result of certain rational antecedents.’
 
-Some things, of course, are to be rejected _a priori_ without entering
+Some things, of course, are to be rejected a priori without entering
 into the subject: ‘As regards such miracles,’ he says, {71} ‘as that on a
 certain statue of Artemis rain or snow never falls though the statue
 stands in the open air, or that those who enter God’s shrine in Arcadia
@@ -1438,17 +1438,17 @@ the chance of continued interference on the part of some foreign body, so
 the laws and principles which govern history, the causes of phenomena,
 the evolution of progress, the whole science, in a word, of man’s
 dealings with his own race and with nature, will remain a sealed book to
-him who admits the possibility of extra natural interference.
+him who admits the possibility of extra-natural interference.
 
-The stories of miracles, then, are to be rejected on _a priori_ rational
+The stories of miracles, then, are to be rejected on a priori rational
 grounds, but in the case of events which we know to have happened the
 scientific historian will not rest till he has discovered their natural
 causes which, for instance, in the case of the wonderful rise of the
-Roman Empire—the most marvellous thing, Polybius says, which God ever
-brought about {72a}—are to be found in the excellence of their
-constitution (_τῇ ἰδιότητι τῆς πολιτείας_), the wisdom of their advisers,
-their splendid military arrangements, and their superstition (_τῇ
-δεισιδαιμονίᾳ_).  For while Polybius regarded the revealed religion as,
+Roman Empirethe most marvellous thing, Polybius says, which God ever
+brought about {72a}are to be found in the excellence of their
+constitution (τῇ ἰδιότητι τῆς πολιτείας), the wisdom of their advisers,
+their splendid military arrangements, and their superstition (τῇ
+δεισιδαιμονίᾳ).  For while Polybius regarded the revealed religion as,
 of course, objective reality of truth, {72b} he laid great stress on its
 moral subjective influence, going, in one passage on the subject, even so
 far as almost to excuse the introduction of the supernatural in very
@@ -1457,13 +1457,13 @@ would have on pious people.
 
 But perhaps there is no passage in the whole of ancient and modern
 history which breathes such a manly and splendid spirit of rationalism as
-one preserved to us in the Vatican—strange resting place for it!—in which
+one preserved to us in the Vaticanstrange resting-place for it!in which
 he treats of the terrible decay of population which had fallen on his
 native land in his own day, and which by the general orthodox public was
 regarded as a special judgment of God sending childlessness on women as a
 punishment for the sins of the people.  For it was a disaster quite
 without parallel in the history of the land, and entirely unforeseen by
-any of its political economy writers who, on the contrary, were always
+any of its political-economy writers who, on the contrary, were always
 anticipating that danger would arise from an excess of population
 overrunning its means of subsistence, and becoming unmanageable through
 its size.  Polybius, however, will have nothing to do with either priest
@@ -1479,14 +1479,14 @@ avarice of the men of his day, and he explains on entirely rational
 principles the whole of this apparently supernatural judgment.
 
 Now, it is to be borne in mind that while his rejection of miracles as
-violation of inviolable laws is entirely _a priori_—for discussion of
-such a matter is, of course, impossible for a rational thinker—yet his
+violation of inviolable laws is entirely a priorifor discussion of
+such a matter is, of course, impossible for a rational thinkeryet his
 rejection of supernatural intervention rests entirely on the scientific
 grounds of the necessity of looking for natural causes.  And he is quite
 logical in maintaining his position on these principles.  For, where it
 is either difficult or impossible to assign any rational cause for
 phenomena, or to discover their laws, he acquiesces reluctantly in the
-alternative of admitting some extra natural interference which his
+alternative of admitting some extra-natural interference which his
 essentially scientific method of treating the matter has logically forced
 on him, approving, for instance, of prayers for rain, on the express
 ground that the laws of meteorology had not yet been ascertained.  He
@@ -1521,10 +1521,10 @@ absence of romance in my pages,’ he says, ‘will, I fear, detract somewhat
 from its value, but I have written my work not to be the exploit of a
 passing hour but as the possession of all time.’ {76}  Polybius follows
 with words almost entirely similar.  If, he says, we banish from history
-the consideration of causes, methods and motives (_τὸ διὰ τί_, _καὶ πως_,
-_καὶ τίνος χάριν_), and refuse to consider how far the result of anything
-is its rational consequent, what is left is a mere _ἀγώνισμα_, not a
-_μάθημα_, an oratorical essay which may give pleasure for the moment, but
+the consideration of causes, methods and motives (τὸ διὰ τί, καὶ πως,
+καὶ τίνος χάριν), and refuse to consider how far the result of anything
+is its rational consequent, what is left is a mere ἀγώνισμα, not a
+μάθημα, an oratorical essay which may give pleasure for the moment, but
 which is entirely without any scientific value for the explanation of the
 future.  Elsewhere he says that ‘history robbed of the exposition of its
 causes and laws is a profitless thing, though it may allure a fool.’  And
@@ -1575,17 +1575,17 @@ determined to fight it out with Rome. {78}
 
 Here as elsewhere he is not originating any new idea.  Thucydides had
 pointed out the difference between the real and the alleged cause, and
-the Aristotelian dictum about revolutions, _οὐ περὶ μικρῶν ἀλλ’ ἐκ
-μικρῶν_, draws the distinction between cause and occasion with the
+the Aristotelian dictum about revolutions, οὐ περὶ μικρῶν ἀλλ’ ἐκ
+μικρῶν, draws the distinction between cause and occasion with the
 brilliancy of an epigram.  But the explicit and rational investigation of
-the difference between _αἰτία_, _ἀρχὴ_, and _πρόφασις_ was reserved for
+the difference between αἰτία, ἀρχὴ, and πρόφασις was reserved for
 Polybius.  No canon of historical criticism can be said to be of more
 real value than that involved in this distinction, and the overlooking of
 it has filled our histories with the contemptible accounts of the
 intrigues of courtiers and of kings and the petty plottings of backstairs
-influence—particulars interesting, no doubt, to those who would ascribe
+influenceparticulars interesting, no doubt, to those who would ascribe
 the Reformation to Anne Boleyn’s pretty face, the Persian war to the
-influence of a doctor or a curtain lecture from Atossa, or the French
+influence of a doctor or a curtain-lecture from Atossa, or the French
 Revolution to Madame de Maintenon, but without any value for those who
 aim at any scientific treatment of history.
 
@@ -1624,8 +1624,8 @@ correspond with what we know was the actual state of fact.  Similarly,
 Polybius will deal only with those forces which tended to bring the
 civilised world under the dominion of Rome (ix. 1), and in the
 Thucydidean spirit points out the want of picturesqueness and romance in
-his pages which is the result of the abstract method (_τὸ μονοειδὲς τῆς
-συντάξεως_) being careful also to tell us that his rejection of all other
+his pages which is the result of the abstract method (τὸ μονοειδὲς τῆς
+συντάξεως) being careful also to tell us that his rejection of all other
 forces is essentially deliberate and the result of a preconceived theory
 and by no means due to carelessness of any kind.
 
@@ -1634,7 +1634,7 @@ employment in the sphere of history, this is perhaps not the suitable
 occasion for any discussion.  It is, however, in all ways worthy of note
 that Polybius is not merely conscious of, but dwells with particular
 weight on, the fact which is usually urged as the strongest objection to
-the employment of the abstract method—I mean the conception of a society
+the employment of the abstract methodI mean the conception of a society
 as a sort of human organism whose parts are indissolubly connected with
 one another and all affected when one member is in any way agitated.
 This conception of the organic nature of society appears first in Plato
@@ -1656,7 +1656,7 @@ method, even within the limit thus obtained a certain selection must be
 made, and a selection involves a theory.  For the facts of life cannot be
 tabulated with as great an ease as the colours of birds and insects can
 be tabulated.  Now, Polybius points out that those phenomena particularly
-are to be dwelt on which may serve as a _παράδειγμα_ or sample, and show
+are to be dwelt on which may serve as a παράδειγμα or sample, and show
 the character of the tendencies of the age as clearly as ‘a single drop
 from a full cask will be enough to disclose the nature of the whole
 contents.’  This recognition of the importance of single facts, not in
@@ -1684,7 +1684,7 @@ But in Polybius there is, I think, little of that bitterness and
 pettiness of spirit which characterises most other writers, and an
 incidental story he tells of his relations with one of the historians
 whom he criticised shows that he was a man of great courtesy and
-refinement of taste—as, indeed, befitted one who had lived always in the
+refinement of tasteas, indeed, befitted one who had lived always in the
 society of those who were of great and noble birth.
 
 Now, as regards the character of the canons by which he criticises the
@@ -1719,17 +1719,17 @@ of history as a painting which is copied not from a living animal but
 from a stuffed one.’
 
 There is more difference, he says in another place, between the history
-of an eye witness and that of one whose knowledge comes from books, than
+of an eye-witness and that of one whose knowledge comes from books, than
 there is between the scenes of real life and the fictitious landscapes of
 theatrical scenery.  Besides this, he enters into somewhat elaborate
 detailed criticism of passages where he thought Timæus was following a
 wrong method and perverting truth, passages which it will be worth while
 to examine in detail.
 
-Timæus, from the fact of there being a Roman custom to shoot a war horse
+Timæus, from the fact of there being a Roman custom to shoot a war-horse
 on a stated day, argued back to the Trojan origin of that people.
 Polybius, on the other hand, points out that the inference is quite
-unwarrantable, because horse sacrifices are ordinary institutions common
+unwarrantable, because horse-sacrifices are ordinary institutions common
 to all barbarous tribes.  Timæus here, as was common with Greek writers,
 is arguing back from some custom of the present to an historical event in
 the past.  Polybius really is employing the comparative method, showing
@@ -1748,7 +1748,7 @@ accordance with the received tradition on the subject, Aristotle had
 represented the Locrian colony as founded by some Parthenidæ or slaves’
 children, as they were called, a statement which seems to have roused the
 indignation of Timæus, who went to a good deal of trouble to confute this
-theory.  He does so on the following grounds:—
+theory.  He does so on the following grounds:
 
 First of all, he points out that in the ancient days the Greeks had no
 slaves at all, so the mention of them in the matter is an anachronism;
@@ -1769,7 +1769,7 @@ probability, which is always such a subjective canon that an appeal to it
 is rarely conclusive.  I would note, however, as regards the inscriptions
 which, if genuine, would of course have settled the matter, that Polybius
 looks on them as a mere invention on the part of Timæus, who, he remarks,
-gives no details about them, though, as a rule, he is over anxious to
+gives no details about them, though, as a rule, he is over-anxious to
 give chapter and verse for everything.  A somewhat more interesting point
 is that where he attacks Timæus for the introduction of fictitious
 speeches into his narrative; for on this point Polybius seems to be far
@@ -1785,7 +1785,7 @@ the senate on the occasion of the Catilinarian conspiracy are very
 different from the same orations as they appear in Cicero.  Livy makes
 his ancient Romans wrangle and chop logic with all the subtlety of a
 Hortensius or a Scævola.  And even in later days, when shorthand
-reporters attended the debates of the senate and a _Daily News_ was
+reporters attended the debates of the senate and a Daily News was
 published in Rome, we find that one of the most celebrated speeches in
 Tacitus (that in which the Emperor Claudius gives the Gauls their
 freedom) is shown, by an inscription discovered recently at Lugdunum, to
@@ -1812,7 +1812,7 @@ history; and no small light will be thrown on the progress of historical
 criticism if we strive to collect and analyse what in Polybius are more
 or less scattered expressions.  The ideal historian must be contemporary
 with the events he describes, or removed from them by one generation
-only.  Where it is possible, he is to be an eye witness of what he writes
+only.  Where it is possible, he is to be an eye-witness of what he writes
 of; where that is out of his power he is to test all traditions and
 stories carefully and not to be ready to accept what is plausible in
 place of what is true.  He is to be no bookworm living aloof from the
@@ -1820,7 +1820,7 @@ experiences of the world in the artificial isolation of a university
 town, but a politician, a soldier, and a traveller, a man not merely of
 thought but of action, one who can do great things as well as write of
 them, who in the sphere of history could be what Byron and Æschylus were
-in the sphere of poetry, at once _le chantre et le héros_.
+in the sphere of poetry, at once le chantre et le héros.
 
 He is to keep before his eyes the fact that chance is merely a synonym
 for our ignorance; that the reign of law pervades the domain of history
@@ -1830,7 +1830,7 @@ is to recognise the practical utility of the supernatural, in an
 educational point of view, he is not himself to indulge in such
 intellectual beating of the air as to admit the possibility of the
 violation of inviolable laws, or to argue in a sphere wherein argument is
-_a priori_ annihilated.  He is to be free from all bias towards friend
+a priori annihilated.  He is to be free from all bias towards friend
 and country; he is to be courteous and gentle in criticism; he is not to
 regard history as a mere opportunity for splendid and tragic writing; nor
 is he to falsify truth for the sake of a paradox or an epigram.
@@ -1867,11 +1867,11 @@ old world and, in a more spiritual sense, has become the Gospel of the
 new.
 
 One thing indeed he did not see, or if he saw it, he thought but little
-of it—how from the East there was spreading over the world, as a wave
+of ithow from the East there was spreading over the world, as a wave
 spreads, a spiritual inroad of new religions from the time when the
 Pessinuntine mother of the gods, a shapeless mass of stone, was brought
 to the eternal city by her holiest citizen, to the day when the ship
-_Castor and Pollux_ stood in at Puteoli, and St. Paul turned his face
+Castor and Pollux stood in at Puteoli, and St. Paul turned his face
 towards martyrdom and victory at Rome.  Polybius was able to predict,
 from his knowledge of the causes of revolutions and the tendencies of the
 various forms of governments, the uprising of that democratic tone of
@@ -1889,14 +1889,14 @@ philosopher.  They are both ‘spectators of all time and all existence.’
 Nothing is contemptible in their eyes, for all things have a meaning, and
 they both walk in august reasonableness before all men, conscious of the
 workings of God yet free from all terror of mendicant priest or vagrant
-miracle worker.  But the parallel ends here.  For the one stands aloof
-from the world storm of sleet and hail, his eyes fixed on distant and
+miracle-worker.  But the parallel ends here.  For the one stands aloof
+from the world-storm of sleet and hail, his eyes fixed on distant and
 sunlit heights, loving knowledge for the sake of knowledge and wisdom for
 the joy of wisdom, while the other is an eager actor in the world ever
 seeking to apply his knowledge to useful things.  Both equally desire
 truth, but the one because of its utility, the other for its beauty.  The
 historian regards it as the rational principle of all true history, and
-no more.  To the other it comes as an all pervading and mystic
+no more.  To the other it comes as an all-pervading and mystic
 enthusiasm, ‘like the desire of strong wine, the craving of ambition, the
 passionate love of what is beautiful.’
 
@@ -1908,12 +1908,12 @@ science.  Nor yet is he to be regarded merely in the narrow light in
 which he is estimated by most modern critics, as the explicit champion of
 rationalism and nothing more.  For he is connected with another idea, the
 course of which is as the course of that great river of his native
-Arcadia which, springing from some arid and sun bleached rock, gathers
+Arcadia which, springing from some arid and sun-bleached rock, gathers
 strength and beauty as it flows till it reaches the asphodel meadows of
 Olympia and the light and laughter of Ionian waters.
 
 For in him we can discern the first notes of that great cult of the
-seven hilled city which made Virgil write his epic and Livy his history,
+seven-hilled city which made Virgil write his epic and Livy his history,
 which found in Dante its highest exponent, which dreamed of an Empire
 where the Emperor would care for the bodies and the Pope for the souls of
 men, and so has passed into the conception of God’s spiritual empire and
@@ -1937,7 +1937,7 @@ explained away their transcendental meaning.  ‘When the tears on the
 cheek of some holy statue have been analysed into the moisture which
 certain temperatures produce on wood and marble, it yet by no means
 follows that they were not a sign of grief and mourning set there by God
-Himself.’  When Lampon saw in the prodigy of the one horned ram the omen
+Himself.’  When Lampon saw in the prodigy of the one-horned ram the omen
 of the supreme rule of Pericles, and when Anaxagoras showed that the
 abnormal development was the rational resultant of the peculiar formation
 of the skull, the dreamer and the man of science were both right; it was
@@ -1972,10 +1972,10 @@ spot in the land of Greece: and Delphi will come next, and then the
 meadows of Eurotas where that noble people lived who represented in
 Hellenic thought the reaction of the law of duty against the law of
 beauty, the opposition of conduct to culture.  Yet, as one stands on the
-_σχιστὴ ὁδός_ of Cithæron and looks out on the great double plain of
+σχιστὴ ὁδός of Cithæron and looks out on the great double plain of
 Boeotia, the enormous importance of the division of Hellas comes to one’s
 mind with great force.  To the north are Orchomenus and the Minyan
-treasure house, seat of those merchant princes of Phoenicia who brought
+treasure-house, seat of those merchant princes of Phoenicia who brought
 to Greece the knowledge of letters and the art of working in gold.
 Thebes is at our feet with the gloom of the terrible legends of Greek
 tragedy still lingering about it, the birthplace of Pindar, the nurse of
@@ -1983,7 +1983,7 @@ Epaminondas and the Sacred Band.
 
 And from out of the plain where ‘Mars loved to dance,’ rises the Muses’
 haunt, Helicon, by whose silver streams Corinna and Hesiod sang; while
-far away under the white ægis of those snow capped mountains lies
+far away under the white ægis of those snow-capped mountains lies
 Chæronea and the Lion plain where with vain chivalry the Greeks strove to
 check Macedon first and afterwards Rome; Chæronea, where in the Martinmas
 summer of Greek civilisation Plutarch rose from the drear waste of a
@@ -2051,7 +2051,7 @@ was merely memory.  She had never been much else.  Nor did they protest
 when Lucretius dared to say of Ceres and of Liber that they were only the
 corn of the field and the fruit of the vine.  For they had never mourned
 for the daughter of Demeter in the asphodel meadows of Sicily, nor
-traversed the glades of Cithæron with fawn skin and with spear.
+traversed the glades of Cithæron with fawn-skin and with spear.
 
 This brief sketch of the condition of Roman thought will serve to prepare
 us for the almost total want of scientific historical criticism which we
@@ -2060,7 +2060,7 @@ corroboration of the conditions essential to the rise of this spirit, and
 of the modes of thought which it reflects and in which it is always to be
 found.  Roman historical composition had its origin in the pontifical
 college of ecclesiastical lawyers, and preserved to its close the
-uncritical spirit which characterised its fountain head.  It possessed
+uncritical spirit which characterised its fountain-head.  It possessed
 from the outset a most voluminous collection of the materials of history,
 which, however, produced merely antiquarians, not historians.  It is so
 hard to use facts, so easy to accumulate them.
@@ -2074,7 +2074,7 @@ same spirit in which the Germans of the eighteenth century used French as
 the literary language.  But the first regular Roman historian is Sallust.
 Between the extravagant eulogies passed on this author by the French
 (such as De Closset), and Dr. Mommsen’s view of him as merely a political
-pamphleteer, it is perhaps difficult to reach the _via media_ of
+pamphleteer, it is perhaps difficult to reach the via media of
 unbiassed appreciation.  He has, at any rate, the credit of being a
 purely rationalistic historian, perhaps the only one in Roman literature.
 Cicero had a good many qualifications for a scientific historian, and (as
@@ -2126,14 +2126,14 @@ our institutions and rational in our law, but to blend into one elemental
 creed the spiritual aspirations of Aryan and of Semite.  Italy was not a
 pioneer in intellectual progress, nor a motive power in the evolution of
 thought.  The owl of the goddess of Wisdom traversed over the whole land
-and found nowhere a resting place.  The dove, which is the bird of
+and found nowhere a resting-place.  The dove, which is the bird of
 Christ, flew straight to the city of Rome and the new reign began.  It
 was the fashion of early Italian painters to represent in mediæval
 costume the soldiers who watched over the tomb of Christ, and this, which
 was the result of the frank anachronism of all true art, may serve to us
 as an allegory.  For it was in vain that the Middle Ages strove to guard
 the buried spirit of progress.  When the dawn of the Greek spirit arose,
-the sepulchre was empty, the grave clothes laid aside.  Humanity had
+the sepulchre was empty, the grave-clothes laid aside.  Humanity had
 risen from the dead.
 
 The study of Greek, it has been well said, implies the birth of
@@ -2151,8 +2151,8 @@ adolescence, when the bodily powers seem quickened by a new vitality,
 when the eye sees more clearly than its wont and the mind apprehends what
 was beforetime hidden from it.  To herald the opening of the sixteenth
 century, from the little Venetian printing press came forth all the great
-authors of antiquity, each bearing on the title page the words _Ἅλδος ὁ
-Μανούτιος Ῥωμαῖος καὶ Φιλέλλην_; words which may serve to remind us with
+authors of antiquity, each bearing on the title-page the words Ἅλδος ὁ
+Μανούτιος Ῥωμαῖος καὶ Φιλέλλην; words which may serve to remind us with
 what wondrous prescience Polybius saw the world’s fate when he foretold
 the material sovereignty of Roman institutions and exemplified in himself
 the intellectual empire of Greece.
@@ -2182,7 +2182,7 @@ reached the goal but he also who first started with the torch aflame
 received a prize.  In the Lampadephoria of civilisation and free thought
 let us not forget to render due meed of honour to those who first lit
 that sacred flame, the increasing splendour of which lights our footsteps
-to the far off divine event of the attainment of perfect truth.
+to the far-off divine event of the attainment of perfect truth.
 
 
 
@@ -2192,14 +2192,14 @@ THE ENGLISH RENAISSANCE OF ART
 
 ‘The English Renaissance of Art’ was delivered as a lecture for the first
 time in the Chickering Hall, New York, on January 9, 1882.  A portion of
-it was reported in the _New York Tribune_ on the following day and in
+it was reported in the New York Tribune on the following day and in
 other American papers subsequently.  Since then this portion has been
 reprinted, more or less accurately, from time to time, in unauthorised
 editions.
 
 There are in existence no less than four copies of the lecture, the
 earliest of which is entirely in the author’s handwriting.  The others
-are type written and contain many corrections and additions made by the
+are type-written and contain many corrections and additions made by the
 author in manuscript.  These have all been collated and the text here
 given contains, as nearly as possible, the lecture in the original form
 as delivered by the author during his tour in the United States.
@@ -2209,8 +2209,8 @@ Goethe is that he was the first to teach us to define beauty in terms the
 most concrete possible, to realise it, I mean, always in its special
 manifestations.  So, in the lecture which I have the honour to deliver
 before you, I will not try to give you any abstract definition of
-beauty—any such universal formula for it as was sought for by the
-philosophy of the eighteenth century—still less to communicate to you
+beautyany such universal formula for it as was sought for by the
+philosophy of the eighteenth centurystill less to communicate to you
 that which in its essence is incommunicable, the virtue by which a
 particular picture or poem affects us with a unique and special joy; but
 rather to point out to you the general ideas which characterise the great
@@ -2245,7 +2245,7 @@ marriage of Faust and Helen of Troy sprang the beautiful boy Euphorion.
 Such expressions as ‘classical’ and ‘romantic’ are, it is true, often apt
 to become the mere catchwords of schools.  We must always remember that
 art has only one sentence to utter: there is for her only one high law,
-the law of form or harmony—yet between the classical and romantic spirit
+the law of form or harmonyyet between the classical and romantic spirit
 we may say that there lies this difference at least, that the one deals
 with the type and the other with the exception.  In the work produced
 under the modern romantic spirit it is no longer the permanent, the
@@ -2295,11 +2295,11 @@ called humanity back to the golden age that still lies before us and
 preached a return to nature, in passionate eloquence whose music still
 lingers about our keen northern air.  And Goethe and Scott had brought
 romance back again from the prison she had lain in for so many
-centuries—and what is romance but humanity?
+centuriesand what is romance but humanity?
 
 Yet in the womb of the Revolution itself, and in the storm and terror of
 that wild time, tendencies were hidden away that the artistic Renaissance
-bent to her own service when the time came—a scientific tendency first,
+bent to her own service when the time camea scientific tendency first,
 which has borne in our own day a brood of somewhat noisy Titans, yet in
 the sphere of poetry has not been unproductive of good.  I do not mean
 merely in its adding to enthusiasm that intellectual basis which in its
@@ -2318,9 +2318,9 @@ The great and golden rule of art as well as of life, wrote William Blake,
 is that the more distinct, sharp and defined the boundary line, the more
 perfect is the work of art; and the less keen and sharp the greater is
 the evidence of weak imitation, plagiarism and bungling.  ‘Great
-inventors in all ages knew this—Michael Angelo and Albert Durer are known
+inventors in all ages knew thisMichael Angelo and Albert Durer are known
 by this and by this alone’; and another time he wrote, with all the
-simple directness of nineteenth century prose, ‘to generalise is to be an
+simple directness of nineteenth-century prose, ‘to generalise is to be an
 idiot.’
 
 And this love of definite conception, this clearness of vision, this
@@ -2328,12 +2328,12 @@ artistic sense of limit, is the characteristic of all great work and
 poetry; of the vision of Homer as of the vision of Dante, of Keats and
 William Morris as of Chaucer and Theocritus.  It lies at the base of all
 noble, realistic and romantic work as opposed to the colourless and empty
-abstractions of our own eighteenth century poets and of the classical
+abstractions of our own eighteenth-century poets and of the classical
 dramatists of France, or of the vague spiritualities of the German
 sentimental school: opposed, too, to that spirit of transcendentalism
 which also was root and flower itself of the great Revolution, underlying
 the impassioned contemplation of Wordsworth and giving wings and fire to
-the eagle like flight of Shelley, and which in the sphere of philosophy,
+the eagle-like flight of Shelley, and which in the sphere of philosophy,
 though displaced by the materialism and positiveness of our day,
 bequeathed two great schools of thought, the school of Newman to Oxford,
 the school of Emerson to America.  Yet is this spirit of
@@ -2344,7 +2344,7 @@ escape.
 
 He is indeed the only true realist: symbolism, which is the essence of
 the transcendental spirit, is alien to him.  The metaphysical mind of
-Asia will create for itself the monstrous, many breasted idol of Ephesus,
+Asia will create for itself the monstrous, many-breasted idol of Ephesus,
 but to the Greek, pure artist, that work is most instinct with spiritual
 life which conforms most clearly to the perfect facts of physical life.
 
@@ -2358,7 +2358,7 @@ measureless despair; ambition, discontent, were the chords of life and
 art; the age was an age of revolt: a phase through which the human spirit
 must pass, but one in which it cannot rest.  For the aim of culture is
 not rebellion but peace, the valley perilous where ignorant armies clash
-by night being no dwelling place meet for her to whom the gods have
+by night being no dwelling-place meet for her to whom the gods have
 assigned the fresh uplands and sunny heights and clear, untroubled air.
 
 And soon that desire for perfection, which lay at the base of the
@@ -2372,9 +2372,9 @@ Keats that one discerns the beginning of the artistic renaissance of
 England.
 
 Byron was a rebel and Shelley a dreamer; but in the calmness and
-clearness of his vision, his perfect self control, his unerring sense of
+clearness of his vision, his perfect self-control, his unerring sense of
 beauty and his recognition of a separate realm for the imagination, Keats
-was the pure and serene artist, the forerunner of the pre Raphaelite
+was the pure and serene artist, the forerunner of the pre-Raphaelite
 school, and so of the great romantic movement of which I am to speak.
 
 Blake had indeed, before him, claimed for art a lofty, spiritual mission,
@@ -2384,38 +2384,38 @@ incompleteness of his technical powers had been adverse to any real
 influence.  It is in Keats that the artistic spirit of this century first
 found its absolute incarnation.
 
-And these pre Raphaelites, what were they?  If you ask nine tenths of the
+And these pre-Raphaelites, what were they?  If you ask nine-tenths of the
 British public what is the meaning of the word æsthetics, they will tell
 you it is the French for affectation or the German for a dado; and if you
-inquire about the pre Raphaelites you will hear something about an
+inquire about the pre-Raphaelites you will hear something about an
 eccentric lot of young men to whom a sort of divine crookedness and holy
 awkwardness in drawing were the chief objects of art.  To know nothing
 about their great men is one of the necessary elements of English
 education.
 
-As regards the pre Raphaelites the story is simple enough.  In the year
+As regards the pre-Raphaelites the story is simple enough.  In the year
 1847 a number of young men in London, poets and painters, passionate
 admirers of Keats all of them, formed the habit of meeting together for
 discussions on art, the result of such discussions being that the English
 Philistine public was roused suddenly from its ordinary apathy by hearing
 that there was in its midst a body of young men who had determined to
 revolutionise English painting and poetry.  They called themselves the
-pre Raphaelite Brotherhood.
+pre-Raphaelite Brotherhood.
 
 In England, then as now, it was enough for a man to try and produce any
 serious beautiful work to lose all his rights as a citizen; and besides
-this, the pre Raphaelite Brotherhood—among whom the names of Dante
-Rossetti, Holman Hunt and Millais will be familiar to you—had on their
+this, the pre-Raphaelite Brotherhoodamong whom the names of Dante
+Rossetti, Holman Hunt and Millais will be familiar to youhad on their
 side three things that the English public never forgives: youth, power
 and enthusiasm.
 
 Satire, always as sterile as it in shameful and as impotent as it is
 insolent, paid them that usual homage which mediocrity pays to
-genius—doing, here as always, infinite harm to the public, blinding them
+geniusdoing, here as always, infinite harm to the public, blinding them
 to what is beautiful, teaching them that irreverence which is the source
 of all vileness and narrowness of life, but harming the artist not at
 all, rather confirming him in the perfect rightness of his work and
-ambition.  For to disagree with three fourths of the British public on
+ambition.  For to disagree with three-fourths of the British public on
 all points is one of the first elements of sanity, one of the deepest
 consolations in all moments of spiritual doubt.
 
@@ -2424,7 +2424,7 @@ English art, we may see at the base of their artistic creations a desire
 for a deeper spiritual value to be given to art as well as a more
 decorative value.
 
-Pre Raphaelites they called themselves; not that they imitated the early
+Pre-Raphaelites they called themselves; not that they imitated the early
 Italian masters at all, but that in their work, as opposed to the facile
 abstractions of Raphael, they found a stronger realism of imagination, a
 more careful realism of technique, a vision at once more fervent and more
@@ -2437,15 +2437,15 @@ individuality remote from that of ordinary men, and coming near to us
 only by virtue of a certain newness and wonder in the work, and through
 channels whose very strangeness makes us more ready to give them welcome.
 
-_La personnalité_, said one of the greatest of modern French critics,
-_voilà ce qui nous sauvera_.
+La personnalité, said one of the greatest of modern French critics,
+voilà ce qui nous sauvera.
 
-But above all things was it a return to Nature—that formula which seems
+But above all things was it a return to Naturethat formula which seems
 to suit so many and such diverse movements: they would draw and paint
 nothing but what they saw, they would try and imagine things as they
 really happened.  Later there came to the old house by Blackfriars
 Bridge, where this young brotherhood used to meet and work, two young men
-from Oxford, Edward Burne Jones and William Morris—the latter
+from Oxford, Edward Burne-Jones and William Morristhe latter
 substituting for the simpler realism of the early days a more exquisite
 spirit of choice, a more faultless devotion to beauty, a more intense
 seeking for perfection: a master of all exquisite design and of all
@@ -2467,10 +2467,10 @@ For the great eras in the history of the development of all the arts have
 been eras not of increased feeling or enthusiasm in feeling for art, but
 of new technical improvements primarily and specially.  The discovery of
 marble quarries in the purple ravines of Pentelicus and on the little
-low lying hills of the island of Paros gave to the Greeks the opportunity
+low-lying hills of the island of Paros gave to the Greeks the opportunity
 for that intensified vitality of action, that more sensuous and simple
 humanism, to which the Egyptian sculptor working laboriously in the hard
-porphyry and rose coloured granite of the desert could not attain.  The
+porphyry and rose-coloured granite of the desert could not attain.  The
 splendour of the Venetian school began with the introduction of the new
 oil medium for painting.  The progress in modern music has been due to
 the invention of new instruments entirely, and in no way to an increased
@@ -2490,7 +2490,7 @@ and the lips of the poet may blow the music of their many messages.
 And so it has been with this romantic movement of ours: it is a reaction
 against the empty conventional workmanship, the lax execution of previous
 poetry and painting, showing itself in the work of such men as Rossetti
-and Burne Jones by a far greater splendour of colour, a far more
+and Burne-Jones by a far greater splendour of colour, a far more
 intricate wonder of design than English imaginative art has shown before.
 In Rossetti’s poetry and the poetry of Morris, Swinburne and Tennyson a
 perfect precision and choice of language, a style flawless and fearless,
@@ -2506,19 +2506,19 @@ discovered to have in itself incommunicable and eternal qualities of its
 own, qualities entirely satisfying to the poetic sense and not needing
 for their æsthetic effect any lofty intellectual vision, any deep
 criticism of life or even any passionate human emotion at all, the spirit
-and the method of the poet’s working—what people call his
-inspiration—have not escaped the controlling influence of the artistic
+and the method of the poet’s workingwhat people call his
+inspirationhave not escaped the controlling influence of the artistic
 spirit.  Not that the imagination has lost its wings, but we have
 accustomed ourselves to count their innumerable pulsations, to estimate
 their limitless strength, to govern their ungovernable freedom.
 
 To the Greeks this problem of the conditions of poetic production, and
-the places occupied by either spontaneity or self consciousness in any
+the places occupied by either spontaneity or self-consciousness in any
 artistic work, had a peculiar fascination.  We find it in the mysticism
 of Plato and in the rationalism of Aristotle.  We find it later in the
 Italian Renaissance agitating the minds of such men as Leonardo da Vinci.
 Schiller tried to adjust the balance between form and feeling, and Goethe
-to estimate the position of self consciousness in art.  Wordsworth’s
+to estimate the position of self-consciousness in art.  Wordsworth’s
 definition of poetry as ‘emotion remembered in tranquillity’ may be taken
 as an analysis of one of the stages through which all imaginative work
 has to pass; and in Keats’s longing to be ‘able to compose without this
@@ -2529,7 +2529,7 @@ question made an early and strange appearance in your literature too; and
 I need not remind you how deeply the young poets of the French romantic
 movement were excited and stirred by Edgar Allan Poe’s analysis of the
 workings of his own imagination in the creating of that supreme
-imaginative work which we know by the name of _The Raven_.
+imaginative work which we know by the name of The Raven.
 
 In the last century, when the intellectual and didactic element had
 intruded to such an extent into the kingdom which belongs to poetry, it
@@ -2548,7 +2548,7 @@ removed and the most alien.
 ‘The heart contains passion but the imagination alone contains poetry,’
 says Charles Baudelaire.  This too was the lesson that Théophile Gautier,
 most subtle of all modern critics, most fascinating of all modern poets,
-was never tired of teaching—‘Everybody is affected by a sunrise or a
+was never tired of teaching‘Everybody is affected by a sunrise or a
 sunset.’  The absolute distinction of the artist is not his capacity to
 feel nature so much as his power of rendering it.  The entire
 subordination of all intellectual and emotional faculties to the vital
@@ -2564,7 +2564,7 @@ consciousness of the absolute difference between the world of art and the
 world of real fact, between classic grace and absolute reality, forms not
 merely the essential element of any æsthetic charm but is the
 characteristic of all great imaginative work and of all great eras of
-artistic creation—of the age of Phidias as of the age of Michael Angelo,
+artistic creationof the age of Phidias as of the age of Michael Angelo,
 of the age of Sophocles as of the age of Goethe.
 
 Art never harms itself by keeping aloof from the social problems of the
@@ -2582,7 +2582,7 @@ existence.  For him no form is obsolete, no subject out of date; rather,
 whatever of life and passion the world has known, in desert of Judæa or
 in Arcadian valley, by the rivers of Troy or the rivers of Damascus, in
 the crowded and hideous streets of a modern city or by the pleasant ways
-of Camelot—all lies before him like an open scroll, all is still instinct
+of Camelotall lies before him like an open scroll, all is still instinct
 with beautiful life.  He will take of it what is salutary for his own
 spirit, no more; choosing some facts and rejecting others with the calm
 artistic control of one who is in possession of the secret of beauty.
@@ -2592,7 +2592,7 @@ all things are not fit subjects for poetry.  Into the secure and sacred
 house of Beauty the true artist will admit nothing that is harsh or
 disturbing, nothing that gives pain, nothing that is debatable, nothing
 about which men argue.  He can steep himself, if he wishes, in the
-discussion of all the social problems of his day, poor laws and local
+discussion of all the social problems of his day, poor-laws and local
 taxation, free trade and bimetallic currency, and the like; but when he
 writes on these subjects it will be, as Milton nobly expressed it, with
 his left hand, in prose and not in verse, in a pamphlet and not in a
@@ -2600,10 +2600,10 @@ lyric.  This exquisite spirit of artistic choice was not in Byron:
 Wordsworth had it not.  In the work of both these men there is much that
 we have to reject, much that does not give us that sense of calm and
 perfect repose which should be the effect of all fine, imaginative work.
-But in Keats it seemed to have been incarnate, and in his lovely _Ode on
-a Grecian Urn_ it found its most secure and faultless expression; in the
-pageant of the _Earthly Paradise_ and the knights and ladies of
-Burne Jones it is the one dominant note.
+But in Keats it seemed to have been incarnate, and in his lovely Ode on
+a Grecian Urn it found its most secure and faultless expression; in the
+pageant of the Earthly Paradise and the knights and ladies of
+Burne-Jones it is the one dominant note.
 
 It is to no avail that the Muse of Poetry be called, even by such a
 clarion note as Whitman’s, to migrate from Greece and Ionia and to
@@ -2622,7 +2622,7 @@ the stuff he deals with is eternal and eternally the same: no theme is
 inept, no past or present preferable.  The steam whistle will not
 affright him nor the flutes of Arcadia weary him: for him there is but
 one time, the artistic moment; but one law, the law of form; but one
-land, the land of Beauty—a land removed indeed from the real world and
+land, the land of Beautya land removed indeed from the real world and
 yet more sensuous because more enduring; calm, yet with that calm which
 dwells in the faces of the Greek statues, the calm which comes not from
 the rejection but from the absorption of passion, the calm which despair
@@ -2631,21 +2631,21 @@ who seems to stand most remote from his age is he who mirrors it best,
 because he has stripped life of what is accidental and transitory,
 stripped it of that ‘mist of familiarity which makes life obscure to us.’
 
-Those strange, wild eyed sibyls fixed eternally in the whirlwind of
-ecstasy, those mighty limbed and Titan prophets, labouring with the
+Those strange, wild-eyed sibyls fixed eternally in the whirlwind of
+ecstasy, those mighty-limbed and Titan prophets, labouring with the
 secret of the earth and the burden of mystery, that guard and glorify the
-chapel of Pope Sixtus at Rome—do they not tell us more of the real spirit
+chapel of Pope Sixtus at Romedo they not tell us more of the real spirit
 of the Italian Renaissance, of the dream of Savonarola and of the sin of
 Borgia, than all the brawling boors and cooking women of Dutch art can
 teach us of the real spirit of the history of Holland?
 
 And so in our own day, also, the two most vital tendencies of the
-nineteenth century—the democratic and pantheistic tendency and the
-tendency to value life for the sake of art—found their most complete and
+nineteenth centurythe democratic and pantheistic tendency and the
+tendency to value life for the sake of artfound their most complete and
 perfect utterance in the poetry of Shelley and Keats who, to the blind
 eyes of their own time, seemed to be as wanderers in the wilderness,
 preachers of vague or unreal things.  And I remember once, in talking to
-Mr. Burne Jones about modern science, his saying to me, ‘the more
+Mr. Burne-Jones about modern science, his saying to me, ‘the more
 materialistic science becomes, the more angels shall I paint: their wings
 are my protest in favour of the immortality of the soul.’
 
@@ -2665,7 +2665,7 @@ teaching, knowing that we cannot smite the bitter lips of Leopardi into
 laughter or burden with our discontent Goethe’s serene calm.  But for
 warrant of its truth such message must have the flame of eloquence in the
 lips that speak it, splendour and glory in the vision that is its
-witness, being justified by one thing only—the flawless beauty and
+witness, being justified by one thing onlythe flawless beauty and
 perfect form of its expression: this indeed being the social idea, being
 the meaning of joy in art.
 
@@ -2716,34 +2716,34 @@ never from the subject but from an inventive handling of rhythmical
 language, from what Keats called the ‘sensuous life of verse.’  The
 element of song in the singing accompanied by the profound joy of motion,
 is so sweet that, while the incomplete lives of ordinary men bring no
-healing power with them, the thorn crown of the poet will blossom into
+healing power with them, the thorn-crown of the poet will blossom into
 roses for our pleasure; for our delight his despair will gild its own
 thorns, and his pain, like Adonis, be beautiful in its agony; and when
 the poet’s heart breaks it will break in music.
 
-And health in art—what is that?  It has nothing to do with a sane
+And health in artwhat is that?  It has nothing to do with a sane
 criticism of life.  There is more health in Baudelaire than there is in
 [Kingsley].  Health is the artist’s recognition of the limitations of the
 form in which he works.  It is the honour and the homage which he gives
-to the material he uses—whether it be language with its glories, or
-marble or pigment with their glories—knowing that the true brotherhood of
+to the material he useswhether it be language with its glories, or
+marble or pigment with their gloriesknowing that the true brotherhood of
 the arts consists not in their borrowing one another’s method, but in
 their producing, each of them by its own individual means, each of them
 by keeping its objective limits, the same unique artistic delight.  The
-delight is like that given to us by music—for music is the art in which
+delight is like that given to us by musicfor music is the art in which
 form and matter are always one, the art whose subject cannot be separated
 from the method of its expression, the art which most completely realises
 the artistic ideal, and is the condition to which all the other arts are
 constantly aspiring.
 
-And criticism—what place is that to have in our culture?  Well, I think
+And criticismwhat place is that to have in our culture?  Well, I think
 that the first duty of an art critic is to hold his tongue at all times,
-and upon all subjects: _C’est un grand avantage de n’avoir rien fait_,
-_mais il ne faut pas en abuser_.
+and upon all subjects: C’est un grand avantage de n’avoir rien fait,
+mais il ne faut pas en abuser.
 
 It is only through the mystery of creation that one can gain any
 knowledge of the quality of created things.  You have listened to
-_Patience_ for a hundred nights and you have heard me for one only.  It
+Patience for a hundred nights and you have heard me for one only.  It
 will make, no doubt, that satire more piquant by knowing something about
 the subject of it, but you must not judge of æstheticism by the satire of
 Mr. Gilbert.  As little should you judge of the strength and splendour of
@@ -2769,7 +2769,7 @@ said Keats, ‘for the public, nor for anything in existence but the
 Eternal Being, the memory of great men and the principle of Beauty.’
 
 Such then is the principle which I believe to be guiding and underlying
-our English Renaissance, a Renaissance many sided and wonderful,
+our English Renaissance, a Renaissance many-sided and wonderful,
 productive of strong ambitions and lofty personalities, yet for all its
 splendid achievements in poetry and in the decorative arts and in
 painting, for all the increased comeliness and grace of dress, and the
@@ -2780,27 +2780,27 @@ national life, and the commercial spirit of England has killed that too.
 
 It is not that the flawless serenity of marble cannot bear the burden of
 the modern intellectual spirit, or become instinct with the fire of
-romantic passion—the tomb of Duke Lorenzo and the chapel of the Medici
-show us that—but it is that, as Théophile Gautier used to say, the
-visible world is dead, _le monde visible a disparu_.
+romantic passionthe tomb of Duke Lorenzo and the chapel of the Medici
+show us thatbut it is that, as Théophile Gautier used to say, the
+visible world is dead, le monde visible a disparu.
 
 Nor is it again that the novel has killed the play, as some critics would
-persuade us—the romantic movement of France shows us that.  The work of
+persuade usthe romantic movement of France shows us that.  The work of
 Balzac and of Hugo grew up side by side together; nay, more, were
 complementary to each other, though neither of them saw it.  While all
 other forms of poetry may flourish in an ignoble age, the splendid
 individualism of the lyrist, fed by its own passion, and lit by its own
 power, may pass as a pillar of fire as well across the desert as across
 places that are pleasant.  It is none the less glorious though no man
-follow it—nay, by the greater sublimity of its loneliness it may be
+follow itnay, by the greater sublimity of its loneliness it may be
 quickened into loftier utterance and intensified into clearer song.  From
 the mean squalor of the sordid life that limits him, the dreamer or the
-idyllist may soar on poesy’s viewless wings, may traverse with fawn skin
+idyllist may soar on poesy’s viewless wings, may traverse with fawn-skin
 and spear the moonlit heights of Cithæron though Faun and Bassarid dance
-there no more.  Like Keats he may wander through the old world forests of
+there no more.  Like Keats he may wander through the old-world forests of
 Latmos, or stand like Morris on the galley’s deck with the Viking when
 king and galley have long since passed away.  But the drama is the
-meeting place of art and life; it deals, as Mazzini said, not merely with
+meeting-place of art and life; it deals, as Mazzini said, not merely with
 man, but with social man, with man in his relation to God and to
 Humanity.  It is the product of a period of great national united energy;
 it is impossible without a noble public, and belongs to such ages as the
@@ -2810,7 +2810,7 @@ Persian fleet, and to Englishman after the wreck of the Armada of Spain.
 
 Shelley felt how incomplete our movement was in this respect, and has
 shown in one great tragedy by what terror and pity he would have purified
-our age; but in spite of _The Cenci_ the drama is one of the artistic
+our age; but in spite of The Cenci the drama is one of the artistic
 forms through which the genius of the England of this century seeks in
 vain to find outlet and expression.  He has had no worthy imitators.
 
@@ -2831,8 +2831,8 @@ in the woods and grass by the roadside, has been defined by one of your
 poets as a flawless triumph of art.  It is a triumph which you above all
 nations may be destined to achieve.  For the voices that have their
 dwelling in sea and mountain are not the chosen music of Liberty only;
-other messages are there in the wonder of wind swept height and the
-majesty of silent deep—messages that, if you will but listen to them, may
+other messages are there in the wonder of wind-swept height and the
+majesty of silent deepmessages that, if you will but listen to them, may
 yield you the splendour of some new imagination, the marvel of some new
 beauty.
 
@@ -2867,12 +2867,12 @@ of choice, or in the mistaking of feeling for form, or in the following
 of false ideals.
 
 For the various spiritual forms of the imagination have a natural
-affinity with certain sensuous forms of art—and to discern the qualities
+affinity with certain sensuous forms of artand to discern the qualities
 of each art, to intensify as well its limitations as its powers of
 expression, is one of the aims that culture sets before us.  It is not an
 increased moral sense, an increased moral supervision that your
 literature needs.  Indeed, one should never talk of a moral or an immoral
-poem—poems are either well written or badly written, that is all.  And,
+poempoems are either well written or badly written, that is all.  And,
 indeed, any element of morals or implied reference to a standard of good
 or evil in art is often a sign of a certain incompleteness of vision,
 often a note of discord in the harmony of an imaginative creation; for
@@ -2895,7 +2895,7 @@ as Mr. Swinburne says, ‘must be perfectly articulate.’
 
 This limitation is for the artist perfect freedom: it is at once the
 origin and the sign of his strength.  So that all the supreme masters of
-style—Dante, Sophocles, Shakespeare—are the supreme masters of spiritual
+styleDante, Sophocles, Shakespeareare the supreme masters of spiritual
 and intellectual vision also.
 
 Love art for its own sake, and then all things that you need will be
@@ -2916,8 +2916,8 @@ for all eternity.
 Wars and the clash of armies and the meeting of men in battle by trampled
 field or leaguered city, and the rising of nations there must always be.
 But I think that art, by creating a common intellectual atmosphere
-between all countries, might—if it could not overshadow the world with
-the silver wings of peace—at least make men such brothers that they would
+between all countries, mightif it could not overshadow the world with
+the silver wings of peaceat least make men such brothers that they would
 not go out to slay one another for the whim or folly of some king or
 minister, as they do in Europe.  Fraternity would come no more with the
 hands of Cain, nor Liberty betray freedom with the kiss of Anarchy; for
@@ -2947,23 +2947,23 @@ I know, indeed, that the divine natural prescience of beauty which is the
 inalienable inheritance of Greek and Italian is not our inheritance.  For
 such an informing and presiding spirit of art to shield us from all harsh
 and alien influences, we of the Northern races must turn rather to that
-strained self consciousness of our age which, as it is the key note of
+strained self-consciousness of our age which, as it is the key-note of
 all our romantic art, must be the source of all or nearly all our
 culture.  I mean that intellectual curiosity of the nineteenth century
 which is always looking for the secret of the life that still lingers
 round old and bygone forms of culture.  It takes from each what is
-serviceable for the modern spirit—from Athens its wonder without its
+serviceable for the modern spiritfrom Athens its wonder without its
 worship, from Venice its splendour without its sin.  The same spirit is
 always analysing its own strength and its own weakness, counting what it
-owes to East and to West, to the olive trees of Colonus and to the
-palm trees of Lebanon, to Gethsemane and to the garden of Proserpine.
+owes to East and to West, to the olive-trees of Colonus and to the
+palm-trees of Lebanon, to Gethsemane and to the garden of Proserpine.
 
 And yet the truths of art cannot be taught: they are revealed only,
 revealed to natures which have made themselves receptive of all beautiful
 impressions by the study and worship of all beautiful things.  And hence
 the enormous importance given to the decorative arts in our English
 Renaissance; hence all that marvel of design that comes from the hand of
-Edward Burne Jones, all that weaving of tapestry and staining of glass,
+Edward Burne-Jones, all that weaving of tapestry and staining of glass,
 that beautiful working in clay and metal and wood which we owe to William
 Morris, the greatest handicraftsman we have had in England since the
 fourteenth century.
@@ -2971,8 +2971,8 @@ fourteenth century.
 So, in years to come there will be nothing in any man’s house which has
 not given delight to its maker and does not give delight to its user.
 The children, like the children of Plato’s perfect city, will grow up ‘in
-a simple atmosphere of all fair things’—I quote from the passage in the
-_Republic_—‘a simple atmosphere of all fair things, where beauty, which
+a simple atmosphere of all fair things’I quote from the passage in the
+Republic‘a simple atmosphere of all fair things, where beauty, which
 is the spirit of art, will come on eye and ear like a fresh breath of
 wind that brings health from a clear upland, and insensibly and gradually
 draw the child’s soul into harmony with all knowledge and all wisdom, so
@@ -2995,19 +2995,19 @@ burden and knowledge is one with sorrow: for as every body has its shadow
 so every soul has its scepticism.  In such dread moments of discord and
 despair where should we, of this torn and troubled age, turn our steps if
 not to that secure house of beauty where there is always a little
-forgetfulness, always a great joy; to that _città divina_, as the old
+forgetfulness, always a great joy; to that città divina, as the old
 Italian heresy called it, the divine city where one can stand, though
 only for a brief moment, apart from the division and terror of the world
 and the choice of the world too?
 
-This is that _consolation des arts_ which is the key note of Gautier’s
-poetry, the secret of modern life foreshadowed—as indeed what in our
-century is not?—by Goethe.  You remember what he said to the German
+This is that consolation des arts which is the key-note of Gautier’s
+poetry, the secret of modern life foreshadowedas indeed what in our
+century is not?by Goethe.  You remember what he said to the German
 people: ‘Only have the courage,’ he said, ‘to give yourselves up to your
 impressions, allow yourselves to be delighted, moved, elevated, nay
 instructed, inspired for something great.’  The courage to give
 yourselves up to your impressions: yes, that is the secret of the
-artistic life—for while art has been defined as an escape from the
+artistic lifefor while art has been defined as an escape from the
 tyranny of the senses, it is an escape rather from the tyranny of the
 soul.  But only to those who worship her above all things does she ever
 reveal her true treasure: else will she be as powerless to aid you as the
@@ -3020,24 +3020,24 @@ gives pleasure to its user, that being the simplest of all rules about
 decoration.  One thing, at least, I think it would do for us: there is no
 surer test of a great country than how near it stands to its own poets;
 but between the singers of our day and the workers to whom they would
-sing there seems to be an ever widening and dividing chasm, a chasm which
+sing there seems to be an ever-widening and dividing chasm, a chasm which
 slander and mockery cannot traverse, but which is spanned by the luminous
 wings of love.
 
 And of such love I think that the abiding presence in our houses of noble
 imaginative work would be the surest seed and preparation.  I do not mean
 merely as regards that direct literary expression of art by which, from
-the little red and black cruse of oil or wine, a Greek boy could learn of
+the little red-and-black cruse of oil or wine, a Greek boy could learn of
 the lionlike splendour of Achilles, of the strength of Hector and the
 beauty of Paris and the wonder of Helen, long before he stood and
-listened in crowded market place or in theatre of marble; or by which an
+listened in crowded market-place or in theatre of marble; or by which an
 Italian child of the fifteenth century could know of the chastity of
 Lucrece and the death of Camilla from carven doorway and from painted
 chest.  For the good we get from art is not what we learn from it; it is
 what we become through it.  Its real influence will be in giving the mind
 that enthusiasm which is the secret of Hellenism, accustoming it to
 demand from art all that art can do in rearranging the facts of common
-life for us—whether it be by giving the most spiritual interpretation of
+life for uswhether it be by giving the most spiritual interpretation of
 one’s own moments of highest passion or the most sensuous expression of
 those thoughts that are the farthest removed from sense; in accustoming
 it to love the things of the imagination for their own sake, and to
@@ -3049,8 +3049,8 @@ I will not dwell here on what I am sure has delighted you all in our
 great Gothic cathedrals.  I mean how the artist of that time,
 handicraftsman himself in stone or glass, found the best motives for his
 art, always ready for his hand and always beautiful, in the daily work of
-the artificers he saw around him—as in those lovely windows of
-Chartres—where the dyer dips in the vat and the potter sits at the wheel,
+the artificers he saw around himas in those lovely windows of
+Chartreswhere the dyer dips in the vat and the potter sits at the wheel,
 and the weaver stands at the loom: real manufacturers these, workers with
 the hand, and entirely delightful to look at, not like the smug and vapid
 shopman of our time, who knows nothing of the web or vase he sells,
@@ -3061,14 +3061,14 @@ one teaching the sculptor that restraining influence of design which is
 the glory of the Parthenon, the other keeping painting always true to its
 primary, pictorial condition of noble colour which is the secret of the
 school of Venice; for I wish rather, in this lecture at least, to dwell
-on the effect that decorative art has on human life—on its social not its
+on the effect that decorative art has on human lifeon its social not its
 purely artistic effect.
 
 There are two kinds of men in the world, two great creeds, two different
 forms of natures: men to whom the end of life is action, and men to whom
 the end of life is thought.  As regards the latter, who seek for
 experience itself and not for the fruits of experience, who must burn
-always with one of the passions of this fiery coloured world, who find
+always with one of the passions of this fiery-coloured world, who find
 life interesting not for its secret but for its situations, for its
 pulsations and not for its purpose; the passion for beauty engendered by
 the decorative arts will be to them more satisfying than any political or
@@ -3086,8 +3086,8 @@ but at least let the pitcher that stands by the well be beautiful and
 surely the labour of the day will be lightened: let the wood be made
 receptive of some lovely form, some gracious design, and there will come
 no longer discontent but joy to the toiler.  For what is decoration but
-the worker’s expression of joy in his work?  And not joy merely—that is a
-great thing yet not enough—but that opportunity of expressing his own
+the worker’s expression of joy in his work?  And not joy merelythat is a
+great thing yet not enoughbut that opportunity of expressing his own
 individuality which, as it is the essence of all life, is the source of
 all art.  ‘I have tried,’ I remember William Morris saying to me once, ‘I
 have tried to make each of my workers an artist, and when I say an artist
@@ -3125,7 +3125,7 @@ the food of some æsthetic young men.  Well, let me tell you that the
 reason we love the lily and the sunflower, in spite of what Mr. Gilbert
 may tell you, is not for any vegetable fashion at all.  It is because
 these two lovely flowers are in England the two most perfect models of
-design, the most naturally adapted for decorative art—the gaudy leonine
+design, the most naturally adapted for decorative artthe gaudy leonine
 beauty of the one and the precious loveliness of the other giving to the
 artist the most entire and perfect joy.  And so with you: let there be no
 flower in your meadows that does not wreathe its tendrils around your
@@ -3154,21 +3154,21 @@ which it is known to have been given is May 11, 1882.
 IN my last lecture I gave you something of the history of Art in England.
 I sought to trace the influence of the French Revolution upon its
 development.  I said something of the song of Keats and the school of the
-pre Raphaelites.  But I do not want to shelter the movement, which I have
+pre-Raphaelites.  But I do not want to shelter the movement, which I have
 called the English Renaissance, under any palladium however noble, or any
 name however revered.  The roots of it have, indeed, to be sought for in
 things that have long passed away, and not, as some suppose, in the fancy
-of a few young men—although I am not altogether sure that there is
+of a few young menalthough I am not altogether sure that there is
 anything much better than the fancy of a few young men.
 
 When I appeared before you on a previous occasion, I had seen nothing of
-American art save the Doric columns and Corinthian chimney pots visible
+American art save the Doric columns and Corinthian chimney-pots visible
 on your Broadway and Fifth Avenue.  Since then, I have been through your
 country to some fifty or sixty different cities, I think.  I find that
 what your people need is not so much high imaginative art but that which
 hallows the vessels of everyday use.  I suppose that the poet will sing
 and the artist will paint regardless whether the world praises or blames.
-He has his own world and is independent of his fellow men.  But the
+He has his own world and is independent of his fellow-men.  But the
 handicraftsman is dependent on your pleasure and opinion.  He needs your
 encouragement and he must have beautiful surroundings.  Your people love
 art but do not sufficiently honour the handicraftsman.  Of course, those
@@ -3187,13 +3187,13 @@ finely, for machinery may do as much, but that it is worked out with the
 head and the workman’s heart.  I cannot impress the point too frequently
 that beautiful and rational designs are necessary in all work.  I did not
 imagine, until I went into some of your simpler cities, that there was so
-much bad work done.  I found, where I went, bad wall papers horribly
-designed, and coloured carpets, and that old offender the horse hair
+much bad work done.  I found, where I went, bad wall-papers horribly
+designed, and coloured carpets, and that old offender the horse-hair
 sofa, whose stolid look of indifference is always so depressing.  I found
-meaningless chandeliers and machine made furniture, generally of
+meaningless chandeliers and machine-made furniture, generally of
 rosewood, which creaked dismally under the weight of the ubiquitous
 interviewer.  I came across the small iron stove which they always
-persist in decorating with machine made ornaments, and which is as great
+persist in decorating with machine-made ornaments, and which is as great
 a bore as a wet day or any other particularly dreadful institution.  When
 unusual extravagance was indulged in, it was garnished with two funeral
 urns.
@@ -3202,7 +3202,7 @@ It must always be remembered that what is well and carefully made by an
 honest workman, after a rational design, increases in beauty and value as
 the years go on.  The old furniture brought over by the Pilgrims, two
 hundred years ago, which I saw in New England, is just as good and as
-beautiful to day as it was when it first came here.  Now, what you must
+beautiful to-day as it was when it first came here.  Now, what you must
 do is to bring artists and handicraftsmen together.  Handicraftsmen
 cannot live, certainly cannot thrive, without such companionship.
 Separate these two and you rob art of all spiritual motive.
@@ -3213,7 +3213,7 @@ tangible.  He has his visions and his dreams to feed on.  But the workman
 must see lovely forms as he goes to his work in the morning and returns
 at eventide.  And, in connection with this, I want to assure you that
 noble and beautiful designs are never the result of idle fancy or
-purposeless day dreaming.  They come only as the accumulation of habits
+purposeless day-dreaming.  They come only as the accumulation of habits
 of long and delightful observation.  And yet such things may not be
 taught.  Right ideas concerning them can certainly be obtained only by
 those who have been accustomed to rooms that are beautiful and colours
@@ -3227,7 +3227,7 @@ drapery to a great extent and will abound with joyous colour.  At present
 we have lost all nobility of dress and, in doing so, have almost
 annihilated the modern sculptor.  And, in looking around at the figures
 which adorn our parks, one could almost wish that we had completely
-killed the noble art.  To see the frock coat of the drawing room done in
+killed the noble art.  To see the frock-coat of the drawing-room done in
 bronze, or the double waistcoat perpetuated in marble, adds a new horror
 to death.  But indeed, in looking through the history of costume, seeking
 an answer to the questions we have propounded, there is little that is
@@ -3246,15 +3246,15 @@ milliner, we hear ladies boast that they do not wear a dress more than
 once.  In the old days, when the dresses were decorated with beautiful
 designs and worked with exquisite embroidery, ladies rather took a pride
 in bringing out the garment and wearing it many times and handing it down
-to their daughters—a process that would, I think, be quite appreciated by
+to their daughtersa process that would, I think, be quite appreciated by
 a modern husband when called upon to settle his wife’s bills.
 
 And how shall men dress?  Men say that they do not particularly care how
 they dress, and that it is little matter.  I am bound to reply that I do
 not think that you do.  In all my journeys through the country, the only
-well dressed men that I saw—and in saying this I earnestly deprecate the
-polished indignation of your Fifth Avenue dandies—were the Western
-miners.  Their wide brimmed hats, which shaded their faces from the sun
+well-dressed men that I sawand in saying this I earnestly deprecate the
+polished indignation of your Fifth Avenue dandieswere the Western
+miners.  Their wide-brimmed hats, which shaded their faces from the sun
 and protected them from the rain, and the cloak, which is by far the most
 beautiful piece of drapery ever invented, may well be dwelt on with
 admiration.  Their high boots, too, were sensible and practical.  They
@@ -3267,18 +3267,18 @@ appeared in the more crowded scenes of Eastern civilisation they would
 still continue to wear their lovely costume.  But I do not believe they
 will.
 
-Now, what America wants to day is a school of rational art.  Bad art is a
+Now, what America wants to-day is a school of rational art.  Bad art is a
 great deal worse than no art at all.  You must show your workmen
 specimens of good work so that they come to know what is simple and true
 and beautiful.  To that end I would have you have a museum attached to
-these schools—not one of those dreadful modern institutions where there
+these schoolsnot one of those dreadful modern institutions where there
 is a stuffed and very dusty giraffe, and a case or two of fossils, but a
 place where there are gathered examples of art decoration from various
 periods and countries.  Such a place is the South Kensington Museum in
 London, whereon we build greater hopes for the future than on any other
 one thing.  There I go every Saturday night, when the museum is open
-later than usual, to see the handicraftsman, the wood worker, the
-glass blower and the worker in metals.  And it is here that the man of
+later than usual, to see the handicraftsman, the wood-worker, the
+glass-blower and the worker in metals.  And it is here that the man of
 refinement and culture comes face to face with the workman who ministers
 to his joy.  He comes to know more of the nobility of the workman, and
 the workman, feeling the appreciation, comes to know more of the nobility
@@ -3293,30 +3293,30 @@ three wonderfully beautiful figures robed in white, leaning over the
 water and dropping white flowers from their fingers.  Here is no
 extensive intellectual scheme to trouble you, and no metaphysics of which
 we have had quite enough in art.  But if the simple and unaided colour
-strike the right key note, the whole conception is made clear.  I regard
+strike the right key-note, the whole conception is made clear.  I regard
 Mr. Whistler’s famous Peacock Room as the finest thing in colour and art
 decoration which the world has known since Correggio painted that
 wonderful room in Italy where the little children are dancing on the
-walls.  Mr. Whistler finished another room just before I came away—a
+walls.  Mr. Whistler finished another room just before I came awaya
 breakfast room in blue and yellow.  The ceiling was a light blue, the
-cabinet work and the furniture were of a yellow wood, the curtains at the
+cabinet-work and the furniture were of a yellow wood, the curtains at the
 windows were white and worked in yellow, and when the table was set for
 breakfast with dainty blue china nothing can be conceived at once so
 simple and so joyous.
 
 The fault which I have observed in most of your rooms is that there is
 apparent no definite scheme of colour.  Everything is not attuned to a
-key note as it should be.  The apartments are crowded with pretty things
+key-note as it should be.  The apartments are crowded with pretty things
 which have no relation to one another.  Again, your artists must decorate
 what is more simply useful.  In your art schools I found no attempt to
 decorate such things as the vessels for water.  I know of nothing uglier
 than the ordinary jug or pitcher.  A museum could be filled with the
 different kinds of water vessels which are used in hot countries.  Yet we
 continue to submit to the depressing jug with the handle all on one side.
-I do not see the wisdom of decorating dinner plates with sunsets and
-soup plates with moonlight scenes.  I do not think it adds anything to
-the pleasure of the canvas back duck to take it out of such glories.
-Besides, we do not want a soup plate whose bottom seems to vanish in the
+I do not see the wisdom of decorating dinner-plates with sunsets and
+soup-plates with moonlight scenes.  I do not think it adds anything to
+the pleasure of the canvas-back duck to take it out of such glories.
+Besides, we do not want a soup-plate whose bottom seems to vanish in the
 distance.  One feels neither safe nor comfortable under such conditions.
 In fact, I did not find in the art schools of the country that the
 difference was explained between decorative and imaginative art.
@@ -3355,13 +3355,13 @@ which is stored up in your mountain hollows and strewn along your river
 beds.  When I was at Leadville and reflected that all the shining silver
 that I saw coming from the mines would be made into ugly dollars, it made
 me sad.  It should be made into something more permanent.  The golden
-gates at Florence are as beautiful to day as when Michael Angelo saw
+gates at Florence are as beautiful to-day as when Michael Angelo saw
 them.
 
 We should see more of the workman than we do.  We should not be content
-to have the salesman stand between us—the salesman who knows nothing of
+to have the salesman stand between usthe salesman who knows nothing of
 what he is selling save that he is charging a great deal too much for it.
-And watching the workman will teach that most important lesson—the
+And watching the workman will teach that most important lessonthe
 nobility of all rational workmanship.
 
 I said in my last lecture that art would create a new brotherhood among
@@ -3398,7 +3398,7 @@ was done by a little boy twelve years old.  This is a wooden bowl
 decorated by a little girl of thirteen.  The design is lovely and the
 colouring delicate and pretty.  Here you see a piece of beautiful wood
 carving accomplished by a little boy of nine.  In such work as this,
-children learn sincerity in art.  They learn to abhor the liar in art—the
+children learn sincerity in art.  They learn to abhor the liar in artthe
 man who paints wood to look like iron, or iron to look like stone.  It is
 a practical school of morals.  No better way is there to learn to love
 Nature than to understand Art.  It dignifies every flower of the field.
@@ -3455,15 +3455,15 @@ circumstances with which you must surround your workmen are those’ of
 modern American life, ‘because the designs you have now to ask for from
 your workmen are such as will make modern’ American ‘life beautiful.’
 The art we want is the art based on all the inventions of modern
-civilisation, and to suit all the needs of nineteenth century life.
+civilisation, and to suit all the needs of nineteenth-century life.
 
 Do you think, for instance, that we object to machinery?  I tell you we
 reverence it; we reverence it when it does its proper work, when it
 relieves man from ignoble and soulless labour, not when it seeks to do
 that which is valuable only when wrought by the hands and hearts of men.
-Let us have no machine made ornament at all; it is all bad and worthless
+Let us have no machine-made ornament at all; it is all bad and worthless
 and ugly.  And let us not mistake the means of civilisation for the end
-of civilisation; steam engine, telephone and the like, are all wonderful,
+of civilisation; steam-engine, telephone and the like, are all wonderful,
 but remember that their value depends entirely on the noble uses we make
 of them, on the noble spirit in which we employ them, not on the things
 themselves.
@@ -3478,7 +3478,7 @@ The train that whirls an ordinary Englishman through Italy at the rate of
 forty miles an hour and finally sends him home without any memory of that
 lovely country but that he was cheated by a courier at Rome, or that he
 got a bad dinner at Verona, does not do him or civilisation much good.
-But that swift legion of fiery footed engines that bore to the burning
+But that swift legion of fiery-footed engines that bore to the burning
 ruins of Chicago the loving help and generous treasure of the world was
 as noble and as beautiful as any golden troop of angels that ever fed the
 hungry and clothed the naked in the antique times.  As beautiful, yes;
@@ -3486,7 +3486,7 @@ all machinery may be beautiful when it is undecorated even.  Do not seek
 to decorate it.  We cannot but think all good machinery is graceful,
 also, the line of strength and the line of beauty being one.
 
-Give then, as I said, to your workmen of to day the bright and noble
+Give then, as I said, to your workmen of to-day the bright and noble
 surroundings that you can yourself create.  Stately and simple
 architecture for your cities, bright and simple dress for your men and
 women; those are the conditions of a real artistic movement.  For the
@@ -3496,10 +3496,10 @@ for a beautiful external world.
 
 But the simplicity must not be barrenness nor the bright colour gaudy.
 For all beautiful colours are graduated colours, the colours that seem
-about to pass into one another’s realm—colour without tone being like
+about to pass into one another’s realmcolour without tone being like
 music without harmony, mere discord.  Barren architecture, the vulgar and
 glaring advertisements that desecrate not merely your cities but every
-rock and river that I have seen yet in America—all this is not enough.  A
+rock and river that I have seen yet in Americaall this is not enough.  A
 school of design we must have too in each city.  It should be a stately
 and noble building, full of the best examples of the best art of the
 world.  Furthermore, do not put your designers in a barren whitewashed
@@ -3515,20 +3515,20 @@ work with the same love, the same reverence, the same freedom of
 imagination.  You must teach him colour and design, how all beautiful
 colours are graduated colours and glaring colours the essence of
 vulgarity.  Show him the quality of any beautiful work of nature like the
-rose, or any beautiful work of art like an Eastern carpet—being merely
+rose, or any beautiful work of art like an Eastern carpetbeing merely
 the exquisite gradation of colour, one tone answering another like the
 answering chords of a symphony.  Teach him how the true designer is not
 he who makes the design and then colours it, but he who designs in
 colour, creates in colour, thinks in colour too.  Show him how the most
-gorgeous stained glass windows of Europe are filled with white glass, and
-the most gorgeous Eastern tapestry with toned colours—the primary colours
+gorgeous stained-glass windows of Europe are filled with white glass, and
+the most gorgeous Eastern tapestry with toned coloursthe primary colours
 in both places being set in the white glass, and the tone colours like
 brilliant jewels set in dusky gold.  And then as regards design, show him
 how the real designer will take first any given limited space, little
 disk of silver, it may be, like a Greek coin, or wide expanse of fretted
 ceiling or lordly wall as Tintoret chose at Venice (it does not matter
-which), and to this limited space—the first condition of decoration being
-the limitation of the size of the material used—he will give the effect
+which), and to this limited spacethe first condition of decoration being
+the limitation of the size of the material usedhe will give the effect
 of its being filled with beautiful decoration, filled with it as a golden
 cup will be filled with wine, so complete that you should not be able to
 take away anything from it or add anything to it.  For from a good piece
@@ -3553,7 +3553,7 @@ paper for such work, but not clay or china.  They are merely painting the
 wrong subjects on the wrong material, that is all.  They have not been
 taught that every material and texture has certain qualities of its own.
 The design suitable for one is quite wrong for the other, just as the
-design which you should work on a flat table cover ought to be quite
+design which you should work on a flat table-cover ought to be quite
 different from the design you would work on a curtain, for the one will
 always be straight, the other broken into folds; and the use too one puts
 the object to should guide one in the choice of design.  One does not
@@ -3585,13 +3585,13 @@ and horridness which comes from open furnace and from factory chimney.
 You must have strong, sane, healthy physique among your men and women.
 Sickly or idle or melancholy people do not do much in art.  And lastly,
 you require a sense of individualism about each man and woman, for this
-is the essence of art—a desire on the part of man to express himself in
+is the essence of arta desire on the part of man to express himself in
 the noblest way possible.  And this is the reason that the grandest art
 of the world always came from a republic: Athens, Venice, and
-Florence—there were no kings there and so their art was as noble and
+Florencethere were no kings there and so their art was as noble and
 simple as sincere.  But if you want to know what kind of art the folly of
 kings will impose on a country look at the decorative art of France under
-the _grand monarque_, under Louis the Fourteenth; the gaudy gilt
+the grand monarque, under Louis the Fourteenth; the gaudy gilt
 furniture writhing under a sense of its own horror and ugliness, with a
 nymph smirking at every angle and a dragon mouthing on every claw.
 Unreal and monstrous art this, and fit only for such periwigged
@@ -3610,8 +3610,8 @@ for every great art.  Let us think of one of them; a sculptor, for
 instance.
 
 If a modern sculptor were to come and say, ‘Very well, but where can one
-find subjects for sculpture out of men who wear frock coats and
-chimney pot hats?’ I would tell him to go to the docks of a great city
+find subjects for sculpture out of men who wear frock-coats and
+chimney-pot hats?’ I would tell him to go to the docks of a great city
 and watch the men loading or unloading the stately ships, working at
 wheel or windlass, hauling at rope or gangway.  I have never watched a
 man do anything useful who has not been graceful at some moment of his
@@ -3622,7 +3622,7 @@ running ground and gymnasium, to watch the young men start for a race,
 hurling quoit or club, kneeling to tie their shoes before leaping,
 stepping from the boat or bending to the oar, and to carve them; and when
 he was weary of cities I would ask him to come to your fields and meadows
-to watch the reaper with his sickle and the cattle driver with lifted
+to watch the reaper with his sickle and the cattle-driver with lifted
 lasso.  For if a man cannot find the noblest motives for his art in such
 simple daily things as a woman drawing water from the well or a man
 leaning with his scythe, he will not find them anywhere at all.  Gods and
@@ -3648,17 +3648,17 @@ all the arts are fine arts and all the arts decorative arts.  The
 greatest triumph of Italian painting was the decoration of a pope’s
 chapel in Rome and the wall of a room in Venice.  Michael Angelo wrought
 the one, and Tintoret, the dyer’s son, the other.  And the little ‘Dutch
-landscape, which you put over your sideboard to day, and between the
-windows to morrow, is’ no less a glorious ‘piece of work than the extents
+landscape, which you put over your sideboard to-day, and between the
+windows to-morrow, is’ no less a glorious ‘piece of work than the extents
 of field and forest with which Benozzo has made green and beautiful the
 once melancholy arcade of the Campo Santo at Pisa,’ as Ruskin says.
 
 Do not imitate the works of a nation, Greek or Japanese, Italian or
 English; but their artistic spirit of design and their artistic attitude
-to day, their own world, you should absorb but imitate never, copy never.
+to-day, their own world, you should absorb but imitate never, copy never.
 Unless you can make as beautiful a design in painted china or embroidered
 screen or beaten brass out of your American turkey as the Japanese does
-out of his grey silver winged stork, you will never do anything.  Let the
+out of his grey silver-winged stork, you will never do anything.  Let the
 Greek carve his lions and the Goth his dragons: buffalo and wild deer are
 the animals for you.
 
@@ -3695,7 +3695,7 @@ the shadowed loggia and inner chamber.
 
 ‘This is the true and faithful way of building.  Where this cannot be,
 the device of external colouring may indeed be employed without
-dishonour—but it must be with the warning reflection that a time will
+dishonourbut it must be with the warning reflection that a time will
 come when such aids will pass away and when the building will be judged
 in its lifelessness, dying the death of the dolphin.  Better the less
 bright, more enduring fabric.  The transparent alabasters of San Miniato
@@ -3704,7 +3704,7 @@ touched by every return of morning and evening, while the hues of the
 Gothic cathedrals have died like the iris out of the cloud, and the
 temples, whose azure and purple once flamed above the Grecian promontory,
 stand in their faded whiteness like snows which the sunset has left
-cold.’—Ruskin, _Seven Lamps of Architecture_, II.
+cold.’Ruskin, Seven Lamps of Architecture, II.
 
 I do not know anything so perfectly commonplace in design as most modern
 jewellery.  How easy for you to change that and to produce goldsmiths’
@@ -3724,7 +3724,7 @@ called them worthy to be the Gates of Paradise.
 Have then your school of design, search out your workmen and, when you
 find one who has delicacy of hand and that wonder of invention necessary
 for goldsmiths’ work, do not leave him to toil in obscurity and dishonour
-and have a great glaring shop and two great glaring shop boys in it (not
+and have a great glaring shop and two great glaring shop-boys in it (not
 to take your orders: they never do that; but to force you to buy
 something you do not want at all).  When you want a thing wrought in
 gold, goblet or shield for the feast, necklace or wreath for the women,
@@ -3748,22 +3748,22 @@ noble in its aim, and beautiful in its result?  I know you do.
 
 Folly and slander have their own way for a little time, but for a little
 time only.  You now know what we mean: you will be able to estimate what
-is said of us—its value and its motive.
+is said of usits value and its motive.
 
 There should be a law that no ordinary newspaper should be allowed to
 write about art.  The harm they do by their foolish and random writing it
-would be impossible to overestimate—not to the artist but to the public,
+would be impossible to overestimatenot to the artist but to the public,
 blinding them to all, but harming the artist not at all.  Without them we
 would judge a man simply by his work; but at present the newspapers are
 trying hard to induce the public to judge a sculptor, for instance, never
 by his statues but by the way he treats his wife; a painter by the amount
-of his income and a poet by the colour of his neck tie.  I said there
+of his income and a poet by the colour of his neck-tie.  I said there
 should be a law, but there is really no necessity for a new law: nothing
 could be easier than to bring the ordinary critic under the head of the
 criminal classes.  But let us leave such an inartistic subject and return
 to beautiful and comely things, remembering that the art which would
 represent the spirit of modern newspapers would be exactly the art which
-you and I want to avoid—grotesque art, malice mocking you from every
+you and I want to avoidgrotesque art, malice mocking you from every
 gateway, slander sneering at you from every corner.
 
 Perhaps you may be surprised at my talking of labour and the workman.
@@ -3771,7 +3771,7 @@ You have heard of me, I fear, through the medium of your somewhat
 imaginative newspapers as, if not a ‘Japanese young man,’ at least a
 young man to whom the rush and clamour and reality of the modern world
 were distasteful, and whose greatest difficulty in life was the
-difficulty of living up to the level of his blue china—a paradox from
+difficulty of living up to the level of his blue chinaa paradox from
 which England has not yet recovered.
 
 Well, let me tell you how it first came to me at all to create an
@@ -3779,22 +3779,22 @@ artistic movement in England, a movement to show the rich what beautiful
 things they might enjoy and the poor what beautiful things they might
 create.
 
-One summer afternoon in Oxford—‘that sweet city with her dreaming
+One summer afternoon in Oxford‘that sweet city with her dreaming
 spires,’ lovely as Venice in its splendour, noble in its learning as
 Rome, down the long High Street that winds from tower to tower, past
 silent cloister and stately gateway, till it reaches that long, grey
-seven arched bridge which Saint Mary used to guard (used to, I say,
+seven-arched bridge which Saint Mary used to guard (used to, I say,
 because they are now pulling it down to build a tramway and a light
-cast iron bridge in its place, desecrating the loveliest city in
-England)—well, we were coming down the street—a troop of young men, some
-of them like myself only nineteen, going to river or tennis court or
-cricket field—when Ruskin going up to lecture in cap and gown met us.  He
+cast-iron bridge in its place, desecrating the loveliest city in
+England)well, we were coming down the streeta troop of young men, some
+of them like myself only nineteen, going to river or tennis-court or
+cricket-fieldwhen Ruskin going up to lecture in cap and gown met us.  He
 seemed troubled and prayed us to go back with him to his lecture, which a
 few of us did, and there he spoke to us not on art this time but on life,
 saying that it seemed to him to be wrong that all the best physique and
 strength of the young men in England should be spent aimlessly on cricket
 ground or river, without any result at all except that if one rowed well
-one got a pewter pot, and if one made a good score, a cane handled bat.
+one got a pewter-pot, and if one made a good score, a cane-handled bat.
 He thought, he said, that we should be working at something that would do
 good to other people, at something by which we might show that in all
 labour there was something noble.  Well, we were a good deal moved, and
@@ -3804,19 +3804,19 @@ great swamp, so that the villagers could not pass from one to the other
 without many miles of a round.  And when we came back in winter he asked
 us to help him to make a road across this morass for these village people
 to use.  So out we went, day after day, and learned how to lay levels and
-to break stones, and to wheel barrows along a plank—a very difficult
+to break stones, and to wheel barrows along a planka very difficult
 thing to do.  And Ruskin worked with us in the mist and rain and mud of
 an Oxford winter, and our friends and our enemies came out and mocked us
 from the bank.  We did not mind it much then, and we did not mind it
 afterwards at all, but worked away for two months at our road.  And what
-became of the road?  Well, like a bad lecture it ended abruptly—in the
+became of the road?  Well, like a bad lecture it ended abruptlyin the
 middle of the swamp.  Ruskin going away to Venice, when we came back for
 the next term there was no leader, and the ‘diggers,’ as they called us,
 fell asunder.  And I felt that if there was enough spirit amongst the
-young men to go out to such work as road making for the sake of a noble
+young men to go out to such work as road-making for the sake of a noble
 ideal of life, I could from them create an artistic movement that might
 change, as it has changed, the face of England.  So I sought them
-out—leader they would call me—but there was no leader: we were all
+outleader they would call mebut there was no leader: we were all
 searchers only and we were bound to each other by noble friendship and by
 noble art.  There was none of us idle: poets most of us, so ambitious
 were we: painters some of us, or workers in metal or modellers,
@@ -3833,7 +3833,7 @@ practise.
                                 * * * * *
 
 We must have, as Emerson said, a mechanical craft for our culture, a
-basis for our higher accomplishments in the work of our hands—the
+basis for our higher accomplishments in the work of our handsthe
 uselessness of most people’s hands seems to me one of the most
 unpractical things.  ‘No separation from labour can be without some loss
 of power or truth to the seer,’ says Emerson again.  The heroism which
@@ -3852,7 +3852,7 @@ harm.  The little house at Concord may be desolate, but the wisdom of New
 England’s Plato is not silenced nor the brilliancy of that Attic genius
 dimmed: the lips of Longfellow are still musical for us though his dust
 be turning into the flowers which he loved: and as it is with the greater
-artists, poet and philosopher and song bird, so let it be with you.
+artists, poet and philosopher and song-bird, so let it be with you.
 
 
 
@@ -3864,7 +3864,7 @@ Delivered to the Art students of the Royal Academy at their Club in
 Golden Square, Westminster, on June 30, 1883.  The text is taken from the
 original manuscript.
 
-IN the lecture which it is my privilege to deliver before you to night I
+IN the lecture which it is my privilege to deliver before you to-night I
 do not desire to give you any abstract definition of beauty at all.  For
 we who are working in art cannot accept any theory of beauty in exchange
 for beauty itself, and, so far from desiring to isolate it in a formula
@@ -3876,12 +3876,12 @@ work should not adapt itself to the definition.
 Nothing, indeed, is more dangerous to the young artist than any
 conception of ideal beauty: he is constantly led by it either into weak
 prettiness or lifeless abstraction: whereas to touch the ideal at all you
-must not strip it of vitality.  You must find it in life and re create it
+must not strip it of vitality.  You must find it in life and re-create it
 in art.
 
 While, then, on the one hand I do not desire to give you any philosophy
-of beauty—for, what I want to night is to investigate how we can create
-art, not how we can talk of it—on the other hand, I do not wish to deal
+of beautyfor, what I want to-night is to investigate how we can create
+art, not how we can talk of iton the other hand, I do not wish to deal
 with anything like a history of English art.
 
 To begin with, such an expression as English art is a meaningless
@@ -3897,7 +3897,7 @@ of no use to you to know the date of Perugino or the birthplace of
 Salvator Rosa: all that you should learn about art is to know a good
 picture when you see it, and a bad picture when you see it.  As regards
 the date of the artist, all good work looks perfectly modern: a piece of
-Greek sculpture, a portrait of Velasquez—they are always modern, always
+Greek sculpture, a portrait of Velasquezthey are always modern, always
 of our time.  And as regards the nationality of the artist, art is not
 national but universal.  As regards archæology, then, avoid it
 altogether: archæology is merely the science of making excuses for bad
@@ -3913,7 +3913,7 @@ wrong.
 
 As I am not going to talk to you, then, about the philosophy of the
 beautiful, or the history of art, you will ask me what I am going to talk
-about.  The subject of my lecture to night is what makes an artist and
+about.  The subject of my lecture to-night is what makes an artist and
 what does the artist make; what are the relations of the artist to his
 surroundings, what is the education the artist should get, and what is
 the quality of a good work of art.
@@ -3929,7 +3929,7 @@ the mouthpiece of a century, but the master of eternity, that all art
 rests on a principle, and that mere temporal considerations are no
 principle at all; and that those who advise you to make your art
 representative of the nineteenth century are advising you to produce an
-art which your children, when you have them, will think old fashioned.
+art which your children, when you have them, will think old-fashioned.
 But you will tell me this is an inartistic age, and we are an inartistic
 people, and the artist suffers much in this nineteenth century of ours.
 
@@ -3939,7 +3939,7 @@ people, since the beginning of the world.  The artist has always been,
 and will always be, an exquisite exception.  There is no golden age of
 art; only artists who have produced what is more golden than gold.
 
-_What_, you will say to me, the Greeks? were not they an artistic people?
+What, you will say to me, the Greeks? were not they an artistic people?
 
 Well, the Greeks certainly not, but, perhaps, you mean the Athenians, the
 citizens of one out of a thousand cities.
@@ -3956,7 +3956,7 @@ who love their artists and understand their art?  The Athenians could do
 neither.
 
 How did they treat Phidias?  To Phidias we owe the great era, not merely
-in Greek, but in all art—I mean of the introduction of the use of the
+in Greek, but in all artI mean of the introduction of the use of the
 living model.
 
 And what would you say if all the English bishops, backed by the English
@@ -3989,7 +3989,7 @@ world.
 And do you think that this was an exceptional case?  The sign of a
 Philistine age is the cry of immorality against art, and this cry was
 raised by the Athenian people against every great poet and thinker of
-their day—Æschylus, Euripides, Socrates.  It was the same with Florence
+their dayÆschylus, Euripides, Socrates.  It was the same with Florence
 in the thirteenth century.  Good handicrafts are due to guilds, not to
 the people.  The moment the guilds lost their power and the people rushed
 in, beauty and honesty of work died.
@@ -4006,13 +4006,13 @@ return from it at eventide, you have to pass through street after street
 of the most foolish and stupid architecture that the world has ever seen;
 architecture, where every lovely Greek form is desecrated and defiled,
 and every lovely Gothic form defiled and desecrated, reducing
-three fourths of the London houses to being, merely, like square boxes of
+three-fourths of the London houses to being, merely, like square boxes of
 the vilest proportions, as gaunt as they are grimy, and as poor as they
-are pretentious—the hall door always of the wrong colour, and the windows
+are pretentiousthe hall door always of the wrong colour, and the windows
 of the wrong size, and where, even when wearied of the houses you turn to
 contemplate the street itself, you have nothing to look at but
-chimney pot hats, men with sandwich boards, vermilion letter boxes, and
-do that even at the risk of being run over by an emerald green omnibus.
+chimney-pot hats, men with sandwich boards, vermilion letter-boxes, and
+do that even at the risk of being run over by an emerald-green omnibus.
 
 Is not art difficult, you will say to me, in such surroundings as these?
 Of course it is difficult, but then art was never easy; you yourselves
@@ -4034,39 +4034,39 @@ surroundings long ago.
 Think, he says, in words of perfect and picturesque imagery, whose beauty
 I can but feebly echo, think of what was the scene which presented
 itself, in his afternoon walk, to a designer of the Gothic school of
-Pisa—Nino Pisano or any of his men: {206}
+PisaNino Pisano or any of his men: {206}
 
     On each side of a bright river he saw rise a line of brighter
     palaces, arched and pillared, and inlaid with deep red porphyry, and
     with serpentine; along the quays before their gates were riding
     troops of knights, noble in face and form, dazzling in crest and
     shield; horse and man one labyrinth of quaint colour and gleaming
-    light—the purple, and silver, and scarlet fringes flowing over the
-    strong limbs and clashing mall, like sea waves over rocks at sunset.
+    lightthe purple, and silver, and scarlet fringes flowing over the
+    strong limbs and clashing mall, like sea-waves over rocks at sunset.
     Opening on each side from the river were gardens, courts, and
     cloisters; long successions of white pillars among wreaths of vine;
     leaping of fountains through buds of pomegranate and orange: and
-    still along the garden paths, and under and through the crimson of
+    still along the garden-paths, and under and through the crimson of
     the pomegranate shadows, moving slowly, groups of the fairest women
-    that Italy ever saw—fairest, because purest and thoughtfullest;
-    trained in all high knowledge, as in all courteous art—in dance, in
+    that Italy ever sawfairest, because purest and thoughtfullest;
+    trained in all high knowledge, as in all courteous artin dance, in
     song, in sweet wit, in lofty learning, in loftier courage, in
-    loftiest love—able alike to cheer, to enchant, or save, the souls of
+    loftiest loveable alike to cheer, to enchant, or save, the souls of
     men.  Above all this scenery of perfect human life, rose dome and
-    bell tower, burning with white alabaster and gold: beyond dome and
-    bell tower the slopes of mighty hills hoary with olive; far in the
+    bell-tower, burning with white alabaster and gold: beyond dome and
+    bell-tower the slopes of mighty hills hoary with olive; far in the
     north, above a purple sea of peaks of solemn Apennine, the clear,
-    sharp cloven Carrara mountains sent up their steadfast flames of
+    sharp-cloven Carrara mountains sent up their steadfast flames of
     marble summit into amber sky; the great sea itself, scorching with
     expanse of light, stretching from their feet to the Gorgonian isles;
-    and over all these, ever present, near or far—seen through the leaves
+    and over all these, ever present, near or farseen through the leaves
     of vine, or imaged with all its march of clouds in the Arno’s stream,
     or set with its depth of blue close against the golden hair and
-    burning cheek of lady and knight,—that untroubled and sacred sky,
+    burning cheek of lady and knight,that untroubled and sacred sky,
     which was to all men, in those days of innocent faith, indeed the
     unquestioned abode of spirits, as the earth was of men; and which
     opened straight through its gates of cloud and veils of dew into the
-    awfulness of the eternal world;—a heaven in which every cloud that
+    awfulness of the eternal world;a heaven in which every cloud that
     passed was literally the chariot of an angel, and every ray of its
     Evening and Morning streamed from the throne of God.
 
@@ -4103,12 +4103,12 @@ they are not.
 No object is so ugly that, under certain conditions of light and shade,
 or proximity to other things, it will not look beautiful; no object is so
 beautiful that, under certain conditions, it will not look ugly.  I
-believe that in every twenty four hours what is beautiful looks ugly, and
+believe that in every twenty-four hours what is beautiful looks ugly, and
 what is ugly looks beautiful, once.
 
 And, the commonplace character of so much of our English painting seems
 to me due to the fact that so many of our young artists look merely at
-what we may call ‘ready made beauty,’ whereas you exist as artists not to
+what we may call ‘ready-made beauty,’ whereas you exist as artists not to
 copy beauty but to create it in your art, to wait and watch for it in
 nature.
 
@@ -4123,7 +4123,7 @@ your studio, for they are merely conditions of light.  In nature, you
 must wait for them, watch for them, choose them; and, if you wait and
 watch, come they will.
 
-In Gower Street at night you may see a letter box that is picturesque: on
+In Gower Street at night you may see a letter-box that is picturesque: on
 the Thames Embankment you may see picturesque policemen.  Even Venice is
 not always beautiful, nor France.
 
@@ -4141,7 +4141,7 @@ is, himself, a master of all time.  That man is Mr. Whistler.
 
 But, you will say, modern dress, that is bad.  If you cannot paint black
 cloth you could not have painted silken doublet.  Ugly dress is better
-for art—facts of vision, not of the object.
+for artfacts of vision, not of the object.
 
 What is a picture?  Primarily, a picture is a beautifully coloured
 surface, merely, with no more spiritual message or meaning for you than
@@ -4160,7 +4160,7 @@ beautiful!’ are bad pictures.
 We never know what an artist is going to do.  Of course not.  The artist
 is not a specialist.  All such divisions as animal painters, landscape
 painters, painters of Scotch cattle in an English mist, painters of
-English cattle in a Scotch mist, racehorse painters, bull terrier
+English cattle in a Scotch mist, racehorse painters, bull-terrier
 painters, all are shallow.  If a man is an artist he can paint
 everything.
 
@@ -4173,7 +4173,7 @@ signs of technique at all, the picture is unfinished.  What is finish?  A
 picture is finished when all traces of work, and of the means employed to
 bring about the result, have disappeared.
 
-In the case of handicraftsmen—the weaver, the potter, the smith—on their
+In the case of handicraftsmenthe weaver, the potter, the smithon their
 work are the traces of their hand.  But it is not so with the painter; it
 is not so with the artist.
 
@@ -4185,7 +4185,7 @@ What is the difference between absolutely decorative art and a painting?
 Decorative art emphasises its material: imaginative art annihilates it.
 Tapestry shows its threads as part of its beauty: a picture annihilates
 its canvas: it shows nothing of it.  Porcelain emphasises its glaze:
-water colours reject the paper.
+water-colours reject the paper.
 
 A picture has no meaning but its beauty, no message but its joy.  That is
 the first truth about art that you must never lose sight of.  A picture
@@ -4197,7 +4197,7 @@ is a purely decorative thing.
 LONDON MODELS
 
 
-_English Illustrated Magazine_, January 1889.
+English Illustrated Magazine, January 1889.
 
 PROFESSIONAL models are a purely modern invention.  To the Greeks, for
 instance, they were quite unknown.  Mr. Mahaffy, it is true, tells us
@@ -4205,7 +4205,7 @@ that Pericles used to present peacocks to the great ladies of Athenian
 society in order to induce them to sit to his friend Phidias, and we know
 that Polygnotus introduced into his picture of the Trojan women the face
 of Elpinice, the celebrated sister of the great Conservative leader of
-the day, but these _grandes dames_ clearly do not come under our
+the day, but these grandes dames clearly do not come under our
 category.  As for the old masters, they undoubtedly made constant studies
 from their pupils and apprentices, and even their religious pictures are
 full of the portraits of their friends and relations, but they do not
@@ -4219,13 +4219,13 @@ artists are reduced to painting Niagara and millionaires.  In Europe,
 however, it is different.  Here we have plenty of models, and of every
 nationality.  The Italian models are the best.  The natural grace of
 their attitudes, as well as the wonderful picturesqueness of their
-colouring, makes them facile—often too facile—subjects for the painter’s
+colouring, makes them facileoften too facilesubjects for the painter’s
 brush.  The French models, though not so beautiful as the Italian,
 possess a quickness of intellectual sympathy, a capacity, in fact, of
 understanding the artist, which is quite remarkable.  They have also a
 great command over the varieties of facial expression, are peculiarly
-dramatic, and can chatter the _argot_ of the _atelier_ as cleverly as the
-critic of the _Gil Blas_.  The English models form a class entirely by
+dramatic, and can chatter the argot of the atelier as cleverly as the
+critic of the Gil Blas.  The English models form a class entirely by
 themselves.  They are not so picturesque as the Italian, nor so clever as
 the French, and they have absolutely no tradition, so to speak, of their
 order.  Now and then some old veteran knocks at the studio door, and
@@ -4234,12 +4234,12 @@ blasted heath.  One of them some time ago called on a popular painter
 who, happening at the moment to require his services, engaged him, and
 told him to begin by kneeling down in the attitude of prayer.  ‘Shall I
 be Biblical or Shakespearean, sir?’ asked the veteran.
-‘Well—Shakespearean,’ answered the artist, wondering by what subtle
-_nuance_ of expression the model would convey the difference.  ‘All
+‘WellShakespearean,’ answered the artist, wondering by what subtle
+nuance of expression the model would convey the difference.  ‘All
 right, sir,’ said the professor of posing, and he solemnly knelt down and
 began to wink with his left eye!  This class, however, is dying out.  As
 a rule the model, nowadays, is a pretty girl, from about twelve to
-twenty five years of age, who knows nothing about art, cares less, and is
+twenty-five years of age, who knows nothing about art, cares less, and is
 merely anxious to earn seven or eight shillings a day without much
 trouble.  English models rarely look at a picture, and never venture on
 any æsthetic theories.  In fact, they realise very completely Mr.
@@ -4254,23 +4254,23 @@ desire that the studio shall be warm, and the lunch hot, for all charming
 artists give their models lunch.
 
 As to what they are asked to do they are equally indifferent.  On Monday
-they will don the rags of a beggar girl for Mr. Pumper, whose pathetic
+they will don the rags of a beggar-girl for Mr. Pumper, whose pathetic
 pictures of modern life draw such tears from the public, and on Tuesday
 they will pose in a peplum for Mr. Phoebus, who thinks that all really
 artistic subjects are necessarily B.C.  They career gaily through all
 centuries and through all costumes, and, like actors, are interesting
-only when they are not themselves.  They are extremely good natured, and
+only when they are not themselves.  They are extremely good-natured, and
 very accommodating.  ‘What do you sit for?’ said a young artist to a
 model who had sent him in her card (all models, by the way, have cards
 and a small black bag).  ‘Oh, for anything you like, sir,’ said the girl,
 ‘landscape if necessary!’
 
 Intellectually, it must be acknowledged, they are Philistines, but
-physically they are perfect—at least some are.  Though none of them can
-talk Greek, many can look Greek, which to a nineteenth century painter is
+physically they are perfectat least some are.  Though none of them can
+talk Greek, many can look Greek, which to a nineteenth-century painter is
 naturally of great importance.  If they are allowed, they chatter a great
 deal, but they never say anything.  Their observations are the only
-_banalités_ heard in Bohemia.  However, though they cannot appreciate the
+banalités heard in Bohemia.  However, though they cannot appreciate the
 artist as artist, they are quite ready to appreciate the artist as a man.
 They are very sensitive to kindness, respect and generosity.  A beautiful
 model who had sat for two years to one of our most distinguished English
@@ -4285,26 +4285,26 @@ chair and read penny dreadfuls, till they are roused from the tragedy of
 literature to take their place again in the tragedy of art.  A few of
 them smoke cigarettes.  This, however, is regarded by the other models as
 showing a want of seriousness, and is not generally approved of.  They
-are engaged by the day and by the half day.  The tariff is a shilling an
+are engaged by the day and by the half-day.  The tariff is a shilling an
 hour, to which great artists usually add an omnibus fare.  The two best
 things about them are their extraordinary prettiness, and their extreme
 respectability.  As a class they are very well behaved, particularly
 those who sit for the figure, a fact which is curious or natural
 according to the view one takes of human nature.  They usually marry
 well, and sometimes they marry the artist.  For an artist to marry his
-model is as fatal as for a _gourmet_ to marry his cook: the one gets no
+model is as fatal as for a gourmet to marry his cook: the one gets no
 sittings, and the other gets no dinners.
 
 On the whole the English female models are very naïve, very natural, and
-very good humoured.  The virtues which the artist values most in them are
+very good-humoured.  The virtues which the artist values most in them are
 prettiness and punctuality.  Every sensible model consequently keeps a
 diary of her engagements, and dresses neatly.  The bad season is, of
 course, the summer, when the artists are out of town.  However, of late
 years some artists have engaged their models to follow them, and the wife
 of one of our most charming painters has often had three or four models
 under her charge in the country, so that the work of her husband and his
-friends should not be interrupted.  In France the models migrate _en
-masse_ to the little seaport villages or forest hamlets where the
+friends should not be interrupted.  In France the models migrate en
+masse to the little seaport villages or forest hamlets where the
 painters congregate.  The English models, however, wait patiently in
 London, as a rule, till the artists come back.  Nearly all of them live
 with their parents, and help to support the house.  They have every
@@ -4316,7 +4316,7 @@ above.  He has all the traditions of the grand style, and is rapidly
 disappearing with the school he represents.  An old man who talks about
 Fuseli is, of course, unendurable, and, besides, patriarchs have ceased
 to be fashionable subjects.  Then there is the true Academy model.  He is
-usually a man of thirty, rarely good looking, but a perfect miracle of
+usually a man of thirty, rarely good-looking, but a perfect miracle of
 muscles.  In fact he is the apotheosis of anatomy, and is so conscious of
 his own splendour that he tells you of his tibia and his thorax, as if no
 one else had anything of the kind.  Then come the Oriental models.  The
@@ -4334,11 +4334,11 @@ to have kind words of encouragement for even our greatest artists.  As
 for the English lad of the same age, he never sits at all.  Apparently he
 does not regard the career of a model as a serious profession.  In any
 case he is rarely, if ever, to be got hold of.  English boys, too, are
-difficult to find.  Sometimes an ex model who has a son will curl his
+difficult to find.  Sometimes an ex-model who has a son will curl his
 hair, and wash his face, and bring him the round of the studios, all soap
 and shininess.  The young school don’t like him, but the older school do,
-and when he appears on the walls of the Royal Academy he is called _The
-Infant Samuel_.  Occasionally also an artist catches a couple of _gamins_
+and when he appears on the walls of the Royal Academy he is called The
+Infant Samuel.  Occasionally also an artist catches a couple of gamins
 in the gutter and asks them to come to his studio.  The first time they
 always appear, but after that they don’t keep their appointments.  They
 dislike sitting still, and have a strong and perhaps natural objection to
@@ -4348,7 +4348,7 @@ the poor are completely unconscious of their own picturesqueness.  Those
 of them who can be induced to sit do so with the idea that the artist is
 merely a benevolent philanthropist who has chosen an eccentric method of
 distributing alms to the undeserving.  Perhaps the School Board will
-teach the London _gamin_ his own artistic value, and then they will be
+teach the London gamin his own artistic value, and then they will be
 better models than they are now.  One remarkable privilege belongs to the
 Academy model, that of extorting a sovereign from any newly elected
 Associate or R.A.  They wait at Burlington House till the announcement is
@@ -4373,17 +4373,17 @@ of absolute precision of eye, of the scientific knowledge of the
 equilibrium of forces, and of perfect physical training.  A good acrobat
 is always graceful, though grace is never his object; he is graceful
 because he does what he has to do in the best way in which it can be
-done—graceful because he is natural.  If an ancient Greek were to come to
+donegraceful because he is natural.  If an ancient Greek were to come to
 life now, which considering the probable severity of his criticisms would
 be rather trying to our conceit, he would be found far oftener at the
 circus than at the theatre.  A good circus is an oasis of Hellenism in a
 world that reads too much to be wise, and thinks too much to be
-beautiful.  If it were not for the running ground at Eton, the
-towing path at Oxford, the Thames swimming baths, and the yearly
+beautiful.  If it were not for the running-ground at Eton, the
+towing-path at Oxford, the Thames swimming-baths, and the yearly
 circuses, humanity would forget the plastic perfection of its own form,
-and degenerate into a race of short sighted professors and spectacled
-_précieuses_.  Not that the circus proprietors are, as a rule, conscious
-of their high mission.  Do they not bore us with the _haute école_, and
+and degenerate into a race of short-sighted professors and spectacled
+précieuses.  Not that the circus proprietors are, as a rule, conscious
+of their high mission.  Do they not bore us with the haute école, and
 weary us with Shakespearean clowns?  Still, at least, they give us
 acrobats, and the acrobat is an artist.  The mere fact that he never
 speaks to the audience shows how well he appreciates the great truth that
@@ -4391,8 +4391,8 @@ the aim of art is not to reveal personality but to please.  The clown may
 be blatant, but the acrobat is always beautiful.  He is an interesting
 combination of the spirit of Greek sculpture with the spangles of the
 modern costumier.  He has even had his niche in the novels of our age,
-and if _Manette Salomon_ be the unmasking of the model, _Les Frères
-Zemganno_ is the apotheosis of the acrobat.
+and if Manette Salomon be the unmasking of the model, Les Frères
+Zemganno is the apotheosis of the acrobat.
 
 As regards the influence of the ordinary model on our English school of
 painting, it cannot be said that it is altogether good.  It is, of
@@ -4401,7 +4401,7 @@ able to isolate ‘a little corner of life,’ as the French say, from
 disturbing surroundings, and to study it under certain effects of light
 and shade.  But this very isolation leads often to mere mannerism in the
 painter, and robs him of that broad acceptance of the general facts of
-life which is the very essence of art.  Model painting, in a word, while
+life which is the very essence of art.  Model-painting, in a word, while
 it may be the condition of art, is not by any means its aim.
 
 It is simply practice, not perfection.  Its use trains the eye and the
@@ -4409,18 +4409,18 @@ hand of the painter, its abuse produces in his work an effect of mere
 posing and prettiness.  It is the secret of much of the artificiality of
 modern art, this constant posing of pretty people, and when art becomes
 artificial it becomes monotonous.  Outside the little world of the
-studio, with its draperies and its _bric à-brac_, lies the world of life
+studio, with its draperies and its bric-à-brac, lies the world of life
 with its infinite, its Shakespearean variety.  We must, however,
 distinguish between the two kinds of models, those who sit for the figure
 and those who sit for the costume.  The study of the first is always
-excellent, but the costume model is becoming rather wearisome in modern
+excellent, but the costume-model is becoming rather wearisome in modern
 pictures.  It is really of very little use to dress up a London girl in
 Greek draperies and to paint her as a goddess.  The robe may be the robe
 of Athens, but the face is usually the face of Brompton.  Now and then,
 it is true, one comes across a model whose face is an exquisite
 anachronism, and who looks lovely and natural in the dress of any century
 but her own.  This, however, is rather rare.  As a rule models are
-absolutely _de notre siècle_, and should be painted as such.
+absolutely de notre siècle, and should be painted as such.
 Unfortunately they are not, and, as a consequence, we are shown every
 year a series of scenes from fancy dress balls which are called
 historical pictures, but are little more than mediocre representations of
@@ -4429,7 +4429,7 @@ painter uses the model simply for study; for the finished picture he goes
 direct to life.
 
 However, we must not blame the sitters for the shortcomings of the
-artists.  The English models are a well behaved and hard working class,
+artists.  The English models are a well-behaved and hard-working class,
 and if they are more interested in artists than in art, a large section
 of the public is in the same condition, and most of our modern
 exhibitions seem to justify its choice.
@@ -4440,7 +4440,7 @@ exhibitions seem to justify its choice.
 POEMS IN PROSE
 
 
-_Fortnight Review_, July 1894.
+Fortnight Review, July 1894.
 
 
 
@@ -4448,12 +4448,12 @@ THE ARTIST
 
 
 ONE evening there came into his soul the desire to fashion an image of
-_The Pleasure that abideth for a Moment_.  And he went forth into the
+The Pleasure that abideth for a Moment.  And he went forth into the
 world to look for bronze.  For he could think only in bronze.
 
 But all the bronze of the whole world had disappeared, nor anywhere in
 the whole world was there any bronze to be found, save only the bronze of
-the image of _The Sorrow that endureth for Ever_.
+the image of The Sorrow that endureth for Ever.
 
 Now this image he had himself, and with his own hands, fashioned, and had
 set it on the tomb of the one thing he had loved in life.  On the tomb of
@@ -4465,21 +4465,21 @@ the whole world there was no other bronze save the bronze of this image.
 And he took the image he had fashioned, and set it in a great furnace,
 and gave it to the fire.
 
-And out of the bronze of the image of _The Sorrow that endureth for Ever_
-he fashioned an image of _The Pleasure that abideth for a Moment_.
+And out of the bronze of the image of The Sorrow that endureth for Ever
+he fashioned an image of The Pleasure that abideth for a Moment.
 
 
 
 THE DOER OF GOOD
 
 
-It was night time and He was alone.
+It was night-time and He was alone.
 
-And He saw afar off the walls of a round city and went towards the city.
+And He saw afar-off the walls of a round city and went towards the city.
 
 And when He came near He heard within the city the tread of the feet of
 joy, and the laughter of the mouth of gladness and the loud noise of many
-lutes.  And He knocked at the gate and certain of the gate keepers opened
+lutes.  And He knocked at the gate and certain of the gate-keepers opened
 to Him.
 
 And He beheld a house that was of marble and had fair pillars of marble
@@ -4488,7 +4488,7 @@ there were torches of cedar.  And He entered the house.
 
 And when He had passed through the hall of chalcedony and the hall of
 jasper, and reached the long hall of feasting, He saw lying on a couch of
-sea purple one whose hair was crowned with red roses and whose lips were
+sea-purple one whose hair was crowned with red roses and whose lips were
 red with wine.
 
 And He went behind him and touched him on the shoulder and said to him,
@@ -4579,7 +4579,7 @@ and given sight to the blind.  I have walked upon the waters, and from
 the dwellers in the tombs I have cast out devils.  I have fed the hungry
 in the desert where there was no food, and I have raised the dead from
 their narrow houses, and at my bidding, and before a great multitude, of
-people, a barren fig tree withered away.  All things that this man has
+people, a barren fig-tree withered away.  All things that this man has
 done I have done also.  And yet they have not crucified me.’
 
 
@@ -4682,7 +4682,7 @@ of their worshippers.
 
 And he set his face to the sun and journeyed, walking without sandals, as
 he had seen the saints walk, and carrying at his girdle a leathern wallet
-and a little water bottle of burnt clay.
+and a little water-bottle of burnt clay.
 
 And as he walked along the highway he was full of the joy that comes from
 the perfect knowledge of God, and he sang praises unto God without

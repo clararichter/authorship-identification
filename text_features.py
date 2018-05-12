@@ -5,24 +5,26 @@ import nltk
 
 class Text():
 
-    def __init__(self, text, author, ngrams):
+    def __init__(self, text, author):
         self.text = text.lower()
         self.tokens = TweetTokenizer().tokenize(self.text)
         self.sentences = sent_tokenize(self.text)
         self.total_number_of_tokens = len(self.tokens)
-        self.row = {}
-        self.row.update( {'textbook_author*': author } )
-        self.ngrams = ngrams
+        # self.stylometry = {}
+        # self.pos_ngrams = {}
+        # self.ngrams = {}
+        # self.row.update( {'author': author } )
+        self.max_ngrams = 3
+        self.max_pos_ngrams = 3
 
-        self.build_row()
+    # def build_row(self):
+    #     self.word_richness()
+    #     self.word_length_data()
+    #     self.sentence_length_data()
+    #     self.num_sentences()
+    #     self.word_gram_data()
+    #     self.pos_gram_data()
 
-    def build_row(self):
-        self.word_richness()
-        self.word_length_data()
-        self.sentence_length_data()
-        self.num_sentences()
-        #self.word_gram_data()
-        self.pos_gram_data()
 
     def count_map(self, items):
         count_map = {}
@@ -37,20 +39,25 @@ class Text():
         return( { key : (lambda count: count / total)(count) for ( key, count ) in count_map.items() } )
 
     def word_gram_data(self):
-        ngrams = self.ngrams
-        for n in range(1, ngrams + 1):
+        d = {}
+        for n in range(1, self.max_ngrams + 1):
             n_grams = ngrams(self.tokens, n)
             number_of_n_grams = self.total_number_of_tokens - n + 1
-            self.row.update( { " ".join(n_gram) : (lambda count: count / number_of_n_grams)(count) for ( n_gram, count ) in self.count_map(n_grams).items() } )
+            d.update( { " ".join(n_gram) : (lambda count: count / number_of_n_grams)(count) for ( n_gram, count ) in self.count_map(n_grams).items() } )
+        return d
 
     def pos_gram_data(self):
-        ngrams = self.ngrams
+        print("enter pos grams data")
+        d = {}
         pos_tags = nltk.pos_tag(self.tokens)
-        for n in range(1, ngrams + 1):
+        print('pos tagging done')
+        for n in range(1, self.max_pos_ngrams + 1):
             pos_n_grams = []
             for i in range(0, len(pos_tags)+1-n):
                 pos_n_grams.append( tuple([ tag for (word, tag) in  pos_tags[i:i+n]]) )
-            self.row.update( {  " ".join(pos_n_gram) : (lambda count: count / len(pos_n_grams))(count) for ( pos_n_gram, count ) in self.count_map(pos_n_grams).items() } )
+            d.update( {  " ".join(pos_n_gram) : (lambda count: count / len(pos_n_grams))(count) for ( pos_n_gram, count ) in self.count_map(pos_n_grams).items() } )
+            print('text retrieved')
+        return d
 
     def word_lengths(self):
         word_lengths = []
@@ -59,6 +66,12 @@ class Text():
             if word not in forbidden:
                 word_lengths.append(len(word))
         return sorted(word_lengths)
+
+    def stylometric_data(self):
+        output = self.word_length_data()
+        output.update(sentence_length_data())
+        output.update(word_richness())
+        return output
 
     def sentence_lengths(self):
         sentence_lengths = []
@@ -87,3 +100,11 @@ class Text():
 
     def num_sentences(self):
         self.row.update( {'number_sentences': len(self.sentences)} )
+
+if __name__ == '__main__':
+    file = open('data/texts_cleaned/arthur_conan_doyle/a_duet.txt', 'r')
+    txt = file.read()
+    text = Text(txt, 'arthur_conan_doyle')
+
+    #text.build_row()
+    print(text.pos_gram_data())
