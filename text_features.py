@@ -6,18 +6,21 @@ import nltk
 class Text():
 
     def __init__(self, text, author):
+        self.author = author
         self.text = text.lower()
         self.tokens = TweetTokenizer().tokenize(self.text)
         self.sentences = sent_tokenize(self.text)
         self.total_number_of_tokens = len(self.tokens)
-        # self.stylometry = {}
-        # self.pos_ngrams = {}
-        # self.ngrams = {}
-        # self.row.update( {'author': author } )
         self.max_ngrams = 3
         self.max_pos_ngrams = 3
 
-    # def build_row(self):
+    def get_vector(self):
+        vector = {}
+        vector.update( {'author': self.author } )
+        #vector.update( self.word_gram_data() )
+        #vector.update( self.pos_gram_data() )
+        vector.update( self.stylometric_data() )
+        return vector
     #     self.word_richness()
     #     self.word_length_data()
     #     self.sentence_length_data()
@@ -100,6 +103,7 @@ class Text():
     def word_richness(self):
         # self.row.update( {'word_richness': len(self.tokens) / len(set(self.tokens)) } )
         return ( {'word_richness': len(self.tokens) / len(set(self.tokens)) } )
+
     def num_sentences(self):
         self.row.update( {'number_sentences': len(self.sentences)} )
 
