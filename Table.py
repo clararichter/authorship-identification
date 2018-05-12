@@ -51,6 +51,7 @@ class Table():
                 stds.append( sub_frame.std() )
             print(np.mean( stds ))
             print(np.std( means ))
+            
 
 
 
