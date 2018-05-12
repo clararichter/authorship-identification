@@ -11,14 +11,14 @@ class Text():
         self.tokens = TweetTokenizer().tokenize(self.text)
         self.sentences = sent_tokenize(self.text)
         self.total_number_of_tokens = len(self.tokens)
-        self.max_ngrams = 3
-        self.max_pos_ngrams = 3
+        self.max_ngrams = 2
+        self.max_pos_ngrams = 2
 
     def get_vector(self):
         vector = {}
         vector.update( {'author': self.author } )
-        #vector.update( self.word_gram_data() )
-        #vector.update( self.pos_gram_data() )
+        vector.update( self.word_gram_data() )
+        vector.update( self.pos_gram_data() )
         vector.update( self.stylometric_data() )
         return vector
     #     self.word_richness()
@@ -50,16 +50,16 @@ class Text():
         return d
 
     def pos_gram_data(self):
-        print("enter pos grams data")
+        #print("enter pos grams data")
         d = {}
         pos_tags = nltk.pos_tag(self.tokens)
-        print('pos tagging done')
+        #print('pos tagging done')
         for n in range(1, self.max_pos_ngrams + 1):
             pos_n_grams = []
             for i in range(0, len(pos_tags)+1-n):
                 pos_n_grams.append( tuple([ tag for (word, tag) in  pos_tags[i:i+n]]) )
             d.update( {  " ".join(pos_n_gram) : (lambda count: count / len(pos_n_grams))(count) for ( pos_n_gram, count ) in self.count_map(pos_n_grams).items() } )
-            print('text retrieved')
+            #print('text retrieved')
         return d
 
     def word_lengths(self):
