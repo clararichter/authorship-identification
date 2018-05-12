@@ -51,10 +51,10 @@ class Table():
                 stds.append( sub_frame.std() )
             print(np.mean( stds ))
             print(np.std( means ))
-            
+
 
 
 
 if __name__ == '__main__':
-    authors = ['jane_austen', 'charles_dickens']
+    authors = ['jane_austen']
     table = Table(authors)

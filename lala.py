@@ -21,5 +21,5 @@ df3 = pd.DataFrame({'A': 0.12,
 
 frames = [df1, df2, df3]
 
-result = df1.append(df3)
+result = pd.concat()
 print(result)

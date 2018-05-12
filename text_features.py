@@ -69,8 +69,8 @@ class Text():
 
     def stylometric_data(self):
         output = self.word_length_data()
-        output.update(sentence_length_data())
-        output.update(word_richness())
+        output.update(self.sentence_length_data())
+        output.update(self.word_richness())
         return output
 
     def sentence_lengths(self):
@@ -89,15 +89,17 @@ class Text():
 
     def word_length_data(self):
         word_lengths = self.word_lengths()
-        self.row.update( {'word_length_avg': np.mean(word_lengths),'word_length_std_dev': np.std(word_lengths)} )
+        #self.row.update( {'word_length_avg': np.mean(word_lengths),'word_length_std_dev': np.std(word_lengths)} )
+        return ( {'word_length_avg': np.mean(word_lengths),'word_length_std_dev': np.std(word_lengths)} )
 
     def sentence_length_data(self):
         sentence_lengths = self.sentence_lengths()
-        self.row.update( {'sentence_length_avg': np.mean(sentence_lengths), 'sentence_length_std_dev': np.std(sentence_lengths) })
+        # self.row.update( {'sentence_length_avg': np.mean(sentence_lengths), 'sentence_length_std_dev': np.std(sentence_lengths) })
+        return ( {'sentence_length_avg': np.mean(sentence_lengths), 'sentence_length_std_dev': np.std(sentence_lengths) })
 
     def word_richness(self):
-        self.row.update( {'word_richness': len(self.tokens) / len(set(self.tokens)) } )
-
+        # self.row.update( {'word_richness': len(self.tokens) / len(set(self.tokens)) } )
+        return ( {'word_richness': len(self.tokens) / len(set(self.tokens)) } )
     def num_sentences(self):
         self.row.update( {'number_sentences': len(self.sentences)} )
 
