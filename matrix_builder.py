@@ -14,23 +14,23 @@ class Matrix():
 
 
     def build_matrix(self, path):
+        print("author")
         for author in self.authors:
             print(author)
             for book in os.listdir(path + '/' + author):
                 print(book)
                 text = Text( open(path + '/' + author + '/' + book, 'r', errors='ignore').read(), author )
+                print("getting features")
                 self.matrix = self.matrix.append( pd.DataFrame(text.get_vector(), index=[book] ) )
 
-
-        # book = 'the_complete_project_gutenberg_works_of_jane_austen.txt'
-        # author = 'jane_austen'
-        # text = Text( open(path + '/' + author + '/' + book, 'r', errors='ignore').read(), author )
-        # self.matrix = self.matrix.append( pd.DataFrame(text.get_vector(), index=[book] ) )
-
-        self.eliminate_non_significant_columns()
-        self.eliminate_sparse_columns()
-
         self.matrix = self.matrix.fillna(0)
+        print("writing csv")
+        self.matrix.to_csv("pre_processed_all_features_austen.csv", encoding="utf-8")
+        print("eliminate_sparse_columns")
+        self.eliminate_sparse_columns(.5)
+        print("non_significant")
+        self.eliminate_non_significant_columns(.3)
+
         self.matrix.to_csv("booksyay.csv", encoding='utf-8')
 
 
@@ -38,11 +38,12 @@ class Matrix():
     def eliminate_sparse_columns(self, threshold): # threshold -> min_percent_data
 
         columns_to_keep = ['author', 'word_length_avg', 'word_length_std_dev', 'sentence_length_avg', 'sentence_length_std_dev', 'word_richness']
-        sparcity_data = pd.DataFrame(columns=self.authors, index=list(frame.columns.values))
+        sparcity_data = pd.DataFrame(columns=self.authors, index=list(self.matrix.columns.values))
 
         for author in self.authors:
             print(author)
-            subframe = frame.loc[self.matrix['author'] == author]
+            print(self.matrix['author'] )
+            subframe = self.matrix.loc[self.matrix['author'] == author]
             for column in subframe:
                 if column not in columns_to_keep:
                     print(column)
@@ -57,13 +58,12 @@ class Matrix():
 
 
 
-    def eliminate_non_significant_columns(self, threshold):
+    def old_eliminate_non_significant_columns(self, threshold):
         columns_to_keep = ['author', 'word_length_avg', 'word_length_std_dev', 'sentence_length_avg', 'sentence_length_std_dev', 'word_richness']
         feature_data = pd.DataFrame(columns=['mean_of_stds','std_of_means'])
 
         for column in self.matrix:
             if column not in columns_to_keep:
-                print(column)
                 means = []
                 stds = []
                 for author in self.authors:
@@ -77,6 +77,33 @@ class Matrix():
         feature_data = feature_data.sort_values(by=['std_of_means']).tail( int(threshold * self.matrix.shape[1]))
         self.matrix = self.matrix.drop( feature_data.index, axis=1 )
 
+
+    def eliminate_non_significant_columns(self, threshold):
+        columns_to_keep = ['author', 'word_length_avg', 'word_length_std_dev', 'sentence_length_avg', 'sentence_length_std_dev', 'word_richness']
+        mean_feature_data = pd.DataFrame(columns=self.authors, index=list(self.matrix.columns.values))
+        std_feature_data = pd.DataFrame(columns=self.authors, index=list(self.matrix.columns.values))
+        feature_data = pd.DataFrame(columns=['mean_of_stds','std_of_means'], index=list(self.matrix.columns.values))
+        print("above for loops")
+        for author in self.authors:
+            print("author for loop")
+            subframe = self.matrix.loc[self.matrix['author'] == author]
+            for column in subframe:
+                print("columns for loop")
+                if column not in columns_to_keep:
+                    print("inside if")
+                    print('nnddd', np.mean(subframe[column]))
+        #             mean_feature_data.at[column, author] = np.mean(subframe[column])
+        #             std_feature_data.at[column, author] = np.std(subframe[column])
+        #
+        # for column in self.matrix.columns.values:
+        #     feature_data.at[column,'mean_of_stds'] = np.mean(std_feature_data[column])
+        #     feature_data.at[column,'mean_of_stds'] = np.mean(mean_feature_data[column])
+        #
+        #
+        # feature_data = feature_data.sort_values(by=['mean_of_stds']).head( int(threshold * self.matrix.shape[1]))
+        # self.matrix = self.matrix.drop( feature_data.index, axis=1 )
+        # feature_data = feature_data.sort_values(by=['std_of_means']).tail( int(threshold * self.matrix.shape[1]))
+        # self.matrix = self.matrix.drop( feature_data.index, axis=1 )
 
 if __name__ == '__main__':
     matrix = Matrix(['jane_austen'])

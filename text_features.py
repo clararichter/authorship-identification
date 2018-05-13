@@ -2,6 +2,7 @@ from nltk.util import ngrams
 from nltk.tokenize import TweetTokenizer, sent_tokenize
 import numpy as np
 import nltk
+import collections
 
 class Text():
 
@@ -18,7 +19,7 @@ class Text():
         vector = {}
         vector.update( {'author': self.author } )
         vector.update( self.word_gram_data() )
-        vector.update( self.pos_gram_data() )
+        # vector.update( self.pos_gram_data() )
         vector.update( self.stylometric_data() )
         return vector
     #     self.word_richness()
@@ -42,25 +43,39 @@ class Text():
         return( { key : (lambda count: count / total)(count) for ( key, count ) in count_map.items() } )
 
     def word_gram_data(self):
-        d = {}
+        grams = {}
         for n in range(1, self.max_ngrams + 1):
             n_grams = ngrams(self.tokens, n)
-            number_of_n_grams = self.total_number_of_tokens - n + 1
-            d.update( { " ".join(n_gram) : (lambda count: count / number_of_n_grams)(count) for ( n_gram, count ) in self.count_map(n_grams).items() } )
-        return d
+            print("grams retrieved")
+            all_grams = list(n_grams)
+            print("list made")
+            total = len(all_grams)
+            print("total: ", total)
+            grams_collection = collections.Counter(all_grams)
+            print("collection made")
+            grams_collection = dict(grams_collection)
+            print("type of grams collection", type(grams_collection))
 
-    def pos_gram_data(self):
-        #print("enter pos grams data")
-        d = {}
-        pos_tags = nltk.pos_tag(self.tokens)
-        #print('pos tagging done')
-        for n in range(1, self.max_pos_ngrams + 1):
-            pos_n_grams = []
-            for i in range(0, len(pos_tags)+1-n):
-                pos_n_grams.append( tuple([ tag for (word, tag) in  pos_tags[i:i+n]]) )
-            d.update( {  " ".join(pos_n_gram) : (lambda count: count / len(pos_n_grams))(count) for ( pos_n_gram, count ) in self.count_map(pos_n_grams).items() } )
-            #print('text retrieved')
-        return d
+            output_dictionary = {}
+            i = 0
+            for ngram, count in grams_collection.items():
+                i += 1
+                if i % 100 is 0:
+                    print(i)
+                output_dictionary[" ".join(ngram)] = count/total
+
+        return output_dictionary
+
+    # def pos_gram_data(self):
+    #     d = {}
+    #     pos_tags = nltk.pos_tag(self.tokens)
+    #     for n in range(1, self.max_pos_ngrams + 1):
+    #         pos_n_grams = []
+    #         for i in range(0, len(pos_tags)+1-n):
+    #             pos_n_grams.append( tuple([ tag for (word, tag) in  pos_tags[i:i+n]]) )
+    #         d.update( {  " ".join(pos_n_gram) : (lambda count: count / len(pos_n_grams))(count) for ( pos_n_gram, count ) in self.count_map(pos_n_grams).items() } )
+    #         #print('text retrieved')
+    #     return d
 
     def word_lengths(self):
         word_lengths = []
@@ -108,9 +123,12 @@ class Text():
         self.row.update( {'number_sentences': len(self.sentences)} )
 
 if __name__ == '__main__':
-    file = open('data/texts_cleaned/arthur_conan_doyle/a_duet.txt', 'r')
-    txt = file.read()
-    text = Text(txt, 'arthur_conan_doyle')
-
-    #text.build_row()
-    print(text.pos_gram_data())
+    # file = open('data/texts_cleaned/arthur_conan_doyle/a_duet.txt', 'r')
+    # txt = file.read()
+    # text = Text(txt, 'arthur_conan_doyle')
+    #
+    # #text.build_row()
+    # print(text.pos_gram_data())
+    test = "hello mr cat"
+    text = Text(test, 'the cat')
+    # print(text.word_gram_data())
