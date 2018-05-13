@@ -46,22 +46,14 @@ class Text():
         grams = {}
         for n in range(1, self.max_ngrams + 1):
             n_grams = ngrams(self.tokens, n)
-            print("grams retrieved")
             all_grams = list(n_grams)
-            print("list made")
             total = len(all_grams)
-            print("total: ", total)
             grams_collection = collections.Counter(all_grams)
-            print("collection made")
             grams_collection = dict(grams_collection)
-            print("type of grams collection", type(grams_collection))
 
             output_dictionary = {}
-            i = 0
+
             for ngram, count in grams_collection.items():
-                i += 1
-                if i % 100 is 0:
-                    print(i)
                 output_dictionary[" ".join(ngram)] = count/total
 
         return output_dictionary
@@ -123,12 +115,4 @@ class Text():
         self.row.update( {'number_sentences': len(self.sentences)} )
 
 if __name__ == '__main__':
-    # file = open('data/texts_cleaned/arthur_conan_doyle/a_duet.txt', 'r')
-    # txt = file.read()
-    # text = Text(txt, 'arthur_conan_doyle')
-    #
-    # #text.build_row()
-    # print(text.pos_gram_data())
-    test = "hello mr cat"
-    text = Text(test, 'the cat')
-    # print(text.word_gram_data())
+    pass

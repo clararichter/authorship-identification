@@ -15,32 +15,25 @@ class Matrix():
 
     def build_matrix(self, path):
         for author in self.authors:
-            print(author)
             for book in os.listdir(path + '/' + author):
-                print(book)
                 text = Text( open(path + '/' + author + '/' + book, 'r', errors='ignore').read(), author )
                 self.matrix = self.matrix.append( pd.DataFrame(text.get_vector(), index=[book] ) )
 
         self.matrix = self.matrix.fillna(0)
-        print("writing csv")
         self.matrix.to_csv("pre_processed_all_features_austen.csv", encoding="utf-8")
-        print("eliminate_sparse_columns")
-        self.eliminate_sparse_columns(.5)
-        print("non_significant")
+        # self.eliminate_sparse_columns(.5)
         self.eliminate_non_significant_columns(.3)
-
-        self.matrix.to_csv("booksyay.csv", encoding='utf-8')
+        # self.matrix.to_csv("booksyay.csv", encoding='utf-8')
 
 
 
     def eliminate_sparse_columns(self, threshold): # threshold -> min_percent_data
 
         columns_to_keep = ['author', 'word_length_avg', 'word_length_std_dev', 'sentence_length_avg', 'sentence_length_std_dev', 'word_richness']
-        sparcity_data = pd.DataFrame(columns=self.authors, index=list(self.matrix.columns.values))
+        feature_list = list( set(self.matrix.columns.values).difference( set( columns_to_keep ) ) )
+        sparcity_data = pd.DataFrame(columns=self.authors, index=feature_list)
 
         for author in self.authors:
-            print(author)
-            print(self.matrix['author'] )
             subframe = self.matrix.loc[self.matrix['author'] == author]
             for column in subframe:
                 if column not in columns_to_keep:
@@ -50,52 +43,45 @@ class Matrix():
                     sparcity_data.at[column, author] = percent_data
 
         sparcity_data = pd.DataFrame(data=sparcity_data.min(axis=1), columns=['min'])
-        sparcity_data = sparcity_data[sparcity_data['min'] >= threshold]
+        sparcity_data = sparcity_data[sparcity_data['min'] <= threshold]
         self.matrix = self.matrix.drop( sparcity_data.index, axis=1 )
 
 
 
-    def old_eliminate_non_significant_columns(self, threshold):
-        columns_to_keep = ['author', 'word_length_avg', 'word_length_std_dev', 'sentence_length_avg', 'sentence_length_std_dev', 'word_richness']
-        feature_data = pd.DataFrame(columns=['mean_of_stds','std_of_means'])
-
-        for column in self.matrix:
-            if column not in columns_to_keep:
-                means = []
-                stds = []
-                for author in self.authors:
-                    subcolumn = self.matrix.loc[self.matrix['author'] == author][column]
-                    means.append( np.mean(subcolumn) )
-                    stds.append( np.std(subcolumn) )
-                feature_data = feature_data.append( pd.DataFrame( { 'mean_of_stds' : np.mean(stds), 'std_of_means' : np.std(means) }, index=[column] ) )
-
-        feature_data = feature_data.sort_values(by=['mean_of_stds']).head( int(threshold * self.matrix.shape[1]))
-        self.matrix = self.matrix.drop( feature_data.index, axis=1 )
-        feature_data = feature_data.sort_values(by=['std_of_means']).tail( int(threshold * self.matrix.shape[1]))
-        self.matrix = self.matrix.drop( feature_data.index, axis=1 )
-
-
     def eliminate_non_significant_columns(self, threshold):
+        print('eliminate signifcant')
+        # Columns we want to avoid
         columns_to_keep = ['author', 'word_length_avg', 'word_length_std_dev', 'sentence_length_avg', 'sentence_length_std_dev', 'word_richness']
-        mean_feature_data = pd.DataFrame(columns=self.authors, index=list(self.matrix.columns.values))
-        std_feature_data = pd.DataFrame(columns=self.authors, index=list(self.matrix.columns.values))
-        feature_data = pd.DataFrame(columns=['mean_of_stds','std_of_means'], index=list(self.matrix.columns.values))
+        # Make two tables for the means and std's by authors
+        feature_list = list( set(self.matrix.columns.values).difference( set( columns_to_keep ) ) )
+        mean_feature_data = pd.DataFrame(columns=self.authors, index=feature_list)
+        std_feature_data = pd.DataFrame(columns=self.authors, index=feature_list)
+
+        feature_data = pd.DataFrame(columns=['mean_of_stds','std_of_means'], index=feature_list)
+
         for author in self.authors:
+            print('jane autsten')
             subframe = self.matrix.loc[self.matrix['author'] == author]
             for column in subframe:
                 if column not in columns_to_keep:
                     mean_feature_data.at[column, author] = np.mean(subframe[column])
                     std_feature_data.at[column, author] = np.std(subframe[column])
 
-        for column in self.matrix.columns.values:
-            feature_data.at[column,'mean_of_stds'] = np.mean(std_feature_data[column])
-            feature_data.at[column,'mean_of_stds'] = np.mean(mean_feature_data[column])
+        mean_feature_data.to_csv("mean_feature_data.csv", encoding="utf-8")
+        std_feature_data.to_csv("std_feature_data.csv", encoding="utf-8")
+        feature_data.to_csv("pre_process_feature_data.csv", encoding="utf-8")
+        for column in feature_list:
+            print(column)
+            feature_data.at[column,'mean_of_stds'] = np.mean(std_feature_data.loc[column])
+            feature_data.at[column,'std_of_means'] = np.mean(mean_feature_data.loc[column])
 
 
-        feature_data = feature_data.sort_values(by=['mean_of_stds']).head( int(threshold * self.matrix.shape[1]))
+        drops = feature_data.sort_values(by=['mean_of_stds']).head( int(threshold * feature_data.shape[0]))
+        feature_data.to_csv("to_drop.csv", encoding="utf-8")
         self.matrix = self.matrix.drop( feature_data.index, axis=1 )
-        feature_data = feature_data.sort_values(by=['std_of_means']).tail( int(threshold * self.matrix.shape[1]))
+        drops = feature_data.sort_values(by=['std_of_means']).tail( int(threshold * feature_data.shape[1]))
         self.matrix = self.matrix.drop( feature_data.index, axis=1 )
+        self.matrix.to_csv("matrix_pre_post.csv", encoding="utf-8")
 
 if __name__ == '__main__':
     matrix = Matrix(['jane_austen'])
