@@ -20,10 +20,9 @@ class Matrix():
                 self.matrix = self.matrix.append( pd.DataFrame(text.get_vector(), index=[book] ) )
 
         self.matrix = self.matrix.fillna(0)
-        self.matrix.to_csv("pre_processed_all_features_austen.csv", encoding="utf-8")
-        # self.eliminate_sparse_columns(.5)
+        self.eliminate_sparse_columns(.5)
         self.eliminate_non_significant_columns(.3)
-        # self.matrix.to_csv("booksyay.csv", encoding='utf-8')
+        self.matrix.to_csv("booksyay.csv", encoding='utf-8')
 
 
 
@@ -67,9 +66,6 @@ class Matrix():
                     mean_feature_data.at[column, author] = np.mean(subframe[column])
                     std_feature_data.at[column, author] = np.std(subframe[column])
 
-        mean_feature_data.to_csv("mean_feature_data.csv", encoding="utf-8")
-        std_feature_data.to_csv("std_feature_data.csv", encoding="utf-8")
-        feature_data.to_csv("pre_process_feature_data.csv", encoding="utf-8")
         for column in feature_list:
             print(column)
             feature_data.at[column,'mean_of_stds'] = np.mean(std_feature_data.loc[column])
@@ -77,11 +73,9 @@ class Matrix():
 
 
         drops = feature_data.sort_values(by=['mean_of_stds']).head( int(threshold * feature_data.shape[0]))
-        feature_data.to_csv("to_drop.csv", encoding="utf-8")
         self.matrix = self.matrix.drop( feature_data.index, axis=1 )
         drops = feature_data.sort_values(by=['std_of_means']).tail( int(threshold * feature_data.shape[1]))
         self.matrix = self.matrix.drop( feature_data.index, axis=1 )
-        self.matrix.to_csv("matrix_pre_post.csv", encoding="utf-8")
 
 if __name__ == '__main__':
     matrix = Matrix(['jane_austen'])
