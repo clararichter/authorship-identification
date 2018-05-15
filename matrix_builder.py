@@ -30,11 +30,11 @@ class Matrix():
 
         print("features retrieved")
         self.matrix = self.matrix.fillna(0)
-        self.matrix.to_csv("matrix_builder_full_table.csv", encoding='utf-8')
+        #self.matrix.to_csv("4author2grams.csv", encoding='utf-8')
         self.eliminate_sparse_columns(.5)
-        self.matrix.to_csv("matrix_builder_post_sparcity.csv", encoding='utf-8')
+        self.matrix.to_csv("4author2grams_post_sparcity.csv", encoding='utf-8')
         self.eliminate_non_significant_columns(.3)
-        self.matrix.to_csv("matrix_builder_post_significance.csv", encoding='utf-8')
+        self.matrix.to_csv("4author2grams_post_significance.csv", encoding='utf-8')
 
 
 
@@ -97,4 +97,4 @@ class Matrix():
         self.matrix = self.matrix.drop( drops.index, axis=1 )
 
 if __name__ == '__main__':
-    matrix = Matrix(['mildred_a._wirt','oscar_wilde'])
+    matrix = Matrix(['mark_twain','mildred_a._wirt','oscar_wilde','elizabeth_gaskell'])
