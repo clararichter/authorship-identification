@@ -12,7 +12,8 @@ class Text():
         self.tokens = TweetTokenizer().tokenize(self.text)
         self.sentences = sent_tokenize(self.text)
         self.total_number_of_tokens = len(self.tokens)
-        self.max_ngrams = 3
+        self.max_ngrams = 2
+        self.vector = self.get_vector()
 
     def get_vector(self):
         vector = {}
