@@ -14,16 +14,23 @@ class Matrix():
 
 
     def build_matrix(self, path):
+        books = []
+        index = []
         for author in self.authors:
             print(author)
             for book in os.listdir(path + '/' + author):
                 print("\t", book)
                 text = Text( open(path + '/' + author + '/' + book, 'r', errors='ignore').read(), author )
-                self.matrix = self.matrix.append( pd.DataFrame(text.get_vector(), index=[book] ) )
+                # book = text.vector
+                # print(book)
+                books.append(text.vector)
+                index.append(book)
+                #self.matrix = self.matrix.append( pd.DataFrame(text.get_vector(), index=[book] ) )
+        self.matrix = pd.DataFrame.from_records(books, index = index)
 
         print("features retrieved")
         self.matrix = self.matrix.fillna(0)
-        # self.matrix.to_csv("matrix_builder_full_table.csv", encoding='utf-8')
+        self.matrix.to_csv("matrix_builder_full_table.csv", encoding='utf-8')
         self.eliminate_sparse_columns(.5)
         self.matrix.to_csv("matrix_builder_post_sparcity.csv", encoding='utf-8')
         self.eliminate_non_significant_columns(.3)
@@ -90,4 +97,4 @@ class Matrix():
         self.matrix = self.matrix.drop( drops.index, axis=1 )
 
 if __name__ == '__main__':
-    matrix = Matrix(['oscar_wilde', 'mildred_a._wirt'])
+    matrix = Matrix(['mildred_a._wirt','oscar_wilde'])
